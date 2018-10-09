@@ -1,0 +1,5 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_2_d	30	0.9	34893	24899	 an opinion on the subject. Wh	 an opinion upon the subject i
+lewis_monk_8_g	30	0.9	34192	4040	 it into his head to dislike u	 it into his head to disguise 
+doyle_scarlet_12_d	30	0.9	2381	2050	e began to think that the sour	e began to think that they wer
+collins_moonstone_65_d	33	0.9090909090909091	27932	20632	, without a word of warning from 	, without a word of warning, of R

@@ -10,7 +10,7 @@ import json
 #*********************#
 # START OF MAIN LOGIC #
 #*********************#
-def run(alignmentfile, comparison_texts, corpus_text_lengths):
+def run(alignmentfile, comparison_texts, corpus_text_lengths, label_info):
     # Get the lengths of each document
     doc_lengths = []
     with open(corpus_text_lengths, "r") as datafile:
@@ -19,11 +19,13 @@ def run(alignmentfile, comparison_texts, corpus_text_lengths):
         for line in lines:
             info = line.split("\t")
             if info[0] in comparison_texts:
-                meta = info[0].split("_")[0].split("-")
-                title = meta[0]
-                era = meta[1]
-                author = meta[2]
-                doc_lengths.append({"doc":info[0],"len":int(info[1]),"era": era, 'author':author,'title':title})
+                meta = info[0].split("_")
+                mdict = {}
+                for label,value in zip(label_info, meta):
+                    mdict[label] = value
+                mdict["len"] = int(info[1])
+            
+                doc_lengths.append(mdict)
 
     # Save the results as json
     doc_json = json.dumps(doc_lengths, ensure_ascii=False)
@@ -72,4 +74,6 @@ if __name__ == "__main__":
 
     corpus_text_lengths = "corpus_text_lengths.txt"
 
-    run(alignmentfile, comparison_texts, corpus_text_lengths)
+    label_info = ["title", "era", "author", "section"]
+
+    run(alignmentfile, comparison_texts, corpus_text_lengths, label_info)

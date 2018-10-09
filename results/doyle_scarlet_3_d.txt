@@ -1,0 +1,61 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_55_g	35	0.9142857142857143	11975	3227	 circumstances attendant on the dea	 circumstances attendant on youth a
+collins_moonstone_47_d	30	0.9666666666666667	12245	5707	 here, there, and everywhere, 	 here, there, and everywhere; 
+collins_moonstone_47_d	30	0.9666666666666667	14256	5807	to be left till called for. Th	to be left till called for.” T
+christie_secretadversary_6_d	30	1.0	17223	2052	It’s all very well for you to 	It’s all very well for you to 
+doyle_signoffour_3_d	38	1.0	5136	5402	 business upon which we were engaged, 	 business upon which we were engaged, 
+stoker_dracula_23_g	32	0.90625	3655	27050	 there is not a moment to be los	 there is not a moment to lose: 
+stoker_dracula_23_g	30	0.9	6943	1041	, under the circumstances, see	, under the circumstances, of 
+doyle_scarlet_11_d	31	0.9032258064516129	17986	9679	 lying flat upon his face. So e	 lying flat upon his face upon 
+collins_moonstone_58_d	30	0.9	6943	10636	, under the circumstances, see	, under those circumstances, a
+christie_styles_10_d	36	0.9444444444444444	7366	6631	 an exclamation of satisfaction. The	 an exclamation of satisfaction. He 
+christie_styles_10_d	30	0.9	11364	24057	 was standing by the doorway, 	 was standing in the doorway. 
+collins_hauntedhotel_26_u	30	0.9333333333333333	1053	19211	 two and two made four, you mi	 two and two make four, you wi
+doyle_signoffour_7_d	30	0.9	18384	21190	 backwards and forwards throug	 backwards and forwards with o
+doyle_scarlet_13_d	32	0.9375	5637	11491	 a hundred yards or so from it, 	 a hundred yards or so from the 
+doyle_baskervilles_12_u	34	0.9117647058823529	13238	16648	. There could be no doubt that tha	. There could be no doubt about th
+christie_secretadversary_22_d	34	0.9117647058823529	281	655	he whole thing was a pre-arranged 	he whole thing was prearranged, sh
+doyle_baskervilles_11_u	30	0.9	16297	12684	What do you think of that?” cr	What do you think of that? We’
+collins_hauntedhotel_5_u	30	0.9	19530	9465	What do you think of it, sir?”	What do you think of it, Miss?
+doyle_adventures_4_d	30	0.9	17263	20160	 Sherlock Holmes. You may be v	 Sherlock Holmes. "You may rel
+doyle_baskervilles_9_u	30	0.9	6944	4111	 under the circumstances, seem	 under the circumstances expec
+doyle_scarlet_5_d	30	0.9	2614	771	Enoch J. Drebber, Cleveland, O	Enoch J. Drebber, of Cleveland
+doyle_scarlet_5_d	36	0.9444444444444444	13892	767	 of Enoch J. Drebber of Cleveland, c	 of Enoch J. Drebber, of Cleveland. 
+stoker_dracula_12_g	31	0.9354838709677419	1601	23923	 led me to believe that he had 	 led me to believe that he was 
+radcliffe_udolpho_34_g	31	0.9032258064516129	21126	17812	d, turning round at the door: “	d, turning round, saw the door 
+dickens_christmascarole_2_g	30	0.9333333333333333	12766	25668	 he said. “There is nothing mo	 he said. "There is nothing on
+shelley_frankenstein_42_g	30	0.9	13199	1424	 all gathered round him and ga	 all gathered round me and bad
+collins_moonstone_74_d	30	0.9333333333333333	6943	22822	, under the circumstances, see	, under the circumstances, was
+christie_secretadversary_14_d	33	0.9090909090909091	1608	2503	 to believe that he had been a se	 to believe that she has been at 
+christie_secretadversary_14_d	30	0.9	6944	6221	 under the circumstances, seem	 under the circumstances. Seve
+stoker_dracula_2_g	30	0.9333333333333333	7611	10776	 extraordinary evidence of the	 extraordinary evidences of we
+doyle_baskervilles_8_u	34	0.9117647058823529	2339	12576	 about two in the morning, and as 	 about two in the morning, I was a
+doyle_adventures_5_d	31	0.9354838709677419	12777	32128	There is nothing more to be lea	There is nothing more to be sai
+doyle_adventures_5_d	37	0.972972972972973	15596	13500	 made a careful examination of the wa	 made a careful examination of the at
+radcliffe_udolpho_48_g	32	0.90625	14828	26706	, and said that we should be gla	, and said that she should be at
+shelley_frankenstein_40_g	31	0.9032258064516129	11927	3855	 murder has been committed. It 	 murder had been committed at t
+collins_moonstone_73_d	30	0.9333333333333333	6943	218	, under the circumstances, see	, under the circumstances, as 
+doyle_scarlet_2_d	31	0.967741935483871	683	18873	 retired sergeant of Marines.” 	 retired sergeant of Marines,” 
+doyle_scarlet_2_d	32	0.90625	8790	12984	?” asked Sherlock Holmes. “No, s	?” asked Sherlock Holmes. “Why, 
+doyle_scarlet_2_d	31	0.9032258064516129	14948	13778	 which appeared to you to be cr	 which appear to you to be so c
+doyle_scarlet_2_d	30	0.9333333333333333	15518	5634	 of the highest importance, an	 of the highest importance, th
+doyle_adventures_2_d	30	0.9	19045	38178	 his glass in his pocket. “The	 his glass in his pocket. "We 
+doyle_adventures_2_d	33	0.9696969696969697	19884	24871	I shall be happy to give you any 	I shall be happy to give you an o
+doyle_signoffour_5_d	32	0.90625	2408	7596	ed that something was amiss. He 	ed that something was amiss, so 
+doyle_adventures_9_d	31	0.9032258064516129	4535	40252	 in a way that showed that an e	 in a way that showed that they
+radcliffe_udolpho_12_g	32	0.90625	7639	5830	he quickness of his perceptive f	he quickness of his perceptions 
+radcliffe_udolpho_12_g	30	0.9	12664	7871	 more than was necessary for t	 more than was necessary to as
+doyle_baskervilles_4_u	30	0.9333333333333333	16295	3809	 “What do you think of that?” 	 “What do you think of that, W
+stoker_dracula_9_g	30	0.9666666666666667	15603	20917	 careful examination of the wa	 careful examination of the pa
+christie_styles_3_d	30	0.9	19945	7193	I should like to speak to the 	I should like to speak to you 
+doyle_scarlet_4_d	30	0.9	2400	8438	 suspected that something was 	 suspected as something was wr
+doyle_scarlet_4_d	31	0.9032258064516129	8790	10831	?” asked Sherlock Holmes. “No, 	?” asked Sherlock Holmes. John 
+radcliffe_udolpho_54_g	31	0.9032258064516129	15233	20646	, and appeared to be about to m	, and appeared to be about fift
+doyle_scarlet_1_d	31	1.0	16294	10591	. “What do you think of that?” 	. “What do you think of that?” 
+doyle_scarlet_1_d	34	0.9117647058823529	20335	12429	,” he continued, turning to the tw	,” he continued, turning to me wit
+christie_secretadversary_15_d	31	0.9032258064516129	12778	3169	here is nothing more to be lear	here is nothing more to be done
+collins_moonstone_65_d	31	0.9032258064516129	14813	8119	e circumstances, and said that 	e circumstances, and with that 
+collins_moonstone_52_d	30	1.0	12245	5408	 here, there, and everywhere, 	 here, there, and everywhere, 
+christie_styles_4_d	35	0.9142857142857143	12774	15017	. “There is nothing more to be lear	. “There is nothing more to be done
+christie_styles_4_d	31	0.9354838709677419	15603	12524	 careful examination of the wal	 careful examination of the dra
+christie_styles_4_d	36	0.9166666666666666	16294	15527	. “What do you think of that?” cried	. “What do you think of that?” I scr

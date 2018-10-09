@@ -1,0 +1,83 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_22_g	30	0.9666666666666667	3891	2575	 her departure from Tholouse, 	 her departure from Tholouse. 
+radcliffe_udolpho_22_g	31	0.9354838709677419	11828	6290	, the circumstances, which had 	, the circumstance, which has t
+radcliffe_udolpho_22_g	35	0.9142857142857143	13188	2574	e her departure from Tholouse, had 	e her departure from Tholouse. The 
+radcliffe_udolpho_22_g	30	0.9	15599	33642	. As she passed along the terr	. As she passed along the wide
+radcliffe_udolpho_22_g	35	0.9142857142857143	19625	11274	, that some person was among the th	, that some person was on the other
+radcliffe_udolpho_22_g	30	0.9333333333333333	24274	11295	s on the other side of the hou	s on the other side of the doo
+reeve_oldenglishbaron	33	0.9090909090909091	26774	26711	 preparations for the journey; an	 preparations for their journey. 
+doyle_scarlet_2_d	30	0.9	7445	564	n the following morning, serio	n the following morning Sherlo
+radcliffe_udolpho_4_g	32	0.90625	3780	10384	, and perceived, that she was pa	, and perceived that he was alre
+radcliffe_udolpho_4_g	31	0.9032258064516129	9655	32589	. It was a mild, and beautiful 	. It was a still and beautiful 
+radcliffe_udolpho_4_g	55	0.9272727272727272	14982	16547	 susceptible of whatever is grand and beautiful, could 	 susceptible of whatever is grand and beautiful, but im
+radcliffe_udolpho_4_g	32	0.9375	16151	8887	 so excessively, that she could 	 so excessively that he could no
+radcliffe_udolpho_4_g	33	0.9393939393939394	23287	10131	 the consequence of the wound; an	 the consequence of the wound, en
+radcliffe_udolpho_4_g	30	0.9	25565	10463	 the subject of her anxiety, b	 the subject of his anxiety, V
+radcliffe_udolpho_4_g	30	0.9	26206	9556	 the subject of her distress. 	 the subject of his distress; 
+lewis_monk_10_g	31	0.9354838709677419	15506	11996	 anxious to escape from the mem	 anxious to escape from the tum
+lewis_monk_10_g	30	0.9	23085	59137	 sufficiently recovered, to li	 sufficiently recovered to acc
+lewis_monk_10_g	32	0.90625	25522	6885	, endeavoured to abstract her th	, endeavoured to distract her at
+christie_styles_1_d	30	0.9	11829	437	 the circumstances, which had 	 the circumstances which led t
+radcliffe_udolpho_10_g	30	0.9	2227	861	 which she had suffered, at th	 which she had suffered her th
+radcliffe_udolpho_10_g	34	0.9411764705882353	5816	34253	 looked upon the garden, and here 	 looked upon the garden, and then 
+radcliffe_udolpho_10_g	30	0.9	6964	211	 and, as soon as she had taken	 and, as soon as she had break
+radcliffe_udolpho_10_g	41	0.926829268292683	9616	10366	, and lean upon the wall of the terrace. 	, and leaned on the wall of the terrace, 
+radcliffe_udolpho_10_g	39	0.9230769230769231	10073	5869	 on the night preceding her departure f	 on the night preceding his departure. 
+radcliffe_udolpho_10_g	31	0.9032258064516129	14192	28489	he seated herself in a chair, n	he seated herself in his chair 
+radcliffe_udolpho_10_g	41	0.9024390243902439	15103	9971	he remembered how often she had seen the 	he remembered how often she had sat thus 
+radcliffe_udolpho_10_g	30	0.9	16166	12524	, that she could scarcely supp	, that she could scarcely endu
+radcliffe_udolpho_10_g	31	0.9032258064516129	19749	31002	. She pursued her walk thoughtf	. She pursued her way through t
+radcliffe_udolpho_10_g	30	0.9666666666666667	19812	11143	tion would not suffer her to c	tion would not suffer her to r
+shelley_frankenstein_51_g	30	0.9	23427	6568	 in the neighbourhood for the 	 in the neighbourhood of this 
+collins_moonstone_53_d	32	0.90625	24275	12459	 on the other side of the house,	 on the other side of the holly,
+doyle_signoffour_5_d	33	0.9090909090909091	4011	443	 from the carriage to give him a 	 from the carriage to give us a b
+lewis_monk_5_g	30	0.9333333333333333	23085	29012	 sufficiently recovered, to li	 sufficiently recovered to joi
+radcliffe_udolpho_21_g	33	1.0	3888	1047	 of her departure from Tholouse, 	 of her departure from Tholouse, 
+radcliffe_udolpho_21_g	30	1.0	13189	1050	 her departure from Tholouse, 	 her departure from Tholouse, 
+radcliffe_udolpho_21_g	32	0.90625	13392	340	 scene of her former happiness, 	 scene of his former happiness. 
+radcliffe_udolpho_21_g	40	0.925	23860	336	 the scenes of his former happiness. 'De	 the scene of his former happiness. He c
+radcliffe_udolpho_21_g	30	0.9333333333333333	27046	955	he terrace and the pavilion. T	he terrace, and the pavilion a
+radcliffe_udolpho_12_g	32	0.90625	1443	22176	 with Valancourt, and where he w	 with Valancourt, and, when she 
+radcliffe_udolpho_12_g	30	0.9333333333333333	6505	7402	 the recollections, which the 	 the recollections, which had 
+radcliffe_udolpho_12_g	31	0.967741935483871	7442	11838	. On the following morning, ser	. On the following morning, she
+radcliffe_udolpho_12_g	30	0.9666666666666667	7442	45270	. On the following morning, se	. On the following morning, as
+radcliffe_udolpho_12_g	41	0.926829268292683	9654	9206	e. It was a mild, and beautiful evening. 	e. It was the mild and beautiful evening 
+radcliffe_udolpho_12_g	45	0.9333333333333333	10073	3114	 on the night preceding her departure for Ita	 on the night preceding her departure from La
+radcliffe_udolpho_12_g	34	0.9117647058823529	10337	13573	e particulars of that conversation	e particulars of a conversation we
+radcliffe_udolpho_12_g	34	0.9117647058823529	10337	17972	e particulars of that conversation	e particulars of her conversation 
+radcliffe_udolpho_12_g	48	0.9166666666666666	13097	1115	 pavilion, that terminated the terrace, and wher	 pavilion, that terminated the terrace, with her
+radcliffe_udolpho_12_g	34	0.9117647058823529	14288	21969	he recollected the circumstances o	he recollected this circumstance, 
+radcliffe_udolpho_12_g	30	0.9	15599	36151	. As she passed along the terr	. As she passed along the gard
+radcliffe_udolpho_12_g	31	0.9354838709677419	22774	3670	 scarcely a doubt, that it was 	 scarcely doubted, that it was 
+radcliffe_udolpho_12_g	30	0.9	23085	49695	 sufficiently recovered, to li	 sufficiently recovered to hea
+radcliffe_udolpho_12_g	30	0.9	26206	43166	 the subject of her distress. 	 the subject of your distress.
+radcliffe_udolpho_12_g	31	0.9032258064516129	28677	8663	 the pavilion and the terrace, 	 the pavilion of the terrace, t
+radcliffe_udolpho_12_g	30	0.9	28679	52833	he pavilion and the terrace, w	he pavilion on the terrace was
+collins_hauntedhotel_25_u	37	0.918918918918919	8509	3719	 the present state of her mind, and e	 the present state of her mind, is he
+doyle_baskervilles_4_u	31	0.9032258064516129	24275	16131	 on the other side of the house	 on the other side of the stree
+radcliffe_udolpho_27_g	31	0.9032258064516129	6366	8262	 that she had lately heard to h	 that she had lately heard, in 
+radcliffe_udolpho_27_g	34	0.9117647058823529	9568	6426	 increased so much, that she was o	 increased so much, that she almos
+radcliffe_udolpho_27_g	30	0.9	13298	10585	 she hesitated whether to open	 she hesitated whether to reti
+radcliffe_udolpho_27_g	30	0.9	14302	323	 the circumstances of her part	 the circumstances of the prec
+radcliffe_udolpho_27_g	33	0.9090909090909091	15789	10147	 her to distinguish who it was, a	 her to distinguish what it was; 
+radcliffe_udolpho_27_g	30	0.9	17142	12217	ained admittance into the gard	ained admittance into the cast
+radcliffe_udolpho_27_g	31	0.9354838709677419	22614	285	 endeavoured to recollect the e	 endeavoured to recollect herse
+radcliffe_udolpho_14_g	43	0.9302325581395349	2707	2431	 still live for me--I should go in peace!' 	 still lived for me, I should go in peace! 
+radcliffe_udolpho_14_g	31	0.9032258064516129	5802	18278	e window, that looked upon the 	e window, that opened upon the 
+radcliffe_udolpho_14_g	33	1.0	5953	566	 she had parted with Valancourt, 	 she had parted with Valancourt, 
+radcliffe_udolpho_14_g	44	0.9318181818181818	5953	1611	 she had parted with Valancourt, on the eve 	 she had parted with Valancourt on the prece
+radcliffe_udolpho_14_g	33	0.9393939393939394	14301	20818	d the circumstances of her partin	d the circumstances of her depart
+radcliffe_udolpho_14_g	41	0.9024390243902439	22722	16956	 gave her the figure of Valancourt. She h	 gave her the figure of Valancourt, whom 
+radcliffe_udolpho_49_g	37	0.918918918918919	5309	752	 she had been accustomed to see in th	 she had been accustomed to see them,
+radcliffe_udolpho_49_g	31	0.9032258064516129	7443	268	 On the following morning, seri	 On the following morning, Emil
+radcliffe_udolpho_49_g	31	0.9032258064516129	7445	1697	n the following morning, seriou	n the following morning, she tr
+radcliffe_udolpho_41_g	32	0.9375	401	21859	on the melancholy fate of her au	on the melancholy fate of the Ma
+radcliffe_udolpho_41_g	32	0.90625	8509	21252	 the present state of her mind, 	 the present tone of her mind, d
+radcliffe_udolpho_41_g	30	0.9	25560	4380	 from the subject of her anxie	 from the subject of her grief
+radcliffe_udolpho_47_g	31	0.9354838709677419	22128	12838	, and she would have fallen to 	, and she would have fallen a s
+radcliffe_udolpho_54_g	31	0.967741935483871	7442	23566	. On the following morning, ser	. On the following morning, she
+reeve_oldenglishbaron	33	0.9090909090909091	26774	26711	 preparations for the journey; an	 preparations for their journey. 
+doyle_baskervilles_15_u	36	0.9166666666666666	26983	7753	n the evening before her departure, 	n the evening before his departure f
+collins_moonstone_52_d	31	0.9032258064516129	12040	20997	 too well to believe, that his 	 too well to believe that she w
+radcliffe_udolpho_35_g	37	0.918918918918919	25547	19585	 her thoughts from the subject of her	 her thoughts from these subjects of 
+radcliffe_udolpho_35_g	30	0.9	26584	12188	, with the hope of inducing he	, with the hope of finding a h

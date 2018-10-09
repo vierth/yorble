@@ -1,0 +1,15 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_14_g	32	0.90625	2800	4307	; and now he wants me to urge hi	; and now he wants me to tell hi
+shelley_frankenstein_37_g	32	0.90625	5476	12165	 speak to you on the subject, an	 speak to you on one subject, ma
+collins_moonstone_79_d	33	0.9393939393939394	6473	3061	 the last person in the world to 	 the last person in the world who
+austen_northangerabbey_21_g	30	0.9333333333333333	672	4568	 out of the way.” Catherine, o	 out of the way.” Catherine ha
+austen_northangerabbey_21_g	30	0.9	4537	13200	 had the smallest idea of it. 	 had the smallest idea of find
+collins_moonstone_47_d	36	0.9444444444444444	6473	8066	 the last person in the world to jud	 the last person in the world to dis
+austen_northangerabbey_9_g	30	0.9	7731	6712	 I believe he is very right. A	 I believe, he is very rich.” 
+doyle_scarlet_9_d	32	0.90625	2931	6868	e, with all the earnestness of t	e, with all the fearlessness of 
+radcliffe_udolpho_50_g	30	0.9	7831	23830	e, looking up, perceived Capta	e, looking up, perceived, that
+austen_northangerabbey_6_g	30	0.9333333333333333	262	71	 the pump-room one morning, by	 the pump-room one morning, af
+christie_secretadversary_5_d	33	0.9090909090909091	3117	6351	possibility of her having ever in	possibility of her having been mi
+stoker_dracula_9_g	30	0.9666666666666667	4955	21561	ou must not be angry with me. 	ou must not be angry with me, 
+radcliffe_udolpho_41_g	32	0.90625	1851	14873	 had something in particular to 	 had something particular to say
+stoker_dracula_21_g	32	0.90625	4029	1368	ut for the life of me, I cannot 	ut for the life of me I can't im

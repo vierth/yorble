@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_6_u	30	0.9	1179	14402	 a remarkable-looking man, sir	 a remarkable-looking man, tal
+collins_moonstone_56_d	30	0.9	4339	7664	 in all my experience of them—	 in all my experience of her, 
+doyle_baskervilles_11_u	35	0.9142857142857143	2649	2647	 that I was in the presence of one 	 that I was in the presence of a ve
+collins_moonstone_67_d	31	0.967741935483871	86	1549	 the subject of the Moonstone, 	 the subject of the Moonstone a
+collins_moonstone_67_d	31	0.967741935483871	1889	25498	ance of the Indian Diamond as m	ance of the Indian Diamond has 
+radcliffe_udolpho_34_g	33	0.9090909090909091	1123	12644	 the stranger who was waiting dow	 the stranger, who was watching o
+radcliffe_udolpho_18_g	30	0.9	9386	25879	 frightened out of my wits.” I	 frightened out of my wits!' '
+walpole_castleofotranto_1_g	30	0.9	9386	33867	 frightened out of my wits.” I	 frightened out of our wits.” 
+collins_hauntedhotel_19_u	30	0.9333333333333333	9255	12853	 know what I was talking about	 know what I am talking about)
+collins_moonstone_73_d	35	0.9714285714285714	82	2223	s on the subject of the Moonstone, 	s on the subject of the Moonstone h
+collins_moonstone_84_d	32	0.90625	3011	11296	he nature of his business with m	he nature of his business was th
+lewis_monk_7_g	34	0.9411764705882353	4097	8935	 without a moment’s hesitation. At	 without a moment's hesitation. 'A
+collins_moonstone_53_d	32	1.0	83	867	 on the subject of the Moonstone	 on the subject of the Moonstone
+collins_moonstone_62_d	35	0.9142857142857143	6696	103	 what had passed between us, the mo	 what had passed between us, to sho
+doyle_adventures_9_d	30	0.9	3829	6749	 recommended you to come to me	 recommend you to come to my f
+radcliffe_udolpho_12_g	30	0.9333333333333333	7064	45338	 a letter was brought to me, w	 a letter was brought to her, 
+collins_moonstone_50_d	75	0.9066666666666666	2030	4260	d the Colonel’s letters, periodically reporting himself a living man. I dre	d the Colonel’s letters, periodically reporting him a living man, were rece
+collins_moonstone_66_d	34	1.0	83	17762	 on the subject of the Moonstone, 	 on the subject of the Moonstone, 
+collins_moonstone_60_d	38	0.9210526315789473	83	5180	 on the subject of the Moonstone, or, 	 on the subject of the Moonstone out o
+christie_secretadversary_10_d	30	0.9	1397	566	 thought it possible that the 	 thought it probable that the 
+collins_moonstone_76_d	34	1.0	83	995	 on the subject of the Moonstone, 	 on the subject of the Moonstone, 
+collins_moonstone_76_d	37	0.9459459459459459	4095	9417	e, without a moment’s hesitation. At 	e, without a moment’s hesitation. He 
+collins_moonstone_76_d	33	0.9696969696969697	7966	832	 the chief of the three Indians, 	 the chief of the three Indians. 
+collins_moonstone_65_d	30	0.9333333333333333	5847	8574	 otherwise incomprehensible vi	 otherwise incomprehensible co
+collins_moonstone_52_d	30	0.9	725	15795	 at the bottom of the card, wh	 at the bottom of the board, k
+collins_moonstone_52_d	36	0.9166666666666666	6438	12202	he looked me straight in the face, w	he looked you straight in the face, 

@@ -1,0 +1,36 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_22_d	31	0.9032258064516129	21469	4255	 shrugged his shoulders. “One c	 shrugged his shoulders. “I cou
+collins_hauntedhotel_5_u	30	0.9	6751	4493	Are you sure of what you say? 	Are you sure of what you are s
+doyle_baskervilles_9_u	30	0.9333333333333333	6435	6206	 understanding between them. N	 understanding between them an
+doyle_baskervilles_9_u	41	0.926829268292683	8805	34029	 has cleared the situation very much. I d	 has cleared up the situation very much. 
+doyle_baskervilles_9_u	57	0.9473684210526315	13694	26115	 and his face glimmered white through the darkness. “The 	 and his face glimmered white through the darkness. “My G
+doyle_baskervilles_9_u	32	0.90625	16782	16960	 the light of the candle from ov	 the light of the candle framed 
+collins_moonstone_67_d	31	0.9354838709677419	18592	22932	 communicate with the police.” 	 communicate with the police, a
+christie_styles_11_d	30	0.9	21469	3405	 shrugged his shoulders. “One 	 shrugged his shoulders. “Cert
+radcliffe_udolpho_34_g	33	0.9090909090909091	1575	15242	s in the neighbourhood. You will 	s in the neighbourhood. I will no
+christie_styles_5_d	38	0.9210526315789473	21469	217	 shrugged his shoulders. “One cannot a	 shrugged his shoulders. “I cannot say
+christie_styles_5_d	30	0.9	21469	37713	 shrugged his shoulders. “One 	 shrugged his shoulders. “How 
+radcliffe_udolpho_13_g	30	0.9	19161	17190	t I should have expected to se	t I should have expected from 
+radcliffe_udolpho_3_g	30	0.9	20037	1563	 suggested that he should come	 suggested that he should retu
+christie_secretadversary_14_d	30	0.9	21469	7191	 shrugged his shoulders. “One 	 shrugged his shoulders. “Ah, 
+austen_northangerabbey_6_g	31	0.9032258064516129	3033	1267	 what have you been doing? I th	 what have you been doing with 
+doyle_adventures_5_d	32	0.90625	6353	27409	There can be no doubt about the 	There can be no doubt that the p
+doyle_adventures_5_d	31	0.9032258064516129	6354	34243	here can be no doubt about the 	here can be no doubt that the d
+reeve_oldenglishbaron_	32	0.9375	13810	4993	 I shall never forgive myself fo	 I shall never forgive myself!” 
+doyle_adventures_2_d	32	0.90625	3882	354	 could not possibly have done ha	 could not possibly have come at
+doyle_adventures_2_d	34	0.9117647058823529	18972	41522	 I could distinguish the dapper sh	 I could distinguish the deeper, h
+christie_secretadversary_3_d	30	0.9	3033	2416	 what have you been doing? I t	 what have you been doing? Hol
+lewis_monk_5_g	30	0.9	5323	22835	 I should not have known that 	 I should not have known him t
+lewis_monk_6_g	30	0.9333333333333333	21070	9684	 have been expecting you in th	 have been expecting you with 
+stoker_dracula_1_g	31	0.9032258064516129	13723	27991	 through the darkness. “The bru	 through the darkness. Then for
+doyle_adventures_9_d	31	0.9032258064516129	6354	39814	here can be no doubt about the 	here can be no doubt as to the 
+lewis_monk_1_g	30	0.9	9504	46246	 What is the meaning of it all	 What is the meaning of all th
+doyle_baskervilles_4_u	30	0.9666666666666667	12152	16553	 Holmes looked eagerly round h	 Holmes looked eagerly round f
+collins_moonstone_50_d	30	0.9333333333333333	7170	17759	 him in the character of a fre	 him in the character of a pen
+collins_moonstone_66_d	38	0.9210526315789473	1575	16941	s in the neighbourhood. You will see i	s in the neighbourhood. You will hear 
+christie_secretadversary_15_d	33	0.9090909090909091	21466	2205	mes shrugged his shoulders. “One 	mes shrugged his shoulders. “You 
+christie_secretadversary_15_d	33	0.9090909090909091	21466	3017	mes shrugged his shoulders. “One 	mes shrugged his shoulders. “My d
+stoker_dracula_21_g	34	0.9705882352941176	19763	1293	 have broken his neck by falling o	 have broke his neck by falling ou
+doyle_baskervilles_15_u	31	0.9354838709677419	17413	11463	 some article of Sir Henry’s--t	 some article of Sir Henry’s at
+collins_moonstone_52_d	30	0.9	3882	19397	 could not possibly have done 	 could not possibly have been 
+christie_styles_4_d	30	0.9	7388	14148	 seemed to see something terri	 seemed to see something over 

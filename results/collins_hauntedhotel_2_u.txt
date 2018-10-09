@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_41_g	30	0.9	9185	7487	 an expression of despair so d	 an expression of despair, and
+doyle_adventures_3_d	34	0.9117647058823529	614	25319	 circumstance connected with it. T	 circumstances connected with the 
+lewis_monk_3_g	30	0.9	328	36970	e began to doubt whether he ha	e began to doubt whether I was
+doyle_scarlet_14_d	34	0.9117647058823529	614	7310	 circumstance connected with it. T	 circumstances connected with the 
+collins_moonstone_89_d	30	0.9	3149	50369	as you will presently see. On 	as you will presently see) of 
+collins_moonstone_79_d	31	0.9032258064516129	7981	2964	, the more irresistibly the con	, the more irresistibly her inf
+collins_moonstone_47_d	32	0.90625	5764	8456	 the lady of the house was with 	 the lady of the house was out; 
+collins_moonstone_58_d	36	0.9444444444444444	329	9976	 began to doubt whether he had been 	 began to doubt whether I had been o
+collins_moonstone_58_d	31	0.9032258064516129	3561	13939	, for the first time in my life	, for the first time in my expe
+stoker_dracula_11_g	34	0.9411764705882353	3561	3216	, for the first time in my life.' 	, for the first time in my life, I
+collins_moonstone_85_d	31	0.9354838709677419	9531	8280	 neither heeded nor heard him. 	 neither heeded nor heard me. “
+doyle_adventures_12_d	31	0.9354838709677419	199	5689	 favourably impressed by her sm	 favourably impressed by the ma
+collins_hauntedhotel_23_u	30	0.9	11454	8515	, without waiting to be asked.	, without waiting to be answer
+collins_hauntedhotel_27_u	33	0.9393939393939394	11816	6054	 up in an envelope; addressed it 	 up in an envelope, addressed to 
+collins_moonstone_56_d	32	0.90625	3557	7640	 was, for the first time in my l	 was, for the first time in all 
+collins_moonstone_56_d	36	0.9166666666666666	3562	15211	 for the first time in my life.' The	 for the first time in my life. Serg
+collins_moonstone_67_d	32	0.90625	6001	17404	 the whole truth about the woman	 the whole truth about the stran
+collins_hauntedhotel_6_u	30	0.9	9180	3253	 with an expression of despair	 with an expression of satiric
+radcliffe_udolpho_50_g	32	0.9375	614	15914	 circumstance connected with it.	 circumstances, connected with t
+radcliffe_udolpho_50_g	31	0.9032258064516129	12095	26074	fter a moment's hesitation he s	fter a moment's hesitation, pas
+radcliffe_udolpho_18_g	34	0.9117647058823529	614	33090	 circumstance connected with it. T	 circumstance, connected with the 
+radcliffe_udolpho_3_g	30	0.9666666666666667	12093	11858	 After a moment's hesitation h	 After a moment's hesitation, 
+collins_hauntedhotel_11_u	31	0.9354838709677419	3564	6807	or the first time in my life.' 	or the first time in my life, a
+collins_hauntedhotel_11_u	30	0.9	4123	149	 to see the woman who had been	 to see the woman who had intr
+collins_moonstone_84_d	33	0.9090909090909091	3562	17421	 for the first time in my life.' 	 for the first time in his life. 
+christie_styles_8_d	33	0.9393939393939394	12093	18168	 After a moment's hesitation he s	 After a moment’s hesitation, he 
+radcliffe_udolpho_10_g	30	0.9	601	14662	 embarrassing circumstance con	 embarrassing circumstances. M
+radcliffe_udolpho_10_g	30	0.9333333333333333	9185	15527	 an expression of despair so d	 an expression of despair on h
+doyle_adventures_9_d	31	0.967741935483871	8443	12137	'I have already given you my op	'I have already given you my wo
+collins_hauntedhotel_10_u	49	0.9183673469387755	2235	4006	at once so sad and so cruel--showed itself again 	at once so sad and so cruel--showed itself on her
+collins_moonstone_60_d	38	0.9210526315789473	3561	6428	, for the first time in my life.' The 	, for the first time in my life, when 
+doyle_baskervilles_2_u	34	0.9117647058823529	614	11659	 circumstance connected with it. T	 circumstances connected with the 
+radcliffe_udolpho_35_g	34	0.9411764705882353	3561	21644	, for the first time in my life.' 	, for the first time in my life, I

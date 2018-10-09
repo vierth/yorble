@@ -1,0 +1,6 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+walpole_castleofotranto_5_g	31	0.9032258064516129	3970	474	led with the remembrance of the	led with the resemblance of The
+radcliffe_udolpho_21_g	30	0.9	397	7082	 letters of introduction that 	 letters of introduction to su
+stoker_dracula_1_g	30	0.9	12739	17394	 in the evening, when the weat	 in the evening, when the fall
+radcliffe_udolpho_12_g	32	0.90625	14252	8830	 sat with my eyes fixed on the g	 sat with her eyes fixed on the 
+reeve_oldenglishbaron	30	0.9	8364	24753	d conceived an affection for s	d conceived an affection to Ed

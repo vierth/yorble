@@ -1,0 +1,171 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_11_d	30	1.0	11335	26484	man of strong character, with 	man of strong character, with 
+doyle_adventures_11_d	31	0.9032258064516129	23809	10076	 understand the situation." "I 	 understand the situation. My g
+doyle_adventures_11_d	33	0.9090909090909091	24213	5777	 with the air of a man who was th	 with the air of a man who wishes
+doyle_adventures_11_d	31	0.9354838709677419	31078	33915	 when we found ourselves in Ser	 when we found ourselves in our
+doyle_signoffour_2_d	34	0.9411764705882353	11603	7526	 from one to the other of us, as i	 from one to the other of us, she 
+austen_northangerabbey_25_g	30	0.9	42144	8613	ed into the drawing-room, foll	ed into the drawing-room for p
+doyle_adventures_8_d	33	0.9090909090909091	8160	36313	. "What do you make of that?" ask	. "What do you make of that, Wats
+doyle_adventures_8_d	36	0.9166666666666666	11601	23346	ed from one to the other of us, as i	ed from one to the other of us, whil
+doyle_adventures_8_d	31	0.9032258064516129	21612	40079	 nothing remarkable, save that 	 nothing remarkable save the be
+doyle_adventures_8_d	30	0.9333333333333333	35425	17913	. I do not know whether he was	. I do not know whether the sp
+stoker_dracula_27_g	30	0.9333333333333333	34586	37352	ed against the lights of the h	ed against the light of the se
+collins_moonstone_87_d	31	0.9032258064516129	24213	31439	 with the air of a man who was 	 with the air of a man whose mi
+collins_moonstone_87_d	30	0.9333333333333333	43644	12658	 an object of interest to the 	 an object of interest to me. 
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+christie_secretadversary_7_d	30	0.9	30224	145	 the corner of the street." "P	 the corner of the street. His
+christie_secretadversary_7_d	31	0.9032258064516129	36703	1404	 the corner of the street, and 	 the corner of the street ahead
+christie_secretadversary_13_d	35	0.9142857142857143	30441	7847	 returned in a few minutes in the c	 returned in a few minutes with a c
+radcliffe_udolpho_19_g	38	0.9210526315789473	26128	75855	, who seemed to be expostulating with 	, who seemed to be expostulating, rath
+collins_moonstone_55_d	35	1.0	42151	190	 the drawing-room, followed by the 	 the drawing-room, followed by the 
+doyle_signoffour_12_d	38	0.9210526315789473	21857	41931	 and found, as I expected, that there 	 and found, as we expected, that the t
+shelley_frankenstein_39_g	30	0.9	13719	4337	ed up and down the room in unc	ed up and down the room in the
+collins_moonstone_54_d	30	0.9	5534	11660	 of the medical profession." I	 of the medical profession, sa
+collins_hauntedhotel_12_u	30	0.9666666666666667	24576	8547	 from his pocket and looked at	 from his pocket, and looked t
+christie_styles_7_d	30	0.9	5562	5715	 I could not help laughing at 	 I could not help laughing. “M
+radcliffe_udolpho_44_g	31	0.9354838709677419	20391	10095	ed into the bedroom, whence he 	ed into the bed-room, where he 
+shelley_frankenstein_43_g	30	0.9	14458	10159	 myself in his power. I have c	 myself in his power. I had fi
+stoker_dracula_13_g	31	0.9032258064516129	12495	563	s not too much to say that it i	s not too much to say that she 
+shelley_frankenstein_45_g	30	0.9	1062	9609	t there was but one woman to h	t there was but one means to o
+collins_moonstone_71_d	34	0.9117647058823529	2711	11799	e associated in my mind with my wo	e associated in my mind with one o
+doyle_adventures_10_d	50	0.92	11701	13104	This is my friend and colleague, Dr. Watson, who i	This is my friend and colleague, Dr. Watson. Draw 
+doyle_adventures_10_d	32	0.9375	42765	2994	MY DEAR MR. SHERLOCK HOLMES,--Yo	MY DEAR MR. SHERLOCK HOLMES:--Lo
+doyle_adventures_6_d	36	0.9166666666666666	3093	12187	, with his head sunk upon his chest 	, with his head sunk upon his breast
+doyle_adventures_6_d	34	0.9411764705882353	3823	35917	. "I think, Watson, that you have 	. "I think, Watson, that you are n
+doyle_adventures_6_d	34	0.9411764705882353	4667	35496	 out." He chuckled to himself and 	 out." He chuckled to himself as h
+doyle_adventures_6_d	34	0.9117647058823529	10363	19218	 could hardly have been less than 	 could hardly have been more than 
+doyle_adventures_6_d	32	0.90625	18898	29204	 you will be good enough to call	 you will be good enough to expl
+doyle_adventures_6_d	32	0.90625	21753	34157	 from every point of view, but w	 from every point of view until 
+doyle_adventures_6_d	34	0.9117647058823529	24213	12610	 with the air of a man who was tho	 with the air of a man who has sat
+doyle_adventures_6_d	33	0.9090909090909091	25718	35711	 It was twenty-five minutes to tw	 It was twenty-five minutes past 
+doyle_adventures_6_d	31	0.967741935483871	34572	27214	 figure outlined against the li	 figure outlined against the fl
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+radcliffe_udolpho_38_g	33	0.9393939393939394	19243	17407	, with the intention of awaiting 	, with the intention of writing t
+collins_moonstone_75_d	34	0.9117647058823529	35082	11482	ing him into the sitting-room. The	ing him into her sitting-room. “Wh
+collins_moonstone_46_d	34	0.9117647058823529	21097	8683	 morning in the character of a gro	 morning in the character of Lady 
+radcliffe_udolpho_17_g	31	0.9354838709677419	24213	207	 with the air of a man who was 	 with the air of a man, who is 
+collins_hauntedhotel_24_u	34	0.9117647058823529	24828	4003	 I was just wondering whether I sh	 I was just wondering whether this
+doyle_adventures_3_d	33	0.9696969696969697	2284	3251	 the reigning family of Holland. 	 the reigning family of Holland, 
+doyle_adventures_3_d	36	0.9166666666666666	3093	30964	, with his head sunk upon his chest 	, with his head sunk upon his breast
+doyle_adventures_3_d	48	0.9375	6544	3397	 good enough to chronicle one or two of my trifl	 good enough to chronicle one or two of my littl
+doyle_adventures_3_d	43	0.9069767441860465	9433	5537	 our doubts." As he spoke there was the sha	 our doubts." As he spoke there was a tap a
+doyle_adventures_3_d	32	0.90625	9630	23598	s," he continued, glancing out o	s," he continued, glancing over 
+doyle_adventures_3_d	36	0.9722222222222222	11684	9686	," said Holmes. "This is my friend a	," said Holmes. "This is my friend, 
+doyle_adventures_3_d	30	0.9	13247	35538	 himself down in his armchair 	 himself down into his chair o
+doyle_adventures_3_d	31	0.9032258064516129	20494	31115	 his hands into his pockets, he	 his hands in his pockets, bega
+doyle_adventures_3_d	32	0.90625	40204	5003	 before," said Holmes, staring d	 before," said Holmes, throwing 
+doyle_adventures_3_d	31	0.9032258064516129	42609	12602	o be left till called for." My 	o be left till called for. He s
+radcliffe_udolpho_52_g	33	0.9393939393939394	11095	6907	 the upper part of his face, exte	 the upper part of his face excep
+doyle_scarlet_10_d	30	0.9	12420	6953	t the end of that time the mat	t the end of that time she sha
+collins_moonstone_89_d	31	0.9032258064516129	36703	27160	 the corner of the street, and 	 the corner of the street, he r
+collins_moonstone_89_d	32	0.90625	43733	54217	 wished you good-night, and star	 wished you good-night, and went
+austen_northangerabbey_7_g	30	0.9090909090909091	37390	15409	 engaged for the evening." "I 	 engaged for the evening.
+doyle_signoffour_8_d	30	0.9	14569	4571	," said Holmes, shutting his e	," said Holmes, shrugging his 
+collins_moonstone_79_d	30	0.9333333333333333	12420	684	t the end of that time the mat	t the end of that time the mis
+austen_northangerabbey_29_g	32	0.90625	33898	6981	 stepped from her carriage, was 	 stepped from the carriage, she 
+doyle_scarlet_7_d	43	0.9534883720930233	3094	13524	 with his head sunk upon his chest and his 	 with his head sunk on his chest and his br
+doyle_scarlet_7_d	31	0.967741935483871	45419	6420	 stared at him in amazement. "I	 stared at him in amazement. “I
+doyle_signoffour_4_d	41	0.9024390243902439	11596	14906	 looked from one to the other of us, as i	 looked from one to the other of us with 
+doyle_signoffour_6_d	30	0.9666666666666667	11603	13585	 from one to the other of us, 	 from one to the other of us. 
+doyle_signoffour_6_d	30	0.9333333333333333	12257	13353	 anything which you may say to	 anything which you may say wi
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+shelley_frankenstein_55_g	31	0.9032258064516129	27985	4888	 in different directions, and I	 in different directions among 
+doyle_signoffour_1_d	30	0.9333333333333333	4741	8991	 "It is simplicity itself," sa	 "It is simplicity itself," he
+doyle_scarlet_3_d	53	0.9245283018867925	7446	5345	It is a capital mistake to theorize before one has da	It is a capital mistake to theorize before you have a
+doyle_scarlet_3_d	30	0.9	19467	12366	 which I have already recorded	 which I have already remarked
+doyle_scarlet_3_d	31	0.9032258064516129	33689	11074	, which was increased by the tw	, which was increased by his wr
+doyle_scarlet_3_d	32	0.90625	42609	14257	o be left till called for." My f	o be left till called for. They 
+doyle_scarlet_3_d	34	0.9117647058823529	42765	2176	MY DEAR MR. SHERLOCK HOLMES,--You 	MY DEAR MR. SHERLOCK HOLMES,-- “Th
+doyle_scarlet_3_d	30	0.9333333333333333	45256	13169	 upon the palm of his hand. "Y	 upon the palm of his hand. We
+collins_moonstone_47_d	30	0.9	42609	5808	o be left till called for." My	o be left till called for.” Tw
+radcliffe_udolpho_46_g	32	0.90625	44797	4079	 I have not been able to bring y	 I have not been able to obtain 
+doyle_baskervilles_3_u	30	0.9	19574	13842	 a character of its own. Indee	 a character of its own. There
+doyle_baskervilles_3_u	32	0.9375	19769	10724	, which made it a pleasure to me	, which makes it a pleasure to e
+stoker_dracula_23_g	30	0.9	31233	82	 waiting for the coming of its	 waiting for the coming of God
+stoker_dracula_25_g	35	0.9142857142857143	28972	12760	 have already arranged what is to o	 have already arranged what to do i
+walpole_castleofotranto_3_g	30	0.9	40185	33068	ve heard that voice before," s	ve heard that voice before!” “
+doyle_scarlet_11_d	30	0.9	14986	13502	 that it was difficult to name	 that it was difficult to real
+doyle_scarlet_11_d	30	0.9	20494	871	 his hands into his pockets, h	 his hands in his pocket, whis
+doyle_scarlet_11_d	31	0.967741935483871	27980	15201	 away in different directions, 	 away in different directions. 
+doyle_scarlet_11_d	35	0.9142857142857143	45419	2555	 stared at him in amazement. "Irene	 stared at him in amazement. In the
+radcliffe_udolpho_6_g	31	0.967741935483871	42718	7508	t of the preceding night and ra	t of the preceding night, and a
+stoker_dracula_18_g	30	0.9	33898	6238	 stepped from her carriage, wa	 stepped from the carriage wit
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+doyle_adventures_12_d	37	0.918918918918919	13711	41885	 and paced up and down the room in un	 and paced up and down the room, his 
+doyle_adventures_12_d	32	0.90625	19183	32541	 o'clock in the morning. I sat d	 o'clock in the morning. It was 
+doyle_adventures_12_d	30	0.9	20494	41917	 his hands into his pockets, h	 his hands in his pockets, and
+doyle_adventures_12_d	30	0.9333333333333333	37197	49527	I am still in the dark." "I do	I am still in the dark." "I wi
+doyle_signoffour_7_d	33	0.9090909090909091	11603	22649	 from one to the other of us, as 	 from one to the other of us for 
+doyle_signoffour_7_d	30	0.9	20494	6495	 his hands into his pockets, h	 his hands in his pockets, smo
+doyle_scarlet_13_d	30	0.9	14374	9314	t the matter was so delicate t	t the matter was a delicate on
+doyle_scarlet_13_d	38	0.9473684210526315	29013	22395	There is only one point on which I mus	There is only one point on which I sho
+radcliffe_udolpho_25_g	30	0.9	42722	19336	 the preceding night and ran i	 the preceding night, and now 
+shelley_frankenstein_53_g	40	0.925	22241	1675	 not in the least interested, but whose 	 not in the least interest me, but when 
+doyle_baskervilles_12_u	30	0.9333333333333333	3827	9161	 think, Watson, that you have 	 think, Watson, that you are a
+doyle_baskervilles_10_u	35	0.9428571428571428	41187	14512	 there is no reason why she should 	 there is no reason why we should t
+stoker_dracula_10_g	32	0.90625	8161	12947	 "What do you make of that?" ask	 "What do you make of that mark 
+collins_moonstone_56_d	30	0.9	20494	23597	 his hands into his pockets, h	 his hands in his pockets, loo
+doyle_signoffour_11_d	30	0.9	3099	721	 his head sunk upon his chest 	 his head sunk upon his breast
+doyle_adventures_4_d	35	0.9428571428571428	11603	19602	 from one to the other of us, as if	 from one to the other of us, and f
+doyle_adventures_4_d	33	0.9090909090909091	19243	12726	, with the intention of awaiting 	, with the intention of visiting 
+doyle_adventures_4_d	33	0.9090909090909091	22199	7608	 people in the neighbourhood in w	 people in the neighbourhood, how
+doyle_adventures_4_d	31	0.9032258064516129	25698	17586	 in twenty minutes.' It was twe	 in twenty minutes." It was nea
+doyle_adventures_4_d	30	0.9	45059	43774	." "I am glad to hear your Maj	." "I am glad to hear you say 
+radcliffe_udolpho_36_g	30	0.9	19677	7475	, there was something in his m	, there was something in the f
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+doyle_scarlet_5_d	33	0.9090909090909091	9446	6784	 As he spoke there was the sharp 	 As he spoke there was a sharp ri
+christie_secretadversary_26_d	38	0.9473684210526315	11595	9741	e looked from one to the other of us, 	e looked from one to the other of his 
+christie_styles_11_d	34	0.9117647058823529	24213	27057	 with the air of a man who was tho	 with the air of a man who has don
+radcliffe_udolpho_34_g	30	0.9	13525	2464	 and looked impatiently at his	 and looked impatiently at Lud
+dickens_christmascarole_2_g	32	0.90625	20488	12952	utting his hands into his pocket	utting his hand in his pocket, a
+collins_hauntedhotel_6_u	30	0.9	20494	8080	 his hands into his pockets, h	 his hands in his pockets, and
+lewis_monk_4_g	30	0.9333333333333333	19678	71298	 there was something in his ma	 there was a something in his 
+lewis_monk_4_g	30	0.9	24592	70496	 and looked at it earnestly, '	 and looked at me earnestly. '
+radcliffe_udolpho_50_g	31	0.9032258064516129	4327	12595	 would certainly have been burn	 would certainly have been thou
+radcliffe_udolpho_50_g	30	0.9333333333333333	22294	41784	 was compelled to listen to." 	 was compelled to listen to th
+radcliffe_udolpho_18_g	31	0.9032258064516129	14513	7456	 for the purpose of consulting 	 for the purpose of concluding 
+austen_northangerabbey_26_g	30	0.9666666666666667	22199	3192	 people in the neighbourhood i	 people in the neighbourhood. 
+doyle_baskervilles_8_u	38	0.9210526315789473	33258	6941	 carry out my orders to the letter." A	 carry out your orders to the letter. 
+doyle_adventures_5_d	33	0.9090909090909091	7612	27275	. What do you deduce from it?" I 	. What do you deduce from that?" 
+doyle_adventures_5_d	37	0.918918918918919	13689	34848	 sprang from his chair and paced up a	 sprang from his chair and paced abou
+doyle_adventures_5_d	43	0.9069767441860465	13733	34886	 the room in uncontrollable agitation. Then	 the room in uncontrollable agitation, with
+doyle_adventures_5_d	34	0.9117647058823529	40210	31154	e," said Holmes, staring down the 	e," said Holmes, laying down the v
+radcliffe_udolpho_22_g	32	0.90625	42718	33835	t of the preceding night and ran	t of the preceding night, a drea
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+christie_secretadversary_1_d	30	0.9	17944	11634	 under the name of the Count V	 under the name of the Young A
+christie_secretadversary_17_d	30	0.9	14238	20587	 passing his hand over his hig	 passing his hand over his fac
+christie_secretadversary_11_d	30	0.9666666666666667	10089	2412	. Sit down in that armchair, D	. Sit down in that armchair, a
+collins_moonstone_84_d	32	0.90625	31935	7184	. The chances are that she would	. The chances are, that the whol
+christie_secretadversary_19_d	33	1.0	11596	12146	 looked from one to the other of 	 looked from one to the other of 
+doyle_adventures_2_d	30	1.0	12492	34350	t is not too much to say that 	t is not too much to say that 
+doyle_adventures_2_d	30	0.9	15252	29249	. "Let me see!" said Holmes. "	. "Let me see," said Holmes, s
+doyle_adventures_2_d	33	0.9393939393939394	21602	4089	 there was nothing remarkable, sa	 there was nothing remarkable abo
+doyle_adventures_2_d	33	0.9393939393939394	27980	15483	 away in different directions, an	 away in different directions unt
+christie_styles_1_d	30	0.9	34579	7861	 outlined against the lights o	 outlined against the bright l
+christie_secretadversary_3_d	32	0.90625	29965	7878	 to the end of the street, and I	 to the end of the street, then 
+lewis_monk_8_g	30	0.9	10733	11901	 with flame-coloured silk and 	 with flame-coloured hair and 
+doyle_signoffour_5_d	36	0.9166666666666666	3093	11308	, with his head sunk upon his chest 	, with his head sunk upon his left s
+doyle_signoffour_5_d	30	0.9	8160	9325	. "What do you make of that?" 	. "What do you make of it?" I 
+lewis_monk_5_g	30	0.9333333333333333	13689	3159	 sprang from his chair and pac	 sprang from his chair, and cl
+lewis_monk_5_g	30	0.9	20888	3779	e that you have been watching 	e that you have been writing s
+stoker_dracula_1_g	31	0.9032258064516129	10693	23069	 was thrown over his shoulders 	 was thrown over my shoulders, 
+collins_moonstone_62_d	30	0.9	20494	8849	 his hands into his pockets, h	 his hands in his pockets, and
+doyle_adventures_9_d	30	0.9333333333333333	2583	1277	 returned to civil practice), 	 returned to civil practice an
+doyle_adventures_9_d	40	0.95	13642	29241	I should be better able to advise you." 	I should be better able to advise you as
+doyle_adventures_9_d	32	0.90625	13715	22905	 paced up and down the room in u	 paced up and down the room, hum
+radcliffe_udolpho_12_g	31	0.9354838709677419	33690	5170	 which was increased by the two	 which was increased by the con
+doyle_baskervilles_4_u	33	0.9393939393939394	19678	559	 there was something in his maste	 there was something in his stead
+doyle_baskervilles_4_u	30	0.9	21798	9676	 anything else of interest. "I	 anything else of interest hap
+radcliffe_udolpho_41_g	32	0.9375	40187	10410	 heard that voice before," said 	 heard that voice before!' said 
+doyle_scarlet_4_d	30	1.0	15207	2854	 written a monograph upon the 	 written a monograph upon the 
+christie_secretadversary_4_d	30	1.0	11595	5971	e looked from one to the other	e looked from one to the other
+christie_secretadversary_4_d	31	1.0	20072	3902	 before the door opened, and a 	 before the door opened, and a 
+christie_secretadversary_4_d	30	0.9	27172	12827	 that there had been some info	 that there has been some none
+doyle_baskervilles_2_u	35	0.9142857142857143	41187	16789	 there is no reason why she should 	 there is no reason why I should no
+radcliffe_udolpho_54_g	30	0.9333333333333333	19678	20761	 there was something in his ma	 there was something in his co
+stoker_dracula_16_g	33	0.9090909090909091	11603	20316	 from one to the other of us, as 	 from one to the other of us. We 
+doyle_scarlet_1_d	31	0.9354838709677419	4327	11864	 would certainly have been burn	 would certainly have been hung
+stoker_dracula_21_g	33	0.9393939393939394	11603	24688	 from one to the other of us, as 	 from one to the other of us she 
+stoker_dracula_21_g	31	0.9032258064516129	26616	11014	 and before I knew where I was 	 and before I knew what I was d
+reeve_oldenglishbaron	34	0.9117647058823529	42123	31090	 the servant and rushed into the d	 the servants all rushed into the 
+doyle_baskervilles_15_u	32	0.90625	23253	16933	 the relation between them, and 	 the relations between him and t

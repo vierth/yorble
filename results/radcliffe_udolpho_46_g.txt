@@ -1,0 +1,37 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+walpole_castleofotranto_3_g	30	1.0	1619	8011	, and advised her to take the 	, and advised her to take the 
+radcliffe_udolpho_1_g	31	0.9032258064516129	1254	44378	 received this information, wou	 received this information; but
+radcliffe_udolpho_1_g	30	0.9	1686	44208	 he promised to meet her, and 	 he promised to obey her, and 
+radcliffe_udolpho_1_g	31	0.9032258064516129	1748	33496	 to take possession of the esta	 to take possession of that sam
+radcliffe_udolpho_6_g	30	0.9	5891	19415	 could not forbear smiling; 'D	 could not forbear smiling at 
+stoker_dracula_11_g	30	0.9333333333333333	2074	24898	 seemed to have awakened this 	 seemed to have awakened the m
+radcliffe_udolpho_16_g	33	0.9090909090909091	1507	54593	he term, for which La Vallee had 	he term, for which La Vallee migh
+radcliffe_udolpho_16_g	35	0.9428571428571428	1748	19242	 to take possession of the estates 	 to take possession of that estate 
+radcliffe_udolpho_16_g	31	0.9354838709677419	2362	25523	 when she considered, that he, 	 when she considered that she w
+radcliffe_udolpho_16_g	31	0.9032258064516129	5361	50394	 entreating, that he would not 	 entreating, that he would writ
+radcliffe_udolpho_15_g	30	0.9	5891	19695	 could not forbear smiling; 'D	 could not forbear smiling at 
+doyle_baskervilles_9_u	31	0.9032258064516129	2390	23137	e, for whose sake she had once 	e, for whose sake he has done a
+collins_moonstone_74_d	30	0.9666666666666667	7327	2195	 could be prevailed upon to ve	 could be prevailed upon to re
+radcliffe_udolpho_50_g	31	0.9032258064516129	399	25425	 with intelligence, that made a	 with intelligence, that a path
+radcliffe_udolpho_50_g	30	0.9	1957	52602	d it would be necessary for he	d it would be necessary to rem
+radcliffe_udolpho_18_g	36	0.9444444444444444	7563	35803	 stirring the wood into a blaze, beg	 stirring the wood into a blaze, dre
+radcliffe_udolpho_13_g	32	0.90625	2584	31852	ection, and endeavoured to feel 	ection, and endeavoured to calm 
+stoker_dracula_2_g	30	0.9	4163	18892	t of the neighbourhood, too, h	t of the neighbourhood, for he
+dickens_christmascarole_1_g	35	0.9428571428571428	1958	5332	 it would be necessary for her to b	 it would be necessary for them to 
+radcliffe_udolpho_48_g	30	0.9333333333333333	303	4626	 of the late Madame Montoni; a	 of the late Madame Montoni, w
+radcliffe_udolpho_48_g	30	0.9333333333333333	1782	4626	 of the late Madame Montoni; a	 of the late Madame Montoni, w
+stoker_dracula_24_g	30	0.9	335	26825	, about the same time, a messe	, about the same time as yeste
+christie_secretadversary_5_d	30	0.9	1423	6513	, and added, that he would him	, and added that they would th
+lewis_monk_5_g	32	0.9375	202	30689	 received a letter from the advo	 received a letter from the Card
+lewis_monk_5_g	33	0.9090909090909091	2322	14810	 received this intelligence, was 	 received this intelligence with 
+radcliffe_udolpho_12_g	43	0.9069767441860465	5080	21433	, and returned to the chateau, where he inf	, and returned into the chateau; where she 
+radcliffe_udolpho_12_g	32	0.9375	5085	22207	 returned to the chateau, where 	 returned to the chateau, her co
+radcliffe_udolpho_12_g	30	0.9	5361	46154	 entreating, that he would not	 entreating, that she would al
+radcliffe_udolpho_49_g	42	0.9047619047619048	2820	440	 been the residence of her parents, would 	 been the residence of her parents, and th
+collins_moonstone_66_d	30	0.9	6636	11170	 be made acquainted with it. A	 be made acquainted with what 
+radcliffe_udolpho_54_g	30	0.9333333333333333	1074	27490	n into confinement, where, it 	n into confinement, where his 
+radcliffe_udolpho_54_g	36	0.9166666666666666	2322	23750	 received this intelligence, was clo	 received this intelligence, with co
+radcliffe_udolpho_54_g	32	0.90625	5092	20000	ed to the chateau, where he info	ed to the chateau, where the Cou
+radcliffe_udolpho_54_g	30	0.9333333333333333	5094	20438	 to the chateau, where he info	 to the chateau, where the kin
+collins_moonstone_76_d	30	0.9333333333333333	2009	6010	n about three weeks from the p	n about three weeks from that 
+doyle_baskervilles_15_u	30	0.9333333333333333	1922	4043	on the subject, and that he be	on the subject, and that the n

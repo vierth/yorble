@@ -1,0 +1,202 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_11_g	32	0.90625	26669	41708	 serious apprehensions for her; 	 serious apprehensions for his l
+radcliffe_udolpho_44_g	30	0.9	16674	25663	 looking up, she perceived the	 looking up, he perceived ligh
+radcliffe_udolpho_44_g	30	0.9	25587	9981	, for a considerable time, and	, for a considerable time, wit
+christie_secretadversary_12_d	30	0.9333333333333333	16158	25016	or the first time, she felt th	or the first time she felt a h
+shelley_frankenstein_45_g	30	0.9666666666666667	33413	4052	 found it utterly impossible t	 found it utterly impossible. 
+walpole_castleofotranto_2_g	30	0.9	27380	7424	 listened attentively, and, so	 listened attentively, and in 
+radcliffe_udolpho_56_g	30	0.9333333333333333	2773	6298	, the door of the chamber bein	, the door of the chamber open
+radcliffe_udolpho_56_g	30	0.9	9946	10299	 then, for the first time sinc	 then, for the first time, rec
+radcliffe_udolpho_56_g	35	0.9714285714285714	31214	12034	d not scrupled to believe that he w	d not scruple to believe, that he w
+radcliffe_udolpho_38_g	30	0.9	1024	3377	t, when she considered this ci	t, when she considered that it
+radcliffe_udolpho_38_g	30	0.9	9178	1046	 she would willingly have resi	 she would willingly have defe
+radcliffe_udolpho_38_g	30	0.9	25825	41621	ed herself in endeavouring to 	ed herself in endeavours to at
+radcliffe_udolpho_38_g	30	0.9666666666666667	29994	38536	 she could not resolve to disc	 she could not resolve to dism
+shelley_frankenstein_56_g	30	0.9	33141	7156	 was unconscious, that a hope 	 was unconscious, than as the 
+radcliffe_udolpho_51_g	30	0.9	21612	20803	 the image of Valancourt faile	 the image of Valancourt still
+radcliffe_udolpho_51_g	34	0.9117647058823529	24795	17606	 thank you for the kindness of you	 thank you for the kindness you ha
+radcliffe_udolpho_51_g	30	0.9	25588	21909	 for a considerable time, and 	 for a considerable time, unab
+radcliffe_udolpho_51_g	30	0.9	25588	25436	 for a considerable time, and 	 for a considerable time, to a
+radcliffe_udolpho_5_g	30	0.9	22238	12290	 deepened the gloom of the oak	 deepened by the gloom of the 
+radcliffe_udolpho_17_g	30	0.9	25587	1029	, for a considerable time, and	, for a considerable time, per
+radcliffe_udolpho_9_g	39	0.9487179487179487	18531	8560	 changed the subject, and spoke of dist	 changed the subject, and spoke of hims
+radcliffe_udolpho_9_g	31	0.9032258064516129	19853	8347	 involuntarily exclaimed, 'Are 	 involuntarily exclaimed, 'Why 
+radcliffe_udolpho_9_g	31	0.9032258064516129	22038	9535	 Valancourt would steal to her 	 Valancourt, would rise to her 
+radcliffe_udolpho_9_g	30	0.9	23683	6296	 of the person who spoke, but 	 of the person who spoke, she 
+radcliffe_udolpho_52_g	53	0.9245283018867925	20807	5901	 seemed to come from that part of the castle, where M	 seemed to come from that part of the chamber, where 
+lewis_monk_3_g	30	1.0	9952	3766	 for the first time since her 	 for the first time since her 
+radcliffe_udolpho_24_g	31	0.9354838709677419	1586	9867	n the evening of the second day	n the evening of the second, ha
+radcliffe_udolpho_24_g	33	0.9090909090909091	12063	4207	 at that moment, she had no power	 at that moment, she had not cour
+radcliffe_udolpho_24_g	30	0.9333333333333333	29536	14913	 that she had never since enti	 that she had never since been
+radcliffe_udolpho_7_g	30	0.9333333333333333	15998	4216	 against the pressure of injus	 against the pressure of indis
+radcliffe_udolpho_7_g	30	0.9	25587	6885	, for a considerable time, and	, for a considerable time, wit
+radcliffe_udolpho_7_g	31	0.9032258064516129	30166	22297	 the window, that she might cat	 the window, that he might not 
+poe_usher_1_g	30	0.9666666666666667	2711	9726	 It was with difficulty, that 	 It was with difficulty that I
+radcliffe_udolpho_39_g	30	0.9	25588	663	 for a considerable time, and 	 for a considerable time, unab
+radcliffe_udolpho_23_g	38	0.9736842105263158	1779	34065	 the remains of her unfortunate aunt w	 the remains of her unfortunate aunt, 
+radcliffe_udolpho_23_g	30	1.0	17659	30574	, ma'amselle,' said Annette, '	, ma'amselle,' said Annette, '
+radcliffe_udolpho_23_g	34	0.9117647058823529	25705	24247	 the private stair-case, and that 	 the private stair-case, and in th
+radcliffe_udolpho_23_g	30	0.9	29994	18623	 she could not resolve to disc	 she could not resolve to stay
+radcliffe_udolpho_23_g	35	0.9142857142857143	31435	35454	 might confirm, or destroy her hope	 might confirm, or destroy her fear
+poe_marieroget_1_d	30	0.9	6542	40632	ed by the presence of the cond	ed by the presence of the tide
+poe_marieroget_1_d	30	0.9	20410	102120	 the consideration of her own 	 the consideration of the cont
+radcliffe_udolpho_29_g	37	0.918918918918919	17659	9150	, ma'amselle,' said Annette, 'with tw	, ma'amselle,' said Annette, 'what wa
+radcliffe_udolpho_29_g	39	0.9230769230769231	23796	4544	 did not permit her to distinguish the 	 did not permit her to distinguish any 
+radcliffe_udolpho_29_g	30	0.9333333333333333	25588	1754	 for a considerable time, and 	 for a considerable time, on t
+radcliffe_udolpho_29_g	30	0.9	25588	8260	 for a considerable time, and 	 for a considerable time, when
+radcliffe_udolpho_29_g	30	0.9	26283	1144	 all claims to the estates, on	 all claim to those estates, r
+radcliffe_udolpho_29_g	34	0.9117647058823529	29140	3060	 a remote part of the chamber. But	 a remote part of the chamber, tha
+collins_hauntedhotel_20_u	30	0.9	28810	722	 the characters and the danger	 the characters and the dialog
+collins_hauntedhotel_20_u	30	0.9	28810	772	 the characters and the danger	 the characters and the dialog
+radcliffe_udolpho_55_g	31	0.9354838709677419	31219	19136	 scrupled to believe that he wa	 scrupled to believe, that her 
+radcliffe_udolpho_26_g	30	0.9	1626	1693	 informed her, that the interm	 informed her, that the contes
+radcliffe_udolpho_26_g	32	0.90625	3102	23362	 within the castle walls. They h	 within the castle walls, she sh
+radcliffe_udolpho_26_g	30	0.9666666666666667	8128	11630	he, at length, determined to m	he, at length, determined to s
+radcliffe_udolpho_26_g	30	0.9666666666666667	17659	27021	, ma'amselle,' said Annette, '	, ma'amselle!' said Annette, '
+radcliffe_udolpho_26_g	34	0.9117647058823529	29310	8259	 she immediately recollected it to	 she immediately recollected a for
+radcliffe_udolpho_26_g	30	0.9333333333333333	31959	12060	 repeated the question; but st	 repeated the question, but th
+radcliffe_udolpho_1_g	34	1.0	379	10480	 restrained the expression of his 	 restrained the expression of his 
+radcliffe_udolpho_1_g	47	0.9361702127659575	379	26912	 restrained the expression of his resentment. E	 restrained her expression of this resentment, 
+radcliffe_udolpho_1_g	30	0.9	30535	20964	 the fishing-house, where she 	 the fishing-house, which she 
+radcliffe_udolpho_6_g	30	0.9333333333333333	1947	22715	 considerations for herself, f	 consideration for herself, sh
+radcliffe_udolpho_6_g	31	0.9032258064516129	3040	17489	 towards the grave, which was i	 towards the avenue, which was 
+radcliffe_udolpho_6_g	31	0.9032258064516129	20414	18174	 consideration of her own situa	 consideration of her own circu
+radcliffe_udolpho_6_g	30	0.9	20803	20661	 and seemed to come from that 	 and seemed to come from a rem
+radcliffe_udolpho_6_g	34	0.9117647058823529	23799	18655	d not permit her to distinguish th	d not permit him to distinguish wh
+radcliffe_udolpho_6_g	44	0.9090909090909091	23861	3434	,' said Emily, in a trembling voice, 'for he	,' said Emily in a trembling voice, 'I hope 
+radcliffe_udolpho_6_g	30	0.9	27581	40409	 room. In a few moments, their	 room. In a few moments he ret
+radcliffe_udolpho_6_g	30	0.9333333333333333	27626	32030	s accompanied by a voice so fu	s accompanied by a voice so sw
+radcliffe_udolpho_6_g	30	0.9	33238	42620	 at the casement, till the air	 at the casement, till the glo
+lewis_monk_9_g	35	0.9142857142857143	8503	9816	ed, made her defer, from day to day	ed, made him defer from day to day 
+collins_moonstone_70_d	32	0.90625	325	9434	 the accomplishment of his wishe	 the accomplishment of this righ
+stoker_dracula_18_g	32	0.90625	9951	427	, for the first time since her a	, for the first time since I hav
+collins_hauntedhotel_26_u	43	0.9069767441860465	10798	20023	 her mind like a flash of lightning; she tr	 her mind like a flash of lightning. Make t
+stoker_dracula_11_g	30	0.9	9948	3213	hen, for the first time since 	hen, for the first time in my 
+radcliffe_udolpho_16_g	30	0.9	1779	54733	 the remains of her unfortunat	 the remains of her fortune, a
+radcliffe_udolpho_16_g	30	0.9	13703	68648	 convinced of your error.' Emi	 convinced of your error.' 'Yo
+radcliffe_udolpho_16_g	35	0.9714285714285714	15101	45286	e,' said Montoni, contemptuously; '	e,' said Montoni, contemptuously. '
+radcliffe_udolpho_16_g	32	0.90625	15757	55867	 of the late conversation with M	 of the late conversation, when 
+radcliffe_udolpho_16_g	30	0.9666666666666667	15890	53489	 terrible to her imagination, 	 terrible to her imagination. 
+radcliffe_udolpho_16_g	38	0.9210526315789473	16781	3726	 the day after her arrival at Venice, 	 the day after his arrival at Venice. 
+radcliffe_udolpho_16_g	31	0.9032258064516129	17427	17576	, when she remembered these man	, when she remembered the scene
+radcliffe_udolpho_16_g	30	0.9	21186	11313	 Signora Livona and her compan	 Signora Livona, and her manne
+radcliffe_udolpho_16_g	35	0.9428571428571428	27339	5663	 the notes of distant music, to whi	 the notes of distant music, to rai
+radcliffe_udolpho_16_g	31	0.9032258064516129	28296	8138	s of her native province, to wh	s of her native province, with 
+radcliffe_udolpho_16_g	30	0.9	28388	8310	 which she had so often heard 	 which she had often heard it,
+radcliffe_udolpho_16_g	31	0.9032258064516129	29326	70629	 recollected it to be the same 	 recollected to be the same, th
+radcliffe_udolpho_16_g	31	0.9032258064516129	30713	34286	 had been made known to her; th	 had been made known to him: th
+radcliffe_udolpho_25_g	30	0.9	8151	4394	ed to make other efforts to pe	ed to make another effort to o
+radcliffe_udolpho_25_g	35	0.9428571428571428	17659	9631	, ma'amselle,' said Annette, 'with 	, ma'amselle,' said Annette, 'they 
+radcliffe_udolpho_25_g	35	0.9142857142857143	17659	13633	, ma'amselle,' said Annette, 'with 	, ma'amselle,' said Annette, who, h
+radcliffe_udolpho_25_g	33	0.9696969696969697	33234	22279	ning at the casement, till the ai	ning at the casement, till the li
+radcliffe_udolpho_33_g	35	0.9142857142857143	7493	33076	 Montoni and his associates, not on	 Montoni and his associates, and mo
+radcliffe_udolpho_33_g	33	0.9696969696969697	8195	39272	 to permit her return to France. 	 to permit her return to France a
+radcliffe_udolpho_33_g	35	0.9142857142857143	10042	40358	, she determined to search for them	, she determined to watch for the m
+radcliffe_udolpho_33_g	38	0.9210526315789473	17659	28074	, ma'amselle,' said Annette, 'with two	, ma'amselle,' said Annette, 'it was o
+radcliffe_udolpho_33_g	38	0.9210526315789473	17659	30674	, ma'amselle,' said Annette, 'with two	, ma'amselle,' said Annette, 'it was o
+radcliffe_udolpho_33_g	30	0.9666666666666667	17659	49773	, ma'amselle,' said Annette, '	, ma'amselle,' said Annette, a
+radcliffe_udolpho_33_g	30	0.9	22532	20596	 remote part of the castle, an	 remote part of the castle. Wi
+radcliffe_udolpho_33_g	31	0.9032258064516129	22544	29643	 of the castle, and seemed to r	 of the castle, and used to bri
+radcliffe_udolpho_33_g	30	0.9	22898	24699	er remembered it, but with emo	er remembered it but with the 
+radcliffe_udolpho_33_g	30	0.9333333333333333	25587	36281	, for a considerable time, and	, for a considerable time, una
+radcliffe_udolpho_33_g	30	0.9	29355	43317	e she had formerly heard in th	e she had formerly heard, and 
+radcliffe_udolpho_33_g	31	1.0	29382	45122	 the fishing-house in Gascony. 	 the fishing-house in Gascony. 
+radcliffe_udolpho_33_g	30	0.9333333333333333	29385	45125	e fishing-house in Gascony. As	e fishing-house in Gascony. 'O
+radcliffe_udolpho_33_g	32	0.9375	30275	34922	 the name of Valancourt, and the	 the name of Valancourt, and beg
+radcliffe_udolpho_2_g	30	0.9	4366	5878	 what she considered to be her	 what she considered to be con
+christie_styles_6_d	30	0.9	9178	11542	 she would willingly have resi	 she would willingly have torn
+christie_styles_6_d	31	0.9032258064516129	12235	10791	I am not in the habit of flatte	I am not in the habit of listen
+austen_northangerabbey_14_g	30	0.9	10161	347	 at the appointed time, and wa	 at the appointed time; and no
+radcliffe_udolpho_15_g	31	0.9032258064516129	21064	11469	 distinguished female voices mi	 distinguished a female voice, 
+radcliffe_udolpho_15_g	33	1.0	22298	18277	 the distant perspective of the c	 the distant perspective of the c
+radcliffe_udolpho_15_g	30	0.9666666666666667	29231	16988	 the measure change, and the s	 the measure changed, and the 
+collins_moonstone_56_d	30	0.9	9952	4703	 for the first time since her 	 for the first time in their l
+shelley_frankenstein_48_g	30	0.9	16155	5000	. For the first time, she felt	. For the first time the feeli
+radcliffe_udolpho_36_g	33	0.9090909090909091	21078	18134	 female voices mingling with the 	 female voices mingled with the s
+radcliffe_udolpho_36_g	30	0.9333333333333333	22210	21438	h the painted casements, and d	h the painted casements and wa
+radcliffe_udolpho_36_g	32	0.90625	22924	29985	 emotions of indescribable awe, 	 emotions of indescribable joy, 
+radcliffe_udolpho_36_g	32	0.90625	23769	10312	 at the end of the gallery, did 	 at the end of the gallery led, 
+collins_moonstone_67_d	30	0.9333333333333333	22634	6883	 unwilling to return to her mo	 unwilling to return to the ho
+doyle_baskervilles_7_u	30	0.9333333333333333	574	24678	 deeply impressed with the unh	 deeply impressed with the cur
+christie_styles_11_d	30	0.9333333333333333	20407	26991	 to the consideration of her o	 to the consideration of the j
+radcliffe_udolpho_34_g	30	0.9333333333333333	6559	33970	e of the condottieri, who, as 	e of the condottieri, who had 
+radcliffe_udolpho_34_g	34	0.9117647058823529	22756	12409	 the door of the apartment, where 	 the door of the apartment, she ad
+radcliffe_udolpho_34_g	30	0.9	30273	2088	ed the name of Valancourt, and	ed the name of Valancourt, cou
+radcliffe_udolpho_34_g	31	0.967741935483871	30560	11876	 she had formerly listened to t	 she had formerly listened to, 
+radcliffe_udolpho_34_g	43	0.9069767441860465	33619	11396	 the room with impatient steps, and, at len	 the room with impatient steps, and often w
+christie_styles_5_d	31	0.9354838709677419	9952	10841	 for the first time since her a	 for the first time since we ha
+lewis_monk_4_g	30	0.9	32081	106249	 endeavoured to console hersel	 endeavoured to console her; I
+lewis_monk_4_g	30	0.9	33102	51255	 apprehension for his safety, 	 apprehension for the safety o
+collins_moonstone_74_d	31	0.9354838709677419	9952	5292	 for the first time since her a	 for the first time since we ha
+radcliffe_udolpho_50_g	30	0.9	1110	54126	 for the purpose of indulging 	 for the purpose of bringing h
+radcliffe_udolpho_50_g	30	0.9	23132	40845	 the gallery, while she had po	 the gallery, when she heard o
+radcliffe_udolpho_18_g	30	0.9	12772	41591	 Emily remained silent and exp	 Emily remained silent, and An
+radcliffe_udolpho_18_g	31	1.0	17658	26486	e, ma'amselle,' said Annette, '	e, ma'amselle,' said Annette, '
+radcliffe_udolpho_18_g	31	0.9354838709677419	17658	27264	e, ma'amselle,' said Annette, '	e, ma'amselle!' said Annette: '
+radcliffe_udolpho_18_g	30	0.9666666666666667	17659	36179	, ma'amselle,' said Annette, '	, ma'amselle,' said Annette, l
+radcliffe_udolpho_18_g	30	0.9	17660	39066	 ma'amselle,' said Annette, 'w	 ma'amselle,' cried Annette, '
+radcliffe_udolpho_18_g	32	0.90625	18040	29704	, indeed, ma'amselle, not they. 	, indeed, ma'amselle, for they m
+radcliffe_udolpho_18_g	30	0.9	18040	41975	, indeed, ma'amselle, not they	, indeed, ma'amselle, for the 
+radcliffe_udolpho_18_g	32	0.96875	22019	18503	 the remembrance of Valancourt w	 the remembrance of Valancourt, 
+radcliffe_udolpho_18_g	32	1.0	22532	31479	 remote part of the castle, and 	 remote part of the castle, and 
+radcliffe_udolpho_18_g	37	0.918918918918919	22924	11247	 emotions of indescribable awe, this 	 emotions of indescribable awe which 
+radcliffe_udolpho_18_g	30	0.9	28801	11082	e scenes, the characters and t	e scenes, their character had 
+radcliffe_udolpho_18_g	32	0.90625	29356	36112	 she had formerly heard in the f	 she had formerly heard on that 
+radcliffe_udolpho_18_g	32	0.96875	32023	47774	 sighings of the wind among the 	 sighings of the wind along the 
+radcliffe_udolpho_13_g	30	0.9	10093	15553	 interview with Montoni was ov	 interview with Montoni, and o
+radcliffe_udolpho_13_g	30	0.9	25592	42072	 a considerable time, and was 	 a considerable time, and I re
+radcliffe_udolpho_13_g	47	0.9148936170212766	26749	42488	 was compelled to remain in uncertainty, as to 	 was compelled to remain in uncertainty on a po
+radcliffe_udolpho_13_g	32	1.0	33413	33572	 found it utterly impossible to 	 found it utterly impossible to 
+radcliffe_udolpho_3_g	30	0.9	1445	10135	 and Emily began to fear he me	 and Emily began to fear that 
+radcliffe_udolpho_3_g	32	1.0	22298	10370	 the distant perspective of the 	 the distant perspective of the 
+walpole_castleofotranto_1_g	32	0.90625	23769	36610	 at the end of the gallery, did 	 at the end of the gallery. His 
+radcliffe_udolpho_48_g	33	0.9090909090909091	3698	8879	 flight of steps, that led down t	 flight of steps, that led from t
+radcliffe_udolpho_48_g	31	0.9032258064516129	4401	13433	 overcoming her reluctance, she	 overcoming her reluctance to e
+radcliffe_udolpho_48_g	51	0.9019607843137255	6362	5381	guided and unfortunate Madame Montoni. When the ser	guided and unfortunate Madame Montoni. In the room,
+radcliffe_udolpho_48_g	33	0.9090909090909091	16674	2104	 looking up, she perceived the fe	 looking up, she perceived anothe
+radcliffe_udolpho_48_g	33	0.9090909090909091	32104	26858	 herself with a belief, that the 	 herself with a belief, that, if 
+radcliffe_udolpho_22_g	30	0.9	5101	12462	 the moment, in which they let	 the moment, in which she lean
+radcliffe_udolpho_22_g	30	0.9	16212	30295	 superiority to Montoni, and d	 superiority of Montoni, as di
+radcliffe_udolpho_22_g	32	0.9375	17658	9377	e, ma'amselle,' said Annette, 'w	e, ma'amselle!' said Annette; 'w
+radcliffe_udolpho_22_g	30	0.9333333333333333	25705	12102	 the private stair-case, and t	 the private stair-case; and, 
+radcliffe_udolpho_22_g	39	0.9487179487179487	28623	2615	ness and goodness of her parents, the t	ness and goodness of her parents, toget
+radcliffe_udolpho_4_g	30	0.9	4138	23882	 lingered so long on the summi	 lingered so long among the su
+radcliffe_udolpho_4_g	34	0.9117647058823529	4636	28789	 After the pause of a moment, she 	 After the pause of a moment, St. 
+radcliffe_udolpho_4_g	39	1.0	22291	27687	; while the distant perspective of the 	; while the distant perspective of the 
+radcliffe_udolpho_4_g	33	0.9393939393939394	23799	25426	d not permit her to distinguish t	d not permit them to distinguish 
+radcliffe_udolpho_4_g	30	0.9666666666666667	24899	25910	 wish for nothing so much as t	 wish for nothing so much as f
+radcliffe_udolpho_4_g	30	0.9	30275	8339	 the name of Valancourt, and t	 the name of Valancourt, was a
+radcliffe_udolpho_4_g	32	0.90625	32198	9432	 beyond the reach of her voice, 	 beyond the reach of his voice. 
+christie_secretadversary_17_d	33	0.9393939393939394	32884	21766	 in the presence of the men, who 	 in the presence of the man who d
+lewis_monk_10_g	30	0.9	1947	59224	 considerations for herself, f	 consideration for herself tha
+collins_moonstone_84_d	32	0.90625	9951	11045	, for the first time since her a	, for the first time since I had
+lewis_monk_7_g	43	0.9302325581395349	23412	12570	 found herself clasped in the arms of some 	 found herself clasped in the arms of her M
+radcliffe_udolpho_10_g	34	0.9117647058823529	4935	10299	 her eyes from the ground, she saw	 her eyes from the ground she woul
+radcliffe_udolpho_10_g	30	0.9	8261	12530	 she could scarcely dare to co	 she could scarcely endure to 
+radcliffe_udolpho_10_g	32	0.90625	8796	23631	 till she recollected, that the 	 till she recollected, that appe
+radcliffe_udolpho_10_g	30	0.9333333333333333	21052	34292	 thought she distinguished fem	 thought she distinguished a f
+radcliffe_udolpho_10_g	32	0.90625	29110	34396	 withdrew from the casement to a	 withdrew from the casement, and
+radcliffe_udolpho_10_g	30	0.9	31226	5630	ed to believe that he was the 	ed to believe that this was he
+lewis_monk_8_g	42	0.9047619047619048	325	34480	 the accomplishment of his wishes, no sens	 the accomplishment of his wishes, and has
+lewis_monk_8_g	31	0.9354838709677419	9182	23732	 would willingly have resigned 	 would willingly have remained 
+doyle_adventures_9_d	30	0.9	9946	34399	 then, for the first time sinc	 then, for the first time, saw
+doyle_adventures_9_d	30	0.9	32589	43831	le, it was too probable, that 	le, it was most probable that 
+radcliffe_udolpho_12_g	32	0.90625	1034	47595	e considered this circumstance, 	e considered that circumstance a
+radcliffe_udolpho_12_g	33	0.9090909090909091	6196	27858	nd were circumstances, that alone	nd were circumstances, that unite
+radcliffe_udolpho_12_g	30	0.9	8582	10775	he was awakened from her inact	he was awakened from her musin
+shelley_frankenstein_47_g	30	0.9	30407	6195	 circumstances, which induced 	 circumstances which produced 
+lewis_monk_1_g	30	0.9	18601	24482	 shall never see it more!' sai	 shall never see him more!' As
+radcliffe_udolpho_27_g	30	0.9	4244	2441	s of the chapel, and the men w	s of the chapel, and there I w
+radcliffe_udolpho_27_g	38	0.9210526315789473	29136	10250	t to a remote part of the chamber. But	t to a remote part of the chamber, tha
+radcliffe_udolpho_14_g	31	0.9032258064516129	30154	3421	 leaned from the window, that s	 leaned from the window, and sa
+radcliffe_udolpho_41_g	30	0.9	27449	10660	 she had formerly heard at mid	 she had formerly heard at the
+radcliffe_udolpho_41_g	48	0.9375	29341	10645	 to be the same she had formerly heard in the fi	 to be the same she had formerly heard at the ti
+radcliffe_udolpho_41_g	30	0.9	30713	2998	 had been made known to her; t	 had been made known to the se
+christie_secretadversary_10_d	37	0.918918918918919	24688	2309	 remembered, that he was one of the o	 remembered that this was one of the 
+christie_secretadversary_24_d	31	0.9032258064516129	6814	8160	. When they reached the court, 	. When they reached the car, Ju
+radcliffe_udolpho_54_g	34	0.9117647058823529	4638	15978	fter the pause of a moment, she we	fter the pause of a moment, asked 
+radcliffe_udolpho_54_g	34	0.9411764705882353	7114	31963	, with which he had regarded her, 	, with which he had regarded him, 
+radcliffe_udolpho_54_g	30	0.9	31955	8880	 she repeated the question; bu	 she repeated the question. 'W
+radcliffe_udolpho_35_g	31	0.9032258064516129	6198	20891	 were circumstances, that alone	 were circumstances, that unite
+radcliffe_udolpho_35_g	32	0.90625	21516	6150	as at this moment, when the scen	as at this moment, when her coun
+radcliffe_udolpho_35_g	33	0.9090909090909091	25587	19750	, for a considerable time, and wa	, for a considerable time, a dark

@@ -1,0 +1,216 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_88_d	36	0.9444444444444444	22871	6512	t was the subject of conversation in	t was the subject of a conversation 
+collins_hauntedhotel_18_u	30	0.9	16859	3650	 opportunity of declaring the 	 opportunity of comparing the 
+radcliffe_udolpho_43_g	30	0.9	6037	10313	 more loudly than before, afte	 more loudly than before, till
+radcliffe_udolpho_43_g	30	0.9	6586	587	 the north side of the chateau	 the north side of the castle 
+doyle_adventures_8_d	32	0.90625	14480	49722	 the appearance, which they had 	 the appearance which she had ca
+doyle_adventures_8_d	32	0.9375	24457	18210	 years have passed since the Mar	 years have passed since then, a
+christie_secretadversary_20_d	31	0.9032258064516129	21937	1912	 to believe, that I have been u	 to believe that you have been 
+stoker_dracula_27_g	30	0.9	6583	30090	 on the north side of the chat	 on the north side of the comi
+austen_northangerabbey_10_g	38	0.9210526315789473	22326	6793	 the evening of the following day. M. 	 the evening of the following day was 
+radcliffe_udolpho_20_g	35	0.9142857142857143	339	28069	, on the preceding night, he was ob	, on the preceding night, she had b
+radcliffe_udolpho_20_g	31	0.9032258064516129	5861	38634	 retired to her apartment, and 	 retired to her apartment. In t
+radcliffe_udolpho_20_g	30	0.9	9646	11069	 on the preceding night, but L	 on the preceding night. But t
+radcliffe_udolpho_20_g	36	0.9166666666666666	24452	16039	 many years have passed since the Ma	 many years have passed, since this 
+radcliffe_udolpho_20_g	38	0.9210526315789473	25475	35297	s?' said Emily, when she was gone. 'It	s?' said Emily, when she was alone; 't
+collins_moonstone_78_d	36	0.9444444444444444	17352	318	 intention of returning to the conve	 intention of returning to the scene
+radcliffe_udolpho_19_g	30	0.9333333333333333	313	48986	 door having been fastened, on	 door having been fastened, du
+radcliffe_udolpho_19_g	31	0.9354838709677419	4451	48664	 to believe, that she had then 	 to believe, that she had been 
+radcliffe_udolpho_19_g	30	0.9	4825	18998	, and, before she could recove	, and, before she could leave 
+radcliffe_udolpho_19_g	30	0.9	9021	77914	r, they perceived, that the ma	r, they perceived, that it was
+radcliffe_udolpho_42_g	32	1.0	6586	350	 the north side of the chateau, 	 the north side of the chateau, 
+radcliffe_udolpho_42_g	33	0.9090909090909091	8216	2721	ed, and, having reached the saloo	ed, and, having reached the top o
+radcliffe_udolpho_42_g	34	0.9117647058823529	14536	17179	 of the deceased Marchioness. At a	 of the deceased Marchioness was a
+radcliffe_udolpho_42_g	39	0.9230769230769231	24450	2858	so many years have passed since the Mar	so many years have passed since this wa
+radcliffe_udolpho_42_g	36	0.9166666666666666	26103	15440	he strange circumstances, that have 	he strange circumstance, that had ju
+radcliffe_udolpho_32_g	30	0.9333333333333333	337	4248	ed, on the preceding night, he	ed, on the preceding night, pa
+radcliffe_udolpho_32_g	30	0.9	3726	4251	 on the preceding night, for i	 on the preceding night, parti
+radcliffe_udolpho_32_g	31	0.9354838709677419	4451	6903	 to believe, that she had then 	 to believe, that she had been 
+doyle_baskervilles_5_u	30	0.9	12902	4955	s difficult to discover what c	s difficult to discover who th
+radcliffe_udolpho_30_g	30	0.9	6422	3069	 in the lower part of the chat	 in the lower vault of the cha
+radcliffe_udolpho_30_g	33	0.9696969696969697	12491	25588	 for a considerable time, and wha	 for a considerable time, and was
+radcliffe_udolpho_30_g	30	0.9	15579	10349	 which he appeared to be alrea	 which he appeared to be exami
+radcliffe_udolpho_44_g	30	0.9	5910	1281	 to the door of the north cham	 to the door of the north apar
+radcliffe_udolpho_44_g	35	0.9428571428571428	8337	6440	 the door of the bed-room, and ente	 the door of the bed-room, and the 
+radcliffe_udolpho_44_g	32	0.90625	13742	1435	 inhabitants of the chateau to a	 inhabitants of the chateau. Hav
+radcliffe_udolpho_44_g	30	0.9666666666666667	14536	9932	 of the deceased Marchioness. 	 of the deceased Marchioness, 
+radcliffe_udolpho_44_g	30	0.9	15533	6865	 Marchioness de Villeroi's dea	 Marchioness de Villeroi died 
+radcliffe_udolpho_44_g	30	0.9	15715	13249	 the Count retired to his clos	 the Count retired to his dres
+radcliffe_udolpho_44_g	36	0.9166666666666666	15745	691	et, where he remained alone for seve	et, where they remained alone for ne
+radcliffe_udolpho_44_g	37	0.918918918918919	27415	26607	 affected by the solemnity of this ex	 affected by the solemnity of the sce
+radcliffe_udolpho_44_g	30	0.9	27457	12774	tion, and, remembering her fat	tion, and, remembering the app
+christie_secretadversary_12_d	30	0.9	4011	20339	 these reflections passed rapi	 these reflections passed thro
+shelley_frankenstein_45_g	30	0.9	1524	3924	t was the subject of her mourn	t was the subject of their con
+walpole_castleofotranto_2_g	31	0.9354838709677419	5861	40	 retired to her apartment, and 	 retired to her apartment, was 
+walpole_castleofotranto_2_g	30	0.9333333333333333	25281	34943	 the meaning of the words we u	 the meaning of the words he h
+doyle_adventures_6_d	30	0.9	12393	13677	 in the neighbourhood, and, re	 in the neighbourhood, and in 
+radcliffe_udolpho_56_g	38	0.9736842105263158	2395	1987	 with the temper of her mind, and she 	 with the temper of her mind; and she 
+radcliffe_udolpho_56_g	30	0.9333333333333333	5819	12703	. When they returned to the ch	. When they returned to the su
+radcliffe_udolpho_56_g	30	0.9333333333333333	13742	875	 inhabitants of the chateau to	 inhabitants of the chateau we
+radcliffe_udolpho_56_g	36	0.9166666666666666	19733	7908	e was silent a moment; and then adde	e was silent a moment, and then said
+radcliffe_udolpho_56_g	30	0.9333333333333333	26386	7304	s, with an air of reserve, min	s, with an air of reserve, and
+radcliffe_udolpho_38_g	39	0.9487179487179487	5535	1608	, respecting the estates of the late Ma	, respecting the estates of her late au
+radcliffe_udolpho_38_g	30	0.9	6668	24610	,' said the Count, 'and is at 	,' said the Count, 'and I was 
+radcliffe_udolpho_38_g	30	0.9	13407	5173	s increased to an excess, that	s increased to an excess, whic
+radcliffe_udolpho_38_g	30	0.9	14198	40035	 retirement of her convent, bu	 retirement of the convent, as
+radcliffe_udolpho_38_g	31	0.9354838709677419	15529	6241	 the Marchioness de Villeroi's 	 the Marchioness de Villeroi; b
+radcliffe_udolpho_38_g	30	0.9	16855	26483	t an opportunity of declaring 	t an opportunity of rendering 
+radcliffe_udolpho_38_g	30	0.9333333333333333	21990	28802	 regard for your happiness, an	 regard for your happiness, co
+radcliffe_udolpho_38_g	33	0.9090909090909091	22585	40035	 retirement of the convent, where	 retirement of the convent, as we
+radcliffe_udolpho_38_g	34	0.9117647058823529	24454	7552	any years have passed since the Ma	any years have passed, since it ha
+radcliffe_udolpho_38_g	30	0.9	25513	25183	 is nothing extraordinary,' re	 is nothing extraordinary; eve
+radcliffe_udolpho_38_g	38	0.9210526315789473	26113	19246	 circumstances, that have occurred at 	 circumstances, that had occurred to h
+austen_northangerabbey_18_g	30	0.9	27455	802	tation, and, remembering her f	tation, and remembering how of
+radcliffe_udolpho_51_g	30	0.9666666666666667	5332	13641	 restrain her tears, while she	 restrain her tears, while The
+radcliffe_udolpho_51_g	30	0.9	6192	5122	 some accident had befallen Lu	 some accident has befallen hi
+radcliffe_udolpho_51_g	30	0.9	12491	21909	 for a considerable time, and 	 for a considerable time, unab
+radcliffe_udolpho_51_g	30	0.9	12491	25436	 for a considerable time, and 	 for a considerable time, to a
+radcliffe_udolpho_51_g	42	0.9047619047619048	24693	5619	 acquainted with circumstances, that enabl	 acquainted with circumstances, that will 
+radcliffe_udolpho_5_g	30	0.9333333333333333	339	8775	, on the preceding night, he w	, on the preceding night, his 
+radcliffe_udolpho_5_g	30	0.9	9023	4769	 they perceived, that the man 	 they perceived that they had 
+radcliffe_udolpho_17_g	32	0.90625	339	3824	, on the preceding night, he was	, on the preceding night. The la
+radcliffe_udolpho_52_g	30	1.0	17238	3572	 the impropriety of remaining 	 the impropriety of remaining 
+radcliffe_udolpho_52_g	35	0.9142857142857143	23306	10949	that the chateau was haunted, that 	that the chateau was haunted, and, 
+radcliffe_udolpho_24_g	50	0.92	6186	870	, that some accident had befallen Ludovico, whom t	, that some accident had befallen Ludovico, and th
+radcliffe_udolpho_24_g	30	0.9	25376	10144	 she rose from her seat, and w	 she rose from her bed, and we
+collins_moonstone_89_d	33	0.9090909090909091	12393	23487	 in the neighbourhood, and, retir	 in the neighbourhood, and went i
+radcliffe_udolpho_7_g	31	0.9032258064516129	340	2722	 on the preceding night, he was	 on the preceding night, where 
+radcliffe_udolpho_7_g	30	0.9	4825	3965	, and, before she could recove	, and, before she could reach 
+poe_usher_1_g	30	0.9666666666666667	12195	27266	, having secured the door of t	, having secured the door of i
+radcliffe_udolpho_39_g	30	0.9	12491	663	 for a considerable time, and 	 for a considerable time, unab
+radcliffe_udolpho_39_g	30	0.9	19730	5561	' He was silent a moment; and 	' He was silent a moment, as i
+radcliffe_udolpho_23_g	33	0.9090909090909091	7198	14378	, it appeared probable, that Ludo	, it appeared probable, that noth
+radcliffe_udolpho_23_g	33	1.0	12195	20713	, having secured the door of the 	, having secured the door of the 
+radcliffe_udolpho_29_g	31	0.9032258064516129	340	209	 on the preceding night, he was	 on the preceding night; she ha
+radcliffe_udolpho_29_g	30	0.9666666666666667	340	2534	 on the preceding night, he wa	 on the preceding night, she w
+radcliffe_udolpho_29_g	30	0.9	9643	206	 as on the preceding night, bu	 as on the preceding night; sh
+radcliffe_udolpho_29_g	32	0.90625	9643	2531	 as on the preceding night, but 	 as on the preceding night, she 
+radcliffe_udolpho_29_g	32	0.90625	12491	1754	 for a considerable time, and wh	 for a considerable time, on the
+radcliffe_udolpho_29_g	30	0.9	12491	8260	 for a considerable time, and 	 for a considerable time, when
+radcliffe_udolpho_55_g	30	0.9	4449	2997	ed to believe, that she had th	ed to believe that she had con
+radcliffe_udolpho_55_g	32	0.90625	12364	17763	 not only in the chateau, but in	 not only the chateau, but its n
+radcliffe_udolpho_55_g	32	0.90625	13848	650	e of the late Marchioness and wi	e of the late Marchioness de Vil
+radcliffe_udolpho_55_g	32	0.90625	13848	18210	e of the late Marchioness and wi	e of the late Marchioness de Vil
+radcliffe_udolpho_55_g	38	0.9210526315789473	15369	23004	 silence, concerning what she had alre	 silence, concerning what she had seen
+radcliffe_udolpho_55_g	34	0.9117647058823529	15437	260	s of an extraordinary nature; and 	s of an extraordinary nature now w
+radcliffe_udolpho_55_g	36	0.9166666666666666	15526	1840	 of the Marchioness de Villeroi's de	 of the Marchioness de Villeroi, we 
+radcliffe_udolpho_55_g	34	0.9411764705882353	15526	18957	 of the Marchioness de Villeroi's 	 of the Marchioness de Villeroi, a
+radcliffe_udolpho_55_g	31	0.9354838709677419	15529	23085	 the Marchioness de Villeroi's 	 the Marchioness de Villeroi to
+radcliffe_udolpho_55_g	33	0.9393939393939394	17211	18712	 more sensible than ever of the i	 more sensible, than ever, of thi
+radcliffe_udolpho_55_g	30	0.9666666666666667	24185	260	s of an extraordinary nature, 	s of an extraordinary nature n
+radcliffe_udolpho_55_g	31	1.0	24225	3647	 the late Marquis de Villeroi, 	 the late Marquis de Villeroi, 
+radcliffe_udolpho_55_g	30	0.9	24233	6180	e Marquis de Villeroi, and amo	e Marquis de Villeroi, and her
+radcliffe_udolpho_55_g	31	0.9032258064516129	24316	13051	 quitted Chateau-le-Blanc, and 	 quitted Chateau-le-Blanc, to w
+collins_moonstone_47_d	32	0.90625	23033	14744	r conversation on this subject, 	r conversation on the subject of
+lewis_monk_2_g	33	0.9090909090909091	339	51923	, on the preceding night, he was 	, on the preceding night, He had 
+radcliffe_udolpho_46_g	46	0.9130434782608695	5547	291	 the estates of the late Madame Montoni, he, w	 the estates of the late Madame Montoni; and, 
+radcliffe_udolpho_46_g	41	0.975609756097561	5547	1770	 the estates of the late Madame Montoni, 	 the estates of the late Madame Montoni; 
+radcliffe_udolpho_46_g	30	0.9333333333333333	21330	2295	he pleasure, with which she sh	he pleasure, with which she re
+radcliffe_udolpho_26_g	35	0.9142857142857143	339	1994	, on the preceding night, he was ob	, on the preceding night, she now b
+radcliffe_udolpho_1_g	30	0.9333333333333333	17916	37934	, my dear sir,' said she, 'and	, my dear sir,' said she, 'sin
+radcliffe_udolpho_6_g	30	0.9	4155	23637	 her first impulse was to avoi	 her first impulse was to hast
+radcliffe_udolpho_6_g	42	0.9047619047619048	4434	23217	 she was inclined to believe, that she had	 she was inclined to believe, that this wa
+radcliffe_udolpho_6_g	32	0.90625	5771	5357	e, in which Valancourt had no lo	e, in which Valancourt had been 
+radcliffe_udolpho_6_g	30	0.9	16814	11901	. On the following day, howeve	. On the following day, theref
+radcliffe_udolpho_6_g	30	0.9333333333333333	20307	33833	 my dear sir,' said Emily, whi	 my dear sir,' said Emily, poi
+radcliffe_udolpho_6_g	30	0.9	20307	34762	 my dear sir,' said Emily, whi	 my dear sir?' said Emily, in 
+radcliffe_udolpho_6_g	31	0.9032258064516129	20307	39849	 my dear sir,' said Emily, whil	 my dear sir,' said Emily, anxi
+shelley_frankenstein_46_g	30	0.9	6758	1599	 to gain admittance to the cha	 to gain admittance to the pri
+lewis_monk_9_g	33	0.9090909090909091	11109	40116	he had been reading, and the remn	he had been reading, and the Room
+christie_styles_13_d	40	0.95	4438	2782	 was inclined to believe, that she had t	 was inclined to believe that he had not
+doyle_adventures_12_d	30	0.9	13136	41141	to a state of sensibility, whi	to a state of insensibility th
+doyle_scarlet_13_d	30	0.9	26601	5603	 the crime of which he was sus	 the crime for which he was pu
+radcliffe_udolpho_16_g	30	0.9	340	16325	 on the preceding night, he wa	 on the preceding night. The c
+radcliffe_udolpho_16_g	34	0.9117647058823529	4301	17582	 she remembered the music she had 	 she remembered the scene she had 
+radcliffe_udolpho_16_g	30	0.9	9643	16322	 as on the preceding night, bu	 as on the preceding night. Th
+radcliffe_udolpho_16_g	31	1.0	23034	47538	 conversation on this subject, 	 conversation on this subject, 
+radcliffe_udolpho_25_g	33	0.9090909090909091	338	2820	d, on the preceding night, he was	d, on the preceding night, had sh
+radcliffe_udolpho_25_g	31	0.9032258064516129	338	19331	d, on the preceding night, he w	d, on the preceding night, and 
+radcliffe_udolpho_25_g	33	0.9090909090909091	4442	18263	 inclined to believe, that she ha	 inclined to believe, that there 
+radcliffe_udolpho_25_g	30	0.9	19730	12614	' He was silent a moment; and 	' He was silent a moment, as i
+radcliffe_udolpho_33_g	30	0.9333333333333333	2058	18909	, she seated herself on the br	, she seated herself on the la
+radcliffe_udolpho_33_g	34	0.9117647058823529	4241	18237	 with hasty steps, towards the cha	 with hasty steps towards the stai
+radcliffe_udolpho_33_g	30	0.9	4760	45761	ing this to be Valancourt. The	ing this to be Valancourt, tha
+radcliffe_udolpho_33_g	31	0.9032258064516129	6037	46163	 more loudly than before, after	 more loudly than before, and t
+radcliffe_udolpho_33_g	33	0.9090909090909091	7049	32682	, that opened from a gallery, lea	, that opened from the gallery, a
+radcliffe_udolpho_33_g	31	0.9032258064516129	8732	7818	 stumbled over something, and f	 stumbled over something, that 
+radcliffe_udolpho_33_g	31	0.9032258064516129	10419	49995	ed through the casements, next 	ed through the casements, and t
+radcliffe_udolpho_33_g	30	0.9	12491	36282	 for a considerable time, and 	 for a considerable time, unab
+shelley_frankenstein_53_g	30	0.9	15841	12665	 manner surprised and alarmed 	 manner surprised and pleased 
+radcliffe_udolpho_15_g	32	0.90625	25737	2317	 sometimes, thought, that there 	 sometimes thought that their fi
+radcliffe_udolpho_36_g	30	0.9	5830	7181	 returned to the chateau, Emil	 returned to the chateau, inst
+radcliffe_udolpho_36_g	32	0.96875	6586	8262	 the north side of the chateau, 	 the north-side of the chateau, 
+radcliffe_udolpho_36_g	30	0.9	22551	29883	 herself once more in the tran	 herself once more in the same
+radcliffe_udolpho_36_g	32	0.90625	22907	21167	 the convent parlour, where she 	 the convent parlour, while the 
+christie_secretadversary_26_d	32	0.90625	12393	2512	 in the neighbourhood, and, reti	 in the neighbourhood, and, if n
+christie_styles_11_d	32	0.90625	23034	7523	 conversation on this subject, a	 conversation on the subject. La
+radcliffe_udolpho_34_g	30	0.9	1928	6051	 these circumstances to her fa	 these circumstances to the Ch
+radcliffe_udolpho_34_g	35	0.9428571428571428	7580	31405	 appeared, on the first glance, to 	 appeared, on the first glance, as 
+austen_northangerabbey_2_g	30	0.9	17290	11919	 she immediately sought the Co	 she immediately thought the e
+lewis_monk_4_g	37	0.918918918918919	13195	45203	 the influence of superstition in gen	 the influence of superstition and we
+lewis_monk_4_g	30	0.9	16859	9293	 opportunity of declaring the 	 opportunity of declaring our 
+radcliffe_udolpho_50_g	30	0.9	13384	25392	 of the Count's servants incre	 of the Count's servants retur
+radcliffe_udolpho_50_g	31	0.9032258064516129	13384	54578	 of the Count's servants increa	 of the Count's servants were a
+radcliffe_udolpho_50_g	30	0.9	15377	47990	, concerning what she had alre	, concerning what she had over
+radcliffe_udolpho_50_g	34	0.9117647058823529	21727	38592	ed distressed, and remained silent	ed distressed, and remained seated
+radcliffe_udolpho_18_g	30	0.9333333333333333	6192	40491	 some accident had befallen Lu	 some accident had befallen he
+radcliffe_udolpho_13_g	31	0.9032258064516129	4442	43715	 inclined to believe, that she 	 inclined to believe, that it w
+radcliffe_udolpho_13_g	31	0.9032258064516129	5861	11142	 retired to her apartment, and 	 retired to her apartment, to t
+radcliffe_udolpho_13_g	33	0.9696969696969697	7091	28415	 the great stair-case into the la	 the great stair-case into the ha
+radcliffe_udolpho_13_g	33	0.9090909090909091	11396	5254	ness in his manner, that expresse	ness in his manner, that extremel
+radcliffe_udolpho_13_g	34	0.9117647058823529	26104	41298	e strange circumstances, that have	e strange circumstances, that migh
+radcliffe_udolpho_3_g	30	0.9	5322	2400	 could not restrain her tears,	 could not restrain her transp
+walpole_castleofotranto_1_g	33	0.9090909090909091	5910	37142	 to the door of the north chamber	 to the door of the great chamber
+walpole_castleofotranto_1_g	30	0.9	5913	38520	 the door of the north chamber	 the door of the great chamber
+doyle_adventures_5_d	30	0.9	12393	16605	 in the neighbourhood, and, re	 in the neighbourhood, and was
+radcliffe_udolpho_48_g	49	0.9387755102040817	4259	15579	 towards the chateau. As she passed along, she re	 towards the chateau. As she passed along the ter
+radcliffe_udolpho_48_g	38	0.9210526315789473	4609	15632	, she perceived a person, walking slow	, she perceived a person, walking, wit
+radcliffe_udolpho_48_g	31	1.0	5322	9435	 could not restrain her tears, 	 could not restrain her tears, 
+radcliffe_udolpho_48_g	37	0.918918918918919	5559	4626	 of the late Madame Montoni, he, with	 of the late Madame Montoni, where, i
+radcliffe_udolpho_48_g	30	0.9	5861	7010	 retired to her apartment, and	 retired to her apartment, whe
+shelley_frankenstein_40_g	30	0.9	12846	5118	 concerning the probability of	 concerning the probabilities 
+radcliffe_udolpho_22_g	30	0.9333333333333333	4116	10681	, that almost overcame her spi	, that almost overcame her sen
+radcliffe_udolpho_22_g	30	0.9333333333333333	21216	449	 she had received from him; pr	 she had received from him; we
+radcliffe_udolpho_22_g	35	0.9428571428571428	26113	2536	 circumstances, that have occurred 	 circumstances, that had occurred s
+christie_secretadversary_17_d	34	0.9117647058823529	3695	12173	 that he had probably been here on	 that he had probably been under o
+lewis_monk_7_g	30	0.9	11109	5910	he had been reading, and the r	he had been reading, and had n
+lewis_monk_7_g	30	0.9	18529	8217	 known what it is to love, and	 known what it is to love? Ans
+radcliffe_udolpho_10_g	31	0.9354838709677419	1255	31005	he pursued his way through the 	he pursued her way through the 
+radcliffe_udolpho_10_g	31	0.9032258064516129	4442	5623	 inclined to believe, that she 	 inclined to believe that this 
+radcliffe_udolpho_10_g	30	0.9	12495	28293	 a considerable time, and what	 a considerable time in what h
+radcliffe_udolpho_10_g	31	0.9354838709677419	15526	5582	 of the Marchioness de Villeroi	 of the Marchioness of Villeroi
+radcliffe_udolpho_12_g	30	0.9666666666666667	25357	49407	.' As she said this she rose f	.' As she said this, she rose 
+collins_hauntedhotel_25_u	30	0.9	2059	8914	 she seated herself on the bro	 she seated herself on the mus
+collins_hauntedhotel_25_u	31	0.9032258064516129	10203	2958	 have passed through that, and 	 have passed through that dread
+radcliffe_udolpho_27_g	30	0.9	339	4076	, on the preceding night, he w	, on the preceding night, resp
+radcliffe_udolpho_27_g	36	1.0	4433	12161	, she was inclined to believe, that 	, she was inclined to believe, that 
+radcliffe_udolpho_27_g	31	0.967741935483871	4442	12970	 inclined to believe, that she 	 inclined to believe, that the 
+radcliffe_udolpho_27_g	34	0.9411764705882353	13197	8401	he influence of superstition in ge	he influence of superstition now g
+radcliffe_udolpho_14_g	30	0.9	340	1642	 on the preceding night, he wa	 on the preceding night: the r
+radcliffe_udolpho_14_g	41	0.9024390243902439	22549	16121	nd herself once more in the tranquil reti	nd herself once more amid the tranquil be
+radcliffe_udolpho_14_g	30	0.9333333333333333	25513	18791	 is nothing extraordinary,' re	 is nothing extraordinary,' sa
+radcliffe_udolpho_49_g	31	0.9032258064516129	6422	5897	 in the lower part of the chate	 in the lower part of the house
+radcliffe_udolpho_49_g	39	0.9230769230769231	26112	1518	e circumstances, that have occurred at 	e circumstances, that had occurred to e
+radcliffe_udolpho_49_g	30	0.9333333333333333	27403	5071	!' Emily was affected by the s	!' Emily was affected by this 
+radcliffe_udolpho_41_g	30	0.9666666666666667	13849	16809	 of the late Marchioness and w	 of the late Marchioness, and 
+radcliffe_udolpho_41_g	30	0.9	26137	22573	e occurred at the chateau, hav	e occurred in the chateau, had
+radcliffe_udolpho_47_g	32	0.90625	12754	4467	 the disappearing of Ludovico, B	 the disappearance of Ludovico, 
+radcliffe_udolpho_47_g	34	0.9411764705882353	15526	14113	 of the Marchioness de Villeroi's 	 of the Marchioness de Villeroi, w
+radcliffe_udolpho_47_g	33	0.9090909090909091	15529	16187	 the Marchioness de Villeroi's de	 the Marchioness de Villeroi expi
+radcliffe_udolpho_47_g	36	0.9166666666666666	15942	4467	 the disappearance of Ludovico, all 	 the disappearance of Ludovico, on w
+radcliffe_udolpho_47_g	30	0.9333333333333333	18178	17859	,' replied the Count; 'and I k	,' replied the Count, 'and I w
+radcliffe_udolpho_47_g	30	0.9333333333333333	24380	14725	I was not here at the time, so	I was not here at the time, wh
+radcliffe_udolpho_47_g	35	0.9142857142857143	24693	4043	 acquainted with circumstances, tha	 acquainted with a circumstance, wh
+radcliffe_udolpho_47_g	33	0.9090909090909091	27404	14005	' Emily was affected by the solem	' Emily was affected by the histo
+radcliffe_udolpho_54_g	31	0.9032258064516129	13849	22356	 of the late Marchioness and wi	 of the late Marchioness de Vil
+radcliffe_udolpho_54_g	36	0.9166666666666666	14506	16406	y had witnessed in the chamber of th	y had witnessed in a chamber of that
+radcliffe_udolpho_54_g	36	0.9166666666666666	15526	21868	 of the Marchioness de Villeroi's de	 of the Marchioness de Villeroi, and
+radcliffe_udolpho_54_g	30	0.9	15532	22367	e Marchioness de Villeroi's de	e Marchioness de Villeroi bore
+radcliffe_udolpho_54_g	31	0.967741935483871	24452	6411	 many years have passed since t	 many years have passed, since 
+radcliffe_udolpho_54_g	32	0.90625	24826	7838	am,' replied the nun; 'but who s	am,' replied the nun, 'but her s
+radcliffe_udolpho_54_g	35	0.9428571428571428	27415	19244	 affected by the solemnity of this 	 affected by the solemnity of the s
+radcliffe_udolpho_35_g	30	0.9	843	3275	 that ascended from the sea, a	 that ascended from the great 
+radcliffe_udolpho_35_g	30	0.9333333333333333	1382	13684	 the brow of the promontory, t	 the brow of the promontory. B
+radcliffe_udolpho_35_g	31	0.9032258064516129	12393	441	 in the neighbourhood, and, ret	 in the neighbourhood, and that
+radcliffe_udolpho_35_g	30	0.9333333333333333	12491	19751	 for a considerable time, and 	 for a considerable time, a da
+radcliffe_udolpho_35_g	30	0.9333333333333333	24475	22938	 since the Marchioness died, t	 since the Marchioness died? '

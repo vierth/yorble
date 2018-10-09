@@ -1,0 +1,4 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_4_d	30	0.9333333333333333	9029	12893	 remained in the background, h	 remained in the background un
+christie_styles_4_d	30	0.9	2695	9815	he framework of the door was s	he framework of the door we ha
+christie_styles_4_d	32	0.96875	8730	1831	 Mrs. Inglethorp’s dying words. 	 Mrs. Inglethorp’s dying words, 

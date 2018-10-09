@@ -1,0 +1,38 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_11_g	30	0.9	25280	1013	. _Dr. Seward's Diary._ _1 Oct	. _Dr. Seward's Diary._ _13 Se
+stoker_dracula_11_g	30	0.9	25280	18294	. _Dr. Seward's Diary._ _1 Oct	. _Dr. Seward's Diary._ _17 Se
+christie_styles_6_d	32	0.90625	24265	19855	 but it did not seem to me good 	 but it did not seem to me to im
+stoker_dracula_10_g	30	0.9	25280	19636	. _Dr. Seward's Diary._ _1 Oct	. _Dr. Seward's Diary._ _10 Se
+stoker_dracula_10_g	30	0.9	35550	2214	 stopped and looked at me inte	 stopped and looked at me, and
+doyle_signoffour_11_d	35	0.9428571428571428	33177	8777	t I feared that he was about to mak	t I feared that she was about to fa
+stoker_dracula_20_g	33	1.0	25281	17322	 _Dr. Seward's Diary._ _1 October	 _Dr. Seward's Diary._ _1 October
+stoker_dracula_20_g	33	0.9696969696969697	25281	28537	 _Dr. Seward's Diary._ _1 October	 _Dr. Seward's Diary._ _2 October
+stoker_dracula_12_g	44	0.9090909090909091	2	0	II DR. SEWARD'S DIARY _30 September._--I got	II DR. SEWARD'S DIARY _18 September._--I dro
+stoker_dracula_12_g	65	0.9076923076923077	35368	33850	 I took him by the hand and raised him up. "Come," I said sternly	 I took him by the hand and raised him up. "Come," I said, "my de
+christie_styles_5_d	33	0.9090909090909091	428	10841	 for the first time since I have 	 for the first time since we had 
+lewis_monk_4_g	31	0.9032258064516129	27490	38640	 the honour of seconding your f	 the honour of conducting your 
+collins_moonstone_74_d	33	0.9090909090909091	428	5292	 for the first time since I have 	 for the first time since we had 
+collins_moonstone_74_d	31	0.9032258064516129	7555	16871	 other things to think of some 	 other things to think of. She 
+radcliffe_udolpho_50_g	31	0.9032258064516129	4397	33247	 addressed himself to the quest	 addressed himself to the hunte
+christie_styles_12_d	30	0.9	24267	4979	ut it did not seem to me good 	ut it did not seem to me to be
+christie_styles_12_d	33	0.9090909090909091	26372	8210	 in a state of considerable excit	 in a state of considerable agita
+christie_styles_12_d	31	0.9032258064516129	31160	8725	 this sudden change of his enti	 this sudden change of sentimen
+stoker_dracula_2_g	41	0.9024390243902439	24833	23425	, but I did not say anything, for I had a	, but I did not say anything, for I felt 
+christie_styles_2_d	30	0.9	21692	12418	, and went out of the room. Th	, and went out of the room car
+doyle_adventures_5_d	31	0.9032258064516129	15243	26409	 let us consider the limitation	 let us consider the situation 
+doyle_adventures_5_d	33	0.9090909090909091	26458	34522	 than I had ever seen him. There 	 than I had ever seen him. "That 
+stoker_dracula_24_g	31	0.9354838709677419	9729	3381	. _Mina Harker's Journal._ _30 	. _Mina Harker's Journal._ _5 O
+stoker_dracula_24_g	51	0.9019607843137255	10140	29092	e Lord Godalming, Dr. Seward, and Mr. Morris--Lord 	e Lord Godalming, Dr. Seward, and Mr. Morris were w
+stoker_dracula_24_g	34	0.9705882352941176	25280	16106	. _Dr. Seward's Diary._ _1 October	. _Dr. Seward's Diary._ _5 October
+collins_moonstone_84_d	35	0.9428571428571428	427	11045	, for the first time since I have l	, for the first time since I had le
+radcliffe_udolpho_10_g	33	0.9090909090909091	4188	33919	e continued to talk for some time	e continued to gaze for some time
+lewis_monk_6_g	30	0.9	34125	8770	. He threw himself on his knee	. He threw himself upon his be
+stoker_dracula_1_g	30	0.9	21693	9780	 and went out of the room. The	 and went out of the room. I a
+collins_moonstone_60_d	30	0.9333333333333333	5437	14288	 that I hardly knew what to ei	 that I hardly knew what to do
+doyle_baskervilles_2_u	31	0.9032258064516129	25473	14806	 of the utmost importance to sa	 of the utmost importance that 
+stoker_dracula_16_g	41	0.9024390243902439	34129	10595	 threw himself on his knees, and held up 	 threw himself on his knees, and hid his 
+collins_moonstone_76_d	30	0.9	35707	14918	, as on former occasion, just 	, as on former occasions, to g
+stoker_dracula_21_g	43	0.9302325581395349	1429	4349	 and sat down on the edge of his bed with h	 and sat down on the edge of the bed, with 
+stoker_dracula_21_g	34	0.9117647058823529	35652	4353	 sat down on the side of the bed. 	 sat down on the edge of the bed, 
+doyle_baskervilles_15_u	30	0.9	25473	251	 of the utmost importance to s	 of the utmost importance, in 
+collins_moonstone_52_d	30	0.9	26598	1561	 took it for granted that his 	 took it for granted that we s

@@ -1,0 +1,53 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_8_g	30	0.9	7146	34243	t was some minutes before she 	t was some moments before she 
+doyle_adventures_11_d	34	0.9117647058823529	5955	8577	t would be impossible to explain t	t would be impossible to replace t
+doyle_adventures_8_d	36	0.9166666666666666	2844	51694	he had been in the habit of thinking	he had been in the habit of standing
+doyle_adventures_8_d	30	0.9	6784	46320	 had ceased to strike. It was 	 had ceased to strike and was 
+collins_moonstone_86_d	30	0.9	11403	198	, for the first time in their 	, for the first time in his li
+dickens_christmascarole_5_g	30	0.9	7738	10919	 could not be mistaken as to t	 could not be mistaken, as he 
+austen_northangerabbey_30_g	30	0.9	11404	5502	 for the first time in their a	 for the first time since her 
+collins_hauntedhotel_28_u	30	0.9333333333333333	15755	3321	 had reached the end of the ga	 had reached the end of the Se
+radcliffe_udolpho_19_g	32	0.90625	15752	41604	hey had reached the end of the g	hey had reached the top of the g
+austen_northangerabbey_8_g	32	0.90625	2329	7431	y to oblige her; and Catherine r	y to oblige her than Catherine. 
+austen_northangerabbey_8_g	30	0.9333333333333333	10099	13108	” said Catherine, looking down	” said Catherine, looking roun
+doyle_baskervilles_5_u	33	0.9090909090909091	5587	11791	 know nothing of the matter. To i	 know nothing of the matter, nor 
+radcliffe_udolpho_30_g	32	0.90625	11403	9951	, for the first time in their ac	, for the first time since her a
+radcliffe_udolpho_30_g	32	0.90625	13105	30804	 from these circumstances,” he r	 from these circumstances, more 
+radcliffe_udolpho_30_g	30	0.9	13110	32847	 these circumstances,” he repl	 these circumstances, to reply
+radcliffe_udolpho_30_g	30	0.9	15767	23772	 the end of the gallery, and w	 the end of the gallery, did n
+lewis_monk_11_g	30	0.9	8591	27030	 the sound of footsteps, she c	 the sound of footsteps was he
+radcliffe_udolpho_44_g	30	0.9	8521	12922	 she was on the point of retre	 she was on the point of menti
+austen_northangerabbey_23_g	30	0.9	7877	13404	 apartment, to which she had g	 apartments of which she had c
+austen_northangerabbey_23_g	31	1.0	8294	283	 whatever might have been the g	 whatever might have been the g
+radcliffe_udolpho_56_g	31	0.9032258064516129	7738	10170	 could not be mistaken as to th	 could not be mistaken, and to 
+christie_secretadversary_9_d	35	0.9714285714285714	6498	5990	 there was no time to be lost. The 	 there was no time to be lost. She 
+radcliffe_udolpho_51_g	36	0.9166666666666666	8521	1087	 she was on the point of retreating 	 she was on the point of returning h
+stoker_dracula_5_g	39	0.9230769230769231	13352	15609	 him more fully than she had ever done 	 him more fully than I had ever done, w
+collins_hauntedhotel_24_u	30	0.9	3786	12730	 at the same moment, in his lo	 at the same moment, on his wa
+lewis_monk_3_g	30	0.9	3711	35047	 at the further end of the gal	 at the further end of the roo
+lewis_monk_3_g	31	0.9032258064516129	11404	3766	 for the first time in their ac	 for the first time since her c
+lewis_monk_3_g	30	0.9333333333333333	14601	36031	 I will not pretend to say tha	 I will not pretend to say: Th
+shelley_frankenstein_37_g	30	0.9333333333333333	4365	3135	 in the greatest agitation, de	 in the greatest agitation, li
+austen_northangerabbey_29_g	35	0.9142857142857143	389	4932	 between six and seven o'clock, or 	 between six and seven o'clock in t
+austen_northangerabbey_5_g	30	0.9	14094	2120	 received every possible atten	 received every possible encou
+stoker_dracula_23_g	30	0.9666666666666667	5952	11260	. It would be impossible to ex	. It would be impossible to de
+austen_northangerabbey_9_g	30	0.9	10098	2849	,” said Catherine, looking dow	,” said Catherine, looking at 
+lewis_monk_9_g	33	0.9090909090909091	8524	51132	e was on the point of retreating 	e was on the point of preventing 
+radcliffe_udolpho_33_g	30	0.9	3711	27080	 at the further end of the gal	 at the further end of this pa
+radcliffe_udolpho_33_g	39	0.9743589743589743	7144	27387	 it was some minutes before she could a	 it was some minutes, before she could 
+radcliffe_udolpho_33_g	30	0.9	15755	24009	 had reached the end of the ga	 had reached the end of it, wa
+collins_moonstone_56_d	30	0.9666666666666667	11404	4703	 for the first time in their a	 for the first time in their l
+austen_northangerabbey_2_g	34	0.9411764705882353	14887	8613	t would have been very shocking!” 	t would have been very shocking to
+collins_moonstone_74_d	30	0.9	13636	2191	 she could be prevailed on, a 	 she could be prevailed upon t
+austen_northangerabbey_26_g	30	0.9	3713	9230	t the further end of the galle	t the further end of the villa
+austen_northangerabbey_26_g	33	0.9090909090909091	14124	8152	tion which could spring from the 	tion which could spring from a co
+austen_northangerabbey_6_g	32	0.90625	8525	7080	 was on the point of retreating 	 was on the point of reverting t
+doyle_baskervilles_8_u	30	0.9666666666666667	15755	13327	 had reached the end of the ga	 had reached the end of the fa
+walpole_castleofotranto_1_g	32	0.9375	15767	19052	 the end of the gallery, and wit	 the end of the gallery, and tur
+lewis_monk_10_g	32	0.90625	8525	17497	 was on the point of retreating 	 was on the point of retiring, w
+doyle_adventures_9_d	30	0.9333333333333333	3711	32766	 at the further end of the gal	 at the further end of the pas
+shelley_frankenstein_47_g	31	0.9032258064516129	8529	16927	 on the point of retreating as 	 on the point of repeating his 
+radcliffe_udolpho_54_g	30	0.9	7146	8390	t was some minutes before she 	t was some moments before she 
+austen_northangerabbey_17_g	32	0.9375	5398	1011	t. In the course of this morning	t. In the course of the morning 
+austen_northangerabbey_17_g	31	0.9032258064516129	14261	960	 at such a distance as to retur	 at such a distance as to excit
+doyle_scarlet_8_d	35	0.9142857142857143	15749	17890	” They had reached the end of the g	” They had reached the base of the 

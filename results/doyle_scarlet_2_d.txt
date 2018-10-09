@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_3_g	30	0.9	19336	19372	r. Here was an opportunity of 	r. Here was an opportunity whi
+collins_moonstone_84_d	30	0.9666666666666667	13319	6231	 in the seclusion of his own s	 in the seclusion of his own r
+doyle_adventures_2_d	30	0.9	10004	46120	me that he had some strong rea	me that he had some strong mot
+doyle_adventures_2_d	30	0.9333333333333333	17824	15315	ed over to the window, and sto	ed over to the window and shou
+christie_secretadversary_3_d	31	0.9032258064516129	5102	5189	 a lot of other things so that 	 a lot of other things that you
+collins_moonstone_53_d	32	0.9375	9846	5411	 I had an opportunity of asking 	 I had an opportunity of saying 
+lewis_monk_6_g	31	0.9032258064516129	1502	30308	 from morning to night. On thes	 from morning to night; and the
+austen_northangerabbey_16_g	30	0.9	18739	12425	, looking anxiously at the num	, looking anxiously at her dau
+doyle_adventures_9_d	30	0.9	8853	15319	, however, I found that he had	, however, I found that this d
+doyle_adventures_9_d	38	0.9210526315789473	9011	25208	 who was introduced to me as Mr. Lestr	 who was introduced to me as Mr. Fergu
+doyle_adventures_9_d	50	0.92	19008	33365	 The thought had hardly passed through my mind whe	 The thought had hardly flashed through my mind be
+collins_hauntedhotel_25_u	30	0.9	1618	10092	 have suspected him of being a	 have suspected her of being u
+lewis_monk_1_g	30	0.9	6141	5509	, and endeavoured to draw my d	, and endeavoured to draw off 
+lewis_monk_1_g	30	0.9333333333333333	9848	33021	 had an opportunity of asking 	 had an opportunity of seeing 
+doyle_baskervilles_4_u	32	0.96875	18709	16133	n the other side of the street, 	n the other side of the street w
+radcliffe_udolpho_14_g	31	0.9032258064516129	9848	4422	 had an opportunity of asking h	 had an opportunity of reading 
+radcliffe_udolpho_14_g	31	0.9032258064516129	19347	4426	 an opportunity of taking the c	 an opportunity of reading the 
+radcliffe_udolpho_49_g	30	0.9333333333333333	562	1695	 on the following morning Sher	 on the following morning, she
+collins_moonstone_60_d	32	0.90625	3117	13459	. Under these circumstances, I e	. Under those circumstances, it 
+doyle_scarlet_4_d	30	0.9	12984	10831	?” asked Sherlock Holmes. “Why	?” asked Sherlock Holmes. John
+doyle_baskervilles_2_u	33	0.9090909090909091	6405	19076	on which he had shown me that he 	on which he had shown, that he co
+doyle_scarlet_1_d	30	0.9333333333333333	1119	4366	 at the chemical laboratory, s	 at the chemical laboratory up
+doyle_scarlet_1_d	30	0.9333333333333333	15649	14668	 had come from Afghanistan.” “	 had come from Afghanistan?” M
+doyle_scarlet_1_d	30	0.9	19250	9064	 Mr. Sherlock Holmes,” he said	 Mr. Sherlock Holmes,” said St
+stoker_dracula_21_g	30	0.9	8095	5122	 he would close his eyes and s	 he would open his eyes and sp
+collins_moonstone_65_d	33	0.9090909090909091	3117	8107	. Under these circumstances, I ea	. Under these circumstances, and 

@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_75_d	30	0.9	25	11515	hatever you have to say to me,	hatever you wish to say to me,
+collins_moonstone_75_d	30	1.0	4515	23544	, and walked out of the room. 	, and walked out of the room. 
+christie_secretadversary_18_d	31	0.9354838709677419	1299	9258	 if you don't believe me. They 	 if you don’t believe me.” The 
+christie_secretadversary_18_d	30	0.9	2296	10872	 They looked at each other--an	 They looked at each other in 
+collins_moonstone_68_d	32	0.90625	3210	20069	 acknowledge the receipt of the 	 acknowledged the receipt of a v
+collins_moonstone_79_d	34	0.9411764705882353	2947	8300	May I ask for what purpose?' Mrs. 	May I ask for what purpose?” “Mr. 
+collins_hauntedhotel_20_u	31	0.9354838709677419	1631	8133	e other members of his family, 	e other members of the family, 
+collins_moonstone_80_d	45	0.9111111111111111	831	777	 he said, as soon as he had recovered himself	 he said, as soon as he had recovered the use
+collins_hauntedhotel_5_u	52	0.9423076923076923	2786	1387	 the fashionable intelligence of the newspapers, tha	 the fashionable intelligence of the newspapers anno
+christie_styles_5_d	32	0.9375	1628	3916	 the other members of his family	 the other members of the family
+collins_hauntedhotel_6_u	30	0.9	1543	11125	?' Mr. Troy repeated, in blank	?' Mr. Troy repeated, in a ton
+collins_hauntedhotel_10_u	94	0.9042553191489362	3191	3425	I come, my lady, to acknowledge the receipt of the money sent to Ferrari's widow." Ah! you may	I come, my lady, to acknowledge the receipt of the money sent to Ferrari's widow.' Lady Montba

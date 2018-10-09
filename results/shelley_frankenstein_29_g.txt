@@ -1,0 +1,14 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_41_g	30	0.9333333333333333	4047	9137	. Six years have passed since 	. Six years had passed since t
+shelley_frankenstein_30_g	30	0.9333333333333333	0	0	_To Mrs. Saville, England._ St	_To Mrs. Saville, England._ Ar
+shelley_frankenstein_30_g	30	1.0	6786	7294	. Your affectionate brother, R	. Your affectionate brother, R
+shelley_frankenstein_53_g	30	0.9	849	7862	ever presents itself to my ima	ever presented itself to my mi
+shelley_frankenstein_31_g	30	0.9333333333333333	0	0	_To Mrs. Saville, England._ St	_To Mrs. Saville, England._ Ju
+shelley_frankenstein_31_g	30	0.9333333333333333	600	478	 the regions towards which I a	 the region towards which we a
+shelley_frankenstein_32_g	30	0.9333333333333333	0	0	_To Mrs. Saville, England._ St	_To Mrs. Saville, England._ Au
+lewis_monk_4_g	39	0.9743589743589743	316	41575	 in the success of my undertaking. I am	 in the success of my undertaking. I im
+collins_moonstone_74_d	32	0.90625	2432	7040	 ascertaining the secret of the 	 ascertaining the extent of the 
+radcliffe_udolpho_13_g	30	0.9333333333333333	2583	3413	d the agitation with which I b	d the agitation with which it 
+shelley_frankenstein_54_g	35	0.9142857142857143	862	1805	 itself to my imagination as the re	 itself to my imagination, the reme
+reeve_oldenglishbaron_	30	0.9	3944	10233	 inherited the fortune of my c	 inherited the fortune of his 
+collins_moonstone_84_d	30	0.9	3549	14983	ed, for the first time, those 	ed, for the first time, into a

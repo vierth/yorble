@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+poe_marieroget_1_d	31	0.9032258064516129	6446	32300	 under such circumstances I sho	 under such circumstances as to
+poe_marieroget_1_d	30	0.9	6446	37428	 under such circumstances I sh	 under such circumstances, tha
+poe_marieroget_1_d	35	0.9142857142857143	6446	47711	 under such circumstances I should 	 under such circumstances it could 
+poe_marieroget_1_d	30	0.9	6446	103514	 under such circumstances I sh	 under such circumstances is i
+poe_marieroget_1_d	32	0.90625	9585	17092	, a thousand contradictory theor	, a thousand contradictory rumor
+austen_northangerabbey_28_g	35	0.9142857142857143	6446	4865	 under such circumstances I should 	 under such circumstances as would 
+collins_moonstone_53_d	30	0.9	6471	11312	 I should certainly have throw	 I should certainly have prote
+collins_moonstone_66_d	31	0.9032258064516129	4844	2163	 in drawing the picture of my e	 in drawing the picture of his 

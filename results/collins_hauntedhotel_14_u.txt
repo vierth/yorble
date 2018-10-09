@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_1_g	30	0.9	333	27454	 and the arrangement of them w	 and the arrangements for the 
+christie_styles_13_d	30	0.9333333333333333	1215	9449	 discovered that these were no	 discovered that there were on
+collins_hauntedhotel_5_u	30	0.9	3354	5672	 Lord and Lady Montbarry and M	 Lord and Lady Montbarry, at o
+doyle_baskervilles_9_u	32	0.90625	6563	4043	 the course of true love had no 	 the course of true love does no
+christie_styles_11_d	35	0.9142857142857143	4266	23830	 perfectly well aware that he was i	 perfectly well aware that the will
+christie_styles_5_d	30	0.9	3958	1464	er to the drawing-room, which 	er to the drawing-room, where 
+collins_hauntedhotel_19_u	30	0.9666666666666667	3354	7861	 Lord and Lady Montbarry and M	 Lord and Lady Montbarry? and 
+doyle_signoffour_5_d	30	0.9333333333333333	143	3135	e of the building, with its fi	e of the building, with its gl
+collins_hauntedhotel_15_u	30	0.9	3354	8307	 Lord and Lady Montbarry and M	 Lord and Lady Montbarry at Pa
+collins_hauntedhotel_15_u	36	0.9444444444444444	6258	555	, Sir Theodore and Lady Barville arr	, Sir Theodore and Lady Barville; Mr
+doyle_baskervilles_2_u	30	0.9	1224	20369	ed that these were no other th	ed that there were no other fo
+collins_moonstone_65_d	30	0.9	4957	21180	 of putting them to the test. 	 of putting her to the test my

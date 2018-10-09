@@ -1,0 +1,271 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_6_d	30	0.9	25008	12112	Would to God that I had never 	Would to God that I had given 
+doyle_scarlet_6_d	30	0.9	25053	12112	Would to God that I had never 	Would to God that I had given 
+walpole_castleofotranto_2_g	31	0.9032258064516129	26059	32182	 herself under his protection. 	 herself under my protection.” 
+collins_hauntedhotel_4_u	31	0.9354838709677419	20102	12764	. There was something in her lo	. There was something in the wo
+radcliffe_udolpho_38_g	30	0.9666666666666667	6048	7389	d to the gratification of the 	d to the gratification of her 
+radcliffe_udolpho_38_g	30	0.9	9022	36020	 was not proof against the fre	 was not proof against it, he 
+radcliffe_udolpho_38_g	30	0.9	22559	1669	 on the means of removing this	 on the means of recovering th
+radcliffe_udolpho_38_g	30	0.9	34833	24639	 much pleased with him and mor	 much pleased with him, on our
+shelley_frankenstein_56_g	31	0.9032258064516129	6665	31084	. At length She opened her eyes	. At length he opened his eyes;
+lewis_monk_12_g	32	0.90625	6052	15651	 the gratification of the senses	 the gratification of my senses:
+lewis_monk_12_g	39	0.9230769230769231	11926	33690	e, were ill-calculated to inspire her w	e, were ill-calculated to inspire that 
+lewis_monk_12_g	30	0.9	25622	30930	e!' At this moment the Abbot h	e!' At this moment the bolt of
+lewis_monk_12_g	34	0.9705882352941176	43226	13152	s were so violent, as nearly to ha	s were so violent, as nearly to an
+lewis_monk_12_g	31	0.9354838709677419	66004	33445	 scenes in which I had been an 	 scenes in which He had been a 
+radcliffe_udolpho_51_g	39	0.9230769230769231	36374	24140	 being sufficiently recovered to relate	 being sufficiently recovered to bear t
+radcliffe_udolpho_5_g	30	0.9	14608	11097	y of his countenance. 'What, w	y of his countenance: 'What ha
+radcliffe_udolpho_5_g	31	0.9354838709677419	37286	5799	l, and endeavoured to make her 	l, and endeavoured to make his 
+doyle_adventures_3_d	31	0.967741935483871	35566	25828	t the bedside of the Sufferer. 	t the bedside of the sufferer. 
+radcliffe_udolpho_52_g	30	0.9	24388	14914	 only chance of escaping their	 only chance of escaping detec
+stoker_dracula_19_g	30	0.9333333333333333	35499	16917	 the adventures of the night, 	 the adventure of the night he
+stoker_dracula_14_g	30	0.9333333333333333	61762	13456	 I threw myself upon my knees 	 I threw myself on my knees an
+lewis_monk_3_g	33	0.9393939393939394	863	49028	 was well acquainted with the nat	 was well acquainted with the roa
+lewis_monk_3_g	32	0.90625	23193	2799	 the Convent of St. Clare is on 	 the Convent of St. Clare, in wh
+lewis_monk_3_g	30	0.9	25107	40214	 darted upon him a look of sco	 darted upon him a look of min
+lewis_monk_3_g	38	0.9473684210526315	26019	61012	 resolved to risque every thing to thr	 resolved to risque every thing to pre
+lewis_monk_3_g	31	0.9032258064516129	26067	64420	 under his protection. The door	 under his protection. The grat
+lewis_monk_3_g	32	0.9375	29640	36848	 continued to converse with him 	 continued to converse with the 
+lewis_monk_3_g	37	0.918918918918919	30926	61794	ould not escape the vigilance of the 	ould not escape the vigilance of our 
+lewis_monk_3_g	34	0.9117647058823529	35528	65882	 no persuasion could induce her to	 no persuasions could induce Theod
+lewis_monk_3_g	38	0.9210526315789473	45821	57047	 which might lead him to suspect their	 which might lead me to suspect the cr
+lewis_monk_3_g	30	0.9	46886	52700	 complied with his request. Th	 complied with his request ins
+lewis_monk_3_g	33	0.9090909090909091	49352	29823	 permitted me to distinguish the 	 permitted me to distinguish a Ma
+lewis_monk_3_g	31	0.9354838709677419	56214	22511	 which I had just quitted: The 	 which I had just quitted. She 
+lewis_monk_3_g	35	0.9142857142857143	65301	5735	 the Marquis de las Cisternas, One 	 the Marquis de las Cisternas were 
+lewis_monk_3_g	33	0.9090909090909091	67741	65882	 no persuasion could induce me to	 no persuasions could induce Theo
+lewis_monk_3_g	30	0.9333333333333333	73086	60748	Such was my situation, when Ca	Such was my situation, when th
+collins_moonstone_69_d	30	0.9333333333333333	78134	22463	 It is needless to say that Th	 It is needless to say that my
+stoker_dracula_26_g	33	0.9090909090909091	21450	16607	r; and in order to prevent the le	r; and in order to prevent his be
+stoker_dracula_26_g	33	0.9090909090909091	28164	6077	e. She opened her eyes, and on li	e. She opened her eyes, and we al
+collins_moonstone_89_d	30	0.9	7190	7578	ed themselves on every side co	ed themselves on either side o
+collins_moonstone_89_d	30	0.9666666666666667	78133	58617	. It is needless to say that T	. It is needless to say, that 
+collins_moonstone_89_d	30	0.9666666666666667	78133	79671	. It is needless to say that T	. It is needless to say that m
+poe_usher_1_g	30	0.9	46809	1456	 the contemplation of those on	 the contemplation of the Hous
+poe_usher_1_g	33	0.9393939393939394	72318	19126	 the narrow limits, to which the 	 the narrow limits to which he th
+doyle_signoffour_8_d	30	0.9	867	10937	 well acquainted with the natu	 well acquainted with the hous
+christie_secretadversary_25_d	31	0.9032258064516129	22613	110	 the sound of feet approaching 	 the sound of the approaching t
+shelley_frankenstein_52_g	44	0.9545454545454546	63428	13500	 how long I remained in this situation; But 	 how long I remained in this situation, but 
+radcliffe_udolpho_23_g	33	0.9090909090909091	32163	9584	e contented himself with stating 	e contented himself with swearing
+poe_marieroget_1_d	31	0.9354838709677419	46809	109687	 the contemplation of those on 	 the contemplation of whose won
+radcliffe_udolpho_29_g	35	0.9428571428571428	46630	1925	he had hitherto concealed from him 	he had hitherto concealed from the 
+austen_northangerabbey_21_g	32	0.90625	55267	16581	ed by the sound of distant foots	ed by the sound of distant moans
+doyle_signoffour_4_d	32	0.90625	22539	11423	 was still pondering on the mean	 was still pondering over the ma
+shelley_frankenstein_55_g	34	0.9117647058823529	19810	11022	 painted on his countenance. He ra	 painted on his countenance. When 
+shelley_frankenstein_55_g	30	0.9333333333333333	68456	8929	hen released from my prison, I	hen released from my prison. F
+shelley_frankenstein_55_g	34	0.9117647058823529	72251	8478	 was unable to rise from the bed o	 was unable to rise from his bed, 
+radcliffe_udolpho_55_g	30	0.9	9022	8100	 was not proof against the fre	 was not proof against her bea
+collins_moonstone_47_d	30	0.9333333333333333	39701	14745	 conversation to the subject w	 conversation on the subject o
+lewis_monk_2_g	30	0.9333333333333333	2468	817	. He looked round him with sus	. He looked round him with exu
+lewis_monk_2_g	31	0.9032258064516129	3747	49207	 spread itself over her cheek; 	 spread itself over his cheek. 
+lewis_monk_2_g	32	0.96875	3747	83721	 spread itself over her cheek; a	 spread itself over her cheeks; 
+lewis_monk_2_g	32	0.9375	6085	89298	 in the full vigour of manhood, 	 in the full vigour of Manhood. 
+lewis_monk_2_g	33	1.0	12069	42626	 created no other sentiment than 	 created no other sentiment than 
+lewis_monk_2_g	30	0.9	13496	2336	 had been the object of his ad	 had been the Object of his in
+lewis_monk_2_g	34	0.9117647058823529	19621	58570	d the violence of her affliction w	d the violence of his affliction. 
+lewis_monk_2_g	31	1.0	25149	75897	' She exclaimed with an air of 	' She exclaimed with an air of 
+lewis_monk_2_g	30	0.9	29676	71505	 the moment of dissolution. He	 the moment of dissolution!' O
+lewis_monk_2_g	33	0.9090909090909091	29759	83720	d spread itself over her eyes; He	d spread itself over her cheeks; 
+lewis_monk_2_g	31	0.9354838709677419	34517	77633	e entreated permission to enqui	e entreated permission to quit 
+lewis_monk_2_g	41	0.9024390243902439	43604	20325	 communicated itself to his body, and He 	 communicated itself to his bosom, and a 
+lewis_monk_2_g	38	0.9210526315789473	49916	85466	, and sank almost lifeless upon my Bie	, and sank almost lifeless upon the Be
+lewis_monk_2_g	30	0.9	50002	25659	 and the consciousness of bein	 and the consciousness of a li
+lewis_monk_2_g	30	0.9	51781	12019	 the innocent Creature, who st	 the innocent Creature whom yo
+lewis_monk_2_g	30	0.9	56703	50290	s were unable to support their	s were unable to support delig
+lewis_monk_2_g	30	0.9	64935	82534	 from which I was for ever exc	 from which He was for ever se
+lewis_monk_2_g	30	0.9	74905	71505	 the moment of dissolution, wh	 the moment of dissolution!' O
+lewis_monk_2_g	30	0.9	75209	26112	 at once more beholding a Frie	 at once more beholding a fell
+lewis_monk_2_g	30	0.9	75984	13903	 on the point of becoming his 	 on the point of becoming my l
+lewis_monk_2_g	34	0.9117647058823529	77494	61047	 expressed his satisfaction at the	 expressed their satisfaction at h
+stoker_dracula_23_g	37	0.9459459459459459	78192	11264	 would be impossible to describe his 	 would be impossible to describe the 
+austen_northangerabbey_9_g	30	0.9	49450	6007	; and perceiving that the grat	; and perceiving that the anim
+radcliffe_udolpho_26_g	33	0.9090909090909091	11580	20879	 to disengage herself from his ar	 to disengage herself from the gr
+radcliffe_udolpho_26_g	34	0.9411764705882353	27086	10073	 expected every moment to see the 	 expected every moment to see it e
+radcliffe_udolpho_26_g	31	0.9354838709677419	63365	20035	 fell senseless at the feet of 	 fell senseless at the foot of 
+radcliffe_udolpho_1_g	30	0.9	6049	26509	 to the gratification of the s	 to the gratification of his o
+radcliffe_udolpho_1_g	30	0.9	37704	27178	 by nature and education with 	 by nature and education, was 
+radcliffe_udolpho_6_g	30	0.9	41272	40668	e lamented the circumstances; 	e lamented this circumstance, 
+radcliffe_udolpho_6_g	33	0.9090909090909091	55257	1567	 interrupted by the sound of dist	 interrupted by the sound of the 
+christie_styles_10_d	33	0.9090909090909091	55251	6264	s were interrupted by the sound o	s were interrupted by the sudden 
+shelley_frankenstein_46_g	33	0.9090909090909091	1097	5147	 a favourable opportunity of cons	 a favourable opportunity of pass
+shelley_frankenstein_46_g	30	0.9333333333333333	1097	6945	 a favourable opportunity of c	 a favourable opportunity for 
+lewis_monk_9_g	30	0.9	716	49036	ed with the success of his pla	ed with the success of his vis
+lewis_monk_9_g	36	0.9444444444444444	783	44873	 buried in the vaults of St. Clare, 	 buried in the Vaults of St. Clare. 
+lewis_monk_9_g	36	0.9722222222222222	13408	413	 crime which He had just committed. 	 crime which He had just committed f
+lewis_monk_9_g	53	0.9056603773584906	17755	56109	he wealth of India would not have tempted him to a se	he wealth of India would not have tempted her to cros
+lewis_monk_9_g	32	0.96875	17928	39384	 the scene which had just past. 	 the scene which had just past, 
+lewis_monk_9_g	30	0.9	20141	4514	 penetrated him with horror; a	 penetrated her with horror; b
+lewis_monk_9_g	30	0.9	23053	64940	 without losing a moment. 'Wha	 without losing a moment. 'I w
+lewis_monk_9_g	31	0.9354838709677419	23193	47575	 the Convent of St. Clare is on	 the Convent of St. Clare: His 
+lewis_monk_9_g	38	0.9210526315789473	27086	32588	 expected every moment to see the Inqu	 expected every moment to see the grou
+lewis_monk_9_g	30	0.9333333333333333	38493	54741	 wished for no better than an 	 wished for no better than to 
+lewis_monk_9_g	30	0.9333333333333333	41367	41604	 that his designs would yet be	 that his designs would not be
+lewis_monk_9_g	31	0.9032258064516129	42318	49247	 besought him not to torment hi	 besought him not to forget his
+lewis_monk_9_g	30	0.9666666666666667	44833	39600	 prepossession in his favour. 	 prepossession in his favour s
+lewis_monk_9_g	34	0.9117647058823529	49505	13812	 thought that I might possibly eff	 thought that She might possibly f
+lewis_monk_9_g	32	0.90625	52085	14205	 silence prevailed through the V	 silence prevailing through the 
+lewis_monk_9_g	30	0.9	55247	21309	tions were interrupted by the 	tions were interrupted by a no
+lewis_monk_9_g	36	0.9166666666666666	65300	7890	f the Marquis de las Cisternas, One 	f the Marquis de las Cisternas She h
+lewis_monk_9_g	36	0.9166666666666666	65301	8881	 the Marquis de las Cisternas, One b	 the Marquis de las Cisternas, as be
+lewis_monk_9_g	35	0.9428571428571428	65301	44045	 the Marquis de las Cisternas, One 	 the Marquis de las Cisternas, and 
+lewis_monk_9_g	35	0.9142857142857143	65301	67649	 the Marquis de las Cisternas, One 	 the Marquis de las Cisternas know 
+lewis_monk_9_g	35	0.9142857142857143	70290	65919	, and that nothing could save me fr	, and that nothing could save her. 
+lewis_monk_9_g	43	0.9302325581395349	73959	654	 One day passed away; Another followed it; 	 One day passed away, another followed it, 
+lewis_monk_9_g	31	0.9032258064516129	77502	68868	ed his satisfaction at the pros	ed his satisfaction at the succ
+doyle_adventures_12_d	33	0.9393939393939394	54511	12921	 I was inclined to think that the	 I was inclined to think that I h
+doyle_signoffour_7_d	33	0.9696969696969697	35496	454	 by the adventures of the night, 	 by the adventures of the night. 
+radcliffe_udolpho_16_g	31	0.9032258064516129	6052	2912	 the gratification of the sense	 the gratification of these, fe
+radcliffe_udolpho_16_g	31	0.9032258064516129	11583	9425	 disengage herself from his arm	 disengage himself from his par
+radcliffe_udolpho_16_g	30	0.9666666666666667	76878	50113	 for the consequences of that 	 for the consequences of what 
+radcliffe_udolpho_25_g	30	0.9	42080	20689	, and endeavoured to console h	, and endeavoured to compose h
+radcliffe_udolpho_33_g	31	0.9032258064516129	46874	35948	 immediately complied with his 	 immediate compliance with his 
+radcliffe_udolpho_33_g	30	0.9333333333333333	49352	43244	 permitted me to distinguish t	 permitted her to distinguish 
+doyle_baskervilles_10_u	30	0.9	27616	222	 compelled to abandon his Vict	 compelled to abandon this met
+doyle_baskervilles_11_u	31	0.9032258064516129	2468	17639	. He looked round him with susp	. He looked round him with a fu
+collins_moonstone_61_d	30	0.9333333333333333	20102	9634	. There was something in her l	. There was something in the w
+doyle_adventures_4_d	30	0.9333333333333333	54511	26383	 I was inclined to think that 	 I was inclined to think at on
+shelley_frankenstein_48_g	30	0.9	4344	15650	 committed this murder, and so	 committed the murder, and see
+doyle_baskervilles_9_u	31	0.9032258064516129	35499	33536	 the adventures of the night, n	 the adventures of last night, 
+radcliffe_udolpho_36_g	33	0.9090909090909091	56520	25280	 at some distance from the Priore	 at some distance from the shore.
+doyle_scarlet_5_d	31	0.9032258064516129	22538	13501	e was still pondering on the me	e was still pondering over the 
+doyle_baskervilles_7_u	35	1.0	55251	5595	s were interrupted by the sound of 	s were interrupted by the sound of 
+christie_styles_11_d	31	0.9354838709677419	39700	7522	e conversation to the subject w	e conversation on the subject. 
+stoker_dracula_12_g	34	0.9117647058823529	69208	4666	 evidently affected her more than 	 evidently affected her more stron
+radcliffe_udolpho_34_g	35	0.9428571428571428	11583	12842	 disengage herself from his arms: H	 disengaged herself from his arms; 
+radcliffe_udolpho_34_g	30	0.9333333333333333	35654	9300	 it was some time before the S	 it was some time, before she 
+radcliffe_udolpho_34_g	30	0.9	41273	15439	 lamented the circumstances; B	 lamented the circumstance, wh
+collins_hauntedhotel_6_u	30	0.9333333333333333	36380	193	 sufficiently recovered to rel	 sufficiently recovered to be 
+lewis_monk_4_g	33	0.9090909090909091	14029	51420	ed for some time in this state of	ed for some time in this situatio
+lewis_monk_4_g	30	1.0	17927	16497	y the scene which had just pas	y the scene which had just pas
+lewis_monk_4_g	30	0.9	20113	71310	 something in her look which p	 something in his look which, 
+lewis_monk_4_g	32	0.90625	23193	94928	 the Convent of St. Clare is on 	 the Convent of St. Clare. This 
+lewis_monk_4_g	30	0.9	28791	1945	 enquiries respecting her woun	 enquiries respecting her of t
+lewis_monk_4_g	30	0.9	31922	108591	risons of the Inquisition. Don	risons of the Inquisition.' Fr
+lewis_monk_4_g	30	0.9	33002	52272	 to disperse themselves into o	 to disperse themselves in sea
+lewis_monk_4_g	30	0.9	37033	6061	 and unremitted attention so f	 and unremitted attention at l
+lewis_monk_4_g	30	0.9	51781	110021	 the innocent Creature, who st	 the innocent Creature whose e
+lewis_monk_4_g	31	0.9032258064516129	53201	74589	 every succeeding moment would 	 every succeeding moment will f
+lewis_monk_4_g	31	0.9354838709677419	54887	63043	 to release me from captivity. 	 to release her from captivity 
+lewis_monk_4_g	34	0.9411764705882353	61770	10328	 myself upon my knees before the P	 myself upon my knees before her, 
+lewis_monk_4_g	38	0.9210526315789473	65298	65996	 of the Marquis de las Cisternas, One 	 of the Marquis de las Cisternas. The 
+lewis_monk_4_g	31	1.0	65301	94292	 the Marquis de las Cisternas, 	 the Marquis de las Cisternas, 
+lewis_monk_4_g	30	0.9333333333333333	81106	34617	ever give him cause to repent 	ever give me cause to repent m
+shelley_frankenstein_42_g	33	0.9696969696969697	863	2404	 was well acquainted with the nat	 was well acquainted with the pat
+radcliffe_udolpho_50_g	33	0.9090909090909091	14019	50469	he continued for some time in thi	he continued, for some time, enti
+radcliffe_udolpho_50_g	34	0.9705882352941176	78192	46437	 would be impossible to describe h	 would be impossible to describe, 
+radcliffe_udolpho_18_g	31	0.9354838709677419	46806	18387	rom the contemplation of those 	rom the contemplation of this s
+radcliffe_udolpho_13_g	31	0.9032258064516129	34517	12196	e entreated permission to enqui	e entreated permission to remai
+radcliffe_udolpho_13_g	30	0.9	76878	14516	 for the consequences of that 	 for the consequence of the in
+radcliffe_udolpho_13_g	30	0.9333333333333333	76878	42433	 for the consequences of that 	 for the consequence of what h
+austen_northangerabbey_26_g	30	0.9	36380	12778	 sufficiently recovered to rel	 sufficiently recovered to thi
+walpole_castleofotranto_1_g	30	0.9	867	12484	 well acquainted with the natu	 well acquainted with her fath
+walpole_castleofotranto_1_g	30	0.9	41904	43724	e flattered himself that howev	e flattered himself that she w
+doyle_adventures_5_d	30	0.9	38748	27064	e letters which She received f	e letters which were received 
+radcliffe_udolpho_48_g	33	0.9090909090909091	36380	23085	 sufficiently recovered to relate	 sufficiently recovered, to liste
+shelley_frankenstein_40_g	32	0.90625	867	6646	 well acquainted with the nature	 well acquainted with the accuse
+radcliffe_udolpho_22_g	30	0.9	37292	12248	 endeavoured to make her sensi	 endeavoured to make her escap
+radcliffe_udolpho_22_g	30	0.9	49831	12588	 recognised the features of a 	 recognise the features of Ann
+radcliffe_udolpho_22_g	30	0.9333333333333333	49988	19819	 circumstance, and the conscio	 circumstances, and then consi
+shelley_frankenstein_54_g	30	0.9	570	15747	 of the dreadful scenes which 	 of the dreadful secret which 
+shelley_frankenstein_54_g	30	0.9333333333333333	64609	5486	 taught to look forward to a l	 taught to look forward to it 
+doyle_scarlet_2_d	30	0.9	50652	2050	 seemed to be considerably sun	 seemed to be considerably tal
+radcliffe_udolpho_4_g	30	0.9	49983	9204	 this circumstance, and the co	 this circumstance and that of
+shelley_frankenstein_49_g	30	0.9666666666666667	1407	2834	, cut off from all the world, 	, cut off from all the world; 
+collins_hauntedhotel_11_u	32	0.9375	19868	5130	. Her hand trembled, as He took 	. Her hand trembled as she took 
+lewis_monk_10_g	33	0.9090909090909091	24720	19285	. At the same time drawing a poig	. At the same time drawing a dagg
+lewis_monk_10_g	31	0.9354838709677419	26976	61459	 'Help! Help! for God's sake!' 	 'Help! Help, for God's sake! c
+lewis_monk_10_g	30	0.9	32134	11557	 the Prioress of St. Clare. He	 the Prioress of St. Clare wit
+lewis_monk_10_g	31	0.9032258064516129	36380	59137	 sufficiently recovered to rela	 sufficiently recovered to acce
+lewis_monk_10_g	31	0.9032258064516129	37616	44873	 presented itself before her: T	 presented itself before them, 
+lewis_monk_10_g	30	0.9	41217	16678	 behaviour on the occasion, ma	 behaviour on that occasion, h
+lewis_monk_10_g	32	0.90625	44887	58838	s proposal was accepted without 	s proposal was accepted with gra
+lewis_monk_10_g	37	0.9459459459459459	46632	47480	 had hitherto concealed from him the 	 had hitherto concealed from him. It 
+lewis_monk_10_g	31	0.967741935483871	48323	52240	 raise myself from the ground, 	 raise myself from the ground. 
+lewis_monk_10_g	31	1.0	52085	3093	 silence prevailed through the 	 silence prevailed through the 
+lewis_monk_10_g	30	0.9333333333333333	55951	5586	orches in their hands, and gaz	orches in their hands, and cha
+lewis_monk_10_g	36	0.9166666666666666	56698	49012	 limbs were unable to support their 	 limbs were unable to support his we
+lewis_monk_10_g	31	0.9032258064516129	64028	5422	 separated from the Cavern by a	 separated from the Convent by 
+lewis_monk_10_g	30	0.9	73770	1607	 by the Mother St. Ursula; At 	 by the Mother St. Ursula. He 
+austen_northangerabbey_4_g	30	0.9	5500	1	ith more than usual earnestnes	ith more than usual eagerness 
+christie_secretadversary_19_d	31	0.967741935483871	7245	15107	 She put her hand to her head, 	 She put her hand to her head. 
+christie_secretadversary_19_d	30	0.9	20102	4583	. There was something in her l	. There was something in Sir J
+lewis_monk_7_g	30	0.9	1025	43652	 He waited with impatience. Th	 He waited with impatience for
+lewis_monk_7_g	35	0.9142857142857143	20948	21965	, surrounded by mouldering Corses, 	, surrounded by mouldering bodies, 
+lewis_monk_7_g	39	0.9743589743589743	29745	40455	; A thick cloud spread itself over her 	; A thick cloud spread itself over the 
+lewis_monk_7_g	39	0.9487179487179487	35496	42737	 by the adventures of the night, no per	 by the adventures of the night to perm
+lewis_monk_7_g	31	0.9032258064516129	51405	15956	re of the liquor which She had 	re of the risque which She had 
+lewis_monk_7_g	34	0.9705882352941176	68288	30137	 with which they were overspread: 	 with which they were overspread o
+radcliffe_udolpho_10_g	30	0.9	29640	18096	 continued to converse with hi	 continued to converse, withou
+radcliffe_udolpho_10_g	30	0.9666666666666667	46809	30542	 the contemplation of those on	 the contemplation of those un
+walpole_castleofotranto_5_g	30	0.9333333333333333	9627	11864	 the resolute tone in which th	 the resolute tone in which Fr
+walpole_castleofotranto_5_g	30	0.9	11946	22666	ed to inspire her with those e	ed to inspire her with hopes o
+lewis_monk_8_g	32	0.90625	1097	1928	 a favourable opportunity of con	 a favourable opportunity to inf
+lewis_monk_8_g	31	0.9032258064516129	10034	32869	e absolutely in my power, and I	e absolutely in his power, and 
+lewis_monk_8_g	30	0.9666666666666667	13543	23195	ed no other sentiment in his h	ed no other sentiment in his b
+lewis_monk_8_g	36	0.9166666666666666	23899	24949	al Officers of the Inquisition, sear	al Officer of the Inquisition, desir
+lewis_monk_8_g	31	0.9032258064516129	27086	39171	 expected every moment to see t	 expected every moment to hear 
+lewis_monk_8_g	31	0.9032258064516129	31638	6115	 the delicacy of her features a	 the delicacy of his features, 
+lewis_monk_8_g	35	0.9142857142857143	32131	23884	ing the Prioress of St. Clare. He c	ing the Prioress of St. Clare. For 
+lewis_monk_8_g	30	0.9	41905	3429	 flattered himself that howeve	 flattered himself that the ne
+lewis_monk_8_g	30	0.9	42920	1285	 when She reflected, that his 	 when She reflected that her d
+lewis_monk_8_g	31	1.0	52085	29780	 silence prevailed through the 	 silence prevailed through the 
+lewis_monk_8_g	34	0.9705882352941176	65298	273	 of the Marquis de las Cisternas, 	 of the Marquis de las Cisternas p
+lewis_monk_8_g	35	0.9428571428571428	65301	22056	 the Marquis de las Cisternas, One 	 the Marquis de las Cisternas, and 
+lewis_monk_5_g	33	0.9090909090909091	20398	20188	 strove to console her under a mi	 strove to console her under her 
+lewis_monk_5_g	30	0.9666666666666667	29376	36164	 without one sigh of regret. S	 without one sigh of regret.' 
+lewis_monk_5_g	30	0.9	30565	2396	ed to the Palace de Medina sca	ed to the Palace de Medina. Th
+lewis_monk_5_g	30	0.9	34525	21609	ted permission to enquire occa	ted permission to enquire afte
+lewis_monk_5_g	30	0.9	36380	29012	 sufficiently recovered to rel	 sufficiently recovered to joi
+lewis_monk_5_g	32	0.90625	43932	34543	 sufficient for the support of l	 sufficient for the support and 
+lewis_monk_5_g	31	0.967741935483871	65301	14773	 the Marquis de las Cisternas, 	 the Marquis de las Cisternas. 
+lewis_monk_5_g	30	0.9333333333333333	65303	45153	he Marquis de las Cisternas, O	he Marquis de las Cisternas is
+lewis_monk_5_g	36	0.9166666666666666	77508	47774	 satisfaction at the prospect of bei	 satisfaction to the prospect of his
+lewis_monk_6_g	30	0.9	2878	13857	 closed it again after him. Gu	 closed it again after them. M
+lewis_monk_6_g	31	0.9032258064516129	17147	38215	 disordered air. His eyes rolle	 disordered air. His eyes were 
+lewis_monk_6_g	31	0.9032258064516129	25199	10249	 which impressed the Monk with 	 which impressed the Monk at on
+lewis_monk_6_g	32	0.90625	26824	18108	 which supported the roof, and s	 which supported the roof under 
+lewis_monk_6_g	31	0.967741935483871	31846	14085	 having undergone a thorough se	 having undergone a thorough re
+lewis_monk_6_g	37	0.9459459459459459	31916	7518	 the prisons of the Inquisition. Don 	 the prisons of the Inquisition. To t
+lewis_monk_6_g	31	0.9032258064516129	32134	12007	 the Prioress of St. Clare. He 	 the Prioress of St. Clare in t
+lewis_monk_6_g	30	0.9333333333333333	37616	313	 presented itself before her: 	 presented itself before him: 
+lewis_monk_6_g	30	0.9	37670	29510	 the admiration of Madrid, end	 the admiration of Madrid. The
+lewis_monk_6_g	30	0.9	41657	33132	 upon the Bed of sickness. His	 upon the bed of sickness. A s
+lewis_monk_6_g	30	0.9333333333333333	41950	48422	 the impression made upon his 	 the impression made upon her 
+lewis_monk_6_g	30	0.9	44998	23531	 those sentiments which She so	 those sentiments which He onc
+lewis_monk_6_g	30	0.9	48207	51120	, that I strove in vain to arr	, that I strive in vain to acc
+lewis_monk_6_g	34	0.9117647058823529	52074	595	 melancholy silence prevailed thro	 melancholy silence prevailed, dur
+lewis_monk_6_g	35	0.9142857142857143	65301	45562	 the Marquis de las Cisternas, One 	 the Marquis de las Cisternas and h
+lewis_monk_6_g	34	0.9117647058823529	78077	46060	 the Marchioness de Villa-Franca a	 the Marchioness of Villa-Franca: 
+doyle_adventures_9_d	37	0.918918918918919	18892	44386	 for the remainder of her existence. 	 for the remainder of your existence.
+radcliffe_udolpho_12_g	34	0.9117647058823529	26340	19873	ecovered from his first surprize, 	ecovered from her first surprise, 
+radcliffe_udolpho_12_g	30	0.9	34243	6733	 sweetness of her manners and 	 sweetness of her manners enco
+radcliffe_udolpho_12_g	31	0.9354838709677419	36380	49695	 sufficiently recovered to rela	 sufficiently recovered to hear
+radcliffe_udolpho_12_g	31	0.9032258064516129	43518	49552	 enabled him to overcome the ef	 enabled him to overcome his fe
+radcliffe_udolpho_12_g	34	0.9705882352941176	49983	50975	 this circumstance, and the consci	 this circumstance, and the consid
+collins_hauntedhotel_25_u	31	0.967741935483871	7245	10321	 She put her hand to her head, 	 She put her hand to her head. 
+shelley_frankenstein_47_g	30	0.9	80123	9717	. The more He saw of her, the 	. The more I saw of them, the 
+lewis_monk_1_g	31	0.9354838709677419	11583	38768	 disengage herself from his arm	 disengaged herself from his em
+lewis_monk_1_g	32	0.90625	32134	42815	 the Prioress of St. Clare. He c	 the Prioress of St. Clare, the 
+lewis_monk_1_g	34	0.9117647058823529	44833	27258	 prepossession in his favour. In c	 prepossession in his favour; and 
+lewis_monk_1_g	31	0.9032258064516129	56285	42155	ed themselves behind their Supe	ed themselves behind the Statue
+lewis_monk_1_g	30	0.9333333333333333	65303	15105	he Marquis de las Cisternas, O	he Marquis de las Cisternas.' 
+lewis_monk_1_g	30	0.9	65304	31893	e Marquis de las Cisternas, On	e Marquis de las Cisternas; Bu
+lewis_monk_1_g	31	0.9032258064516129	70022	20832	 Abbot of the Capuchins, She su	 Abbot of the Capuchins, and su
+radcliffe_udolpho_14_g	33	0.9090909090909091	29376	1894	 without one sigh of regret. She 	 without one sigh of regret, had 
+radcliffe_udolpho_49_g	30	0.9	41273	4188	 lamented the circumstances; B	 lamented the circumstance, an
+doyle_scarlet_12_d	32	0.9375	32164	4230	 contented himself with stating 	 contented himself with cutting 
+christie_styles_3_d	31	0.9032258064516129	70289	6016	e, and that nothing could save 	e, and that nothing could be do
+collins_hauntedhotel_10_u	31	0.9354838709677419	7249	9047	 put her hand to her head, as i	 put her hand to her head, and 
+collins_moonstone_60_d	41	0.9024390243902439	55237	6800	 My meditations were interrupted by the s	 My meditations were interrupted by Samue
+christie_secretadversary_4_d	30	0.9333333333333333	20102	4193	. There was something in her l	. There was something in the q
+radcliffe_udolpho_54_g	31	0.9032258064516129	28791	26289	 enquiries respecting her wound	 enquiries, respecting the cond
+radcliffe_udolpho_54_g	30	0.9	51384	11845	s, mistaking the nature of the	s, mistaking the nature of Emi
+radcliffe_udolpho_54_g	32	0.90625	77494	1247	 expressed his satisfaction at t	 expressed much satisfaction at 
+stoker_dracula_16_g	32	0.90625	49831	7103	 recognised the features of a Nu	 recognised the features of Lucy
+collins_moonstone_76_d	30	0.9666666666666667	78133	23117	. It is needless to say that T	. It is needless to say that I
+christie_secretadversary_15_d	33	1.0	55240	4330	 meditations were interrupted by 	 meditations were interrupted by 
+stoker_dracula_21_g	31	0.9032258064516129	63491	29658	 time must have elapsed before 	 time must have passed before h
+doyle_scarlet_8_d	30	0.9	25945	18805	d listened attentively to Mati	d listened attentively to an a
+collins_moonstone_65_d	30	0.9333333333333333	865	17277	as well acquainted with the na	as well acquainted with those 
+radcliffe_udolpho_35_g	32	0.90625	26824	20059	 which supported the roof, and s	 which supported the roof, that 
+radcliffe_udolpho_35_g	30	0.9	29344	10331	he resigned herself to the Gra	he resigned herself to the swe

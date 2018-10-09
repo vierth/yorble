@@ -1,0 +1,42 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_9_d	31	0.9354838709677419	6079	11205	 and try one of these cigars,” 	 and try one of these cigars." 
+stoker_dracula_26_g	30	0.9	15008	14303	 that there was nothing more t	 that there was nothing to be 
+doyle_scarlet_14_d	31	0.9354838709677419	1593	9983	 Mr. Joseph Stangerson. The two	 Mr. Joseph Stangerson. The det
+doyle_scarlet_14_d	31	0.9032258064516129	3887	10483	 detective police force,” said 	 detective police force, and wi
+doyle_scarlet_14_d	32	0.90625	11186	5830	, showing that that had been the	, showing that he had been there
+doyle_scarlet_14_d	30	0.9	17704	9983	 Mr. Joseph Stangerson?” “The 	 Mr. Joseph Stangerson. The de
+collins_moonstone_89_d	31	0.9032258064516129	6965	9699	e than the babe unborn. I have 	e than the babe unborn.” I aske
+collins_moonstone_89_d	31	0.9354838709677419	10533	52641	 to make a clean breast of the 	 to make a clean breast of it. 
+doyle_signoffour_8_d	64	0.90625	3854	7979	 the Baker Street division of the detective police force,” said 	 the Baker Street division of the detective police force whom I 
+doyle_signoffour_8_d	35	0.9428571428571428	3880	10435	 of the detective police force,” sa	 of the detective police force, hap
+doyle_scarlet_7_d	30	0.9	15289	947	 concerned in the death of tha	 concerned in the death of Dre
+doyle_signoffour_4_d	38	0.9210526315789473	11795	7991	. On one occasion he actually seized h	. On one occasion he actually fired hi
+doyle_signoffour_4_d	30	0.9	17380	1836	 in the centre of the room, fu	 in the centre of the room. As
+doyle_signoffour_6_d	33	1.0	15283	13442	 being concerned in the death of 	 being concerned in the death of 
+doyle_scarlet_3_d	34	0.9117647058823529	8726	13895	 Enoch J. Drebber, of Cleveland?’ 	 Enoch J. Drebber of Cleveland, co
+stoker_dracula_23_g	30	0.9666666666666667	12747	7176	 closed the door behind them a	 closed the door behind them, 
+austen_northangerabbey_9_g	31	0.9032258064516129	9385	4155	 before she could get out the s	 before she could get into the 
+radcliffe_udolpho_6_g	38	0.9210526315789473	6626	27827	 seated himself in the arm-chair, and 	 seated himself in an arm-chair, and h
+collins_moonstone_85_d	31	0.9032258064516129	12745	78	 I closed the door behind them 	 I closed the door behind me. W
+doyle_scarlet_13_d	30	0.9	1924	15187	 house in the Brixton Road, ma	 house in the Brixton Road. “T
+doyle_scarlet_13_d	32	0.9375	17805	9699	 at Halliday’s Private Hotel abo	 at Halliday’s Private Hotel; to
+doyle_scarlet_13_d	31	0.967741935483871	17805	20280	 at Halliday’s Private Hotel ab	 at Halliday’s Private Hotel, a
+shelley_frankenstein_53_g	30	0.9	2623	19609	ed by the recollection of all 	ed by the recollection of my v
+dickens_christmascarole_4_g	31	0.9032258064516129	15013	11483	 there was nothing more to be d	 there was nothing more to come
+doyle_baskervilles_10_u	30	0.9	17274	15059	 with Sherlock Holmes, for on 	 with Sherlock Holmes for noth
+doyle_signoffour_11_d	30	0.9	10536	2545	 make a clean breast of the fa	 make a clean breast of it, fo
+collins_moonstone_61_d	37	0.918918918918919	15014	13221	there was nothing more to be done. I 	there was nothing more to be said. I 
+doyle_adventures_4_d	30	0.9666666666666667	3955	19302	e there rushed into the room h	e there rushed into the room o
+doyle_baskervilles_9_u	30	0.9666666666666667	15008	7130	 that there was nothing more t	 that there was nothing more w
+doyle_scarlet_5_d	34	0.9411764705882353	8726	770	 Enoch J. Drebber, of Cleveland?’ 	 Enoch J. Drebber, of Cleveland. S
+christie_styles_11_d	45	0.9111111111111111	6933	24943	 had no more to do with the crime than the ba	 had no more to do with the crime than I have
+radcliffe_udolpho_50_g	30	0.9666666666666667	2934	28874	ned by the discovery of the ad	ned by the discovery of the do
+doyle_adventures_5_d	30	0.9	6988	38033	 I have no doubt that he has c	 I have no doubt that she is n
+doyle_adventures_2_d	31	0.9032258064516129	14349	34755	 said Sherlock Holmes, with a y	 said Sherlock Holmes, "that yo
+doyle_adventures_9_d	30	0.9	6445	98	, Mr. Sherlock Holmes, for we 	, Mr. Sherlock Holmes, for sol
+doyle_adventures_9_d	30	0.9333333333333333	6445	6784	, Mr. Sherlock Holmes, for we 	, Mr. Sherlock Holmes, before 
+lewis_monk_1_g	30	0.9	13495	5510	 and endeavoured to draw her t	 and endeavoured to draw off t
+radcliffe_udolpho_14_g	31	0.9032258064516129	4565	3581	 He waved his hand, and they sc	 He waved his hand, and she con
+christie_secretadversary_24_d	30	0.9	17380	2315	 in the centre of the room, fu	 in the centre of the room. “N
+doyle_baskervilles_2_u	30	0.9	9118	20849	 said that there were two trai	 said that there were no trace
+christie_secretadversary_15_d	43	0.9534883720930233	15008	3162	 that there was nothing more to be done. I 	 that there is nothing more to be done. If 

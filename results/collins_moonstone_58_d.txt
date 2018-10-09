@@ -1,0 +1,71 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_10_d	31	0.9032258064516129	17454	8174	 me by the arm, and walked me a	 me by the arm, and whirled me 
+lewis_monk_9_g	42	0.9285714285714286	9437	32141	 I might as well have held my tongue about	 I might as well have held my tongue! Nobo
+stoker_dracula_11_g	31	0.9032258064516129	13939	3216	, for the first time in my expe	, for the first time in my life
+collins_moonstone_85_d	34	1.0	2043	12231	id you notice anything strange in 	id you notice anything strange in 
+reeve_oldenglishbaron	31	0.9354838709677419	17042	24428	 that had passed between them. 	 that had passed between the Ba
+doyle_adventures_12_d	30	0.9	17245	12540	 done a very foolish thing in 	 done a very foolish thing. Af
+shelley_frankenstein_53_g	30	0.9	10980	13887	 for any length of time, were 	 for any length of time, for t
+collins_hauntedhotel_27_u	30	0.9333333333333333	4816	1795	. On the few occasions when an	. On the few occasions when he
+collins_moonstone_56_d	30	0.9333333333333333	9252	23662	 “The Last Rose of Summer” to 	 “The Last Rose of Summer” sof
+collins_moonstone_56_d	30	0.9	9252	23904	 “The Last Rose of Summer” to 	 “The Last Rose of Summer” evi
+collins_moonstone_56_d	30	0.9	13940	15211	 for the first time in my expe	 for the first time in my life
+collins_moonstone_56_d	32	0.9375	14865	129	 declared he had met Rosanna yes	 declared he had met Rosanna Spe
+collins_moonstone_61_d	31	0.9354838709677419	753	737	,” answered the Sergeant, “you 	,” answered the Sergeant, “on t
+collins_moonstone_61_d	30	0.9	2761	6778	 change in the weather before 	 change in the weather, foresh
+collins_moonstone_61_d	34	0.9411764705882353	14669	3289	 Rosanna Spearman. Mr. Franklin’s 	 Rosanna Spearman.” Mr. Franklin i
+collins_moonstone_61_d	35	0.9142857142857143	15765	9434	 Mr. Franklin said those words with	 Mr. Franklin said those words. The
+collins_moonstone_80_d	35	0.9428571428571428	13458	2705	d at the turn things had taken. Dri	d at the turn things had taken. His
+collins_moonstone_80_d	31	0.9032258064516129	15438	2708	t the turn things have taken.” 	t the turn things had taken. Hi
+collins_moonstone_67_d	30	0.9333333333333333	6727	13612	 looked me hard in the face. “	 looked me hard in the face, a
+collins_moonstone_67_d	30	1.0	14111	3645	 Do you remember that morning 	 Do you remember that morning 
+reeve_oldenglishbaron	31	0.9354838709677419	17042	24428	 that had passed between them. 	 that had passed between the Ba
+doyle_baskervilles_7_u	30	0.9	14027	2311	 atmosphere of mystery and sus	 atmosphere of mystery and of 
+christie_styles_5_d	35	0.9142857142857143	14365	30057	 for a minute or two, and then he a	 for a minute or two, and then said
+collins_moonstone_74_d	31	0.9354838709677419	10636	22822	, under those circumstances, a 	, under the circumstances, was 
+radcliffe_udolpho_13_g	31	0.9032258064516129	17044	1312	hat had passed between them. Se	hat had passed between the elde
+collins_moonstone_72_d	31	0.9032258064516129	15997	3860	” There was a moment’s silence 	” There was a momentary silence
+collins_moonstone_72_d	30	0.9	17100	16040	y understood each other, witho	y understood each other so tho
+reeve_oldenglishbaron	31	0.9354838709677419	17042	24428	 that had passed between them. 	 that had passed between the Ba
+collins_moonstone_73_d	33	0.9090909090909091	10636	218	, under those circumstances, a de	, under the circumstances, as Lad
+christie_secretadversary_11_d	30	0.9	17456	16822	e by the arm, and walked me aw	e by the arm, and walked her t
+collins_moonstone_84_d	30	0.9	10635	2941	e, under those circumstances, 	e, under the circumstances—to 
+collins_moonstone_84_d	43	0.9767441860465116	13942	285	or the first time in my experience of him. 	or the first time in my experience of him, 
+collins_moonstone_53_d	32	0.90625	11243	122	e, in the servants’ hall, and, f	e, in the servants’ hall, began 
+collins_moonstone_62_d	31	0.9032258064516129	753	6934	,” answered the Sergeant, “you 	,” answered the Sergeant, “befo
+collins_moonstone_62_d	50	1.0	9242	8893	 whistling “The Last Rose of Summer” to himself. “	 whistling “The Last Rose of Summer” to himself. “
+collins_moonstone_62_d	36	0.9444444444444444	17200	11333	Mr. Betteredge,” says the Sergeant, 	Mr. Betteredge,” said the Sergeant, 
+collins_moonstone_50_d	31	0.9032258064516129	6760	984	 Betteredge,” he said, “have yo	 Betteredge,” he said, “when my
+collins_moonstone_50_d	30	0.9	7141	24733	 We went back to the house; th	 We went back to the house in 
+collins_moonstone_50_d	30	0.9	13990	983	, Betteredge,” he said, “how d	, Betteredge,” he said, “when 
+christie_styles_3_d	31	0.967741935483871	2592	462	 “What’s the matter?” I asked. 	 “What’s the matter?” I asked, 
+collins_hauntedhotel_10_u	30	0.9	15998	2879	 There was a moment’s silence 	 There was a moment of silence
+collins_moonstone_66_d	31	0.9032258064516129	753	9502	,” answered the Sergeant, “you 	,” answered the Sergeant. “Go o
+collins_moonstone_66_d	30	0.9	762	16816	ed the Sergeant, “you would ha	ed the Sergeant, “you will hea
+collins_moonstone_66_d	30	0.9	2378	9285	 of Rosanna Spearman’s sudden 	 of Rosanna Spearman’s suicide
+collins_moonstone_66_d	30	0.9333333333333333	4886	175	 at the corners of the lips, n	 at the corners of the lips. “
+collins_moonstone_66_d	30	0.9	6757	9536	Mr. Betteredge,” he said, “hav	Mr. Betteredge,” he said, with
+collins_moonstone_66_d	30	0.9	9888	9534	, Mr. Betteredge,” he said. “Y	, Mr. Betteredge,” he said, wi
+collins_moonstone_66_d	32	0.90625	10580	175	 at the corners of the lips, and	 at the corners of the lips. “Ma
+collins_moonstone_66_d	30	0.9	17308	12461	e detective business on your o	e detective-business on our ha
+collins_moonstone_60_d	30	0.9	753	19128	,” answered the Sergeant, “you	,” answered the Sergeant, “bec
+collins_moonstone_60_d	31	0.9032258064516129	4886	3729	 at the corners of the lips, no	 at the corners of his lips, an
+collins_moonstone_60_d	30	0.9	6103	12813	n the loss of the Diamond was 	n the loss of the Diamond, I d
+collins_moonstone_60_d	31	0.9032258064516129	6557	4222	,” says the Sergeant, “that’s a	,” says the Sergeant; “that is 
+collins_moonstone_60_d	42	0.9523809523809523	9669	12801	 concerned in the loss of the Diamond?” I 	 concerned in the loss of the Diamond, I d
+collins_moonstone_60_d	35	0.9142857142857143	9888	18828	, Mr. Betteredge,” he said. “You mi	, Mr. Betteredge,” he said. “And mi
+collins_moonstone_60_d	35	0.9142857142857143	10580	3729	 at the corners of the lips, and di	 at the corners of his lips, and, i
+collins_moonstone_60_d	30	0.9	10639	13462	nder those circumstances, a de	nder those circumstances, it w
+collins_moonstone_60_d	31	0.9032258064516129	13939	6428	, for the first time in my expe	, for the first time in my life
+collins_moonstone_60_d	30	0.9	14423	16091	 of Sergeant Cuff. It was impo	 of Sergeant Cuff. It was no l
+collins_moonstone_60_d	31	0.9354838709677419	17044	15819	hat had passed between them. Se	hat had passed between the Serg
+collins_moonstone_60_d	41	0.9024390243902439	17200	3363	Mr. Betteredge,” says the Sergeant, “you 	Mr. Betteredge,” says the Sergeant, with 
+stoker_dracula_21_g	42	0.9523809523809523	14553	22664	 I told him exactly what had happened, men	 I told him exactly what had happened, and
+reeve_oldenglishbaron	31	0.9354838709677419	17042	24428	 that had passed between them. 	 that had passed between the Ba
+collins_moonstone_65_d	31	0.9032258064516129	753	18573	,” answered the Sergeant, “you 	,” answered the Sergeant, “requ
+collins_moonstone_65_d	30	0.9333333333333333	1701	7223	ery of the smear on the door—w	ery of the smear on the door, 
+collins_moonstone_65_d	33	0.9090909090909091	2159	8780	er the loss of the Diamond was fo	er the loss of the Diamond may no
+collins_moonstone_65_d	30	0.9	6104	8782	 the loss of the Diamond was f	 the loss of the Diamond may n
+collins_moonstone_65_d	46	0.9130434782608695	13735	11958	 refusal to let her wardrobe be examined; and 	 refusal to let her wardrobe be examined. My m
+collins_moonstone_52_d	30	0.9	11243	8083	e, in the servants’ hall, and,	e, in the servants’ hall, deba
+radcliffe_udolpho_35_g	31	0.9032258064516129	13939	21644	, for the first time in my expe	, for the first time in my life

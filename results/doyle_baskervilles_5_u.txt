@@ -1,0 +1,56 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_12_d	37	0.9459459459459459	7256	9971	 hundred and forty thousand pounds.” 	 hundred and fifty thousand pounds.” 
+doyle_adventures_10_d	30	0.9	6864	16873	That is very interesting.” “I 	That is very interesting. And 
+collins_hauntedhotel_4_u	30	0.9333333333333333	9762	12347	 it is impossible for me to be	 it is impossible for me to co
+christie_secretadversary_9_d	30	0.9	4114	6787	 taken in conjunction with you	 taken in conjunction with the
+collins_moonstone_68_d	30	0.9	7158	10620	er of public charities. The re	er of public charities. He let
+doyle_baskervilles_13_u	32	1.0	6000	14664	 wire to Sir Henry Baskerville, 	 wire to Sir Henry Baskerville, 
+doyle_baskervilles_13_u	30	0.9	11450	19872	” said Sherlock Holmes. “But i	” said Sherlock Holmes. “You h
+collins_moonstone_89_d	30	0.9	7033	62244	 thousand pounds left to me.” 	 thousand pounds, left to him 
+doyle_signoffour_8_d	30	0.9	18097	4519	 easy in my mind about it.” “A	 easy in my mind about it." "B
+austen_northangerabbey_15_g	32	0.90625	18328	16201	 shall be very glad to have you 	 shall be very glad to see you a
+doyle_scarlet_7_d	30	0.9333333333333333	11450	17957	” said Sherlock Holmes. “But i	” said Sherlock Holmes. “It wi
+doyle_signoffour_6_d	34	0.9117647058823529	18297	15474	, but I give you my word that I sh	, but I give you my word that this
+doyle_baskervilles_3_u	37	0.9459459459459459	7659	8514	 one more question, Dr. Mortimer. Sup	 one more question, Dr. Mortimer. You
+doyle_signoffour_3_d	36	0.9166666666666666	127	5390	 the strange business in which we ha	 the strange business upon which we 
+christie_styles_13_d	30	0.9	15231	21079	t in silent amazement. Then he	t in silent amazement. The col
+collins_moonstone_77_d	30	0.9	10296	922	 completely by surprise, but b	 completely by surprise, that 
+doyle_baskervilles_6_u	30	0.9	17723	6644	 Sir Henry Baskerville had con	 Sir Henry Baskerville, and in
+doyle_adventures_12_d	31	0.9032258064516129	3670	5286	ll excuse my troubling you abou	ll excuse my troubling you, I a
+doyle_adventures_12_d	30	0.9	4794	50833	 said Holmes, “I think that yo	 said Holmes, "I think that wh
+doyle_adventures_12_d	30	0.9	8689	37089	t was only yesterday that I le	t was only yesterday that the 
+doyle_adventures_12_d	30	0.9	13358	5051	 the door opened and a rough-l	 the door opened and a young l
+doyle_adventures_12_d	33	0.9090909090909091	18092	22997	m not easy in my mind about it.” 	m not easy in my mind about them.
+doyle_scarlet_13_d	31	0.9032258064516129	9065	3631	 as to the advisability of your	 as to the advisability of allo
+doyle_baskervilles_12_u	32	0.9375	10074	13028	 Holmes laid his hand upon my ar	 Holmes laid his hand upon him a
+austen_northangerabbey_22_g	30	0.9333333333333333	9761	16265	, it is impossible for me to b	, it is impossible for me not 
+christie_styles_6_d	32	0.90625	9498	3046	 “Is it possible that you could 	 “Is it possible that she could 
+stoker_dracula_10_g	31	0.9354838709677419	5808	24483	 the nearest telegraph-office? 	 the nearest telegraph office. 
+collins_moonstone_61_d	31	0.9032258064516129	7702	8746	 that anything happened to our 	 that anything happened to alar
+doyle_adventures_4_d	31	0.9032258064516129	18302	43688	 I give you my word that I shal	 I give you my word that I woul
+doyle_baskervilles_9_u	42	0.9523809523809523	2099	9002	. His face was flushed with anger, and he 	. His face was flushed with anger and his 
+collins_moonstone_67_d	30	0.9	9764	2581	t is impossible for me to be a	t is impossible for me to excu
+doyle_scarlet_5_d	37	0.9459459459459459	15258	10911	 he burst into a hearty laugh. “A tou	 he burst into a hearty laugh. “I wou
+christie_secretadversary_26_d	30	0.9333333333333333	18097	3480	 easy in my mind about it.” “A	 easy in my mind about him.” “
+doyle_baskervilles_7_u	32	0.90625	5916	3609	elegram to Mr. Barrymore to be d	elegram to Mr. Barrymore at the 
+doyle_baskervilles_7_u	33	0.9090909090909091	10443	8405	 you, Dr. Watson,” said he. “You 	 you, Dr. Watson,” said he. “The 
+doyle_baskervilles_7_u	30	0.9333333333333333	13196	14528	 I should not be surprised if 	 I should not be surprised to 
+doyle_baskervilles_7_u	30	0.9	16866	8180	 Mr. Sherlock Holmes?” The cab	 Mr. Sherlock Holmes?” The wor
+christie_styles_5_d	30	0.9	2024	28923	d the top of the stairs we had	d the top of the stairs, he wa
+christie_styles_2_d	33	0.9090909090909091	4489	2615	 We had a pleasant luncheon in wh	 We had a pleasant luncheon, and 
+doyle_scarlet_2_d	30	0.9	11450	18902	” said Sherlock Holmes. “But i	” said Sherlock Holmes. “Brag 
+doyle_adventures_2_d	32	0.90625	9762	2401	 it is impossible for me to be a	 it is impossible for me to say 
+walpole_castleofotranto_5_g	36	0.9166666666666666	13196	10629	 I should not be surprised if this w	 I should not be surprised if it was
+lewis_monk_5_g	30	0.9	9500	51309	Is it possible that you could 	Is it possible that your count
+doyle_adventures_9_d	30	0.9	1618	25964	e went upstairs together. “We 	e went upstairs together, the 
+doyle_baskervilles_4_u	30	0.9	406	17249	 the Northumberland Hotel. “Si	 the Northumberland Hotel whic
+doyle_baskervilles_4_u	32	0.90625	4714	13604	o go to Baskerville Hall.” “And 	o go to Baskerville Hall.” “Why 
+doyle_baskervilles_4_u	51	0.9019607843137255	6009	1448	Sir Henry Baskerville, Northumberland Hotel.’ That 	Sir Henry Baskerville, Northumberland Hotel,” was p
+doyle_baskervilles_4_u	35	0.9142857142857143	11093	14708	 Watson?” “Perfectly.” “Then on Sat	 Watson?” “Perfectly.” “Then you ma
+doyle_baskervilles_4_u	30	0.9	11450	3005	” said Sherlock Holmes. “But i	” said Sherlock Holmes. “We wi
+doyle_baskervilles_4_u	53	0.9245283018867925	15811	18768	n to the Northumberland Hotel and waited there until 	n to the Northumberland Hotel and waited there. When 
+doyle_scarlet_4_d	31	0.9354838709677419	5808	114	 the nearest telegraph-office? 	 the nearest telegraph office, 
+christie_secretadversary_4_d	33	0.9090909090909091	13344	3892	, however, for the door opened an	, however, before the door opened
+christie_secretadversary_4_d	30	0.9	13774	12348	. “On the contrary, I have hal	. “On the contrary, I have eve
+doyle_baskervilles_15_u	32	0.90625	406	10897	 the Northumberland Hotel. “Sir 	 the Northumberland Hotel. His w
+doyle_baskervilles_15_u	30	0.9666666666666667	15812	10894	 to the Northumberland Hotel a	 to the Northumberland Hotel. 

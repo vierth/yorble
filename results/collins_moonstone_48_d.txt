@@ -1,0 +1,68 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_59_d	30	0.9	3742	14799	, that Rosanna Spearman had be	, that Rosanna Spearman has a 
+collins_moonstone_59_d	30	0.9666666666666667	3742	29142	, that Rosanna Spearman had be	, that Rosanna Spearman had re
+collins_moonstone_59_d	30	0.9333333333333333	7132	7177	 spits of rock jutting out opp	 spits of rock jutting out, no
+collins_moonstone_59_d	33	0.9090909090909091	7293	27726	ing backwards and forwards at cer	ing backwards and forwards there 
+collins_moonstone_59_d	31	0.9032258064516129	11974	6106	 the poor thing stole her hand 	 the poor thing slip her hand a
+collins_moonstone_59_d	33	0.9696969696969697	12004	6141	 into mine, and gave it a little 	 into mine, and give it a little 
+collins_moonstone_59_d	32	0.96875	12005	6142	into mine, and gave it a little 	into mine, and give it a little 
+collins_moonstone_59_d	30	0.9333333333333333	12146	7586	, Mr. Betteredge,” she said. “	, Mr. Betteredge,” he said; “a
+collins_moonstone_59_d	32	0.96875	12146	23742	, Mr. Betteredge,” she said. “I 	, Mr. Betteredge,” he said. “I a
+collins_moonstone_59_d	32	0.9375	14477	27203	 sinking lower and lower in the 	 sinking lower and lower in his 
+collins_moonstone_59_d	34	0.9117647058823529	15541	6485	 out on us from among the hills, w	 out on us from among the hillocks
+collins_moonstone_55_d	30	0.9	981	32075	s head of the servants, I neve	s head of the servants, I felt
+collins_moonstone_55_d	30	0.9	9355	32075	s head of the servants, I neve	s head of the servants, I felt
+collins_moonstone_55_d	32	0.90625	13587	29238	he matron at the reformatory doe	he matron at the Reformatory had
+collins_moonstone_54_d	32	0.90625	5958	10121	t, nine times out of ten she qui	t, nine times out of ten he pitc
+collins_moonstone_54_d	36	0.9166666666666666	7613	3114	 among the people in our parts, the 	 among the people in our parts, and 
+christie_secretadversary_21_d	30	0.9	6742	3565	 up on the Yorkshire coast, an	 up on the Yorkshire coast--ne
+stoker_dracula_13_g	30	0.9	1828	25850	 under the circumstances, it s	 under the circumstances; but 
+collins_moonstone_63_d	33	0.9090909090909091	12146	9573	, Mr. Betteredge,” she said. “I d	, Mr. Betteredge,” he said. “She 
+collins_moonstone_63_d	30	0.9	12600	9905	 my grave is waiting for me he	 my grave was waiting for me. 
+collins_moonstone_57_d	32	0.9375	13585	9615	 the matron at the reformatory d	 the matron at the Reformatory. 
+radcliffe_udolpho_38_g	38	0.9210526315789473	9794	4096	hen you come to my age, you will find 	hen you come to my age, you will not w
+collins_moonstone_75_d	40	0.95	12014	16178	, and gave it a little squeeze. She trie	, and gave it a little squeeze. She reco
+collins_moonstone_46_d	33	1.0	3478	1992	 my lady took an interest in the 	 my lady took an interest in the 
+collins_moonstone_68_d	37	0.918918918918919	4228	24401	man, if ever there was one yet) said 	man, if ever there was one yet! Lady 
+stoker_dracula_19_g	30	0.9666666666666667	11412	16163	 looked at me with a sort of r	 looked at me with a sort of b
+collins_moonstone_64_d	30	0.9	2751	4654	 the matter of the Diamond tou	 the matter of the Diamond whe
+collins_moonstone_64_d	30	0.9	5959	6284	, nine times out of ten she qu	, nine times out of ten, the o
+collins_moonstone_81_d	30	0.9	9646	10958	 on the slope of the beach alo	 on the slope of the beach. Th
+collins_moonstone_81_d	31	0.9032258064516129	9839	10953	 down on the slope of a beach a	 down on the slope of the beach
+christie_secretadversary_25_d	30	0.9	1828	14724	 under the circumstances, it s	 under the circumstances. It w
+poe_marieroget_1_d	30	0.9	1828	53982	 under the circumstances, it s	 under the circumstances, ther
+collins_hauntedhotel_20_u	32	0.90625	15031	11871	 started to her feet, and stood 	 started to her feet and looked 
+doyle_scarlet_3_d	30	0.9	1828	6944	 under the circumstances, it s	 under the circumstances, seem
+collins_moonstone_47_d	33	0.9090909090909091	5446	158	ting my daughter Penelope, who wa	ting my daughter Penelope, which 
+lewis_monk_2_g	30	0.9	17357	27964	s unaccountable behaviour real	s unaccountable behaviour. He 
+stoker_dracula_23_g	30	0.9	1828	1042	 under the circumstances, it s	 under the circumstances, of a
+collins_moonstone_58_d	30	0.9	295	5073	n of Mr. Franklin Blake’s arri	n of Mr. Franklin Blake’s mann
+collins_moonstone_58_d	31	0.9032258064516129	824	8886	 Nancy, the kitchen-maid, this 	 Nancy, the kitchen-maid, went 
+collins_moonstone_58_d	33	0.9090909090909091	12146	9888	, Mr. Betteredge,” she said. “I d	, Mr. Betteredge,” he said. “You 
+austen_northangerabbey_14_g	30	0.9	2242	12942	. I have no patience with her!	. I have no patience with such
+collins_moonstone_61_d	45	0.9333333333333333	5583	10512	. There was certainly no beauty about her to 	. There was certainly no object about her to 
+collins_moonstone_61_d	33	0.9696969696969697	10475	11671	 “Come, come, my girl,” I said, “	 “Come, come, my girl!” I said, “
+collins_moonstone_80_d	30	0.9333333333333333	1828	1331	 under the circumstances, it s	 under the circumstances, to o
+collins_moonstone_80_d	32	0.90625	7293	346	ing backwards and forwards at ce	ing backwards and forwards betwe
+doyle_adventures_4_d	31	0.9032258064516129	1827	10666	l under the circumstances, it s	l under the circumstances, and 
+collins_moonstone_67_d	34	0.9117647058823529	10307	8723	, my dear,” I said, “what are you 	, my dear,” I said, “what do you w
+collins_hauntedhotel_6_u	31	0.9032258064516129	1828	1347	 under the circumstances, it st	 under the circumstances. Littl
+lewis_monk_4_g	30	0.9333333333333333	7293	45753	ing backwards and forwards at 	ing backwards and forwards in 
+collins_moonstone_74_d	31	0.9032258064516129	1828	22823	 under the circumstances, it st	 under the circumstances, was s
+collins_moonstone_74_d	30	0.9333333333333333	7293	3029	ing backwards and forwards at 	ing backwards and forwards by 
+christie_styles_12_d	30	0.9	578	9579	 had nothing to do with the se	 had nothing to do with that m
+stoker_dracula_2_g	30	0.9	12965	25547	 hand on my shoulder, and kept	 hand on my shoulder, and hear
+walpole_castleofotranto_1_g	32	0.90625	7293	17509	ing backwards and forwards at ce	ing backwards and forwards in a 
+collins_moonstone_73_d	30	0.9	1828	219	 under the circumstances, it s	 under the circumstances, as L
+collins_moonstone_84_d	30	0.9	6533	9021	 that Rosanna Spearman gave he	 that Rosanna Spearman was the
+collins_moonstone_53_d	32	0.90625	16182	13749	 Before I could say a word, I sa	 Before I could say a word, the 
+collins_moonstone_62_d	32	0.90625	587	12349	ing to do with the servants’ din	ing to do with the servants now?
+collins_moonstone_62_d	31	0.9032258064516129	4357	14027	 afterwards, Rosanna Spearman e	 afterwards of Rosanna Spearman
+collins_moonstone_50_d	30	0.9	16710	19352	,” says Mr. Franklin. “I wonde	,” says Mr. Franklin. “It does
+collins_moonstone_66_d	30	0.9	12146	9534	, Mr. Betteredge,” she said. “	, Mr. Betteredge,” he said, wi
+collins_moonstone_60_d	33	0.9090909090909091	12146	18828	, Mr. Betteredge,” she said. “I d	, Mr. Betteredge,” he said. “And 
+collins_moonstone_76_d	31	0.9032258064516129	2751	15940	 the matter of the Diamond touc	 the matter of the Diamond—shoc
+collins_moonstone_49_d	32	0.9375	3252	12854	 months before the time I am wri	 months before the time I am now
+collins_moonstone_49_d	30	0.9	5959	15931	, nine times out of ten she qu	, nine times out of ten the pl
+collins_moonstone_49_d	32	0.90625	16710	2927	,” says Mr. Franklin. “I wonder 	,” says Mr. Franklin. “I never s
+collins_moonstone_52_d	32	0.96875	299	221	 Mr. Franklin Blake’s arrival la	 Mr. Franklin Blake’s arrival an

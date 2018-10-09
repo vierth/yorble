@@ -1,0 +1,70 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_7_u	31	0.967741935483871	18736	84	ent of Lord Montbarry's death? 	ent of Lord Montbarry's death, 
+collins_hauntedhotel_7_u	30	0.9	18739	4939	 of Lord Montbarry's death? In	 of Lord Montbarry's death. He
+collins_hauntedhotel_7_u	38	0.9473684210526315	19063	3566	m for which the late Lord Montbarry's 	m for which the late Lord Montbarry ha
+austen_northangerabbey_25_g	30	0.9333333333333333	970	16444	 the circumstances which had a	 the circumstance which had pr
+collins_moonstone_87_d	31	0.9032258064516129	13316	6513	 straying away from my subject.	 straying away from our subject
+collins_hauntedhotel_13_u	30	0.9	1313	9086	other members of the family in	other member of the family at 
+collins_hauntedhotel_13_u	30	0.9	3900	933	 of experimental chemistry--an	 of experimental chemistry in 
+collins_hauntedhotel_13_u	31	0.9032258064516129	19074	5987	 the late Lord Montbarry's life	 the late Lord Montbarry's serv
+radcliffe_udolpho_20_g	32	0.9375	18230	45598	 extraordinary circumstances whi	 extraordinary circumstance. Thi
+radcliffe_udolpho_20_g	30	0.9333333333333333	18343	45598	 extraordinary circumstances b	 extraordinary circumstance. T
+collins_hauntedhotel_9_u	30	0.9	1312	1632	 other members of the family i	 other members of his family, 
+radcliffe_udolpho_19_g	30	0.9	970	6079	 the circumstances which had a	 the circumstance which made h
+radcliffe_udolpho_19_g	30	1.0	3288	48880	, which communicated with the 	, which communicated with the 
+austen_northangerabbey_8_g	31	0.9032258064516129	18610	2395	 one of these circumstances is 	 one of those circumstances whi
+collins_hauntedhotel_12_u	33	0.9696969696969697	15957	4226	 looked at the address. It was di	 looked at the address. It was in
+christie_styles_7_d	32	1.0	1395	12205	m the only member of the family 	m the only member of the family 
+doyle_adventures_10_d	30	0.9	7285	7893	he disappearance of the courie	he disappearance of the bride.
+doyle_adventures_10_d	30	0.9	7285	14123	he disappearance of the courie	he disappearance of the bride.
+shelley_frankenstein_56_g	42	0.9047619047619048	13748	31117	e breathed with difficulty, and was only p	e breathed with difficulty and was unable 
+collins_hauntedhotel_17_u	33	0.9393939393939394	7949	11662	 to the rooms occupied by her lad	 to the room occupied by her maid
+radcliffe_udolpho_5_g	32	0.90625	2232	13854	. On the other side of the large	. On the other side of the valle
+collins_hauntedhotel_24_u	30	0.9	950	12562	 his illness, and to the circu	 his illness, and to the consu
+collins_hauntedhotel_24_u	30	0.9333333333333333	1312	2687	 other members of the family i	 other member of the family.' 
+doyle_adventures_3_d	33	0.9090909090909091	18230	25305	 extraordinary circumstances whic	 extraordinary circumstances conn
+doyle_adventures_3_d	34	0.9117647058823529	18343	25305	 extraordinary circumstances beyon	 extraordinary circumstances conne
+collins_moonstone_89_d	31	0.9032258064516129	11753	22013	recious time had been lost, thr	recious time has been lost, sir
+collins_moonstone_89_d	30	0.9333333333333333	14483	44945	 the evening of the 21st, and 	 the evening of the 26th, and 
+collins_moonstone_89_d	30	0.9333333333333333	18230	72297	 extraordinary circumstances w	 extraordinary circumstance, m
+collins_moonstone_89_d	32	0.90625	18343	72297	 extraordinary circumstances bey	 extraordinary circumstance, my 
+doyle_signoffour_8_d	30	0.9333333333333333	3289	11266	 which communicated with the b	 which communicated with that 
+poe_marieroget_1_d	30	0.9	10374	67098	 mysterious disappearance. It 	 mysterious disappearance of M
+doyle_signoffour_4_d	30	0.9	10374	12188	 mysterious disappearance. It 	 mysterious disappearance of C
+collins_hauntedhotel_20_u	32	0.9375	1312	8134	 other members of the family inh	 other members of the family, di
+doyle_scarlet_3_d	31	0.9032258064516129	16780	1048	 that two and two make four. Do	 that two and two made four, yo
+radcliffe_udolpho_55_g	34	0.9411764705882353	10423	16000	 to conceal the circumstance, as h	 to conceal the circumstance, and 
+collins_moonstone_47_d	30	0.9333333333333333	17288	14753	ation on the subject of the le	ation on the subject of the ju
+collins_hauntedhotel_14_u	30	0.9	1840	1287	ed by Lord Montbarry and the m	ed by Lord Montbarry (on the f
+radcliffe_udolpho_1_g	31	0.9032258064516129	7285	24018	he disappearance of the courier	he disappearance of the picture
+christie_styles_13_d	30	0.9	11163	12727	 secured the services of Docto	 secured the services of about
+collins_hauntedhotel_27_u	42	0.9047619047619048	15769	6096	 and stamped, ready for the post. His next	 and stamped ready for the post. This done
+christie_secretadversary_22_d	31	0.9354838709677419	17281	4203	 information on the subject of 	 information on the subject I c
+collins_hauntedhotel_5_u	35	0.9142857142857143	12457	8084	 was in constant attendance on my p	 was in constant attendance on her 
+collins_hauntedhotel_5_u	37	0.9459459459459459	18397	7499	 the disappearance of Ferrari, the re	 the disappearance of Ferrari, to ret
+collins_moonstone_67_d	30	0.9	15131	14530	Later in the day I warned my l	Later in the day, I tried my l
+doyle_baskervilles_7_u	30	0.9	970	2450	 the circumstances which had a	 the circumstances which led u
+doyle_baskervilles_7_u	30	0.9	1313	24887	other members of the family in	other member of the family cam
+stoker_dracula_12_g	32	0.90625	15165	33588	 as gently as I could, that his 	 as gently as I could that both 
+radcliffe_udolpho_34_g	30	0.9	970	14273	 the circumstances which had a	 the circumstance, which has l
+christie_styles_5_d	31	0.9354838709677419	1312	3920	 other members of the family in	 other members of the family?” 
+christie_styles_5_d	30	0.9	6380	28573	 I should never have left home	 I should never have left that
+collins_hauntedhotel_6_u	32	0.96875	8528	593	 interview with Lady Montbarry. 	 interview with Lady Montbarry; 
+collins_hauntedhotel_6_u	32	0.9375	10539	2642	 Lady Montbarry and the Baron by	 Lady Montbarry and the Baron!' 
+collins_hauntedhotel_6_u	30	1.0	16407	10254	 in a state of insensibility, 	 in a state of insensibility, 
+lewis_monk_4_g	30	0.9	13756	45896	ed with difficulty, and was on	ed with difficulty, and as the
+collins_moonstone_74_d	30	0.9	17288	19097	ation on the subject of the le	ation on the subject of her ma
+radcliffe_udolpho_50_g	30	0.9333333333333333	15404	21548	e intelligence of his approach	e intelligence of the approach
+radcliffe_udolpho_3_g	30	0.9333333333333333	17281	15035	 information on the subject of	 information on the subject.' 
+radcliffe_udolpho_48_g	30	0.9666666666666667	970	11829	 the circumstances which had a	 the circumstances, which had 
+radcliffe_udolpho_22_g	31	0.9032258064516129	970	6291	 the circumstances which had at	 the circumstance, which has th
+dickens_christmascarole_3_g	30	0.9	11091	35759	 whether he liked it or not. B	 whether he likes it or not, f
+christie_styles_8_d	34	0.9411764705882353	1868	15438	 members of the household. We saw 	 members of the household. We all 
+christie_styles_1_d	31	0.9032258064516129	970	437	 the circumstances which had at	 the circumstances which led to
+lewis_monk_6_g	30	0.9	3289	13774	 which communicated with the b	 which communicated with St. C
+collins_hauntedhotel_25_u	30	0.9333333333333333	3288	9242	, which communicated with the 	, which communicated with one 
+collins_hauntedhotel_25_u	31	0.9032258064516129	18739	1223	 of Lord Montbarry's death? In 	 of Lord Montbarry's death; he 
+collins_moonstone_50_d	30	0.9	3900	6651	 of experimental chemistry--an	 of experimental chemistry at 
+collins_moonstone_50_d	33	0.9090909090909091	13428	20965	 I was quite unprepared for the d	 I was quite unprepared for such 
+collins_moonstone_76_d	37	0.918918918918919	8507	691	 had the honour of an interview with 	 had the honour of an interview, at m
+collins_moonstone_65_d	31	0.9032258064516129	926	6546	 information relating to his il	 information relating to the lo

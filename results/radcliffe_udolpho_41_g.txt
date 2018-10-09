@@ -1,0 +1,6 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_54_g	31	0.9032258064516129	1931	11474	en in the castle of Udolpho. Th	en in the castle of Udolpho--th
+radcliffe_udolpho_54_g	31	0.9032258064516129	2623	24883	 assistance from their friends 	 assistance from his friends. W
+radcliffe_udolpho_54_g	30	0.9	14159	8693	 Marchioness,' said Emily, 'an	 Marchioness?' said Emily, in 
+radcliffe_udolpho_54_g	30	0.9	16809	22356	 of the late Marchioness, and 	 of the late Marchioness de Vi
+radcliffe_udolpho_35_g	33	0.9696969696969697	19173	22496	, ma'amselle,' replied Dorothee. 	, ma'amselle,' replied Dorothee, 

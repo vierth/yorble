@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+dickens_christmascarole_4_g	30	0.9	21	8040	 into the presence of the magi	 into the presence of this man
+doyle_adventures_4_d	30	0.9	4055	33452	 the body had been found, I wa	 the body had been found, and,
+shelley_frankenstein_32_g	32	0.90625	6901	2593	 addressed me in English, and th	 addressed me in English, althou
+shelley_frankenstein_32_g	30	0.9	9533	7089	 sympathy and compassion; he d	 sympathy and compassion. He m
+radcliffe_udolpho_34_g	32	0.90625	20011	12655	er, who was watching over me, pe	er, who was watching over her re
+lewis_monk_4_g	32	0.90625	17217	83908	 put an end to the existence I l	 put an end to her existence by 
+lewis_monk_4_g	32	0.90625	17762	83908	 put an end to the existence of 	 put an end to her existence by 
+shelley_frankenstein_42_g	33	0.9090909090909091	1765	12294	 the murder of my brother and fel	 the murderer of my brother, and 
+shelley_frankenstein_42_g	30	0.9	1849	5804	 a mist came over my eyes, whi	 a mist came over my eyes, and
+austen_northangerabbey_26_g	30	0.9	6429	9776	 of the room in which I was, a	 of the room in which she was 
+doyle_adventures_5_d	34	0.9705882352941176	1559	12630	here was no sign of any violence e	here was no sign of any violence, 
+doyle_adventures_5_d	33	0.9393939393939394	11371	17739	 months have elapsed since the de	 months have elapsed since then. 
+shelley_frankenstein_54_g	30	0.9	7866	1795	 presented itself to my mind w	 presented itself to my imagin
+shelley_frankenstein_54_g	30	0.9	9919	6729	 borne down as you are by so s	 borne down as you are by the 
+dickens_christmascarole_3_g	34	0.9117647058823529	18429	31404	 listening to the dashing of the w	 listening to the moaning of the w
+shelley_frankenstein_49_g	30	0.9	4803	599	 could no longer support the a	 could no longer suppress the 
+collins_moonstone_84_d	30	0.9333333333333333	4108	15284	 to the consequences of the af	 to the consequences for the f
+lewis_monk_8_g	48	0.9166666666666666	17202	39807	 endeavoured to put an end to the existence I lo	 endeavoured to put an end to her existence. He 
+lewis_monk_8_g	30	0.9333333333333333	17762	39822	 put an end to the existence o	 put an end to her existence. 
+radcliffe_udolpho_12_g	33	0.9090909090909091	6643	22232	 her countenance expressed all th	 her countenance expressed ill-hu
+radcliffe_udolpho_12_g	30	0.9333333333333333	12847	49430	e rose and quitted the room wi	e rose and quitted the room, l
+lewis_monk_1_g	31	0.9032258064516129	165	23580	, and then, turning towards my 	, and then turning towards his 
+radcliffe_udolpho_27_g	32	0.9375	6552	240	 sleeping in a chair beside me. 	 sleeping in a chair beside the 
+radcliffe_udolpho_27_g	34	0.9117647058823529	15902	6340	 to return to my native country. I	 to return to her native country. 
+doyle_scarlet_12_d	30	0.9333333333333333	584	5201	 the moon had not yet risen; t	 the moon had not yet risen, a
+radcliffe_udolpho_35_g	30	0.9	12355	7162	t the presence of your father 	t the presence of her father a

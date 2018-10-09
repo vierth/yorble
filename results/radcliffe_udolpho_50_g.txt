@@ -1,0 +1,84 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_18_g	40	0.95	12325	17777	 air of this mountainous region was chil	 air of this mountainous region was cold
+radcliffe_udolpho_18_g	36	0.9722222222222222	15914	33090	 circumstances, connected with the c	 circumstance, connected with the ca
+radcliffe_udolpho_18_g	32	0.90625	17173	12141	 along the brow of the precipice	 along the brow of a precipice a
+radcliffe_udolpho_18_g	36	0.9166666666666666	26210	12141	 along the brow of a precipice. Over	 along the brow of a precipice above
+radcliffe_udolpho_18_g	33	0.9696969696969697	29550	34312	, and, perceiving, that it was go	, and, perceiving, that it was no
+radcliffe_udolpho_18_g	30	0.9	46672	31079	 re-animated her spirits, and 	 re-animated her spirits, to g
+radcliffe_udolpho_18_g	34	0.9117647058823529	50943	16236	 stretched upon the pavement, and 	 stretched along the pavement and 
+radcliffe_udolpho_18_g	31	0.9032258064516129	54990	41659	 have nothing to fear from them	 have nothing to fear from my i
+radcliffe_udolpho_13_g	31	0.9032258064516129	7714	27799	ed by the conversation of her l	ed by the consideration of her 
+radcliffe_udolpho_13_g	31	0.9032258064516129	16559	46080	he considered, that she was on 	he considered, that there was n
+radcliffe_udolpho_13_g	31	0.9354838709677419	52513	33195	 but the joy she felt, on this 	 but the joy she felt on thus m
+radcliffe_udolpho_3_g	30	0.9	346	4377	 among the mountains, and were	 among the mountains, and, ben
+radcliffe_udolpho_3_g	36	0.9166666666666666	7187	11029	 of the breeze among the woods, or t	 of the breeze among the woods, and 
+radcliffe_udolpho_3_g	30	0.9	12065	15900	, if such it could be called, 	, if such they could be called
+radcliffe_udolpho_3_g	30	0.9	16944	12000	 they were in search of, the C	 they were in search of. The s
+radcliffe_udolpho_3_g	30	0.9333333333333333	26074	11860	fter a moment's hesitation, pa	fter a moment's hesitation, St
+radcliffe_udolpho_3_g	30	0.9	57180	9623	 under the shade of the dark g	 under the shade of the oak an
+christie_secretadversary_14_d	30	0.9	54126	2438	 for the purpose of bringing h	 for the purpose of obtaining 
+radcliffe_udolpho_48_g	30	0.9	19249	16504	 endeavouring to re-collect al	 endeavouring to recollect the
+radcliffe_udolpho_48_g	30	0.9333333333333333	20839	16176	 could scarcely support her sp	 could scarcely support hersel
+radcliffe_udolpho_48_g	30	0.9	50600	7042	 she endeavoured to raise hers	 she endeavoured to repose her
+radcliffe_udolpho_22_g	30	0.9	9381	800	e supposition, that it was ere	e supposition, that it was a m
+radcliffe_udolpho_22_g	33	0.9090909090909091	21469	4150	e's attention from the subject of	e's attention from this subject, 
+radcliffe_udolpho_22_g	30	0.9	31463	30013	y the appearance of the man, w	y the appearance of one man, m
+radcliffe_udolpho_22_g	51	0.9607843137254902	41663	12414	 her trembling frame refused to support her, and, h	 her trembling frame refused to support her; and th
+radcliffe_udolpho_22_g	35	0.9428571428571428	56985	3176	 disguise in his countenance the an	 disguise in his countenance their 
+reeve_oldenglishbaron	30	0.9	48443	30120	s you would wish to see by a s	s you would with to see in a s
+radcliffe_udolpho_4_g	34	0.9411764705882353	2219	5187	 now and then, at a distance, the 	 now and then at a distance the so
+radcliffe_udolpho_4_g	30	0.9333333333333333	8655	6699	 obscurely through the dusk, o	 obscurely through the dusk; b
+radcliffe_udolpho_4_g	30	0.9	9075	25421	 would not permit them to read	 would not permit them to dist
+radcliffe_udolpho_4_g	32	0.9375	15311	14749	 the natural history of the scen	 the natural history of the coun
+radcliffe_udolpho_4_g	30	0.9	17509	9296	 endeavoured, however, to poin	 endeavoured, however, to rais
+radcliffe_udolpho_4_g	35	0.9714285714285714	22186	22103	 the grand passes of the Pyrenees, 	 the grand passes of the Pyrenees i
+radcliffe_udolpho_4_g	30	0.9	23988	28390	 too had, for some time, cease	 too had, for some time, been 
+radcliffe_udolpho_4_g	38	0.9210526315789473	29173	9086	eceiving no answer, he went up to the 	eceiving no answer, he went to the car
+radcliffe_udolpho_4_g	36	0.9722222222222222	56519	19072	 the summit of the mountains. They h	 the summits of the mountains. They 
+dickens_christmascarole_3_g	36	0.9166666666666666	52091	16685	, and ran to his arms, while he, let	, and ran into his arms, while the t
+collins_hauntedhotel_11_u	30	0.9	12427	9809	 with which those wilds were i	 with which those words were s
+collins_hauntedhotel_11_u	33	0.9090909090909091	41583	116	. Her first impulse was to retrea	. Her first impulse was to refuse
+lewis_monk_10_g	32	0.90625	8943	57797	 the object of their search, the	 the object of their search. He 
+lewis_monk_10_g	30	0.9666666666666667	24075	57797	 the object of their search. F	 the object of their search. H
+lewis_monk_10_g	30	0.9	48813	37067	, when his attention was calle	, when his attention was arres
+christie_styles_8_d	30	0.9	26074	18170	fter a moment's hesitation, pa	fter a moment’s hesitation, he
+lewis_monk_7_g	31	0.9032258064516129	17346	30002	 had neglected to provide more.	 had neglected to provide herse
+radcliffe_udolpho_10_g	30	0.9333333333333333	37711	1664	 in an obscure part of the hal	 in an obscure part of the clo
+shelley_frankenstein_51_g	30	0.9	32374	2894	ed to accept the invitation. W	ed to accept this invitation, 
+shelley_frankenstein_51_g	31	0.9032258064516129	32398	11361	ion. With this resolution he ca	ion. With this resolution I tra
+collins_moonstone_53_d	31	0.9032258064516129	52534	9615	, on this occasion, was interru	, on this occasion, was, in the
+lewis_monk_6_g	35	0.9428571428571428	12805	18557	m, and the silence of night was bro	m, and the silence of night was onl
+lewis_monk_6_g	30	0.9333333333333333	30853	31076	 little acquainted with these 	 little acquainted with the de
+radcliffe_udolpho_21_g	31	1.0	12065	5619	, if such it could be called, w	, if such it could be called, w
+radcliffe_udolpho_21_g	30	0.9	46672	9001	 re-animated her spirits, and 	 re-animate his spirits, and t
+radcliffe_udolpho_12_g	31	0.9032258064516129	816	481	 of the Pyrenees, and where a c	 of the Pyrenees, and her fancy
+radcliffe_udolpho_12_g	32	0.90625	20716	46744	 almost sinking beneath the pres	 almost sinking beneath them. He
+radcliffe_udolpho_12_g	30	0.9	37779	28402	, who was conversing with Blan	, who was conversing with Sign
+lewis_monk_1_g	31	0.9032258064516129	46434	961	 it would be impossible to desc	 it would be impossible to find
+radcliffe_udolpho_27_g	34	0.9117647058823529	9378	11984	 the supposition, that it was erec	 the supposition, that it was a pr
+radcliffe_udolpho_27_g	31	0.9032258064516129	32220	11112	 in the obscurity of night; bei	 in the obscurity of night. Emi
+radcliffe_udolpho_27_g	38	0.9210526315789473	40125	10268	 of the chamber, that she might be cer	 of the chamber, that she might escape
+collins_moonstone_50_d	30	0.9	28487	12569	 the means of bringing the tra	 the means of bringing it here
+radcliffe_udolpho_14_g	36	0.9722222222222222	4737	15887	 precipice, that bordered the road, 	 precipices that bordered the road, 
+radcliffe_udolpho_41_g	30	0.9	16649	22307	 was suddenly interrupted by a	 was suddenly interrupted not 
+doyle_scarlet_12_d	32	0.90625	346	2452	 among the mountains, and were d	 among the mountains, and he had
+doyle_scarlet_12_d	33	0.9393939393939394	36211	2852	 gun over his shoulder, and pisto	 gun over his shoulder, and set o
+radcliffe_udolpho_47_g	30	0.9	23831	5525	, looking up, perceived, that 	, looking up, perceived the ey
+radcliffe_udolpho_47_g	34	0.9117647058823529	32330	18273	, after some further consideration	, after some further conversation 
+collins_moonstone_60_d	30	0.9333333333333333	3740	18046	n the lower region of the moun	n the lower regions of the hou
+doyle_baskervilles_2_u	35	0.9714285714285714	15914	11659	 circumstances, connected with the 	 circumstances connected with the d
+radcliffe_udolpho_54_g	31	0.9032258064516129	27570	14921	 was somewhat surprised, that i	 was somewhat surprised at this
+radcliffe_udolpho_54_g	30	0.9	32376	20376	 to accept the invitation. Wit	 to accept the invitation, bei
+radcliffe_udolpho_54_g	32	0.90625	50604	17327	 endeavoured to raise herself, t	 endeavouring to raise herself, 
+radcliffe_udolpho_54_g	31	0.9032258064516129	51972	17889	 affrighted countenance, and br	 affrighted countenance, asked 
+radcliffe_udolpho_54_g	30	0.9333333333333333	57265	16015	ly, by what means he had disap	ly, by what means she had disc
+stoker_dracula_16_g	30	0.9	37617	15253	, and remained silent and thou	, and remained silent and quie
+doyle_scarlet_1_d	33	0.9393939393939394	12595	11864	 would certainly have been though	 would certainly have been hung h
+reeve_oldenglishbaron	30	0.9	48443	30120	s you would wish to see by a s	s you would with to see in a s
+doyle_baskervilles_15_u	30	0.9	54995	9835	 nothing to fear from them; bu	 nothing to fear from them. Th
+radcliffe_udolpho_35_g	34	0.9705882352941176	16717	19305	 the distant bark of a watch-dog. 	 the distant bark of a watch-dog, 
+radcliffe_udolpho_35_g	30	0.9	19599	27461	 again cheered by the bark of 	 again cheered by the face of 
+radcliffe_udolpho_35_g	35	0.9142857142857143	22294	18872	 suffered to fall into decay, and a	 suffered to fall into decay, or ha
+radcliffe_udolpho_35_g	36	0.9166666666666666	33197	25903	and to her father, who, smiling chee	and to her father, who, smiling affe
+radcliffe_udolpho_35_g	30	0.9	41899	5867	. In the next moment, she hear	. In the next moment, she was 
+christie_styles_4_d	30	0.9666666666666667	26072	12260	 after a moment's hesitation, 	 after a moment’s hesitation, 

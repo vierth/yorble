@@ -1,0 +1,23 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_6_g	31	0.9032258064516129	5722	6610	 with which he had directed his	 with which he had recited thes
+radcliffe_udolpho_6_g	30	0.9333333333333333	9181	20933	 the motion of the carriage. S	 the motion of the carriage; M
+radcliffe_udolpho_16_g	30	0.9	11870	34943	 on the subject; but she check	 on the subject; but she much 
+radcliffe_udolpho_33_g	30	0.9	153	35864	t her, while she remained in t	t her, while she remained a pr
+radcliffe_udolpho_33_g	30	0.9333333333333333	12081	4163	 the consideration that he wou	 the consideration, that he wa
+austen_northangerabbey_22_g	34	0.9117647058823529	6364	330	y, with the consciousness of safet	y, with the consciousness of exist
+collins_hauntedhotel_5_u	34	1.0	688	188	 to improve her acquaintance with 	 to improve her acquaintance with 
+doyle_baskervilles_9_u	30	0.9	15317	13054	eness of the morning, and was 	eness of the morning, and afte
+austen_northangerabbey_2_g	31	0.9032258064516129	44	11238	 the events of the evening was 	 the events of the evening, to 
+austen_northangerabbey_2_g	40	0.95	3657	8898	, my dear,” replied Mrs. Allen, with the	, my dear,” replied Mrs. Allen, with per
+christie_styles_5_d	31	0.9032258064516129	5781	6040	 could not help wondering that 	 could not help wondering if th
+lewis_monk_4_g	30	0.9	1290	104831	 the same place and the same e	 the same place at the same ho
+radcliffe_udolpho_18_g	30	0.9	17861	40126	ould have persuaded her to go 	ould have persuaded her to ret
+austen_northangerabbey_26_g	30	0.9	7152	6223	 you think of such a thing? He	 you think of such a thing, af
+walpole_castleofotranto_1_g	34	0.9117647058823529	13966	15192	 the astonishment of Isabella was 	 the astonishment of Isabella. At 
+christie_secretadversary_23_d	30	0.9	8481	2939	 a great deal more wine than I	 a great deal more noise than 
+radcliffe_udolpho_4_g	30	0.9333333333333333	9181	10357	 the motion of the carriage. S	 the motion of the carriage, a
+lewis_monk_10_g	30	0.9	7649	39796	 the hundredth part of the win	 the hundredth part of those m
+doyle_adventures_2_d	30	0.9	11919	41205	 it appeared to her that he di	 it appeared to me that the ni
+radcliffe_udolpho_10_g	31	0.9032258064516129	6366	4125	 with the consciousness of safe	 with the consciousness of irre
+austen_northangerabbey_16_g	32	1.0	703	506	 acquaintance with Miss Tilney, 	 acquaintance with Miss Tilney, 
+radcliffe_udolpho_12_g	32	0.9375	6365	12704	, with the consciousness of safe	, with the consciousness of dese

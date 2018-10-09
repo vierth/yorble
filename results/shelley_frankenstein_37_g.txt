@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+poe_usher_1_g	31	0.9354838709677419	10950	21879	 the pertinacity with which I c	 the pertinacity with which he 
+shelley_frankenstein_52_g	31	0.967741935483871	1598	1875	 of the being I had created, I 	 of the being I had created; I 
+poe_marieroget_1_d	30	0.9333333333333333	10003	70700	as the commencement of a nervo	as the commencement of a new o
+doyle_scarlet_7_d	32	0.9375	8579	10958	 I could hardly believe that so 	 I could hardly believe that he 
+radcliffe_udolpho_29_g	37	0.918918918918919	1703	8093	, unable to compose my mind to sleep.	, unable to compose her mind to sleep
+shelley_frankenstein_55_g	34	0.9117647058823529	2647	9277	e monster whom I had created. He h	e monster whom I had created, the 
+lewis_monk_2_g	30	0.9	10676	16981	 could have restored me to lif	 could have restored me to hap
+stoker_dracula_18_g	32	0.90625	6229	4189	 continued talking for some time	 continued to talk for some time
+doyle_adventures_12_d	30	0.9333333333333333	3114	28111	, walking up and down in the g	, walking up and down on the o
+stoker_dracula_2_g	32	0.9375	8579	26794	 I could hardly believe that so 	 I could hardly believe that it 
+walpole_castleofotranto_1_g	30	0.9333333333333333	2570	29216	 forced its way through the wi	 forced its way through the pa
+collins_hauntedhotel_19_u	30	0.9	7482	15137	e occupation that I have not a	e occupation that I have told 
+reeve_oldenglishbaron_	30	0.9	7453	3001	 been so deeply engaged in one	 been so deeply engaged in aff
+lewis_monk_7_g	30	0.9	3878	15477	 bitterness of disappointment;	 bitterness and disappointment
+doyle_adventures_2_d	30	0.9666666666666667	5736	16048	fortunate that you should be h	fortunate that you should be a
+lewis_monk_5_g	34	0.9411764705882353	9257	22116	 for which he could not account, a	 for which She could not account: 
+doyle_adventures_9_d	30	0.9666666666666667	8579	31312	 I could hardly believe that s	 I could hardly believe that h
+doyle_baskervilles_4_u	30	0.9	5439	16134	 the other end of the street. 	 the other side of the street 
+radcliffe_udolpho_27_g	32	0.90625	7755	337	nces of the preceding night. I w	nces of the preceding night were
+radcliffe_udolpho_54_g	31	0.9032258064516129	10047	24673	 confined me for several months	 confined for several months in

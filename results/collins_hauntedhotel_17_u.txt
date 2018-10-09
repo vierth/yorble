@@ -1,0 +1,59 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_17_g	32	0.90625	7972	3521	 for the purpose of enjoying the	 for the purpose of enforcing he
+collins_moonstone_68_d	31	0.9032258064516129	7230	10381	 merely mentioned that he had g	 merely mentioning that he had 
+lewis_monk_3_g	30	0.9	12363	24844	 For my own part, I have passe	 For my own part, I have trave
+lewis_monk_3_g	31	0.9032258064516129	14362	49032	 well acquainted with the peera	 well acquainted with the road,
+collins_moonstone_89_d	31	0.9032258064516129	123	78608	s, as a matter of course, by th	s, as a matter of course, put t
+collins_moonstone_89_d	30	0.9	6614	45078	 suspicion that he was speakin	 suspicion that he was examini
+collins_moonstone_89_d	30	0.9	14165	18561	 reached the ears of the manag	 reached the ears of the small
+christie_secretadversary_16_d	32	0.90625	2197	11836	 that he did not understand deco	 that he did not understand. The
+poe_marieroget_1_d	30	0.9	1599	43721	nder certain conditions) the m	nder certain conditions this r
+poe_marieroget_1_d	30	0.9	15459	97265	 the reflection that he had do	 the reflection that it had no
+doyle_scarlet_7_d	30	0.9	6600	14328	 the slightest suspicion that 	 the slightest suspicion, he w
+collins_hauntedhotel_20_u	30	0.9	2799	9630	 the number of the room on the	 the numbers of the rooms on s
+collins_hauntedhotel_20_u	43	0.9534883720930233	8552	14488	 Arthur Barville and his wife had already a	 Arthur Barville and his wife have already 
+collins_hauntedhotel_20_u	43	0.9069767441860465	10075	15740	 at the window of her room, watching the su	 at the window of her room watching for the
+collins_hauntedhotel_20_u	30	0.9	15523	9313	,' he thought to himself, with	,' he thought to himself, as h
+doyle_scarlet_3_d	31	0.9032258064516129	13682	19944	 I should like to speak to my b	 I should like to speak to the 
+collins_hauntedhotel_14_u	34	0.9117647058823529	11855	247	, as a matter of necessity, taken 	, as a matter of necessity, the ro
+radcliffe_udolpho_26_g	30	0.9	4779	7238	h which he had entered the hou	h which he had entered the ter
+radcliffe_udolpho_6_g	30	0.9	1836	23228	clined to believe that his bed	clined to believe, that this w
+radcliffe_udolpho_6_g	30	0.9	4775	6610	 with which he had entered the	 with which he had recited the
+christie_styles_13_d	30	0.9333333333333333	11282	22348	, and rushed out of her room i	, and rushed out of the room a
+collins_hauntedhotel_26_u	31	0.9032258064516129	2780	22871	s.' Henry looked at the number 	s.' Henry looked at the chamber
+collins_hauntedhotel_26_u	31	0.9032258064516129	9215	7845	 the first Lord Montbarry. She 	 the first Lord Montbarry. Was 
+collins_hauntedhotel_26_u	34	0.9705882352941176	10945	22153	ed in the old days of the palace b	ed in the old days of the palace. 
+radcliffe_udolpho_33_g	30	0.9	11305	29624	 room in the middle of the nig	 room in the middle of the cas
+collins_hauntedhotel_23_u	51	0.9411764705882353	10759	12185	 situated immediately over the bedchamber which she	 situated immediately over the bedchamber in which 
+collins_hauntedhotel_23_u	35	0.9142857142857143	10947	12147	 in the old days of the palace by B	 in the old days of the palace: it 
+christie_styles_6_d	30	0.9666666666666667	11310	4425	 in the middle of the night. T	 in the middle of the night. C
+doyle_baskervilles_11_u	31	0.9032258064516129	6213	17643	 looked round him with a certai	 looked round him with a furtiv
+collins_moonstone_61_d	30	0.9	13970	9774	 what had passed between her m	 what had passed between Mr. F
+radcliffe_udolpho_57_g	30	0.9	10321	2276	 that it would have been in th	 that it would have been worth
+radcliffe_udolpho_34_g	32	0.90625	15459	10757	 the reflection that he had done	 the reflection, that she had re
+christie_styles_5_d	38	0.9210526315789473	6764	13438	 was not, in any sense of the term, a 	 was not, in any sense of the word, a 
+lewis_monk_4_g	32	0.9375	11310	19172	 in the middle of the night. The	 in the middle of the night. Per
+shelley_frankenstein_42_g	31	0.9032258064516129	14362	2408	 well acquainted with the peera	 well acquainted with the path,
+radcliffe_udolpho_50_g	31	0.9032258064516129	15351	35814	 on the subject of the changed 	 on the subject of the chace, b
+radcliffe_udolpho_18_g	30	0.9	99	19072	 the opening of its doors, as 	 the opening of the door, was 
+radcliffe_udolpho_13_g	33	0.9696969696969697	13966	1306	t of what had passed between her 	t of what had passed between the 
+christie_styles_12_d	32	0.90625	1254	12400	 attention was attracted by an a	 attention was attracted by the 
+stoker_dracula_2_g	31	0.9032258064516129	2918	12810	d a good night's rest. In the t	d a good night's rest. Then he 
+christie_secretadversary_23_d	30	0.9	13081	7549	 draw her own conclusions. It'	 draw her own conclusions. Tom
+doyle_adventures_5_d	30	0.9	15474	14108	 that he had done his duty to 	 that he had done his duty wel
+shelley_frankenstein_40_g	31	0.9354838709677419	5309	4776	 passed a sleepless night. And 	 passed a sleepless night and t
+collins_hauntedhotel_19_u	48	0.9166666666666666	9201	1860	 dead brother, the first Lord Montbarry. She saw	 dead brother, the first Lord Montbarry. He frow
+christie_secretadversary_17_d	30	0.9	15525	19447	 he thought to himself, with a	 he thought to himself, “they 
+collins_hauntedhotel_11_u	31	0.9032258064516129	4736	4920	. To Henry's astonishment, the 	. To Henry's astonishment, Agne
+radcliffe_udolpho_10_g	30	0.9	1836	5626	clined to believe that his bed	clined to believe that this wa
+collins_moonstone_53_d	32	0.9375	13967	9665	 of what had passed between her 	 of what had passed between Mr. 
+collins_hauntedhotel_25_u	30	0.9333333333333333	3754	730	 equal to any demands on it! T	 equal to any demands on it. '
+collins_hauntedhotel_25_u	40	0.925	10161	5662	 the first excuse that occurred to her, 	 the first excuse that occurred to me. S
+lewis_monk_1_g	30	0.9666666666666667	1253	39984	s attention was attracted by a	s attention was attracted by p
+christie_styles_3_d	30	0.9333333333333333	11313	284	 the middle of the night. The 	 the middle of the night when 
+christie_styles_3_d	30	0.9333333333333333	13683	7193	I should like to speak to my b	I should like to speak to you 
+collins_moonstone_60_d	30	0.9333333333333333	13970	15817	 what had passed between her m	 what had passed between the S
+doyle_scarlet_1_d	30	0.9666666666666667	11502	11761	onsiderably surprised at this 	onsiderably surprised at his e
+doyle_scarlet_8_d	31	0.967741935483871	14135	19703	, passing from mouth to mouth, 	, passing from mouth to mouth u
+collins_moonstone_65_d	30	0.9333333333333333	14362	17279	 well acquainted with the peer	 well acquainted with those pr
+christie_styles_4_d	30	0.9666666666666667	11310	31242	 in the middle of the night. T	 in the middle of the night.” 

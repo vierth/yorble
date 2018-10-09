@@ -1,0 +1,28 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_12_u	30	0.9	5601	6015	e innumerable instances in whi	e innumerable instances of his
+collins_moonstone_57_d	31	0.9032258064516129	8350	9435	 After that, there was no more 	 After that, there was no help 
+walpole_castleofotranto_2_g	30	0.9666666666666667	7401	26381	I have been informed that the 	I have been informed that she 
+collins_hauntedhotel_4_u	31	0.9354838709677419	131	1485	 the smoking-room of his club. 	 the smoking-room of the club. 
+collins_hauntedhotel_4_u	30	0.9	1805	1482	 in the smoking-room took the 	 in the smoking-room of the cl
+collins_hauntedhotel_4_u	30	0.9	8247	6985	' Henry Westwick answered, 'It	' Henry Westwick answered ster
+christie_secretadversary_18_d	34	0.9411764705882353	2727	8337	. It was all very well to say that	. It was all very well to _say_ th
+shelley_frankenstein_30_g	31	0.9354838709677419	2077	2554	ent in his profession. He was a	ent in his profession. He is an
+stoker_dracula_26_g	32	0.9375	8364	2720	here was no more to be said--so 	here was no more to be said, so 
+collins_moonstone_64_d	34	0.9117647058823529	8362	5597	 there was no more to be said--so 	 there was no more to be said. As 
+collins_hauntedhotel_14_u	32	0.90625	12276	3354	 Lord and Lady Montbarry had ste	 Lord and Lady Montbarry and Mis
+stoker_dracula_23_g	31	0.9032258064516129	7964	6732	 looked at each other, and repe	 looked at each other, and toge
+collins_hauntedhotel_26_u	30	0.9	7871	7892	 the Countess, in the event of	 the Countess, in the present 
+doyle_scarlet_13_d	38	0.9210526315789473	10720	1934	 man, who went through his duties resi	 man, who went through his duties in a
+collins_hauntedhotel_5_u	30	0.9	12276	5672	 Lord and Lady Montbarry had s	 Lord and Lady Montbarry, at o
+stoker_dracula_12_g	30	0.9	7964	2685	 looked at each other, and rep	 looked at each other, and as 
+lewis_monk_4_g	30	0.9	12304	49778	 stepped into their carriage, 	 stepped into the Carriage, wh
+collins_moonstone_74_d	32	0.96875	8319	9577	which comes to the same thing.' 	which comes to the same thing.” 
+austen_northangerabbey_26_g	30	0.9333333333333333	1736	2527	 the natural result of the dis	 the natural result of the sus
+collins_hauntedhotel_19_u	30	1.0	8345	2470	ing.' After that, there was no	ing.' After that, there was no
+collins_hauntedhotel_19_u	30	0.9333333333333333	12276	7861	 Lord and Lady Montbarry had s	 Lord and Lady Montbarry? and 
+lewis_monk_10_g	30	0.9	11825	10061	 confusion and surprise, the C	 confusion and surprize, when 
+stoker_dracula_1_g	30	0.9333333333333333	12543	14015	 was evidently bent on seeing 	 was evidently bent on losing 
+collins_moonstone_50_d	30	0.9333333333333333	7964	14188	 looked at each other, and rep	 looked at each other, and the
+doyle_scarlet_12_d	30	0.9	3152	16803	he younger members of the club	he younger members of the Chur
+collins_hauntedhotel_15_u	30	0.9	12276	8307	 Lord and Lady Montbarry had s	 Lord and Lady Montbarry at Pa
+collins_moonstone_49_d	35	0.9714285714285714	2728	15233	 It was all very well to say that h	 It was all very well to say that, 

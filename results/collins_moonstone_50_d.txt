@@ -1,0 +1,19 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_66_d	31	0.9032258064516129	19422	4168	e to take the Subjective view. 	e to take the Objective view fi
+austen_northangerabbey_3_g	33	0.9090909090909091	14305	7706	. “What are you thinking of?” say	. “What are you thinking of so ea
+collins_moonstone_49_d	31	0.9032258064516129	3772	15593	 the nineteenth century, and an	 the nineteenth century, mind; 
+collins_moonstone_49_d	30	0.9	4858	13648	 the story of the Colonel firs	 the story of the Colonel bein
+collins_moonstone_49_d	30	0.9	6738	4407	 as a birthday present to his 	 as a birthday present to my c
+collins_moonstone_49_d	30	0.9666666666666667	8707	1445	e,” answered Mr. Franklin, “I 	e,” answered Mr. Franklin. “I 
+collins_moonstone_49_d	31	0.9032258064516129	10438	2927	,” says Mr. Franklin. “I have i	,” says Mr. Franklin. “I never 
+collins_moonstone_49_d	50	0.96	13220	1598	 by the morning instead of the afternoon train. He	 by the morning instead of the afternoon train, be
+collins_moonstone_49_d	30	0.9	14281	4606	 over the Shivering Sand. “Wha	 over the Shivering Sand, had 
+collins_moonstone_49_d	30	0.9	14552	1446	,” answered Mr. Franklin, “say	,” answered Mr. Franklin. “I s
+collins_moonstone_49_d	32	0.90625	15389	12656	 remember his niece’s birthday. 	 remember my niece’s birthday.” 
+collins_moonstone_49_d	34	0.9411764705882353	18457	13335	 in undisturbed possession of him 	 in undisturbed possession of the 
+collins_moonstone_49_d	74	0.9054054054054054	19719	15049	 purposely left a legacy of trouble and danger to his sister, by the means	 purposely left a legacy of trouble and danger to his sister, through the 
+collins_moonstone_52_d	32	0.90625	13638	1175	 ink into the boy’s hand, and te	 ink into a boy’s hand, and then
+collins_moonstone_52_d	33	0.9393939393939394	23325	9129	 on the twenty-first of June. We 	 on the twenty-first of June. If 
+collins_moonstone_52_d	30	0.9333333333333333	23792	1904	 of the bank at Frizinghall.” 	 of the bank at Frizinghall, w
+christie_styles_4_d	33	0.9090909090909091	15051	33137	 envelope out of his pocket, open	 envelope out of his pocket, and 
+christie_styles_4_d	30	0.9	17996	32319	 twisting and turning the extr	 twisting and turning them wit

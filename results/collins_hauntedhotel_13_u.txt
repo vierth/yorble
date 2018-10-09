@@ -1,0 +1,61 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_51_d	30	0.9	11480	6308	s the most charming girl in al	s the most charming girl I hav
+christie_secretadversary_7_d	30	0.9333333333333333	1776	2419	. On the other hand, he had pr	. On the other hand, he had a 
+collins_moonstone_78_d	30	0.9666666666666667	2138	16546	 to the railway station, and h	 to the railway station, and t
+collins_moonstone_78_d	31	0.967741935483871	7852	13099	s extraordinary disappearance? 	s extraordinary disappearance t
+collins_moonstone_78_d	42	0.9285714285714286	8689	22029	 Those were the last words he said to me, 	 Those were the last words he said on the 
+collins_hauntedhotel_9_u	31	0.9032258064516129	6755	3857	ed to me, Miss Lockwood, as no 	ed to me, by Miss Lockwood, as 
+collins_hauntedhotel_21_u	31	0.9032258064516129	1238	7217	, Agnes was conscious of a cert	, Agnes was conscious of a late
+collins_hauntedhotel_21_u	30	0.9	10917	2281	 the new Lord Montbarry--the e	 the new Lord Montbarry--hesit
+collins_hauntedhotel_3_u	30	0.9	172	12276	 Lord and Lady Montbarry. The 	 Lord and Lady Montbarry had s
+collins_moonstone_55_d	31	0.9354838709677419	8935	22563	 throw any light on this matter	 throw any light on the matter.
+collins_hauntedhotel_4_u	31	0.9032258064516129	6982	10088	 put her handkerchief over her 	 put her handkerchief to her ey
+collins_moonstone_46_d	35	1.0	9714	7405	 (if I may use such an expression) 	 (if I may use such an expression) 
+collins_hauntedhotel_17_u	31	0.9032258064516129	691	9215	 the first Lord Montbarry (othe	 the first Lord Montbarry. She 
+collins_moonstone_68_d	31	0.9032258064516129	5504	24340	 under the circumstances. Mrs. 	 under the circumstances. Here 
+collins_hauntedhotel_24_u	30	0.9	9086	2688	other member of the family at 	other member of the family.' H
+austen_northangerabbey_7_g	31	0.9032258064516129	11481	11591	 the most charming girl in all 	 the most charming girl in the 
+austen_northangerabbey_7_g	31	0.9032258064516129	11481	11900	 the most charming girl in all 	 the most charming girl in the 
+doyle_signoffour_8_d	32	1.0	10608	6104	 of the slightest importance to 	 of the slightest importance to 
+poe_marieroget_1_d	30	0.9	1739	88628	t obstacles in the way of his 	t obstacles in the way of piec
+collins_hauntedhotel_20_u	30	0.9	9086	8135	other member of the family at 	other members of the family, d
+collins_hauntedhotel_20_u	30	0.9666666666666667	10672	9218	 alternative but to grant her 	 alternative but to grant the 
+doyle_scarlet_3_d	30	0.9	605	14814	 circumstances, and paid the t	 circumstances, and said that 
+doyle_scarlet_3_d	30	0.9	5503	6943	, under the circumstances. Mrs	, under the circumstances, see
+lewis_monk_2_g	31	0.9032258064516129	6982	80776	 put her handkerchief over her 	 put her handkerchief to her ey
+doyle_signoffour_3_d	35	0.9142857142857143	10607	2983	s of the slightest importance to th	s of the slightest importance, but 
+collins_moonstone_58_d	30	0.9	5502	10635	e, under the circumstances. Mr	e, under those circumstances, 
+christie_styles_10_d	30	0.9	5503	5596	, under the circumstances. Mrs	, under the circumstances. “Th
+collins_moonstone_70_d	34	0.9411764705882353	10661	11980	here was no alternative but to gra	here was no alternative but to sea
+collins_hauntedhotel_26_u	30	0.9666666666666667	688	7842	 of the first Lord Montbarry (	 of the first Lord Montbarry. 
+collins_hauntedhotel_26_u	30	0.9333333333333333	932	2793	e of experimental chemistry in	e of experimental chemistry, v
+collins_hauntedhotel_23_u	30	0.9	2889	6619	 the Countess's maid. She was 	 the Countess's room. She was 
+stoker_dracula_10_g	30	0.9	8702	29855	he last words he said to me, o	he last words he said to her w
+collins_hauntedhotel_5_u	30	0.9	172	7404	 Lord and Lady Montbarry. The 	 Lord and Lady Montbarry. It w
+collins_hauntedhotel_5_u	34	0.9117647058823529	7852	6802	s extraordinary disappearance? On 	s extraordinary disappearance. If 
+collins_hauntedhotel_5_u	30	0.9666666666666667	10608	7336	 of the slightest importance t	 of the slightest importance) 
+doyle_adventures_4_d	30	0.9333333333333333	1776	27497	. On the other hand, he had pr	. On the other hand, he had no
+doyle_baskervilles_7_u	35	0.9142857142857143	9083	24884	 another member of the family at Ve	 another member of the family came 
+christie_styles_5_d	32	0.90625	9083	13306	 another member of the family at	 another member of her family.” 
+collins_hauntedhotel_6_u	31	0.9354838709677419	4443	11628	Is there anything I can do for 	Is there anything I can do to h
+collins_hauntedhotel_6_u	31	0.9032258064516129	6982	2077	 put her handkerchief over her 	 put her handkerchief to her ey
+collins_moonstone_74_d	30	0.9	5503	22822	, under the circumstances. Mrs	, under the circumstances, was
+collins_moonstone_74_d	30	0.9	11217	10396	 object which had brought that	 object which had brought me t
+radcliffe_udolpho_18_g	30	0.9	6316	40671	he has never been heard of sin	he has never been heard of.' '
+dickens_christmascarole_1_g	31	0.9354838709677419	5286	28723	on of my own free will, and kno	on of my own free will, and of 
+radcliffe_udolpho_48_g	35	0.9142857142857143	1605	3872	, on the morning of his departure, 	, on the morning of her departure f
+radcliffe_udolpho_48_g	35	0.9142857142857143	1606	5480	 on the morning of his departure, t	 on the morning of their departure 
+radcliffe_udolpho_22_g	36	0.9722222222222222	9986	13900	 I was passing along the corridor), 	 I was passing along the corridor, a
+collins_moonstone_73_d	30	0.9	5503	218	, under the circumstances. Mrs	, under the circumstances, as 
+christie_secretadversary_11_d	30	0.9333333333333333	1966	6481	 in the right direction. If th	 in the right direction. If I 
+collins_hauntedhotel_11_u	48	0.9166666666666666	3517	899	 the mystery of Ferrari's disappearance seemed t	 the mystery of Ferrari's disappearance, rushed 
+collins_hauntedhotel_11_u	30	0.9333333333333333	5987	3923	 the late Lord Montbarry's ser	 the late Lord Montbarry,' she
+collins_hauntedhotel_11_u	30	0.9	10986	10187	 Lady Montbarry could not resi	 Lady Montbarry could not have
+collins_moonstone_84_d	30	0.9	5502	2941	e, under the circumstances. Mr	e, under the circumstances—to 
+lewis_monk_5_g	33	0.9090909090909091	3839	51844	 from her chair, and saluted the 	 from her chair, and quitted the 
+collins_hauntedhotel_25_u	34	0.9117647058823529	8787	6083	After what had happened (on that o	After what has happened in that ho
+collins_moonstone_50_d	30	0.9333333333333333	933	6651	 of experimental chemistry in 	 of experimental chemistry at 
+collins_moonstone_50_d	31	0.9032258064516129	933	9369	 of experimental chemistry in t	 of experimental chemistry, whi
+collins_hauntedhotel_15_u	36	0.9722222222222222	1403	7418	 after those words had been spoken, 	 after those words had been spoken! 
+collins_moonstone_76_d	35	0.9142857142857143	10661	7103	here was no alternative but to gran	here was no alternative but to depa
+doyle_baskervilles_15_u	30	0.9	10669	17430	 no alternative but to grant h	 no alternative but to catch h

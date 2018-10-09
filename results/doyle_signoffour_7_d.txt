@@ -1,0 +1,33 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_13_d	30	0.9	15605	10311	 the man who had wronged him. 	 the man who had wronged me un
+collins_moonstone_56_d	40	0.95	6490	23592	 with his hands in his pockets, smoking 	 with his hands in his pockets, looking 
+doyle_signoffour_11_d	38	0.9736842105263158	1559	6174	 Mrs. Cecil Forrester's. The servants 	 Mrs. Cecil Forrester's. The servant s
+collins_moonstone_80_d	31	0.9032258064516129	17936	2545	. There was no help for it, how	. There was no help for it. I w
+collins_hauntedhotel_5_u	30	0.9333333333333333	6910	14902	ascended the stairs. The room 	ascended the stairs. The door 
+doyle_adventures_4_d	36	0.9166666666666666	1517	17606	 It was nearly two o'clock when we r	 It was nearly four o'clock when we 
+doyle_adventures_4_d	34	0.9117647058823529	13018	8168	e credit to be gained out of it, b	e credit to be gained out of this 
+doyle_adventures_4_d	32	0.96875	18395	40820	 from the length of his stride, 	 from the length of his stride. 
+doyle_adventures_4_d	33	0.9090909090909091	19597	9441	t is just possible that we may ne	t is just possible that it may be
+doyle_adventures_4_d	33	0.9696969696969697	22646	19599	ing from one to the other of us f	ing from one to the other of us, 
+doyle_baskervilles_9_u	37	0.918918918918919	22810	25086	 air was heavy with the smell of crea	 air was heavy with the smell of damp
+christie_secretadversary_26_d	30	0.9333333333333333	22649	9749	 from one to the other of us f	 from one to the other of his 
+dickens_christmascarole_2_g	30	0.9333333333333333	14879	12266	 have been a surprise to him. 	 have been a surprise to his b
+collins_hauntedhotel_6_u	30	0.9	6495	8080	 his hands in his pockets, smo	 his hands in his pockets, and
+christie_styles_12_d	30	0.9	17147	6384	 the discovery of the garret, 	 the discovery of the charred 
+stoker_dracula_2_g	30	0.9	2577	13304	e in the midst of the wild, da	e in the midst of the whirl an
+walpole_castleofotranto_1_g	30	0.9	490	38343	 has told me since that she th	 has told me since that he bel
+walpole_castleofotranto_1_g	30	0.9666666666666667	21190	11936	 backwards and forwards with o	 backwards, and forwards with 
+doyle_adventures_5_d	46	0.9565217391304348	19062	2395	 the presence of the great elemental forces of	 the presence of those great elemental forces 
+lewis_monk_7_g	35	0.9714285714285714	452	42735	ed by the adventures of the night. 	ed by the adventures of the night t
+doyle_adventures_2_d	30	0.9	3623	26801	y two-storied brick houses in 	y two-storied brick houses loo
+doyle_adventures_2_d	30	0.9	19928	36781	 following the guidance of Tob	 following the guidance of Mr.
+doyle_signoffour_5_d	35	0.9142857142857143	309	8443	 the frightened housekeeper. In the	 the frightened housekeeper. The th
+doyle_signoffour_5_d	30	0.9	1535	53	 o'clock when we reached Mrs. 	 o'clock when we reached this 
+lewis_monk_5_g	30	0.9333333333333333	3235	51259	e immediately followed by the 	e immediately followed to the 
+collins_moonstone_62_d	30	0.9	6495	8849	 his hands in his pockets, smo	 his hands in his pockets, and
+radcliffe_udolpho_12_g	30	0.9	19059	25611	 in the presence of the great 	 in the presence of her relati
+shelley_frankenstein_47_g	31	0.9032258064516129	14577	1089	he possession of his treasure. 	he possession of these treasure
+doyle_scarlet_4_d	33	0.9696969696969697	18394	1460	d from the length of his stride, 	d from the length of his stride. 
+stoker_dracula_16_g	33	0.9090909090909091	22649	20316	 from one to the other of us for 	 from one to the other of us. We 
+stoker_dracula_21_g	43	0.9302325581395349	22640	24679	, looking from one to the other of us for s	, looking from one to the other of us she s
+doyle_baskervilles_15_u	30	1.0	16670	1442	from the point of view of the 	from the point of view of the 

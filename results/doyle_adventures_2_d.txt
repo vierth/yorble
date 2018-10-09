@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_10_g	30	0.9	30522	24860	 I have often thought, the rea	 I have often thought the peop
+lewis_monk_6_g	30	0.9	34686	12235	twenty years that I have not h	twenty years that I have been 
+lewis_monk_6_g	30	0.9666666666666667	37757	34185	 you would have the goodness t	 you would have the goodness, 
+stoker_dracula_1_g	30	0.9333333333333333	21435	9435	. I did not know what to do. T	. I did not know what to do, f
+stoker_dracula_1_g	34	0.9117647058823529	21435	27055	. I did not know what to do. Then 	. I did not know what to do, the l
+doyle_adventures_9_d	37	0.9459459459459459	41	88	 my friend, Mr. Sherlock Holmes, one 	 my friend, Mr. Sherlock Holmes, for 
+doyle_adventures_9_d	36	0.9444444444444444	41	6774	 my friend, Mr. Sherlock Holmes, one	 my friend, Mr. Sherlock Holmes, bef
+doyle_adventures_9_d	34	0.9117647058823529	309	2201	 the room and closed the door behi	 the room and closed the door tigh
+doyle_adventures_9_d	30	0.9	6488	27635	I took the paper from him and 	I took the lamp from him, and 
+doyle_adventures_9_d	30	0.9	12688	22643	 north, south, east, and west 	 north, south, east, or west I
+doyle_adventures_9_d	31	1.0	14626	29560	ine.' He took a step backward, 	ine.' He took a step backward, 
+doyle_adventures_9_d	32	0.90625	41685	41451	 in the direction of the floor. 	 in the direction of the fire. T
+radcliffe_udolpho_12_g	30	0.9333333333333333	12918	43020	 I should not have thought the	 I should not have thought him
+shelley_frankenstein_47_g	30	0.9	18298	6986	 persuaded myself that the who	 persuaded myself that when th
+lewis_monk_1_g	31	0.9032258064516129	3030	26041	In the present instance I am fo	In the present instance, I allo
+doyle_baskervilles_4_u	31	0.9032258064516129	29167	16128	ted on the other side upon the 	ted on the other side of the st
+stoker_dracula_9_g	32	0.90625	15317	29132	 over to the window and shouted 	 over to the window and brushed 
+stoker_dracula_9_g	32	0.9375	25831	17541	 come to the conclusion that he 	 come to the conclusion that it 
+stoker_dracula_9_g	32	0.90625	26715	28283	 in the morning. It was a poky, 	 in the morning. It was a shock 
+radcliffe_udolpho_41_g	33	0.9090909090909091	30517	6440	d, as I have often thought, the r	d, as I have often thought, very 
+doyle_scarlet_12_d	42	0.9047619047619048	45169	13429	 in the early hours of the morning as we s	 in the early hours of the morning, when, 
+doyle_scarlet_4_d	34	0.9117647058823529	25831	4726	 come to the conclusion that he ha	 come to the conclusion that I am 
+christie_secretadversary_4_d	37	0.918918918918919	31592	12367	 I have every reason to believe that 	 I have every reason to believe he is
+doyle_baskervilles_2_u	31	0.9032258064516129	939	1924	 his fingertips together, as wa	 his finger-tips together, and 
+doyle_baskervilles_2_u	33	0.9090909090909091	939	16066	 his fingertips together, as was 	 his finger-tips together, and as
+doyle_baskervilles_2_u	30	0.9	3379	1107	 flattened out upon his knee, 	 flattened it upon his knee. “
+radcliffe_udolpho_54_g	33	0.9090909090909091	46388	20756	, and there was nothing in his ho	, and there was something in his 
+doyle_scarlet_1_d	32	0.90625	7620	9063	, Mr. Sherlock Holmes," said Jab	, Mr. Sherlock Holmes,” said Sta
+doyle_scarlet_1_d	32	0.90625	25825	3052	 I had come to the conclusion th	 I had come to this conclusion, 
+christie_secretadversary_15_d	31	0.967741935483871	4287	3790	e shook his head with a smile a	e shook his head with a smile. 
+collins_moonstone_49_d	30	0.9666666666666667	1705	12027	 which I took the liberty of d	 which I took the liberty of p
+doyle_scarlet_8_d	33	0.9393939393939394	25831	11312	 come to the conclusion that he h	 come to the conclusion that one 
+collins_moonstone_52_d	30	0.9	354	19397	 could not possibly have come 	 could not possibly have been 

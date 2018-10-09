@@ -1,0 +1,3 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_4_d	50	0.92	8756	22775	 rather startled by this unexpected question. “He 	 rather startled by the unexpected question. “No, 
+christie_styles_4_d	33	0.9090909090909091	20146	7173	. In the meantime, remember that 	. In the meantime, remember it.” 

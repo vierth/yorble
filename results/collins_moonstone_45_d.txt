@@ -1,0 +1,38 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_78_d	36	0.9166666666666666	2219	21167	 the Diamond found its way into my a	 the Diamond found its way into the 
+collins_moonstone_48_d	30	0.9	2580	2751	 the matter of the Diamond. If	 the matter of the Diamond tou
+collins_moonstone_48_d	30	0.9	2653	1828	 under the circumstances, I be	 under the circumstances, it s
+collins_moonstone_59_d	31	0.9032258064516129	4621	18432	 shillings and sixpence, bound 	 shillings and sixpences, and c
+collins_moonstone_55_d	30	0.9666666666666667	498	34916	,” says Mr. Franklin, “I have 	,” says Mr. Franklin. “I have 
+collins_moonstone_55_d	30	0.9	1004	10367	 Mr. Franklin went on. “In thi	 Mr. Franklin went on. “I can 
+collins_moonstone_64_d	30	0.9	2580	4654	 the matter of the Diamond. If	 the matter of the Diamond whe
+collins_moonstone_89_d	33	0.9090909090909091	361	49367	, eighteen hundred and fifty), ca	, eighteen hundred and fifty. Tha
+collins_moonstone_89_d	33	0.9393939393939394	361	70966	, eighteen hundred and fifty), ca	, eighteen hundred and fifty, tha
+collins_moonstone_89_d	34	0.9705882352941176	486	72131	 “Betteredge,” says Mr. Franklin, 	 “Betteredge!” says Mr. Franklin, 
+collins_moonstone_89_d	33	0.9393939393939394	1392	52567	 Mr. Bruff and I together have hi	 Mr. Bruff and I, together, have 
+collins_moonstone_89_d	44	0.9090909090909091	4529	69555	 a drop too much on the strength of it; and 	 a drop too much on the strength of it. If y
+collins_moonstone_81_d	32	0.90625	2608	5842	If you are curious to know what 	If you are curious to know the m
+poe_usher_1_g	34	0.9411764705882353	1287	5147	. There can be no doubt that this 	. There can be no doubt that the c
+christie_secretadversary_25_d	30	0.9	2653	14724	 under the circumstances, I be	 under the circumstances. It w
+poe_marieroget_1_d	33	0.9090909090909091	1290	62184	here can be no doubt that this st	here can be _no doubt_ that the s
+poe_marieroget_1_d	30	0.9	2653	53982	 under the circumstances, I be	 under the circumstances, ther
+doyle_scarlet_3_d	30	0.9	2653	6944	 under the circumstances, I be	 under the circumstances, seem
+stoker_dracula_23_g	31	0.9032258064516129	2653	1042	 under the circumstances, I beg	 under the circumstances, of ab
+collins_moonstone_70_d	30	0.9	2678	18539	 I beg to inform you that I di	 I beg to inform you that the 
+doyle_baskervilles_12_u	30	0.9	1289	6353	There can be no doubt that thi	There can be no doubt about th
+collins_moonstone_56_d	33	0.9696969696969697	404	11810	’s nephew, Mr. Franklin Blake, an	’s nephew, Mr. Franklin Blake, kn
+collins_moonstone_80_d	30	0.9	2653	1331	 under the circumstances, I be	 under the circumstances, to o
+doyle_adventures_4_d	30	0.9	2653	10667	 under the circumstances, I be	 under the circumstances, and 
+collins_moonstone_67_d	31	0.9032258064516129	763	24659	 in the interests of truth, to 	 in the interests of truth. I a
+collins_moonstone_74_d	30	0.9	2653	22823	 under the circumstances, I be	 under the circumstances, was 
+doyle_adventures_5_d	34	0.9411764705882353	1287	27407	. There can be no doubt that this 	. There can be no doubt that the p
+doyle_adventures_5_d	31	0.9354838709677419	1290	34243	here can be no doubt that this 	here can be no doubt that the d
+collins_moonstone_73_d	30	0.9	2653	219	 under the circumstances, I be	 under the circumstances, as L
+stoker_dracula_3_g	33	0.9090909090909091	2653	13227	 under the circumstances, I beg t	 under the circumstances I felt t
+collins_moonstone_62_d	32	1.0	488	8359	Betteredge,” says Mr. Franklin, 	Betteredge,” says Mr. Franklin, 
+collins_moonstone_50_d	30	0.9666666666666667	498	10438	,” says Mr. Franklin, “I have 	,” says Mr. Franklin. “I have 
+collins_moonstone_50_d	30	0.9333333333333333	1784	12514	 the story of the Moonstone in	 the story of the Moonstone,” 
+christie_styles_3_d	30	0.9	2655	9673	nder the circumstances, I beg 	nder the circumstances, I am a
+collins_moonstone_49_d	30	0.9	497	2926	e,” says Mr. Franklin, “I have	e,” says Mr. Franklin. “I neve
+collins_moonstone_49_d	34	0.9117647058823529	1029	14085	n this matter of the Diamond,” he 	n this matter of the Diamond, I wa
+doyle_baskervilles_15_u	31	0.967741935483871	1287	18437	. There can be no doubt that th	. There can be no doubt that St

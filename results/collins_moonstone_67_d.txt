@@ -1,0 +1,30 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_5_d	38	0.9210526315789473	7324	931	. The more I thought of him, the more 	. The more I thought of it the more ex
+stoker_dracula_12_g	33	0.9090909090909091	25825	19611	 your health and prosperity, in a	 your health and prosperity; and 
+dickens_christmascarole_2_g	30	0.9	8279	3374	self face to face with the fis	self face to face with the une
+collins_moonstone_74_d	36	0.9166666666666666	8270	21105	 found myself face to face with the 	 found myself face to face with Mr. 
+collins_moonstone_74_d	46	0.9130434782608695	24800	221	 strictly within the limits of my own experien	 strictly within the limits of my own personal
+radcliffe_udolpho_13_g	36	0.9444444444444444	9096	41908	, and looked as if she could have ea	, and looked as if he could have sai
+christie_styles_2_d	30	0.9	14082	13564	e, and tell him what you have 	e, and tell us what you have b
+radcliffe_udolpho_22_g	31	0.9032258064516129	9101	19653	 looked as if she could have ea	 looked as if they would have a
+collins_moonstone_73_d	32	0.96875	1549	2227	 the subject of the Moonstone ag	 the subject of the Moonstone ha
+stoker_dracula_3_g	31	0.9354838709677419	10371	10319	 to the best of my ability, I a	 to the best of my ability, and
+collins_moonstone_53_d	30	0.9666666666666667	1549	870	 the subject of the Moonstone 	 the subject of the Moonstone—
+radcliffe_udolpho_21_g	30	0.9	16710	6744	 the four quarters of the glob	 the four quarters of the worl
+collins_moonstone_62_d	30	0.9	6597	4292	ed to take Miss Rachel to her 	ed to take Miss Rachel to Friz
+doyle_scarlet_12_d	30	0.9333333333333333	18036	13030	to which she had been traced, 	to which she had been forced, 
+collins_hauntedhotel_15_u	30	0.9666666666666667	9912	2794	 out at the top of her voice. 	 out at the top of her voice, 
+collins_moonstone_66_d	30	0.9	41	930	 Mr. Franklin persisted in lea	 Mr. Franklin persisted in his
+collins_moonstone_66_d	31	0.967741935483871	1549	14572	 the subject of the Moonstone a	 the subject of the Moonstone! 
+collins_moonstone_66_d	34	0.9117647058823529	1549	17765	 the subject of the Moonstone agai	 the subject of the Moonstone, whi
+collins_moonstone_66_d	36	0.9166666666666666	5867	16520	’s assertion of her innocence failed	’s assertion of her innocence had le
+collins_moonstone_66_d	30	0.9	25032	628	 matter of the Moonstone the p	 matter of the Moonstone. He h
+collins_moonstone_60_d	30	1.0	1549	5183	 the subject of the Moonstone 	 the subject of the Moonstone 
+radcliffe_udolpho_54_g	31	0.9032258064516129	4125	1024	 that had happened in the house	 that had happened in the conve
+collins_moonstone_76_d	34	0.9117647058823529	1549	998	 the subject of the Moonstone agai	 the subject of the Moonstone, whi
+collins_moonstone_76_d	33	0.9393939393939394	10370	17427	, to the best of my ability, I al	, to the best of my ability. I ha
+collins_moonstone_49_d	38	0.9473684210526315	3712	5255	 about my uncle Herncastle, and his bi	 about my uncle Herncastle and his Dia
+collins_moonstone_49_d	30	0.9	15104	12129	y lady and Miss Rachel were sa	y lady and Miss Rachel regret 
+collins_moonstone_65_d	30	0.9	12587	9411	 average good Christians, and 	 average good Christian, when 
+collins_moonstone_52_d	30	0.9	16922	21596	 that her fellow-servant had d	 that her fellow-servant was i
+christie_styles_4_d	30	0.9	11277	28906	 ought to have taken pity on h	 ought to have taken it down a

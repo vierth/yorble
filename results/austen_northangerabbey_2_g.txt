@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_5_g	30	0.9666666666666667	12246	47679	 perfectly satisfied with her 	 perfectly satisfied with the 
+lewis_monk_6_g	32	0.90625	6225	29576	 seemed rather to increase as th	 seemed rather to increase than 
+austen_northangerabbey_16_g	32	0.9375	11683	11901	 three years before, they would 	 three years before they could m
+doyle_baskervilles_4_u	31	0.9032258064516129	12246	15544	 perfectly satisfied with her s	 perfectly satisfied with your 
+radcliffe_udolpho_27_g	34	0.9117647058823529	131	12275	 the difficulties and dangers of a	 the difficulties and dangers, tha
+collins_moonstone_50_d	32	0.90625	135	11701	 difficulties and dangers of a s	 difficulties and dangers, to wa
+collins_hauntedhotel_10_u	31	0.9032258064516129	10580	9202	 vainly endeavouring to hide a 	 vainly endeavouring to decide 

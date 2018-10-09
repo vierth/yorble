@@ -1,0 +1,133 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_88_d	30	0.9333333333333333	4290	58525	 Betteredge laid his hand on m	 Betteredge laid his hand conf
+collins_moonstone_88_d	30	0.9333333333333333	5328	39155	t find it in my heart to distr	t find it in my heart to disap
+collins_moonstone_88_d	33	0.9090909090909091	19559	64423	 beyond the possibility of mistak	 beyond the possibility of disput
+collins_moonstone_88_d	30	0.9333333333333333	20309	8728	 the person to be suspected,’ 	 the person to be suspected.” 
+poe_reddeath_1_g	35	0.9142857142857143	2062	2318	 might have been expected from a ma	 might have been expected from the 
+collins_moonstone_86_d	35	0.9142857142857143	11157	8897	me of which I am now writing. Then 	me of which I am now writing, the a
+collins_moonstone_86_d	32	0.96875	29399	11624	 the man with the piebald hair, 	 the man with the piebald hair (
+collins_moonstone_86_d	38	0.9210526315789473	31093	11621	 of the man with the piebald hair. “Wh	 of the man with the piebald hair (the
+collins_moonstone_87_d	30	0.9	8689	10729	 I believe I should have been 	 I believe I should have sunk 
+collins_moonstone_87_d	31	0.9032258064516129	20448	10728	, I believe I should have been 	, I believe I should have sunk 
+collins_hauntedhotel_28_u	30	0.9	5157	13430	Did she say nothing about Rosa	Did she say nothing about what
+collins_moonstone_78_d	30	0.9	23748	9010	 the whole of the interval fro	 the whole of the interval tha
+collins_moonstone_78_d	33	0.9090909090909091	29627	18757	 against him, to begin with. And 	 against him, to begin with.” I h
+radcliffe_udolpho_19_g	30	0.9	9270	24710	t, and her confidence in herse	t, and her confidence in his f
+collins_moonstone_48_d	34	1.0	3666	9565	 in my pocket. I took it out, and 	 in my pocket. I took it out, and 
+collins_moonstone_48_d	35	0.9142857142857143	6762	13585	 the matron at the reformatory, are	 the matron at the reformatory does
+collins_moonstone_59_d	30	0.9	1384	15463	e, to say the least of it. Pla	e, to say the least of it, tha
+collins_moonstone_59_d	30	0.9666666666666667	9482	18120	 I have got it on my mind to t	 I have got it on my mind to s
+collins_moonstone_59_d	34	0.9117647058823529	23601	3264	 the materials for making the new 	 the materials for making a new pe
+collins_moonstone_59_d	30	1.0	23601	26481	 the materials for making the 	 the materials for making the 
+collins_moonstone_55_d	30	0.9	4758	2144	 have something to own to you.	 have something to say to you.
+collins_moonstone_55_d	31	0.9354838709677419	6764	29238	he matron at the reformatory, a	he matron at the Reformatory ha
+collins_moonstone_55_d	30	0.9	11713	26649	 sending for the police, that 	 sending for the police, and t
+collins_moonstone_55_d	30	0.9	11814	40610	 the officer from Frizinghall 	 the officer to Frizinghall. O
+collins_moonstone_55_d	55	0.9272727272727272	22245	36122	 ‘This is a strange thing about the Diamond, sir.’ And 	 ‘This is a strange thing about the Diamond, sir,’ she 
+collins_moonstone_55_d	150	0.9066666666666666	22642	36348	 said, ‘They will never find the Diamond, sir, will they? No! nor the person who took it—I’ll answer for that.’ I nodded, and smiled at you, as much a	 said, ‘They will never find the Diamond, sir, will they? No! nor the person who took it—I’ll answer for that.’ She actually nodded and smiled at me! 
+collins_moonstone_55_d	35	0.9428571428571428	23122	33971	 in the library at that time of day	 in the library at this time of day
+collins_moonstone_54_d	32	0.96875	3029	14189	 innocent of all knowledge of ha	 innocent of all knowledge of th
+christie_secretadversary_12_d	30	0.9333333333333333	643	8990	 that I shall be able to face 	 that I shall be able to make 
+stoker_dracula_13_g	32	1.0	4300	30082	e laid his hand on my arm, and s	e laid his hand on my arm, and s
+collins_moonstone_57_d	32	0.9375	6762	9615	 the matron at the reformatory, 	 the matron at the Reformatory. 
+collins_moonstone_57_d	31	0.9354838709677419	19410	2436	 Superintendent Seegrave. “Pene	 Superintendent Seegrave. “One 
+collins_moonstone_57_d	30	0.9	20448	10973	, I believe I should have been	, I believe I should have blus
+shelley_frankenstein_41_g	30	0.9	16808	4504	 which I had thoughtlessly cas	 which I had so thoughtlessly 
+doyle_signoffour_9_d	32	0.96875	28744	12670	 his pocket, and handed it to Be	 his pocket, and handed it to me
+collins_moonstone_75_d	34	0.9117647058823529	11157	6932	me of which I am now writing. Then	me of which I am now writing, even
+collins_moonstone_75_d	30	1.0	17323	24710	” he added, in a lower tone, “	” he added, in a lower tone, “
+collins_hauntedhotel_17_u	44	0.9090909090909091	14074	13511	 for anything that could be offered to me!’ 	 for anything that could be offered me!' Mrs
+christie_secretadversary_18_d	30	0.9666666666666667	26784	16344	 knocked at the door of the ro	 knocked at the door of the co
+collins_moonstone_68_d	30	0.9	11159	7122	 of which I am now writing. Th	 of which I am now writing, an
+collins_moonstone_68_d	31	0.9032258064516129	26734	25802	” As the words passed my lips, 	” As the word passed her lips, 
+doyle_baskervilles_13_u	30	0.9	9457	18297	 there is one thing which I ha	 there is nothing which I shal
+collins_moonstone_69_d	30	0.9	29000	22632	 you will be sorry to hear tha	 you will be sorry to hear. An
+collins_moonstone_64_d	32	0.90625	19460	262	 quite beside herself with rage 	 quite beside herself with the h
+collins_moonstone_64_d	30	0.9	20391	6515	 Mr. Franklin Blake!’ “In the 	 Mr. Franklin Blake. In the me
+collins_moonstone_89_d	33	0.9393939393939394	13163	69111	 Miss Rachel, and Mr. Franklin, a	 Miss Rachel and Mr. Franklin Bla
+collins_moonstone_89_d	30	0.9	15757	16284	 Rachel’s sitting-room, at tha	 Rachel’s sitting-room, on the
+collins_moonstone_89_d	30	0.9333333333333333	21388	63033	ut the Diamond, and to _make_ 	ut the Diamond, and to make a 
+collins_moonstone_89_d	30	0.9	21814	37427	ed into the room, and found my	ed into the room, and forced m
+collins_moonstone_81_d	30	0.9	5926	15126	 the smear of the paint on it;	 the smear of the paint from t
+collins_moonstone_81_d	33	0.9090909090909091	23841	8665	e household believed me to be lyi	e household believed her to be il
+poe_usher_1_g	33	0.9090909090909091	2390	29979	tion into which I had fallen. I c	tion into which I had fallen, by 
+collins_moonstone_79_d	30	0.9333333333333333	19805	3057	 was the last person in the si	 was the last person in the wo
+shelley_frankenstein_55_g	30	0.9666666666666667	2991	5593	 presented itself to my mind. 	 presented itself to my mind, 
+radcliffe_udolpho_55_g	32	0.96875	2062	3519	 might have been expected from a	 might have been expected, from 
+collins_moonstone_47_d	30	0.9	13413	10647	 shook his head, and said it w	 shook his head, and said he d
+christie_styles_9_d	32	0.90625	8157	12149	n. “It would have been no very k	n. “It would have been very risk
+stoker_dracula_25_g	30	0.9	2062	19008	 might have been expected from	 might have been expected. Tru
+christie_styles_10_d	34	0.9117647058823529	6436	11905	 when I was quite a little girl. M	 when I was quite a little child. 
+collins_moonstone_77_d	30	0.9	2610	1753	 who may read these lines, in 	 who may read these lines, tha
+collins_moonstone_70_d	36	1.0	9417	17229	the time when the Diamond was lost. 	the time when the Diamond was lost. 
+collins_moonstone_70_d	41	0.9024390243902439	9417	17338	the time when the Diamond was lost. “But 	the time when the Diamond was lost.” The 
+collins_moonstone_70_d	41	0.926829268292683	11447	9988	 in the house that the Diamond was lost. 	 in the house when the Diamond was lost. 
+collins_moonstone_85_d	30	0.9	10746	16100	 the Shivering Sand. And I sai	 the Shivering Sand. And not a
+collins_moonstone_85_d	30	0.9333333333333333	11460	15154	 that the Diamond was lost. “I	 that the Diamond was lost?” “
+doyle_adventures_12_d	30	0.9	26790	47255	ed at the door of the room. Be	ed at the door of the room, a 
+shelley_frankenstein_53_g	30	0.9666666666666667	2991	7866	 presented itself to my mind. 	 presented itself to my mind w
+doyle_baskervilles_12_u	32	0.90625	163	5328	ould not have known what I was a	ould not have known that he was 
+collins_hauntedhotel_23_u	30	0.9	15627	1304	 to the best of my ability, I 	 to the best of my ability; sh
+collins_moonstone_56_d	45	0.9111111111111111	5921	22184	 with the smear of the paint on it; and you w	 with the smear of the paint on it. Find out 
+collins_moonstone_56_d	36	1.0	12359	9964	r petticoats had done the mischief, 	r petticoats had done the mischief, 
+collins_moonstone_56_d	36	0.9722222222222222	13400	17385	 Mr. Franklin shook his head, and sa	 Mr. Franklin shook his head, and an
+collins_moonstone_56_d	31	0.9354838709677419	17616	16889	he next thing to discover was h	he next thing to discover is wh
+collins_moonstone_56_d	30	0.9333333333333333	19410	12635	 Superintendent Seegrave. “Pen	 Superintendent Seegrave. “Let
+collins_moonstone_56_d	30	0.9333333333333333	19805	17539	 was the last person in the si	 was the last person in the ro
+collins_moonstone_56_d	30	1.0	19913	7893	 that another person had been 	 that another person had been 
+collins_moonstone_56_d	37	0.9459459459459459	24024	21656	 Sergeant Cuff discovered that much, 	 Sergeant Cuff discovered that such a
+collins_moonstone_56_d	33	0.9090909090909091	26733	13478	.” As the words passed my lips, s	.” As the words passed his lips, 
+stoker_dracula_20_g	30	0.9	13413	5348	 shook his head, and said it w	 shook his head, and said: "I 
+collins_moonstone_61_d	30	0.9	4757	702	I have something to own to you	I have something to say to you
+collins_moonstone_80_d	31	0.9032258064516129	4757	5376	I have something to own to you.	I have something to say to you.
+collins_moonstone_80_d	31	0.9354838709677419	17699	11242	There was only one way—to make 	There was only one way to take 
+doyle_adventures_4_d	30	0.9333333333333333	28733	39534	 paper from his pocket, and ha	 paper from his pocket and fla
+doyle_baskervilles_9_u	30	0.9	21809	17806	 walked into the room, and fou	 walked into the room, and as 
+collins_moonstone_67_d	32	0.96875	15627	10371	 to the best of my ability, I ma	 to the best of my ability, I al
+austen_northangerabbey_2_g	30	0.9	8158	8609	. “It would have been no very 	. “It would have been very sho
+christie_styles_5_d	30	0.9	3434	26065	 his voice confidentially. “Th	 his voice confidentially: “Lo
+lewis_monk_4_g	33	0.9090909090909091	26790	25176	ed at the door of the room. Bette	ed at the door of the room at the
+lewis_monk_4_g	30	0.9	26792	53825	 at the door of the room. Bett	 at the door of the room. 'The
+collins_moonstone_74_d	41	0.926829268292683	1712	15823	 back to London by the first train to con	 back to London by the first train the ne
+doyle_adventures_5_d	31	0.9354838709677419	28730	36863	 of paper from his pocket, and 	 of paper from his pocket, all 
+shelley_frankenstein_40_g	30	0.9	22010	14391	e, and I felt as if I should d	e, and I feel as if I could di
+shelley_frankenstein_54_g	30	0.9	2991	1795	 presented itself to my mind. 	 presented itself to my imagin
+collins_hauntedhotel_19_u	31	0.9032258064516129	4757	2369	I have something to own to you.	I have something to say to you.
+stoker_dracula_3_g	35	0.9142857142857143	15627	10319	 to the best of my ability, I made 	 to the best of my ability, and he 
+collins_hauntedhotel_11_u	31	0.9032258064516129	4572	9796	e earnestness with which he spo	e earnestness with which those 
+collins_moonstone_84_d	30	0.9	5326	9997	n’t find it in my heart to dis	n’t find it in your heart to s
+collins_moonstone_84_d	30	0.9	9425	8050	 when the Diamond was lost. “B	 when the Diamond was lost?” T
+collins_moonstone_84_d	33	0.9090909090909091	19309	2318	 the paint on your nightgown. Thi	 the paint on your nightgown, wit
+collins_moonstone_84_d	35	0.9142857142857143	25854	8224	 Rosanna Spearman’s confession a li	 Rosanna Spearman’s confession, “I 
+collins_moonstone_84_d	31	0.9032258064516129	26322	4407	 see your way out of this dread	 see your way out of the dead-l
+collins_moonstone_84_d	32	0.96875	29399	5325	 the man with the piebald hair, 	 the man with the piebald hair t
+collins_moonstone_84_d	32	0.96875	30443	8224	 Rosanna Spearman’s confession b	 Rosanna Spearman’s confession, 
+collins_moonstone_84_d	42	0.9523809523809523	31025	19150	 utterance of the Betteredge philosophy; a	 utterances of the Betteredge philosophy, 
+collins_moonstone_84_d	32	0.96875	31096	5325	 the man with the piebald hair. 	 the man with the piebald hair t
+lewis_monk_8_g	31	0.9032258064516129	1084	9697	any other circumstances, the dr	any other circumstances to the 
+lewis_monk_8_g	33	0.9090909090909091	30912	35243	 too strong an impression on me t	 too strong an impression upon he
+collins_moonstone_53_d	32	0.96875	3029	7675	 innocent of all knowledge of ha	 innocent of all knowledge of th
+collins_moonstone_53_d	30	0.9	13163	5830	 Miss Rachel, and Mr. Franklin	 Miss Rachel that Mr. Franklin
+collins_moonstone_53_d	32	1.0	13517	2439	t was three o’clock before they 	t was three o’clock before they 
+collins_moonstone_53_d	31	0.9032258064516129	21741	12277	d, you will understand how it w	d, you will understand how she 
+collins_moonstone_62_d	30	0.9	14922	11110	ed by the discovery that I ran	ed by the discovery that Rosan
+collins_moonstone_62_d	30	0.9333333333333333	19407	3882	 by Superintendent Seegrave. “	 by Superintendent Seegrave at
+lewis_monk_1_g	30	0.9	23324	8658	 was not entirely without hope	 was not entirely without frec
+lewis_monk_1_g	30	0.9	27202	20322	. His complexion was of a gips	. His complexion was of a deep
+lewis_monk_1_g	30	0.9333333333333333	28597	40433	 was conscious that I had not 	 was conscious that He had no 
+doyle_scarlet_12_d	30	0.9	2655	18398	 of their lives from the cradl	 of their lives from the jealo
+christie_styles_3_d	37	0.918918918918919	28739	9878	 from his pocket, and handed it to Be	 from his pocket, and handed them to 
+collins_hauntedhotel_15_u	30	0.9	1384	7320	e, to say the least of it. Pla	e, to say the least of it, tha
+collins_moonstone_66_d	30	0.9	9425	8997	 when the Diamond was lost. “B	 when the Diamond was lost; an
+collins_moonstone_66_d	32	0.9375	11413	9109	 morning when the alarm was rais	 morning when the alarm was firs
+collins_moonstone_66_d	31	0.9032258064516129	23619	16580	 making the new nightgown were 	 making the new nightgown, the 
+collins_moonstone_66_d	32	0.9375	26647	12958	 the Sergeant, I don’t know of a	 the Sergeant, I don’t know. I a
+collins_moonstone_60_d	32	0.90625	280	12371	 asked what was the matter, and 	 asked what was the matter. I an
+collins_moonstone_76_d	30	0.9	11159	625	 of which I am now writing. Th	 of which I am now writing—in 
+collins_moonstone_76_d	35	0.9142857142857143	15627	17428	 to the best of my ability, I made 	 to the best of my ability. I have 
+collins_moonstone_49_d	31	0.9032258064516129	4757	272	I have something to own to you.	I have something to say to you.
+collins_moonstone_49_d	30	0.9666666666666667	11157	10300	me of which I am now writing. 	me of which I am now writing, 
+collins_moonstone_65_d	30	0.9	19410	6634	 Superintendent Seegrave. “Pen	 Superintendent Seegrave. He p
+collins_moonstone_65_d	30	0.9	19410	7852	 Superintendent Seegrave. “Pen	 Superintendent Seegrave. And 
+collins_moonstone_52_d	34	0.9411764705882353	11157	21549	me of which I am now writing. Then	me of which I am now writing. Pene
+collins_moonstone_52_d	32	0.9375	13163	3044	 Miss Rachel, and Mr. Franklin, 	 Miss Rachel and Mr. Franklin hi

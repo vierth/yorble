@@ -1,0 +1,69 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_11_u	33	0.9696969696969697	2379	9482	 the early hours of the morning, 	 the early hours of the morning. 
+doyle_baskervilles_11_u	44	0.9090909090909091	4235	9476	 until the early hours of the morning, which	 until the early hours of the morning. Such 
+doyle_adventures_4_d	31	0.9354838709677419	1975	23988	ed between the time when she ha	ed between the time when he par
+doyle_adventures_4_d	31	0.9354838709677419	6483	31235	 at the time of her death, and 	 at the time of his death, and 
+reeve_oldenglishbaron	30	0.9	2410	12033	, and the circumstances of his	, and the circumstances confir
+christie_secretadversary_26_d	34	0.9117647058823529	13095	6931	 scrutinized it attentively. “I fe	 scrutinized it attentively. “Yes,
+christie_styles_11_d	36	0.9166666666666666	1336	17532	. Evelyn Howard had been right then,	. Evelyn Howard had been right in he
+christie_styles_11_d	30	0.9	5811	17697	. Lawrence Cavendish was next 	. Lawrence Cavendish was then 
+christie_styles_11_d	32	0.9375	6798	17059	, is it not possible that she ma	, is it not possible that the ar
+christie_styles_11_d	35	0.9142857142857143	15993	9205	 Alfred Inglethorp was called. Did 	 Alfred Inglethorp was called, and 
+christie_styles_11_d	33	0.9090909090909091	16176	26610	 you purchase strychnine for the 	 you purchased strychnine in the 
+christie_styles_5_d	39	0.9230769230769231	2379	3369	 the early hours of the morning, and th	 the early hours of the morning, John h
+christie_styles_5_d	31	0.9032258064516129	2815	34699	 that Mrs. Inglethorp had met h	 that Mrs. Inglethorp had been 
+christie_styles_5_d	30	0.9	3572	16987	 what happened next?” “I enter	 what happened next?” “We went
+christie_styles_5_d	33	0.9696969696969697	4120	983	 Mrs. Inglethorp took the coffee 	 Mrs. Inglethorp took her coffee 
+christie_styles_5_d	36	0.9444444444444444	4241	3369	 the early hours of the morning, whi	 the early hours of the morning, Joh
+christie_styles_5_d	35	0.9142857142857143	16936	12768	ted for a moment, and then said: “M	ted for a moment, and then asked: “
+christie_styles_5_d	30	0.9333333333333333	17440	11241	o.” “That is a pity,” said the	o.” “That is a pity,” said Joh
+christie_styles_5_d	30	0.9666666666666667	19140	7776	” murmured Poirot to himself. 	” murmured Poirot to himself, 
+lewis_monk_4_g	30	0.9666666666666667	4425	19172	 in the middle of the night. C	 in the middle of the night. P
+lewis_monk_4_g	30	0.9333333333333333	6342	11185	 it still seems to me that my 	 it still seems to me that I p
+christie_styles_12_d	37	0.918918918918919	2379	10456	 the early hours of the morning, and 	 the early hours of the morning as be
+christie_styles_12_d	33	0.9090909090909091	3604	12152	 Mrs. Inglethorp’s room. She was 	 Mrs. Inglethorp’s room. “I was c
+christie_styles_12_d	39	0.9743589743589743	4235	10450	 until the early hours of the morning, 	 until the early hours of the morning a
+christie_styles_12_d	36	0.9444444444444444	11186	7108	 scandal between husband and wife.” 	 scandal between husband and wife wi
+christie_styles_12_d	36	0.9444444444444444	11186	7422	 scandal between husband and wife.” 	 scandal between husband and wife is
+christie_styles_12_d	32	0.90625	19857	4979	ut it did not seem to me to impr	ut it did not seem to me to bear
+christie_secretadversary_14_d	32	0.90625	16200	2438	 for the purpose of poisoning a 	 for the purpose of obtaining a 
+christie_styles_2_d	30	0.9	14099	14471	 breathed a sigh of relief whe	 breathed a sigh of relief. “I
+reeve_oldenglishbaron	30	0.9	2410	12033	, and the circumstances of his	, and the circumstances confir
+collins_moonstone_73_d	30	0.9	7228	1145	 quite impossible for it to re	 quite impossible for him to o
+doyle_scarlet_2_d	30	0.9333333333333333	20524	1618	 have suspected them of being 	 have suspected him of being a
+christie_secretadversary_1_d	30	0.9333333333333333	14106	7861	ed a sigh of relief when she c	ed a sigh of relief when the w
+christie_styles_8_d	30	0.9333333333333333	7396	8917	. The whole thing is absurd.” 	. The whole thing is absurd an
+christie_styles_8_d	35	0.9714285714285714	18092	716	e,” interrupted Alfred Inglethorp, 	e,” interrupted Alfred Inglethorp i
+doyle_adventures_2_d	40	0.925	2376	45169	 in the early hours of the morning, and 	 in the early hours of the morning as we
+doyle_adventures_2_d	36	0.9166666666666666	4241	45172	 the early hours of the morning, whi	 the early hours of the morning as w
+christie_styles_1_d	30	0.9	12585	6595	Miss Howard.” Miss Howard prod	Miss Howard.” Miss Howard shoo
+radcliffe_udolpho_10_g	32	0.90625	297	32944	 occurred to me that he might ha	 occurred to her, that he might 
+radcliffe_udolpho_10_g	31	0.967741935483871	18633	15516	. There was an expression of ex	. There was an expression of de
+stoker_dracula_1_g	30	0.9	14318	12242	, he explained that he was a q	, he explained that it was a c
+radcliffe_udolpho_12_g	30	0.9666666666666667	16939	32866	 for a moment, and then said: 	 for a moment, and then said w
+radcliffe_udolpho_12_g	43	0.9069767441860465	20509	38965	 I should never have suspected them of bein	 I should never have suspected him to be on
+collins_hauntedhotel_25_u	30	0.9333333333333333	20524	10092	 have suspected them of being 	 have suspected her of being u
+lewis_monk_1_g	30	0.9	16939	52425	 for a moment, and then said: 	 for a moment, and then made t
+radcliffe_udolpho_27_g	38	0.9210526315789473	1985	8683	 the time when she had heard the voice	 the time when she had heard the music
+collins_moonstone_50_d	31	0.9032258064516129	6165	12107	e at the truth of this matter, 	e at the truth in this matter g
+collins_moonstone_50_d	33	0.9090909090909091	16668	15051	 envelope out of his pocket, and 	 envelope out of his pocket, open
+radcliffe_udolpho_14_g	31	0.9354838709677419	2410	20814	, and the circumstances of his 	, and the circumstances of her 
+doyle_scarlet_12_d	43	0.9069767441860465	2376	13429	 in the early hours of the morning, and the	 in the early hours of the morning, when, t
+doyle_scarlet_12_d	46	0.9130434782608695	4241	13432	 the early hours of the morning, which, on the	 the early hours of the morning, when, to thei
+christie_styles_3_d	30	0.9090909090909091	2868	11998	 of strychnine poisoning. Judg	 of strychnine poisoning.
+christie_styles_3_d	31	0.9032258064516129	11098	8717	 I remember. Mrs. Inglethorp sa	 I remembered Mrs. Inglethorp’s
+collins_moonstone_66_d	31	0.9032258064516129	16	7265	 the interval before the inques	 the interval before the news c
+doyle_scarlet_4_d	32	0.90625	505	9188	ut there was no sign of him, and	ut there wasn’t no sign of him n
+christie_secretadversary_24_d	32	0.9375	14099	8195	 breathed a sigh of relief when 	 breathed a sigh of relief. The 
+doyle_scarlet_1_d	31	0.9032258064516129	4778	11759	 considerably surprised at any 	 considerably surprised at his 
+reeve_oldenglishbaron	30	0.9	2410	12033	, and the circumstances of his	, and the circumstances confir
+collins_moonstone_52_d	30	0.9	13784	16171	 quite a public character. “An	 quite a public character. The
+christie_styles_4_d	30	1.0	3883	6563	 strychnine is a fairly rapid 	 strychnine is a fairly rapid 
+christie_styles_4_d	52	0.9230769230769231	4194	6696	 the symptoms did not manifest themselves until the 	 the symptoms do not manifest themselves until five 
+christie_styles_4_d	33	0.9090909090909091	4425	31242	 in the middle of the night. Coul	 in the middle of the night.” “So
+christie_styles_4_d	30	0.9	5276	6374	 administered in the coffee, b	 administered in her coffee.” 
+christie_styles_4_d	33	0.9393939393939394	9606	1888	 of the quarrel the day before.” 	 of the quarrel the day before, o
+christie_styles_4_d	36	0.9444444444444444	11186	20298	 scandal between husband and wife.” 	 scandal between husband and wife wi
+christie_styles_4_d	34	0.9411764705882353	11188	21439	candal between husband and wife.” 	candal between husband and wife is
+christie_styles_4_d	32	0.96875	12786	33319	. The following is a facsimile: 	. The following is a facsimile o
+christie_styles_4_d	42	0.9047619047619048	16667	33136	d envelope out of his pocket, and wrote hi	d envelope out of his pocket, and tossed i

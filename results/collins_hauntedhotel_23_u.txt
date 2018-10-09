@@ -1,0 +1,24 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_5_u	33	0.9090909090909091	7146	15101	 She dropped on her knees, and he	 She dropped on her knees at the 
+doyle_baskervilles_9_u	35	0.9142857142857143	7444	5140	 was at a loss what to say or to do	 was at a loss what to say or what 
+collins_moonstone_67_d	30	0.9	1304	10371	 to the best of my ability; sh	 to the best of my ability, I 
+christie_secretadversary_26_d	32	0.96875	8789	3900	 a drawer in the desk, she took 	 a drawer in the desk, he took a
+collins_moonstone_74_d	40	0.925	5911	15884	 sure of your own resolution,' he said, 	 sure of your own resolution?” he said t
+radcliffe_udolpho_50_g	32	0.90625	196	1584	 early in the morning, with the 	 early in the morning, with an i
+radcliffe_udolpho_50_g	32	0.90625	11260	33718	here is room enough in it for a 	here is room enough in the fort 
+radcliffe_udolpho_18_g	30	0.9333333333333333	6184	34695	n the present state of her min	n the present state of her spi
+radcliffe_udolpho_18_g	30	0.9333333333333333	6184	45834	n the present state of her min	n the present state of her spi
+radcliffe_udolpho_13_g	35	0.9428571428571428	6184	11183	n the present state of her mind, I 	n the present state of her mind to 
+radcliffe_udolpho_48_g	35	0.9428571428571428	6185	8509	 the present state of her mind, I d	 the present state of her mind, and
+stoker_dracula_3_g	30	0.9	1304	10319	 to the best of my ability; sh	 to the best of my ability, an
+radcliffe_udolpho_10_g	30	0.9	3807	27644	 tried to persuade her to tell	 tried to persuade her to defe
+stoker_dracula_1_g	31	0.9032258064516129	12374	14135	 that it had not yet been let. 	 that it had not yet been put i
+collins_hauntedhotel_25_u	36	0.9444444444444444	6184	3718	n the present state of her mind, I d	n the present state of her mind, is 
+collins_hauntedhotel_25_u	30	0.9	7225	3330	as far from having recovered, 	as far from having discovered 
+lewis_monk_1_g	31	0.9032258064516129	13103	5128	 expressions of gratitude to Ag	 expressions of gratitude, but 
+radcliffe_udolpho_41_g	32	0.90625	6185	21252	 the present state of her mind, 	 the present tone of her mind, d
+collins_moonstone_60_d	33	0.9090909090909091	2632	19777	 your sleeping arrangements for t	 your sleeping arrangements, Mr. 
+doyle_scarlet_4_d	31	0.9032258064516129	1207	2336	e. Is there anything more that 	e. Is there anything else that 
+collins_moonstone_76_d	31	0.9032258064516129	1304	17428	 to the best of my ability; she	 to the best of my ability. I h
+radcliffe_udolpho_35_g	37	0.918918918918919	12419	17430	d the Countess, pointing to the carve	d the Countess, pointing to the Pyren
+christie_styles_4_d	34	0.9117647058823529	13262	33009	 eyes wandered round the room with	 eyes wandered round the room—“thi

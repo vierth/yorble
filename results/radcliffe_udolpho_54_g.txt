@@ -1,0 +1,7 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+reeve_oldenglishbaron	30	0.9	3277	16818	 where his remains were buried	 where his parents were buried
+doyle_scarlet_8_d	36	0.9166666666666666	22664	2942	 that he might have been the lover, 	 that he might have been the very ge
+radcliffe_udolpho_35_g	35	1.0	10657	22000	 thought she perceived something mo	 thought she perceived something mo
+radcliffe_udolpho_35_g	31	0.9032258064516129	11454	19848	 she had formerly seen in the c	 she had formerly seen. By the 
+radcliffe_udolpho_35_g	31	0.9032258064516129	20624	3981	 in the French service, and app	 in the French service; and Bla
+radcliffe_udolpho_35_g	42	0.9047619047619048	21399	26047	he party separated, at an early hour, and 	he party separate at an early hour, when B

@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_2_d	31	0.9032258064516129	2182	4157	d, and the expression of her ma	d, and the expression of extrem
+collins_moonstone_53_d	37	0.918918918918919	2224	867	 on the subject of the Moonstone has 	 on the subject of the Moonstone—the 
+christie_styles_3_d	30	0.9	221	9673	nder the circumstances, as Lad	nder the circumstances, I am a
+collins_moonstone_66_d	36	0.9444444444444444	2224	17762	 on the subject of the Moonstone has	 on the subject of the Moonstone, wh
+collins_moonstone_60_d	37	0.918918918918919	2224	5180	 on the subject of the Moonstone has 	 on the subject of the Moonstone out 
+collins_moonstone_76_d	30	0.9	219	17319	 under the circumstances, as L	 under the circumstances; and 
+collins_moonstone_76_d	36	0.9444444444444444	2224	995	 on the subject of the Moonstone has	 on the subject of the Moonstone, wh

@@ -1,0 +1,6 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_4_d	30	0.9	8379	9185	, but there was no sign of one	, but there wasn’t no sign of 
+christie_secretadversary_4_d	33	0.9090909090909091	11294	4891	. “You must know something of thi	. “You must know _something_ to h
+stoker_dracula_16_g	30	0.9	4753	5470	 it was impossible to distingu	 it was impossible to distrust
+doyle_scarlet_1_d	31	0.9032258064516129	14197	1142	 had it not been for the undeni	 had it not been for the devoti
+christie_styles_4_d	31	0.9032258064516129	11386	18279	 to answer a few questions. We 	 to answering a few questions. 

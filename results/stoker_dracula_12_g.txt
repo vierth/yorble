@@ -1,0 +1,38 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_2_g	30	0.9	13722	8729	 I have not seen anything pull	 I have not seen anything I li
+christie_styles_5_d	31	0.9354838709677419	7137	26031	 the dining-room door, and we p	 the dining-room door, and lowe
+christie_styles_5_d	34	0.9411764705882353	29997	1466	 to the drawing-room, where there 	 to the drawing-room, where the co
+christie_styles_5_d	32	0.96875	36985	1466	 to the drawing-room, where he s	 to the drawing-room, where the 
+lewis_monk_4_g	30	0.9	37024	10564	, and covered his face with hi	, and covered her face with th
+radcliffe_udolpho_13_g	30	0.9333333333333333	28884	14016	, if only for a few minutes. F	, if only for a few minutes.'-
+stoker_dracula_2_g	31	0.9354838709677419	34865	3780	 which I had noticed in the nig	 which I had noticed in the dri
+doyle_adventures_5_d	31	0.9032258064516129	15301	2006	 circumstances which have throw	 circumstances which I have now
+stoker_dracula_24_g	30	0.9333333333333333	2679	21250	 and I looked at each other, a	 and I looked at each other fo
+christie_secretadversary_17_d	30	1.0	2268	17415	 him. There was no one in the 	 him. There was no one in the 
+stoker_dracula_3_g	31	1.0	37112	18344	. I went back to the room, and 	. I went back to the room, and 
+collins_moonstone_84_d	30	0.9	26507	19327	y for the pleasure of meeting 	y for the pleasure of writing 
+christie_secretadversary_19_d	36	0.9166666666666666	27346	970	that it really seems as though we ha	that it really seems as though I alr
+christie_secretadversary_5_d	31	0.9032258064516129	27351	72	it really seems as though we ha	it really seems as though it we
+doyle_adventures_2_d	32	0.9375	30391	15106	e that all was as it should be. 	e that all is as it should be. B
+collins_moonstone_53_d	30	1.0	23703	512	 nothing of the kind had ever 	 nothing of the kind had ever 
+doyle_signoffour_5_d	47	0.9148936170212766	10349	12012	 "In God's name, what does it all mean? Was she	 "In God's name, what does it all mean?" I aske
+doyle_signoffour_5_d	34	0.9117647058823529	34363	4874	, I am so glad you have come!" He 	, I am so glad you have come! I am
+doyle_signoffour_5_d	30	1.0	35240	4874	, I am so glad you have come! 	, I am so glad you have come! 
+doyle_signoffour_5_d	30	0.9	35242	4904	I am so glad you have come! Ki	I am so glad you have come, Mr
+lewis_monk_5_g	30	0.9333333333333333	15294	10852	 little circumstances which ha	 little circumstance which may
+stoker_dracula_1_g	33	0.9090909090909091	5915	8619	 that I did not understand, but w	 that I did not understand, she w
+collins_moonstone_50_d	30	0.9	2685	14188	 looked at each other, and as 	 looked at each other, and the
+radcliffe_udolpho_14_g	30	0.9	18556	4759	 than she had done since we ar	 than she had done since they 
+stoker_dracula_9_g	41	1.0	19035	1	 _Letter, Mina Harker to Lucy Westenra._ 	 _Letter, Mina Harker to Lucy Westenra._ 
+stoker_dracula_9_g	30	0.9333333333333333	21943	20700	 September._ "My dear Sir,-- "	 September._ "My dear Art,-- "
+stoker_dracula_9_g	36	0.9166666666666666	23818	27169	er. I tried to get him to talk of th	er. I tried to get him to talk about
+stoker_dracula_9_g	30	0.9	24206	29032	alled to the attendants to fol	alled to the attendants not to
+stoker_dracula_9_g	30	0.9	25479	10611	ut him in the padded room. One	ut him in the padded room, whe
+stoker_dracula_9_g	41	0.975609756097561	27106	1	 _Letter, Mina Harker to Lucy Westenra_. 	 _Letter, Mina Harker to Lucy Westenra._ 
+stoker_dracula_9_g	30	0.9666666666666667	28988	7890	." _Dr. Seward's Diary._ _20 S	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	42	0.9523809523809523	28988	25256	." _Dr. Seward's Diary._ _20 September._--	." _Dr. Seward's Diary._ _4 September._--Z
+christie_styles_3_d	30	0.9	8075	3180	 across the room, and its tone	 across the room, and lit the 
+radcliffe_udolpho_47_g	37	0.918918918918919	12587	2398	to the breakfast-room, where the blin	to the breakfast-room, where the Coun
+stoker_dracula_16_g	30	0.9	16563	7280	. Van Helsing stepped over and	. Van Helsing stepped out, and
+stoker_dracula_21_g	31	0.9032258064516129	10349	19901	 "In God's name, what does it a	 "In God's name what does this 
+stoker_dracula_21_g	30	0.9333333333333333	31261	10622	t, and I could see that the no	t, and I could see that there 

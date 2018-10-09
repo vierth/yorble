@@ -1,0 +1,19 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_67_d	30	0.9	9138	17244	, it was impossible to speak t	, it was impossible to say. It
+collins_hauntedhotel_6_u	33	0.9090909090909091	9295	521	 by Ferrari's courier-friend. The	 by Ferrari's courier-friend, des
+collins_hauntedhotel_6_u	30	0.9	10057	2327	 read my husband's letters to 	 read my husband's letters, si
+collins_moonstone_74_d	31	0.9032258064516129	3448	9876	s the invitation was given. Agn	s the invitation was given, and
+radcliffe_udolpho_18_g	33	0.9090909090909091	8365	31474	 in a remote part of the palace, 	 in a remote part of the castle, 
+walpole_castleofotranto_1_g	33	0.9090909090909091	5835	21255	 the door that opened on the cana	 the door that opened into the ca
+collins_hauntedhotel_19_u	36	0.9166666666666666	5666	7855	s with Lord and Lady Montbarry, at o	s with Lord and Lady Montbarry? and 
+dickens_christmascarole_3_g	30	0.9	4384	27932	, without a word of warning--a	, without a word of warning fr
+collins_hauntedhotel_11_u	30	0.9	7584	194	t Lady Montbarry had taken no 	t Lady Montbarry had taken car
+collins_moonstone_53_d	30	0.9	1930	1786	 arranged that he was to meet 	 arranged that he was to ride 
+collins_moonstone_62_d	30	0.9	8709	13115	, it turned out that he also h	, it turned out that the last 
+collins_hauntedhotel_15_u	30	0.9	1461	531	 Lord and Lady Montbarry for P	 Lord and Lady Montbarry, Sir 
+collins_hauntedhotel_15_u	34	0.9117647058823529	1461	8307	 Lord and Lady Montbarry for Paris	 Lord and Lady Montbarry at Paris.
+collins_hauntedhotel_15_u	34	0.9705882352941176	5667	8302	 with Lord and Lady Montbarry, at 	 with Lord and Lady Montbarry at P
+collins_hauntedhotel_15_u	31	0.9032258064516129	7404	8307	 Lord and Lady Montbarry. It wa	 Lord and Lady Montbarry at Par
+collins_hauntedhotel_10_u	32	0.90625	4767	1752	. It was still early in the even	. It was still early in the afte
+austen_northangerabbey_17_g	31	0.9354838709677419	197	187	ve her acquaintance with them. 	ve her acquaintance with the Ti
+collins_moonstone_65_d	30	0.9	4384	20632	, without a word of warning--a	, without a word of warning, o

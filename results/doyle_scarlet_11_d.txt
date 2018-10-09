@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_6_g	32	0.9375	12216	40435	 returned with his daughter all 	 returned with his daughter, a y
+christie_styles_10_d	33	0.9090909090909091	12710	3207	 we are only two miles from the R	 we are only four miles from the 
+doyle_scarlet_9_d	30	1.0	14688	8747	istance. At the same moment a 	istance. At the same moment a 
+doyle_baskervilles_6_u	30	0.9333333333333333	8737	18660	 and listened intently. There 	 and listened intently. The no
+doyle_adventures_12_d	31	0.9354838709677419	3872	44936	t will not be long before he co	t will not be long before we so
+doyle_signoffour_7_d	35	0.9142857142857143	866	6490	 with his hands in his pocket, whis	 with his hands in his pockets, smo
+doyle_baskervilles_10_u	32	0.90625	23	488	 the morning which followed his 	 the morning which followed our 
+collins_moonstone_56_d	43	0.9767441860465116	855	23581	 the window with his hands in his pocket, w	 the window with his hands in his pockets, 
+doyle_baskervilles_11_u	36	0.9166666666666666	5569	19506	 struck a chill into his heart. The 	 struck a chill into my heart. The b
+doyle_baskervilles_9_u	32	0.9375	5982	32457	ith a cry of surprise pointed up	ith a cry of surprise I pointed 
+doyle_baskervilles_9_u	31	0.9032258064516129	15345	16543	 died away in the distance, Jef	 died away in the distance. The
+christie_styles_5_d	30	0.9333333333333333	10457	26947	” He flung himself upon the [2	” He flung himself upon the ca
+lewis_monk_4_g	33	0.9090909090909091	10146	39350	, closed the door, and revealed t	, closed the door, and prevented 
+austen_northangerabbey_28_g	30	0.9	14257	4023	. They had just reached this p	. They had just reached the he
+radcliffe_udolpho_18_g	32	0.90625	14759	30337	 for which they had been making,	 for which they had been seeking
+dickens_christmascarole_1_g	30	0.9333333333333333	3657	32433	 the perspiration from his for	 the perspiration from his bro
+radcliffe_udolpho_22_g	31	0.9354838709677419	3536	16234	 the clatter of horses’ hoofs t	 the clatter of horses' hoofs. 
+radcliffe_udolpho_22_g	30	0.9	9791	12485	he leaned up against the wall 	he leaned against the wall of 
+lewis_monk_10_g	30	0.9	2651	2923	as the highest of honours both	as the highest of honours. Whi
+doyle_adventures_2_d	30	0.9	13509	29050	t was difficult to realize tha	t was difficult to realise as 
+doyle_adventures_2_d	33	0.9696969696969697	15199	15481	ed away in different directions. 	ed away in different directions u
+doyle_adventures_2_d	33	0.9090909090909091	18238	36105	 which he had heard in the garden	 which he had heard in the aftern
+lewis_monk_8_g	43	0.9302325581395349	3461	38885	 seized him by the arm and restrained him. 	 seized him by the arm, and detained him. '
+collins_moonstone_53_d	32	0.96875	3536	4039	 the clatter of horses’ hoofs to	 the clatter of horses’ hoofs ou
+radcliffe_udolpho_12_g	31	0.9354838709677419	17197	37802	 the distance between them and 	 the distance between them may 
+doyle_baskervilles_4_u	34	0.9117647058823529	3872	11778	t will not be long before he comes	t will not be long before the miss
+collins_moonstone_50_d	30	0.9	15386	24181	e sprang to his feet, and help	e sprang to his feet, and pull
+doyle_scarlet_12_d	31	0.9354838709677419	3536	10365	 the clatter of horses’ hoofs t	 the clatter of horse’s hoofs, 
+doyle_scarlet_12_d	30	0.9666666666666667	4222	16859	 the authority of the Elders. 	 the authority of the Elders, 
+doyle_scarlet_12_d	30	0.9333333333333333	7560	173	 knowledge of the mountains wh	 knowledge of the mountains en
+doyle_scarlet_12_d	30	0.9333333333333333	17760	12431	,” said Jefferson Hope, with h	,” said Jefferson Hope, who ha
+radcliffe_udolpho_47_g	30	0.9666666666666667	8778	16117	 for a few moments, and then t	 for a few moments, and then s
+doyle_baskervilles_2_u	32	0.90625	830	18489	 was standing in front of the wi	 was standing in front of him, w

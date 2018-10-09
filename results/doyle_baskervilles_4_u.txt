@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_54_g	30	0.9333333333333333	559	20761	 there was something in his st	 there was something in his co
+doyle_scarlet_1_d	30	0.9333333333333333	3809	10592	 “What do you think of that, W	 “What do you think of that?” 
+doyle_scarlet_1_d	30	0.9	4439	9438	 the significance of this sent	 the significance of this disc
+doyle_baskervilles_15_u	33	0.9090909090909091	1634	10894	 to the Northumberland Hotel?” as	 to the Northumberland Hotel. His
+doyle_baskervilles_15_u	30	0.9	17249	10897	 the Northumberland Hotel whic	 the Northumberland Hotel. His
+doyle_baskervilles_15_u	30	0.9666666666666667	18769	10894	 to the Northumberland Hotel a	 to the Northumberland Hotel. 
+christie_styles_4_d	30	0.9333333333333333	3809	15528	 “What do you think of that, W	 “What do you think of that?” 

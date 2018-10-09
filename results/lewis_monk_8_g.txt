@@ -1,0 +1,42 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_5_g	34	0.9117647058823529	276	14773	 the Marquis de las Cisternas prov	 the Marquis de las Cisternas. Elv
+lewis_monk_5_g	30	0.9333333333333333	278	45153	he Marquis de las Cisternas pr	he Marquis de las Cisternas is
+lewis_monk_5_g	63	0.9523809523809523	358	28385	 produced so violent an effect upon his constitution, that the 	 produced so violent an effect upon her constitution, that She 
+lewis_monk_5_g	30	0.9666666666666667	537	27890	 ignorant of the cause of his 	 ignorant of the cause of its 
+lewis_monk_5_g	30	0.9	3928	2389	 returned to the Palace de las	 returned to the Palace de Med
+lewis_monk_5_g	31	0.967741935483871	7132	50922	 on returning from confession, 	 on returning from confession i
+lewis_monk_5_g	31	0.967741935483871	22056	14773	 the Marquis de las Cisternas, 	 the Marquis de las Cisternas. 
+lewis_monk_5_g	30	0.9333333333333333	22058	45153	he Marquis de las Cisternas, a	he Marquis de las Cisternas is
+lewis_monk_5_g	32	0.90625	22199	30705	er from the Cardinal-Duke for se	er from the Cardinal-Duke of Ler
+lewis_monk_5_g	37	0.918918918918919	35515	30233	 to rescue her from the grasp of the 	 to rescue her from the hands of the 
+lewis_monk_6_g	30	1.0	276	45562	 the Marquis de las Cisternas 	 the Marquis de las Cisternas 
+lewis_monk_6_g	32	0.90625	9239	41661	 was fully persuaded that the Br	 was fully persuaded that at fir
+lewis_monk_6_g	42	0.9523809523809523	22053	45559	 to the Marquis de las Cisternas, and the 	 to the Marquis de las Cisternas and her S
+lewis_monk_6_g	30	0.9	23887	12007	 the Prioress of St. Clare. Fo	 the Prioress of St. Clare in 
+lewis_monk_6_g	42	1.0	29871	55901	 recommended herself to the protection of 	 recommended herself to the protection of 
+lewis_monk_6_g	34	0.9705882352941176	30389	411	 the consequences of a discovery, 	 the consequences of a discovery. 
+lewis_monk_6_g	32	0.90625	31430	11806	 proceeded up the Staircase with	 proceeded up the Staircase: The
+lewis_monk_6_g	30	0.9333333333333333	33034	55859	 Statue of St. Rosolia, shed a	 Statue of St. Rosolia, her Pa
+lewis_monk_6_g	32	0.96875	34577	22395	 the gratification of his lust. 	 the gratification of his lust: 
+lewis_monk_6_g	30	0.9	41459	4422	 precautions necessary for his	 precaution is necessary, for 
+austen_northangerabbey_16_g	30	0.9	30651	2628	 it would seem impossible for 	 it would be impossible for an
+collins_moonstone_62_d	30	0.9	27640	6481	own her veil over her face, Sh	own her veil over her face so 
+radcliffe_udolpho_12_g	30	0.9	26859	11701	 more than usually indisposed,	 more than usually discomposed
+radcliffe_udolpho_12_g	35	0.9428571428571428	27792	143	d at a little distance from them st	d at a little distance from the cit
+radcliffe_udolpho_12_g	30	0.9	41797	7745	, and it was long before He su	, and it was long before she d
+shelley_frankenstein_47_g	36	0.9444444444444444	2007	503	 a circumstance which occurred at th	 a circumstance which occurred in th
+lewis_monk_1_g	30	0.9333333333333333	278	15105	he Marquis de las Cisternas pr	he Marquis de las Cisternas.' 
+lewis_monk_1_g	30	0.9	279	31893	e Marquis de las Cisternas pro	e Marquis de las Cisternas; Bu
+lewis_monk_1_g	35	0.9714285714285714	3935	47621	ed to the Palace de las Cisternas w	ed to the Palace de las Cisternas. 
+lewis_monk_1_g	30	0.9333333333333333	20926	46983	 the Hotel de las Cisternas. I	 the Hotel de las Cisternas; B
+lewis_monk_1_g	30	0.9333333333333333	22058	15105	he Marquis de las Cisternas, a	he Marquis de las Cisternas.' 
+lewis_monk_1_g	30	0.9	22059	31893	e Marquis de las Cisternas, an	e Marquis de las Cisternas; Bu
+lewis_monk_1_g	30	0.9	23887	42815	 the Prioress of St. Clare. Fo	 the Prioress of St. Clare, th
+lewis_monk_1_g	30	0.9333333333333333	24014	46983	 the Hotel de las Cisternas, a	 the Hotel de las Cisternas; B
+lewis_monk_1_g	30	1.0	30120	39836	red to bend his steps towards 	red to bend his steps towards 
+lewis_monk_1_g	31	1.0	30218	2587	 at no great distance from the 	 at no great distance from the 
+lewis_monk_1_g	31	0.9032258064516129	30646	956	 that it would seem impossible 	 that it would be impossible to
+lewis_monk_1_g	35	0.9428571428571428	31188	41479	scended the steps leading to the Ho	scended the steps leading into the 
+lewis_monk_1_g	30	0.9333333333333333	40359	4890	er face was covered with a fri	er face was covered with a vei
+radcliffe_udolpho_27_g	30	0.9	27793	10008	 at a little distance from the	 at a little distance, on the 
+doyle_scarlet_12_d	30	0.9	24406	18350	 and represented to him the su	 and represented to him that t

@@ -1,0 +1,143 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_8_d	30	0.9	40708	13527	 silence, broken only by his h	 silence, broken only by the r
+doyle_signoffour_10_d	30	0.9	6329	3390	 balance of probability. That 	 balance of probability, at an
+doyle_signoffour_10_d	31	0.9032258064516129	39630	17288	 there was no sign of the stone	 there was no sign of the Islan
+doyle_adventures_1_d	36	0.9166666666666666	121	19243	, with the intention of wishing him 	, with the intention of awaiting him
+doyle_adventures_1_d	32	0.96875	12364	11601	ed from one to the other of us. 	ed from one to the other of us, 
+doyle_adventures_1_d	30	0.9	12437	6387	 know that there are sentiment	 know that there are seventeen
+doyle_adventures_1_d	31	0.9032258064516129	28156	24213	 with the air of a man whose di	 with the air of a man who was 
+doyle_adventures_1_d	30	0.9666666666666667	32039	11603	 from one to the other of us w	 from one to the other of us, 
+doyle_adventures_11_d	30	0.9	0	0	. THE ADVENTURE OF THE BLUE CA	. THE ADVENTURE OF THE BERYL C
+doyle_adventures_11_d	30	0.9	7483	10912	I have no doubt that I am very	I have no doubt that I am myse
+doyle_adventures_11_d	32	0.9375	28110	38729	 and threw it down upon the slab	 and threw it down upon the tabl
+doyle_adventures_11_d	32	0.90625	28156	5777	 with the air of a man whose dis	 with the air of a man who wishe
+doyle_adventures_11_d	35	0.9142857142857143	41427	33489	 it is just possible that I am savi	 it is just possible that I may hav
+doyle_signoffour_2_d	33	0.9090909090909091	12366	7526	 from one to the other of us. "Th	 from one to the other of us, she
+doyle_signoffour_2_d	34	0.9117647058823529	32039	7526	 from one to the other of us with 	 from one to the other of us, she 
+austen_northangerabbey_11_g	30	0.9	18425	6925	I should like to see the solut	I should like to see the castl
+austen_northangerabbey_11_g	34	0.9117647058823529	38385	11755	 to know what was the matter. As I	 to know what was the matter. The 
+doyle_adventures_8_d	30	0.9	55	154	 my friend Sherlock Holmes upo	 my friend Sherlock Holmes, I 
+doyle_adventures_8_d	35	0.9142857142857143	12364	23346	ed from one to the other of us. "Th	ed from one to the other of us, whi
+doyle_adventures_8_d	43	0.9069767441860465	12420	1104	 I have reason to know that there are senti	 I have reasons to know that there are wide
+doyle_adventures_8_d	34	0.9117647058823529	25684	36380	ut I don't know why you should be 	ut I don't know why it should be t
+doyle_adventures_8_d	36	0.9166666666666666	30698	2917	 "My name is Sherlock Holmes. It is 	 "My name is Sherlock Holmes. This i
+doyle_adventures_8_d	33	0.9393939393939394	32039	23348	 from one to the other of us with	 from one to the other of us, whi
+doyle_adventures_8_d	30	0.9333333333333333	40691	19975	 There was a long silence, bro	 There was a long silence, dur
+collins_moonstone_87_d	31	0.967741935483871	28156	31439	 with the air of a man whose di	 with the air of a man whose mi
+collins_hauntedhotel_13_u	30	0.9	8809	1776	. On the other hand, he has en	. On the other hand, he had pr
+christie_secretadversary_7_d	30	0.9	8809	2419	. On the other hand, he has en	. On the other hand, he had a 
+christie_secretadversary_7_d	30	0.9	20966	7333	er with a sigh of relief. "Of 	er with a sigh of relief. His 
+stoker_dracula_22_g	31	0.9032258064516129	39630	12897	 there was no sign of the stone	 there was no sign of the teeth
+collins_moonstone_55_d	30	0.9333333333333333	22442	9402	d closed the door behind him. 	d closed the door behind her. 
+doyle_signoffour_12_d	31	0.9032258064516129	122	15175	 with the intention of wishing 	 with the intention of giving a
+doyle_signoffour_12_d	30	0.9	1402	52741	me," said Sherlock Holmes, lau	me," said Sherlock Holmes, "th
+doyle_baskervilles_5_u	30	0.9310344827586207	18747	18379	 in Baker Street once more. As	 in Baker Street once more.”
+doyle_baskervilles_5_u	30	0.9333333333333333	21097	15261	 burst into a hearty laugh. "T	 burst into a hearty laugh. “A
+radcliffe_udolpho_30_g	30	0.9	23275	25693	 the door of the private bar a	 the door of the private stair
+christie_styles_7_d	30	0.9333333333333333	12818	6520	he evidence against him was so	he evidence against him was va
+radcliffe_udolpho_44_g	30	0.9	10997	2243	 rushed into the apartment wit	 rushed into the apartment, Lu
+christie_secretadversary_12_d	30	0.9	39272	17639	 in the middle of the flock.' 	 in the middle of the floor. T
+doyle_scarlet_6_d	30	0.9333333333333333	3464	4833	 an official-looking person in	 an official-looking person se
+doyle_scarlet_6_d	30	0.9	22443	12747	 closed the door behind him. "	 closed the door behind them a
+doyle_scarlet_6_d	32	0.90625	30246	15146	 touched him upon the shoulder. 	 touched him on the shoulder and
+doyle_scarlet_6_d	32	0.90625	39533	7082	e laughed until he choked, and w	e laughed until he choked. “And 
+doyle_adventures_10_d	31	0.9032258064516129	0	0	. THE ADVENTURE OF THE BLUE CAR	. THE ADVENTURE OF THE NOBLE BA
+doyle_adventures_10_d	30	0.9	55	444	 my friend Sherlock Holmes upo	 my friend Sherlock Holmes had
+doyle_adventures_10_d	41	0.9024390243902439	1404	22793	," said Sherlock Holmes, laughing. "Only 	," said Sherlock Holmes, laughing. "I thi
+doyle_adventures_10_d	34	0.9117647058823529	2193	11931	, I have no doubt that this small 	, I have no doubt that this will p
+doyle_adventures_10_d	32	0.90625	7096	6962	 within the last few days, and w	 within the last few years, and 
+doyle_adventures_10_d	30	0.9	8378	30915	ing his finger upon the little	ing his fingers upon the table
+doyle_adventures_10_d	46	0.9347826086956522	21308	39300	 I think that, with your permission, I will co	 I think that with your permission I will now 
+doyle_adventures_10_d	32	0.90625	32612	13076	Pray take the basket-chair. I wi	Pray take the basket-chair. This
+doyle_adventures_6_d	32	0.90625	28156	12610	 with the air of a man whose dis	 with the air of a man who has s
+radcliffe_udolpho_56_g	30	0.9	28542	7736	 would not have given me such 	 would not have given me this 
+radcliffe_udolpho_38_g	32	0.9375	121	17407	, with the intention of wishing 	, with the intention of writing 
+doyle_signoffour_9_d	32	0.90625	18216	9535	 an answer to our advertisement.	 an answer to his advertisement.
+collins_moonstone_46_d	30	0.9	30664	532	 you know anything of the matt	 you know anything of the fash
+christie_secretadversary_18_d	31	0.9032258064516129	1322	4246	 the solution of some mystery a	 the solution of the mystery da
+radcliffe_udolpho_17_g	32	0.90625	28156	207	 with the air of a man whose dis	 with the air of a man, who is c
+collins_moonstone_68_d	30	0.9	8807	812	re. On the other hand, he has 	re. On the other hand, I have 
+collins_moonstone_68_d	30	0.9	14948	18234	 Tottenham Court Road at the o	 Tottenham Court Road; and he 
+doyle_adventures_3_d	33	0.9393939393939394	920	2329	 points in connection with it whi	 points in connection with it. Th
+doyle_adventures_3_d	35	0.9428571428571428	959	35714	 not entirely devoid of interest an	 not entirely devoid of interest." 
+doyle_adventures_3_d	30	0.9	14948	8040	 Tottenham Court Road at the o	 Tottenham Court Road, and he 
+doyle_adventures_3_d	41	0.926829268292683	15226	29728	 other characteristics with which I have 	 other characteristics to which I have al
+doyle_adventures_3_d	34	0.9117647058823529	24874	27333	 shot a questioning glance at my c	 shot a questioning glance at each
+doyle_adventures_3_d	46	0.9130434782608695	28297	5967	 fashion which was peculiar to him. "When you 	 fashion which was peculiar to him. "Do you no
+collins_moonstone_81_d	31	0.9032258064516129	24318	5484	 of investigation which has bee	 of investigation which was pre
+christie_secretadversary_16_d	31	0.967741935483871	19930	11118	 choosing his words with care, 	 choosing his words with care: 
+doyle_signoffour_8_d	30	0.9333333333333333	22473	10887	It is quite certain that he kn	It is quite certain that the t
+doyle_scarlet_7_d	31	0.9032258064516129	12663	7469	 I remarked. "Precisely so, on 	 I remarked. “Precisely so,” an
+doyle_signoffour_4_d	35	0.9142857142857143	12364	14911	ed from one to the other of us. "Th	ed from one to the other of us with
+doyle_signoffour_4_d	36	0.9722222222222222	32039	14913	 from one to the other of us with ha	 from one to the other of us with an
+doyle_signoffour_6_d	30	0.9	1403	4721	e," said Sherlock Holmes, laug	e," said Sherlock Holmes, putt
+doyle_signoffour_6_d	31	1.0	12366	13585	 from one to the other of us. "	 from one to the other of us. "
+doyle_signoffour_6_d	30	0.9333333333333333	17920	10718	thing to do with the matter?" 	thing to do with the matter. T
+doyle_signoffour_6_d	33	0.9696969696969697	32036	13582	ing from one to the other of us w	ing from one to the other of us. 
+doyle_signoffour_6_d	35	0.9142857142857143	41743	3949	. If you will have the goodness to 	. If you will have the kindness to 
+shelley_frankenstein_55_g	30	0.9	14190	5427	ed into the room, where she fo	ed into the room where the cor
+doyle_signoffour_1_d	30	0.9333333333333333	1404	6497	," said Sherlock Holmes, laugh	," said Sherlock Holmes, light
+doyle_signoffour_1_d	30	0.9	10907	16137	 had opened his mouth to reply	 had opened my mouth to reply 
+doyle_scarlet_3_d	30	0.9	21322	17737	 with your permission, I will 	 with your permission I shall 
+collins_moonstone_47_d	30	0.9	30664	13570	 you know anything of the matt	 you know anything of the ways
+stoker_dracula_23_g	31	0.9032258064516129	22442	7175	d closed the door behind him. "	d closed the door behind them, 
+christie_styles_10_d	30	0.9	39630	15581	 there was no sign of the ston	 there was no sign of the Scot
+doyle_baskervilles_1_u	31	0.9032258064516129	650	11486	 for the purpose of examination	 for the purpose of examining m
+doyle_scarlet_9_d	31	0.9032258064516129	3034	9357	e slung over his shoulder. As h	e slung over his shoulders. “I 
+christie_styles_13_d	31	0.9032258064516129	12818	16516	he evidence against him was so 	he evidence against him arose o
+collins_moonstone_85_d	30	0.9	22443	80	 closed the door behind him. "	 closed the door behind me. We
+collins_moonstone_85_d	30	0.9333333333333333	28007	16450	What have you to say now?" She	What have you to say now?” The
+doyle_adventures_12_d	31	0.9032258064516129	2108	3167	e of Miss Mary Sutherland, and 	e of Miss Mary Sutherland, the 
+doyle_adventures_12_d	31	0.967741935483871	2158	3220	 the man with the twisted lip. 	 the man with the twisted lip, 
+doyle_adventures_12_d	30	0.9	2193	43111	, I have no doubt that this sm	, I have no doubt that it is t
+doyle_adventures_12_d	30	0.9	33380	4773	 the blue carbuncle, which sho	 the blue carbuncle, which app
+doyle_adventures_12_d	30	0.9	37559	30266	 was leaning against the wall 	 was leaning against the raili
+doyle_signoffour_7_d	30	0.9666666666666667	12366	22649	 from one to the other of us. 	 from one to the other of us f
+doyle_signoffour_7_d	30	0.9	15828	15349	t is clear and concise." "Very	t is clear and concise." "Well
+doyle_signoffour_7_d	32	1.0	32036	22646	ing from one to the other of us 	ing from one to the other of us 
+shelley_frankenstein_53_g	31	0.9032258064516129	39625	1552	, for there was no sign of the 	, for there was no sign of any 
+christie_styles_6_d	32	0.90625	26152	326	 have been making inquiries," sa	 have been making inquiries at R
+doyle_signoffour_11_d	30	0.9	55	8129	 my friend Sherlock Holmes upo	 my friend Sherlock Holmes. Wi
+doyle_adventures_4_d	33	0.9090909090909091	121	12726	, with the intention of wishing h	, with the intention of visiting 
+doyle_adventures_4_d	30	0.9333333333333333	8809	27497	. On the other hand, he has en	. On the other hand, he had no
+doyle_adventures_4_d	30	0.9666666666666667	12366	19602	 from one to the other of us. 	 from one to the other of us, 
+doyle_adventures_4_d	32	0.90625	23211	4209	 of the streets which runs down 	 of the stream which runs down t
+doyle_adventures_4_d	43	0.9069767441860465	32030	19593	 glancing from one to the other of us with 	 glancing from one to the other of us, and 
+doyle_adventures_4_d	30	0.9333333333333333	41427	9439	 it is just possible that I am	 it is just possible that it m
+doyle_scarlet_5_d	30	0.9333333333333333	21097	10914	 burst into a hearty laugh. "T	 burst into a hearty laugh. “I
+doyle_scarlet_5_d	49	0.9183673469387755	31306	11418	 hailed a four-wheeler which was passing. "In tha	 hailed a four-wheeler which was passing. I manag
+christie_secretadversary_26_d	32	0.9375	12364	9747	ed from one to the other of us. 	ed from one to the other of his 
+christie_secretadversary_26_d	32	0.90625	32039	9749	 from one to the other of us wit	 from one to the other of his tw
+christie_styles_11_d	32	0.90625	28156	27057	 with the air of a man whose dis	 with the air of a man who has d
+austen_northangerabbey_26_g	30	0.9	14190	5332	ed into the room, where she fo	ed into the room where she and
+christie_styles_12_d	30	0.9	17920	9586	thing to do with the matter?" 	thing to do with that matter. 
+doyle_baskervilles_8_u	30	0.9	7095	1984	t within the last few days, an	t within the last few days it 
+doyle_adventures_5_d	53	0.9245283018867925	909	961	t there are points in connection with it which are no	t there are points in connection with it which never 
+doyle_adventures_5_d	30	0.9	28724	21559	 the only point which remains 	 the only one which remains. Y
+radcliffe_udolpho_22_g	32	0.90625	18977	34608	 the door was opened, and we wer	 the door was opened, and a pers
+christie_secretadversary_17_d	33	0.9696969696969697	18693	20399	t was a little after half-past si	t was a little after half-past fi
+christie_secretadversary_11_d	30	0.9	13386	692	 to the effect that he had sho	 to the effect that he had ret
+lewis_monk_10_g	30	0.9	3416	27549	 shocked at having broken the 	 shocked at having been the ca
+christie_secretadversary_19_d	30	0.9333333333333333	12364	12151	ed from one to the other of us	ed from one to the other of th
+doyle_adventures_2_d	34	0.9117647058823529	36	22	E I had called upon my friend Sher	E I had called upon my friend, Mr.
+doyle_adventures_2_d	33	0.9393939393939394	10001	18022	 have been unfortunate enough to 	 have been fortunate enough to ga
+doyle_adventures_2_d	33	0.9090909090909091	18218	23997	n answer to our advertisement." "	n answer to an advertisement." "W
+doyle_adventures_2_d	30	0.9333333333333333	20664	741	 half rose from his chair in h	 half rose from his chair and 
+doyle_adventures_2_d	31	0.9354838709677419	22442	321	d closed the door behind him. "	d closed the door behind me. "Y
+doyle_adventures_9_d	30	0.9666666666666667	29175	39439	 in the centre of the circle o	 in the centre of the circle. 
+doyle_adventures_9_d	31	0.9032258064516129	41747	21535	 you will have the goodness to 	 you will have the kindness to 
+doyle_adventures_9_d	33	0.9696969696969697	41747	27549	 you will have the goodness to to	 you will have the goodness to lo
+radcliffe_udolpho_12_g	30	0.9	41751	36781	 will have the goodness to tou	 will have the goodness to bea
+lewis_monk_1_g	35	0.9142857142857143	38385	33205	 to know what was the matter. As I 	 to know what was the matter. I sha
+christie_styles_3_d	30	0.9	39630	1731	 there was no sign of the ston	 there was no sign of the room
+collins_moonstone_60_d	30	0.9333333333333333	22506	8519	 nothing whatever about the ma	 nothing whatever about the gr
+doyle_scarlet_4_d	30	1.0	28085	6946	sovereign from his pocket and 	sovereign from his pocket and 
+christie_secretadversary_24_d	31	0.9354838709677419	35936	3388	 passed his tongue over his par	 passed his tongue over his dry
+doyle_baskervilles_2_u	30	0.9	21324	1841	ith your permission, I will co	ith your permission I will rea
+stoker_dracula_16_g	30	1.0	12366	20316	 from one to the other of us. 	 from one to the other of us. 
+stoker_dracula_16_g	30	0.9666666666666667	32039	20316	 from one to the other of us w	 from one to the other of us. 
+stoker_dracula_21_g	33	0.9090909090909091	12366	24688	 from one to the other of us. "Th	 from one to the other of us she 
+stoker_dracula_21_g	37	0.918918918918919	32036	24685	ing from one to the other of us with 	ing from one to the other of us she s
+doyle_baskervilles_15_u	31	0.9354838709677419	32263	135	 sitting-room at Baker Street. 	 sitting-room in Baker Street. 
+doyle_scarlet_8_d	30	0.9333333333333333	33265	15622	 staggered to his feet and clu	 staggered to his feet and loo
+christie_styles_4_d	34	0.9705882352941176	17916	6074	 anything to do with the matter?" 	 anything to do with the matter?” 

@@ -1,0 +1,23 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_3_u	34	0.9117647058823529	6366	5602	 innumerable instances which, alth	 innumerable instances in which th
+shelley_frankenstein_43_g	30	0.9	110	12814	 the gentle manners of these p	 the gentle manners of the gir
+shelley_frankenstein_43_g	37	0.918918918918919	188	10098	 I remembered too well the treatment 	 I remembered too well my treatment t
+shelley_frankenstein_43_g	30	0.9	3579	5263	d, with pleasure, that he did 	d, with pleasure, that the fir
+stoker_dracula_13_g	31	0.9032258064516129	7501	28475	 I did not even understand the 	 I did not yet understand the c
+stoker_dracula_13_g	31	0.9032258064516129	10038	28475	 I did not then understand the 	 I did not yet understand the c
+collins_moonstone_75_d	30	0.9	5737	21173	 with an expression of goodnes	 with an expression of agonise
+radcliffe_udolpho_24_g	31	0.9032258064516129	5590	8992	 endeavoured to encourage his c	 endeavoured to encourage her. 
+collins_moonstone_89_d	32	0.96875	6619	33855	arly in the morning, before she 	arly in the morning, before the 
+walpole_castleofotranto_3_g	31	0.9032258064516129	5590	35081	 endeavoured to encourage his c	 endeavoured to encourage her, 
+radcliffe_udolpho_33_g	30	0.9	4213	46839	 the words they uttered, not h	 the words they uttered, or re
+austen_northangerabbey_22_g	32	0.90625	11755	14848	 spirits were elevated by the en	 spirits were relieved by the se
+shelley_frankenstein_48_g	30	0.9	9487	4841	 the remainder of the day was 	 the remainder of the day in m
+lewis_monk_4_g	30	0.9	441	90339	 endeavouring to discover the 	 endeavours to discover the re
+radcliffe_udolpho_13_g	35	0.9142857142857143	5871	34053	s, which she endeavoured to wipe aw	s, which she endeavoured to impose 
+shelley_frankenstein_49_g	34	0.9117647058823529	55	8498	 the occurrences of the day. What 	 the occurrences of the day had pr
+lewis_monk_6_g	31	0.9032258064516129	6005	45190	 listened to the exhortations o	 listened to his exhortations, 
+shelley_frankenstein_47_g	31	0.9032258064516129	9655	662	 collected my own food and fuel	 collected my own food and brou
+shelley_frankenstein_47_g	36	0.9444444444444444	10063	4008	d the signification of these terms. 	d the signification of those terms, 
+doyle_scarlet_12_d	33	0.9090909090909091	11694	8239	 so short a time before, was blea	 so short a time before, was gone
+collins_hauntedhotel_15_u	30	0.9	2513	4658	especially the two younger cot	especially the two younger gir
+doyle_baskervilles_2_u	35	0.9142857142857143	8269	14378	 to believe that it was indeed I wh	 to believe that it was indeed his 

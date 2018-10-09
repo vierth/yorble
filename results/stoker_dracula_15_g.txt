@@ -1,0 +1,88 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+poe_ruemorgue_1_d	37	0.918918918918919	881	71473	t I do not expect you to believe. It 	t I do not expect you to believe one 
+poe_ruemorgue_1_d	36	0.9166666666666666	9403	69821	 put the key in his pocket. Then he 	 put the key in his pocket. He then 
+doyle_adventures_7_d	30	0.9	2073	28094	 from his pocket and held it u	 from his pocket and threw it 
+christie_secretadversary_2_d	31	0.9032258064516129	2073	1045	 from his pocket and held it up	 from his pocket and handed it 
+stoker_dracula_8_g	30	0.9	21777	26125	." _Dr. Seward's Diary._ _28 S	." _Dr. Seward's Diary._ _19 A
+christie_secretadversary_8_d	30	0.9	5596	2519	, and cautiously drew the door	, and cautiously drew the curt
+collins_moonstone_82_d	30	0.9	15385	9457	 there is one thing which is d	 there is one thing which I ha
+doyle_adventures_1_d	35	0.9428571428571428	21327	41189	here is no reason why he should; hi	here is no reason why she should in
+doyle_adventures_11_d	31	0.9032258064516129	22024	41269	. I have no doubt that he belie	. I have no doubt that she love
+stoker_dracula_17_g	34	0.9705882352941176	1	3	 DR. SEWARD'S DIARY--_continued_. 	 DR. SEWARD'S DIARY--_continued_ W
+stoker_dracula_17_g	30	0.9	12504	19167	. * * * * * _27 September._--I	. * * * * * _30 September._--T
+stoker_dracula_17_g	48	0.9166666666666666	21779	7372	 _Dr. Seward's Diary._ _28 September._--It is wo	 _Dr. Seward's Diary._ _29 September._--I was so
+stoker_dracula_17_g	40	0.95	21779	13404	 _Dr. Seward's Diary._ _28 September._--	 _Dr. Seward's Diary._ _30 September._--
+stoker_dracula_17_g	31	0.9032258064516129	25708	2454	, but I could see that he sat f	, but I could see that she was 
+stoker_dracula_17_g	30	0.9	26667	1341	; is it not so? Yes! Then ther	; is it not so? Yes! Then we s
+doyle_adventures_8_d	30	0.9	10601	15506	 in the direction of the tomb.	 in the direction of the docto
+stoker_dracula_27_g	30	0.9	2290	28685	, for I felt that there was so	, for I felt that the end was 
+collins_hauntedhotel_22_u	32	0.90625	8959	5866	 blew out the light, and placed 	 blew out the light, and laid he
+collins_moonstone_55_d	33	0.9090909090909091	23808	32262	 your permission to do what I thi	 your permission to do what is ri
+austen_northangerabbey_8_g	30	0.9	22024	5120	. I have no doubt that he beli	. I have no doubt that he will
+christie_styles_7_d	30	0.9666666666666667	5424	15559	, motioned me to precede him. 	, motioned me to precede him d
+lewis_monk_11_g	32	0.9375	2946	54513	 was inclined to think that it w	 was inclined to think that the 
+stoker_dracula_13_g	38	0.9210526315789473	1	3	 DR. SEWARD'S DIARY--_continued_. For 	 DR. SEWARD'S DIARY--_continued_. The 
+stoker_dracula_13_g	37	0.918918918918919	18988	17977	 pass through the bitter waters to re	 pass through the bitter water before
+stoker_dracula_13_g	51	0.9019607843137255	21779	23944	 _Dr. Seward's Diary._ _28 September._--It is wonde	 _Dr. Seward's Diary._ _22 September._--It is all o
+doyle_adventures_6_d	30	0.9	8023	9562	 was certainly a surprise to m	 was certainly surprised to fi
+doyle_signoffour_9_d	31	0.9354838709677419	24097	10489	 not disguise from myself the p	 not disguise from myself that 
+austen_northangerabbey_18_g	34	0.9117647058823529	24911	4031	 for the life of me, I cannot unde	 for the life of me, I cannot reco
+doyle_adventures_3_d	31	0.9354838709677419	29697	17219	d to think of it, and I cannot 	d to think of it, and I can't s
+stoker_dracula_19_g	33	0.9090909090909091	9407	12924	 the key in his pocket. Then he t	 the key into his pocket when he 
+stoker_dracula_19_g	30	0.9333333333333333	15352	6458	e turned to me and said:-- "He	e turned to me and said:-- "Yo
+stoker_dracula_19_g	36	0.9166666666666666	16178	25174	 it began to dawn upon me that I was	 it began to dawn upon me that the a
+stoker_dracula_14_g	42	0.9761904761904762	21777	23471	." _Dr. Seward's Diary._ _28 September._--	." _Dr. Seward's Diary._ _26 September._--
+stoker_dracula_26_g	30	0.9333333333333333	5144	13414	 the wall of the churchyard, w	 the wall of the churchyard of
+stoker_dracula_26_g	30	0.9333333333333333	19728	13414	 the wall of the churchyard, w	 the wall of the churchyard of
+stoker_dracula_26_g	30	0.9	21779	34148	 _Dr. Seward's Diary._ _28 Sep	 _Dr. Seward's Diary._ _2 Nove
+stoker_dracula_26_g	30	0.9	23466	21994	" said the Professor, "then yo	" said the Professor, "both go
+collins_moonstone_81_d	30	0.9333333333333333	2655	14888	. There was no mistaking the s	. There was no mistaking it as
+stoker_dracula_25_g	30	0.9333333333333333	21777	14075	." _Dr. Seward's Diary._ _28 S	." _Dr. Seward's Diary._ _25 O
+stoker_dracula_25_g	33	0.9090909090909091	21777	18862	." _Dr. Seward's Diary._ _28 Sept	." _Dr. Seward's Diary._ _28 Octo
+lewis_monk_9_g	30	0.9	14094	40416	 could not believe that she wa	 could not believe that the Sp
+stoker_dracula_18_g	30	0.9333333333333333	23433	13925	 Quincey Morris laconically. "	 Quincey Morris, laconically a
+collins_hauntedhotel_26_u	30	0.9333333333333333	22204	6442	. Is it possible that the Prof	. Is it possible that the Baro
+stoker_dracula_11_g	47	0.9148936170212766	21777	20450	." _Dr. Seward's Diary._ _28 September._--It is	." _Dr. Seward's Diary._ _18 September._--Just 
+collins_moonstone_85_d	30	0.9	13393	7265	 the evidence of our own eyesi	 the evidence of her own eyes,
+doyle_adventures_12_d	33	0.9090909090909091	2946	12923	 was inclined to think that it wa	 was inclined to think that I had
+doyle_baskervilles_10_u	33	0.9393939393939394	21327	14514	here is no reason why he should; 	here is no reason why we should t
+stoker_dracula_10_g	30	0.9	12504	17459	. * * * * * _27 September._--I	. * * * * * _9 September_.--I 
+stoker_dracula_10_g	30	0.9	12504	26351	. * * * * * _27 September._--I	. * * * * * _11 September._--T
+stoker_dracula_10_g	45	0.9111111111111111	21777	942	." _Dr. Seward's Diary._ _28 September._--It 	." _Dr. Seward's Diary._ _7 September._--The 
+stoker_dracula_10_g	46	0.9130434782608695	21779	19637	 _Dr. Seward's Diary._ _28 September._--It is 	 _Dr. Seward's Diary._ _10 September._--I was 
+stoker_dracula_10_g	30	0.9	26453	8990	" said Van Helsing. "And then 	" said Van Helsing. "In the no
+doyle_baskervilles_11_u	31	0.9032258064516129	24122	8405	 the possibility that such may 	 the possibility that he may fo
+stoker_dracula_20_g	30	0.9333333333333333	21777	28535	." _Dr. Seward's Diary._ _28 S	." _Dr. Seward's Diary._ _2 Oc
+doyle_scarlet_5_d	31	0.9032258064516129	10601	6880	 in the direction of the tomb. 	 in the direction of the door. 
+stoker_dracula_12_g	30	0.9	12504	16902	. * * * * * _27 September._--I	. * * * * * _19 September._--A
+stoker_dracula_12_g	35	0.9142857142857143	15344	33083	. Then he turned to me and said:-- 	. Then he turned to me and said cal
+stoker_dracula_12_g	42	0.9761904761904762	21777	28988	." _Dr. Seward's Diary._ _28 September._--	." _Dr. Seward's Diary._ _20 September._--
+radcliffe_udolpho_18_g	31	0.9032258064516129	9063	48462	he closed the door and locked i	he closed the door, and placed 
+dickens_christmascarole_1_g	32	0.90625	9062	21310	 he closed the door and locked i	 he closed his door, and locked 
+doyle_adventures_5_d	31	0.9354838709677419	2950	20312	 inclined to think that it was 	 inclined to think that it may 
+doyle_adventures_5_d	30	0.9333333333333333	25708	33221	, but I could see that he sat 	, but I could see that he was 
+doyle_adventures_5_d	30	0.9	26777	28750	 "Good God!" he cried. "What d	 "Good God!" I cried. "What ca
+dickens_christmascarole_3_g	30	0.9	19719	19947	 got over the wall of the chur	 got over the wall of the back
+shelley_frankenstein_49_g	30	0.9333333333333333	2295	3277	 I felt that there was some fe	 I felt that there was some ju
+doyle_adventures_2_d	30	0.9	6813	25466	 "What are you going to do?" I	 "What are you going to do, th
+radcliffe_udolpho_10_g	30	0.9	21334	5693	 no reason why he should; his 	 no reason why he should have 
+stoker_dracula_1_g	33	0.9090909090909091	242	11235	 looked at me, and somehow the te	 looked at me, and some of the pe
+doyle_adventures_9_d	36	0.9166666666666666	22648	1865	, at a little before ten o'clock, Ar	, at a little before seven o'clock, 
+radcliffe_udolpho_12_g	33	0.9393939393939394	24410	34841	 have done myself the honour of c	 have done himself the honour of 
+stoker_dracula_9_g	30	0.9333333333333333	21777	7890	." _Dr. Seward's Diary._ _28 S	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	42	0.9523809523809523	21777	25256	." _Dr. Seward's Diary._ _28 September._--	." _Dr. Seward's Diary._ _4 September._--Z
+doyle_scarlet_12_d	30	0.9	2655	7871	. There was no mistaking the s	. There was no mistaking it fo
+christie_secretadversary_24_d	34	0.9117647058823529	12194	10510	 exclamation of astonishment, and 	 exclamation of astonishment at se
+doyle_baskervilles_2_u	33	0.9090909090909091	21327	16791	here is no reason why he should; 	here is no reason why I should no
+stoker_dracula_16_g	34	0.9705882352941176	1	2	 DR. SEWARD'S DIARY--_continued_. 	 DR. SEWARD'S DIARY--_continued_ I
+stoker_dracula_16_g	30	0.9	12792	11627	 the sexton lock the gate afte	 the sexton lock the gate we s
+stoker_dracula_16_g	43	0.9069767441860465	13862	1561	 forced back the leaden flange; and then a 	 forced back the leaden flange, and we all 
+stoker_dracula_16_g	38	0.9210526315789473	16576	22182	 head and fill her mouth with garlic, 	 head and filled the mouth with garlic
+stoker_dracula_16_g	30	0.9	21908	3974	 to accept Van Helsing's monst	 to accept Van Helsing's concl
+stoker_dracula_16_g	32	0.90625	22597	12450	. * * * * * _29 September, morni	. * * * * * _29 September, night
+stoker_dracula_16_g	30	0.9	22681	12267	 Arthur and Quincey came into 	 Arthur and Quincey came home 
+stoker_dracula_16_g	32	0.90625	29627	21353	e took the old man's hand and sa	e took the old man's hand in his
+christie_secretadversary_15_d	30	0.9333333333333333	6815	7221	What are you going to do?" I a	What are you going to do?” “I 
+stoker_dracula_21_g	30	0.9	24911	1370	 for the life of me, I cannot 	 for the life of me I can't im
+collins_moonstone_65_d	30	0.9	26425	14439	 to hear what I have to say?" 	 to hear what you have to say 
+christie_styles_4_d	30	0.9	13452	31483	y. I shrugged my shoulders, ho	y. I shrugged my shoulders. If

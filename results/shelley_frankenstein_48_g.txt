@@ -1,0 +1,17 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_9_u	30	0.9	10888	7286	ation, when I was suddenly int	ation, when I was suddenly awa
+shelley_frankenstein_32_g	42	0.9761904761904762	13668	9104	 he placed his hands before his eyes and u	 he placed his hands before his eyes, and 
+doyle_baskervilles_7_u	30	0.9666666666666667	10314	16243	e, when I heard the sound of v	e, when I heard the sound of s
+radcliffe_udolpho_34_g	30	0.9	17233	33347	e promised to comply with my r	e promised to comply with, as 
+lewis_monk_4_g	34	0.9117647058823529	2478	113400	 consideration I resolved to retur	 consideration, I resolved to carr
+lewis_monk_4_g	30	0.9	10464	48841	 towards the spot where I was 	 towards the spot where I stoo
+radcliffe_udolpho_50_g	33	0.9090909090909091	10901	16649	 was suddenly interrupted by the 	 was suddenly interrupted by a so
+radcliffe_udolpho_22_g	30	0.9	2998	29640	e, and went in search of food.	e, and went in search of Monto
+radcliffe_udolpho_22_g	30	0.9	3194	35639	ed in silent expectation of th	ed in silent expectation for a
+lewis_monk_10_g	30	0.9333333333333333	10315	17526	, when I heard the sound of vo	, when I heard the sound of st
+doyle_adventures_2_d	30	0.9666666666666667	10321	33218	 I heard the sound of voices, 	 I heard the sound of voices f
+lewis_monk_1_g	30	0.9333333333333333	10848	33775	 every means in my power to re	 every means in my power to in
+radcliffe_udolpho_41_g	30	0.9	10901	22307	 was suddenly interrupted by t	 was suddenly interrupted not 
+doyle_scarlet_12_d	31	0.9032258064516129	1646	4748	 that it was impossible to retu	 that it was impossible to dist
+doyle_scarlet_12_d	30	0.9	4836	5515	d for the remainder of the day	d for the remainder of their j
+collins_moonstone_76_d	30	0.9	1646	18488	 that it was impossible to ret	 that it was impossible for he

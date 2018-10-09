@@ -1,0 +1,32 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_7_g	31	0.9032258064516129	10952	9313	 that there was not one of the 	 that there was no one at the m
+austen_northangerabbey_11_g	32	0.90625	5438	10384	 ten thousand times rather have 	 ten thousand times rather, get 
+stoker_dracula_17_g	31	0.9032258064516129	1045	3265	 knocked at the door, and inqui	 knocked at the door, and on hi
+austen_northangerabbey_30_g	34	0.9117647058823529	8427	278	 for ten minutes together, was eng	 for ten minutes together, walking
+radcliffe_udolpho_20_g	30	0.9	7734	23514	, when you came into the box, 	, when you came into the room 
+radcliffe_udolpho_32_g	34	0.9117647058823529	8965	6488	w nothing about it; but his father	w nothing about it; but my father 
+austen_northangerabbey_18_g	32	0.90625	8275	1731	t creatures in the world. While 	t creature in the world. Tilney 
+radcliffe_udolpho_9_g	32	0.9375	4020	8445	e immediately returned to their 	e immediately returned to the me
+radcliffe_udolpho_24_g	32	0.90625	1665	2692	e, but no one appeared at them. 	e, but no one appeared, and the 
+austen_northangerabbey_7_g	31	0.9354838709677419	455	6454	 in Milsom Street, she was not 	 in Milsom Street, she was so f
+austen_northangerabbey_7_g	30	0.9	10291	2975	 do you think we have been tal	 do you think we have been run
+radcliffe_udolpho_55_g	30	1.0	925	10528	, she had reason to believe, w	, she had reason to believe, w
+stoker_dracula_6_g	32	0.90625	779	1647	 through the church-yard, and re	 through the churchyard; and peo
+christie_styles_10_d	34	0.9411764705882353	5984	4712	I never thought of such a thing; b	I never thought of such a thing.” 
+lewis_monk_9_g	31	0.9032258064516129	4703	2731	 for an opportunity of explaini	 for an opportunity of repeatin
+christie_styles_13_d	30	0.9333333333333333	133	19461	 have explained everything.” “	 have explained everything. I 
+doyle_baskervilles_10_u	30	0.9666666666666667	2499	2576	t must be confessed that they 	t must be confessed that the n
+austen_northangerabbey_14_g	31	0.9032258064516129	1934	17146	 towards Edgar's Buildings. Cat	 towards Edgar's Buildings betw
+radcliffe_udolpho_34_g	30	0.9333333333333333	8147	6264	n as soon as possible; and, se	n as soon as possible; and, Lu
+austen_northangerabbey_26_g	30	0.9	8346	100	 with some surprise that John 	 with some surprise, that her 
+austen_northangerabbey_6_g	30	0.9333333333333333	8273	2586	est creatures in the world. Wh	est creatures in the world, ha
+lewis_monk_10_g	42	0.9047619047619048	8588	43382	 the object of their attention and discour	 the object of his attention, and discover
+collins_moonstone_84_d	32	0.90625	2582	7570	d, in the first place, that she 	d, in the first place, that I lo
+radcliffe_udolpho_10_g	35	0.9142857142857143	4710	4546	 opportunity of explaining its caus	 opportunity of explaining it was t
+lewis_monk_8_g	30	0.9	3105	27929	 She was not deceived in her o	 She was not deceived in this 
+christie_styles_3_d	31	0.9032258064516129	10952	1726	 that there was not one of the 	 that there was no sign of the 
+radcliffe_udolpho_47_g	30	0.9	1045	216	 knocked at the door, and inqu	 knocked at the door, and it w
+radcliffe_udolpho_54_g	34	0.9411764705882353	4707	32105	 an opportunity of explaining its 	 an opportunity of explaining to E
+radcliffe_udolpho_54_g	31	0.9032258064516129	6907	9202	 to explain the reason of such 	 to explain the reason of her q
+radcliffe_udolpho_54_g	35	0.9142857142857143	8515	15559	 something more than surprise when 	 something more than surprise, had 
+collins_moonstone_49_d	30	0.9	6661	12732	 out of the house the next min	 out of the house. The next bi

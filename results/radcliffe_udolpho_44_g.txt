@@ -1,0 +1,149 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_6_d	33	0.9090909090909091	30309	6631	ed himself in the arm-chair on th	ed himself in the arm-chair, and 
+shelley_frankenstein_45_g	30	0.9	11831	3938	ect of their conversation on t	ect of their conversation. I a
+walpole_castleofotranto_2_g	31	0.9354838709677419	18439	30125	 the great hall of his castle, 	 the great hall of the castle, 
+radcliffe_udolpho_56_g	36	0.9166666666666666	1189	12714	 returned to the supper-room, where 	 returned to the supper-room, the Co
+radcliffe_udolpho_56_g	33	0.9696969696969697	1431	871	 the inhabitants of the chateau. 	 the inhabitants of the chateau w
+radcliffe_udolpho_56_g	36	0.9166666666666666	10815	12714	 returned to the supper-room, whithe	 returned to the supper-room, the Co
+radcliffe_udolpho_56_g	30	0.9	20737	7445	 the occasion of his visit, in	 the occasion of his visit. 'A
+radcliffe_udolpho_38_g	30	0.9	15306	22639	 lose the remembrance of the m	 lose the remembrance of it fo
+radcliffe_udolpho_51_g	31	0.9032258064516129	9982	25436	 for a considerable time, with 	 for a considerable time, to al
+radcliffe_udolpho_51_g	30	0.9	12922	1087	 she was on the point of menti	 she was on the point of retur
+radcliffe_udolpho_17_g	30	0.9	8559	19646	 early in the morning, and rem	 early in the morning, bade he
+radcliffe_udolpho_17_g	32	0.9375	9323	20035	n the doors, through which he pa	n the door, through which her au
+radcliffe_udolpho_17_g	30	0.9333333333333333	9980	1028	d, for a considerable time, wi	d, for a considerable time, pe
+doyle_baskervilles_13_u	31	0.9032258064516129	12292	18230	 the consequence of their own w	 the consequences of his own wi
+radcliffe_udolpho_52_g	32	0.90625	1296	3901	 the north apartments, and Dorot	 the north apartments, and to te
+radcliffe_udolpho_52_g	30	0.9333333333333333	1296	16041	 the north apartments, and Dor	 the north apartments, and now
+radcliffe_udolpho_52_g	30	0.9333333333333333	1431	17187	 the inhabitants of the chatea	 the inhabitants of the castle
+radcliffe_udolpho_52_g	31	0.9032258064516129	10896	2733	 the north apartment, had retre	 the north apartments, had the 
+radcliffe_udolpho_52_g	32	0.90625	19991	2689	 the means, by which he had obta	 the means, by which he had disa
+radcliffe_udolpho_52_g	31	0.9032258064516129	20338	1275	, that he had something of impo	, that he had something of cons
+radcliffe_udolpho_52_g	34	0.9411764705882353	22695	5696	 but, not perceiving any thing to 	 but, not perceiving any thing, I 
+stoker_dracula_19_g	34	0.9117647058823529	20339	28866	 that he had something of importan	 that he had something important t
+radcliffe_udolpho_24_g	30	0.9	27603	2058	he passed, and sometimes pause	he passed, and sometimes spoke
+stoker_dracula_26_g	30	0.9333333333333333	19661	14303	 that there was nothing to fea	 that there was nothing to be 
+collins_moonstone_89_d	31	0.9032258064516129	26292	8611	 followed the stranger, who oft	 followed the stranger out of t
+radcliffe_udolpho_7_g	36	0.9166666666666666	9981	6885	, for a considerable time, with grea	, for a considerable time, without e
+radcliffe_udolpho_7_g	30	0.9	20767	4771	 the apartment where they were	 the apartment. When they were
+radcliffe_udolpho_39_g	30	0.9	30587	2427	, when he raised his eyes, he 	, when he raised his eyes and 
+austen_northangerabbey_7_g	30	0.9	26930	5955	 whither they were going, and 	 whither they were going, it w
+doyle_signoffour_8_d	30	0.9	1428	15348	 of the inhabitants of the cha	 of the inhabitants of the Ind
+radcliffe_udolpho_23_g	30	0.9333333333333333	1431	21854	 the inhabitants of the chatea	 the inhabitants of the castle
+radcliffe_udolpho_23_g	30	0.9	12547	4538	 her countenance, and she then	 her countenance, and heighten
+radcliffe_udolpho_23_g	32	0.9375	16353	34132	 in an obscure corner of the Mar	 in an obscure corner of the roo
+radcliffe_udolpho_23_g	33	0.9090909090909091	19853	7369	 manners of the stranger, after s	 manners of the strangers, that s
+radcliffe_udolpho_23_g	30	0.9	25023	27307	ng passages, came, at length, 	ng passages, she, at length, r
+radcliffe_udolpho_23_g	32	0.90625	28779	27736	he thought he heard a voice in t	he thought she heard a voice, an
+radcliffe_udolpho_29_g	31	0.9032258064516129	9982	1754	 for a considerable time, with 	 for a considerable time, on th
+radcliffe_udolpho_29_g	32	0.90625	9982	8260	 for a considerable time, with g	 for a considerable time, when, 
+radcliffe_udolpho_29_g	32	0.90625	28779	8325	he thought he heard a voice in t	he thought she heard a voice, an
+shelley_frankenstein_55_g	31	0.9032258064516129	20270	4983	 a short distance from the cast	 a short distance from the hous
+radcliffe_udolpho_55_g	30	0.9	6865	663	 Marchioness de Villeroi died 	 Marchioness de Villeroi, and 
+radcliffe_udolpho_55_g	30	0.9	6865	1847	 Marchioness de Villeroi died 	 Marchioness de Villeroi, we s
+radcliffe_udolpho_55_g	30	0.9	6865	15143	 Marchioness de Villeroi died 	 Marchioness de Villeroi; and 
+radcliffe_udolpho_55_g	30	0.9	12846	651	 of the late Marchioness, she 	 of the late Marchioness de Vi
+radcliffe_udolpho_55_g	31	0.9354838709677419	12846	15915	 of the late Marchioness, she w	 of the late Marchioness, when 
+radcliffe_udolpho_55_g	30	0.9	12846	18211	 of the late Marchioness, she 	 of the late Marchioness de Vi
+radcliffe_udolpho_55_g	34	0.9411764705882353	27811	19999	, stretched at its length, and wel	, stretched at its length, and dre
+radcliffe_udolpho_55_g	31	0.9354838709677419	29083	4436	, that he had been deceived by 	, that he had been deceived in 
+lewis_monk_2_g	30	0.9333333333333333	28390	71986	 the exact resemblance of the 	 the exact resemblance of his 
+radcliffe_udolpho_46_g	37	1.0	7840	7899	 beguile the tediousness of the night	 beguile the tediousness of the night
+walpole_castleofotranto_3_g	31	0.9032258064516129	18439	12059	 the great hall of his castle, 	 the great hall of the castle. 
+radcliffe_udolpho_26_g	38	0.9736842105263158	26192	10082	 every moment to see it extinguished; 	 every moment to see it extinguished, 
+radcliffe_udolpho_26_g	30	0.9	29956	175	d, on the following day, it wa	d, on the following day, to fi
+radcliffe_udolpho_1_g	35	0.9142857142857143	1189	34421	 returned to the supper-room, where	 returned to the supper-room, seeme
+radcliffe_udolpho_1_g	30	1.0	10815	34421	 returned to the supper-room, 	 returned to the supper-room, 
+radcliffe_udolpho_1_g	30	0.9	13220	34175	 separated for the night, and 	 separated for the night, M. Q
+radcliffe_udolpho_1_g	30	0.9666666666666667	19660	44272	, that there was nothing to fe	, that there was nothing to ex
+radcliffe_udolpho_1_g	35	0.9142857142857143	26647	20810	 hesitated whether to proceed, and 	 hesitated whether to proceed, or t
+radcliffe_udolpho_6_g	30	0.9	2800	11095	ned to pass the night. 'There 	ned to pass the night there. I
+radcliffe_udolpho_6_g	32	0.90625	3801	2741	; it is many years since I was i	; it is many years since I have 
+radcliffe_udolpho_6_g	30	0.9	8559	43474	 early in the morning, and rem	 early in the morning, and wit
+radcliffe_udolpho_6_g	34	0.9705882352941176	11245	30086	 permitted to revisit the earth; a	 permitted to revisit the earth, a
+radcliffe_udolpho_6_g	30	0.9	15141	37248	. 'This is strange!' said he, 	. 'This is strange!' said St. 
+christie_styles_13_d	30	0.9	12267	2786	 inclined to believe this the 	 inclined to believe that he h
+radcliffe_udolpho_16_g	31	0.9032258064516129	15501	69830	 heard, now and then, the faint	 heard, now and then, the solit
+radcliffe_udolpho_16_g	31	0.9032258064516129	19899	6541	 for some time, in silence, ret	 for some time in silence, snat
+radcliffe_udolpho_16_g	30	0.9	22829	6541	 for some time, in silence, im	 for some time in silence, sna
+radcliffe_udolpho_25_g	30	0.9	12267	18263	 inclined to believe this the 	 inclined to believe, that the
+radcliffe_udolpho_25_g	30	0.9	13230	19645	 for the night, and the Count 	 for the night, and those soun
+radcliffe_udolpho_25_g	43	0.9534883720930233	20339	4618	 that he had something of importance to dis	 that he had something of importance to say
+radcliffe_udolpho_33_g	30	0.9	9981	36281	, for a considerable time, wit	, for a considerable time, una
+radcliffe_udolpho_33_g	32	0.9375	25659	10103	, on looking up, he perceived li	, on looking up, they perceived 
+radcliffe_udolpho_33_g	32	0.90625	27641	18839	aving, at length, reached a spot	aving, at length, reached the st
+radcliffe_udolpho_33_g	34	0.9117647058823529	28779	44530	he thought he heard a voice in the	he thought she heard a noise in he
+radcliffe_udolpho_33_g	37	0.918918918918919	28914	19989	e listened, scarcely daring to draw h	e listened, scarcely daring to breath
+radcliffe_udolpho_33_g	31	0.9032258064516129	30614	24982	he almost expected to meet othe	he almost expected to see the d
+shelley_frankenstein_53_g	35	0.9428571428571428	20265	2201	t, at a short distance from the cas	t, at a short distance from the sho
+shelley_frankenstein_53_g	42	0.9047619047619048	23832	12384	 would have been welcomed, instead of hidi	 would have been welcome instead of inspir
+dickens_christmascarole_4_g	31	0.9032258064516129	11837	5134	 their conversation on their au	 their conversation, and their 
+doyle_baskervilles_10_u	30	0.9666666666666667	19175	1487	 the appearance of a stranger 	 the appearance of a strange c
+radcliffe_udolpho_2_g	35	0.9142857142857143	20432	17384	 could scarcely believe, that the s	 could scarcely believe what she sa
+stoker_dracula_10_g	30	0.9333333333333333	7948	19496	I shall not fear to sleep; in 	I shall not fear to sleep, sin
+doyle_baskervilles_9_u	30	0.9	11833	13148	t of their conversation on the	t of their conversation was th
+doyle_baskervilles_9_u	30	0.9	25354	12233	, considering that he was arme	, considering that she was sta
+radcliffe_udolpho_57_g	37	0.9459459459459459	18435	372	d in the great hall of his castle, wh	d in the great hall of the castle, wh
+radcliffe_udolpho_57_g	35	0.9428571428571428	18830	1209	y liveries of the attendants, with 	y liveries of the attendants, the c
+radcliffe_udolpho_36_g	32	0.96875	1198	24467	 to the supper-room, where the C	 to the supper-room, where they 
+radcliffe_udolpho_36_g	31	0.9032258064516129	10824	24467	 to the supper-room, whither th	 to the supper-room, where they
+radcliffe_udolpho_36_g	36	0.9444444444444444	12536	729	 blush upon her countenance, and she	 blush upon her countenance, and ple
+stoker_dracula_12_g	30	0.9	8559	1500	 early in the morning, and rem	 early in the morning, and had
+radcliffe_udolpho_34_g	31	0.967741935483871	16353	41319	 in an obscure corner of the Ma	 in an obscure corner of the ea
+radcliffe_udolpho_34_g	30	0.9	22616	19577	 glance round the chamber, and	 glance round the chamber, 'Fo
+radcliffe_udolpho_34_g	37	0.918918918918919	29818	28275	 astonishment, into which this advent	 astonishment, into which this sudden
+lewis_monk_4_g	36	0.9166666666666666	10736	16483	lly occupied by the scenes, which th	lly occupied by the scene which had 
+lewis_monk_4_g	30	0.9	19781	46138	 it was necessary for him to k	 it was necessary for her to p
+lewis_monk_4_g	30	0.9	19781	96789	 it was necessary for him to k	 it was necessary for me to ex
+radcliffe_udolpho_50_g	35	0.9428571428571428	3993	54936	, my Lord,' replied Ludovico, 'they	, my Lord,' replied Ludovico, 'it h
+radcliffe_udolpho_50_g	36	0.9444444444444444	7917	54936	, my Lord,' replied Ludovico, 'I sha	, my Lord,' replied Ludovico, 'it ha
+radcliffe_udolpho_50_g	32	0.90625	13079	20297	 in anxious expectation the even	 in anxious expectation, the noi
+radcliffe_udolpho_50_g	30	0.9	15506	12923	d, now and then, the faint ech	d, now and then, by the faint 
+radcliffe_udolpho_18_g	30	0.9333333333333333	2357	45039	nt with the lamp in his hand, 	nt with the lamp in her hand, 
+radcliffe_udolpho_18_g	31	1.0	3578	23879	n any thing else.' 'Yes,' said 	n any thing else.' 'Yes,' said 
+radcliffe_udolpho_18_g	38	0.9210526315789473	4152	17439	 they entered the spacious apartment, 	 they entered a spacious apartment, wh
+radcliffe_udolpho_13_g	30	0.9	12922	9256	 she was on the point of menti	 she was on the point of being
+christie_styles_12_d	30	0.9	2101	7965	 the greater part of the crowd	 the greater part of the conve
+walpole_castleofotranto_1_g	30	0.9	26181	23699	, expecting every moment to se	, expecting every moment the a
+walpole_castleofotranto_1_g	31	0.967741935483871	30029	1755	 in the chapel of the castle, a	 in the chapel of the Castle, a
+dickens_christmascarole_1_g	31	0.9032258064516129	19660	17550	, that there was nothing to fea	, that there was nothing at all
+dickens_christmascarole_1_g	30	0.9	30739	1458	t perfectly convinced, that no	t perfectly convinced that Ham
+doyle_adventures_5_d	31	0.9032258064516129	19899	23270	 for some time, in silence, ret	 for some time in silence, with
+doyle_adventures_5_d	30	0.9333333333333333	22829	23270	 for some time, in silence, im	 for some time in silence, wit
+radcliffe_udolpho_48_g	30	0.9	13289	5278	 the remembrance of the desola	 the remembrance of the person
+radcliffe_udolpho_48_g	30	0.9333333333333333	16175	25522	, endeavoured to abstract his 	, endeavoured to abstract her 
+radcliffe_udolpho_22_g	30	0.9	16356	35490	 an obscure corner of the Marq	 an obscure corner of the corr
+radcliffe_udolpho_22_g	33	0.9090909090909091	30750	11264	 convinced, that no person was th	 convinced, that some person was 
+radcliffe_udolpho_4_g	32	1.0	2791	6607	 he designed to pass the night. 	 he designed to pass the night. 
+radcliffe_udolpho_4_g	30	0.9	14250	29328	 from the woods, they say, tho	 from the woods, they saw, upo
+radcliffe_udolpho_4_g	37	0.918918918918919	20428	20625	 who could scarcely believe, that the	 who could scarcely believe that obje
+radcliffe_udolpho_4_g	32	0.96875	20767	30162	 the apartment where they were. 	 the apartment where they were t
+stoker_dracula_3_g	30	0.9666666666666667	7948	14960	I shall not fear to sleep; in 	I shall not fear to sleep in a
+lewis_monk_10_g	33	0.9090909090909091	26182	35655	 expecting every moment to see it	 expecting every moment to be tor
+collins_moonstone_84_d	30	0.9	2520	19922	othing appeared to justify ala	othing appeared, to justify my
+lewis_monk_7_g	30	0.9	20324	3690	e convince him, that he had so	e convinced him that He had no
+radcliffe_udolpho_10_g	34	0.9117647058823529	28390	18711	 the exact resemblance of the stra	 the exact resemblance of the beau
+radcliffe_udolpho_10_g	30	0.9	30679	15473	 quitted his seat and looked b	 quitted his seat and walked o
+walpole_castleofotranto_5_g	30	0.9	25088	28154	 the walls of the castle. Mean	 the walls of the castle behin
+lewis_monk_5_g	38	0.9210526315789473	12926	23744	 was on the point of mentioning what s	 was on the point of mentioning him a 
+austen_northangerabbey_16_g	31	0.9032258064516129	12577	14997	 endeavoured to forget the supe	 endeavoured to forget that she
+doyle_adventures_9_d	30	0.9	2359	21498	 with the lamp in his hand, an	 with the lamp in his hand. "'
+radcliffe_udolpho_12_g	30	0.9	12922	48453	 she was on the point of menti	 she was on the point of leavi
+radcliffe_udolpho_12_g	34	0.9117647058823529	13220	45246	 separated for the night, and the 	 separated for the night. On the f
+radcliffe_udolpho_27_g	31	0.9032258064516129	12267	12970	 inclined to believe this the c	 inclined to believe, that the 
+radcliffe_udolpho_27_g	30	0.9333333333333333	28779	9007	he thought he heard a voice in	he thought she heard a voice, 
+radcliffe_udolpho_41_g	30	0.9	12846	16809	 of the late Marchioness, she 	 of the late Marchioness, and 
+collins_moonstone_60_d	35	0.9142857142857143	8964	10308	 closed the door upon them, and fas	 closed the door on them, and was o
+radcliffe_udolpho_54_g	30	0.9	6865	21875	 Marchioness de Villeroi died 	 Marchioness de Villeroi, and 
+radcliffe_udolpho_54_g	30	0.9	6865	22368	 Marchioness de Villeroi died 	 Marchioness de Villeroi bore 
+radcliffe_udolpho_54_g	30	0.9	12846	22356	 of the late Marchioness, she 	 of the late Marchioness de Vi
+radcliffe_udolpho_54_g	31	0.9032258064516129	23315	9921	 then, with a countenance somew	 then, with a countenance of de
+radcliffe_udolpho_54_g	31	0.967741935483871	24518	5039	 the door of the chamber, they 	 the door of the chamber they m
+radcliffe_udolpho_54_g	42	0.9047619047619048	26607	19244	 affected by the solemnity of the scene, h	 affected by the solemnity of the shades, 
+radcliffe_udolpho_54_g	36	0.9166666666666666	28388	9733	ed the exact resemblance of the stra	ed the exact resemblance of the pict
+collins_moonstone_76_d	31	0.967741935483871	7335	20380	 from your engagement, without 	 from your engagement without g
+radcliffe_udolpho_35_g	32	1.0	7016	17031	.' The Count made no reply, but 	.' The Count made no reply, but 
+radcliffe_udolpho_35_g	30	0.9666666666666667	9979	19748	ed, for a considerable time, w	ed, for a considerable time, a
+radcliffe_udolpho_35_g	33	0.9393939393939394	10221	19639	 the gloom and silence of the pla	 the gloom and silence of the sal
+radcliffe_udolpho_35_g	30	0.9	14821	12423	!' exclaimed the Count, as he 	!' exclaimed the Countess, as 
+christie_styles_4_d	32	0.90625	10557	22362	 drew from his pocket the book h	 drew from his pocket the key th

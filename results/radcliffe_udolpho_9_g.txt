@@ -1,0 +1,49 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_52_g	31	0.9032258064516129	9094	16435	that it was his intention to re	that it was their intention to 
+lewis_monk_3_g	30	0.9	3639	37552	e should be permitted to remai	e should be permitted to depar
+lewis_monk_3_g	30	0.9333333333333333	4293	3617	 preceding that, on which the 	 preceding that on which She e
+radcliffe_udolpho_39_g	30	0.9333333333333333	5242	970	 with her eyes fixed on the cu	 with her eyes fixed on the fl
+radcliffe_udolpho_23_g	32	0.90625	5242	25156	 with her eyes fixed on the curr	 with her eyes fixed on the hear
+collins_moonstone_79_d	30	0.9333333333333333	9490	3267	 of all that had happened, sin	 of all that had happened in m
+lewis_monk_2_g	31	0.9354838709677419	6856	70276	 only served to increase her ag	 only served to increase their 
+radcliffe_udolpho_46_g	30	0.9	376	201	, received letters from her au	, received a letter from the a
+radcliffe_udolpho_26_g	30	0.9	6122	25465	t the sound of his voice, lost	t the sound of his voice, Emil
+radcliffe_udolpho_1_g	33	0.9090909090909091	2519	20252	 the tones of that instrument his	 the tones of the instrument, whi
+radcliffe_udolpho_1_g	39	0.9230769230769231	4250	6676	 Monsieur and Madame St. Aubert, a few 	 Monsieur and Madame St. Aubert, made h
+radcliffe_udolpho_1_g	37	0.918918918918919	4250	22180	 Monsieur and Madame St. Aubert, a fe	 Monsieur and Madame St. Aubert she f
+radcliffe_udolpho_1_g	31	0.9032258064516129	4250	24237	 Monsieur and Madame St. Aubert	 Monsieur or Madame St. Aubert.
+radcliffe_udolpho_6_g	36	0.9722222222222222	8687	11991	ng the shores of the Mediterranean, 	ng the shores of the Mediterranean; 
+radcliffe_udolpho_6_g	33	0.9393939393939394	8698	14276	es of the Mediterranean, and had 	es of the Mediterranean, and the 
+radcliffe_udolpho_6_g	31	0.9032258064516129	9238	43362	 and Emily, perceiving that she	 and Emily, perceiving the late
+lewis_monk_9_g	36	0.9166666666666666	4644	52339	ered herself sufficiently to proceed	ered herself sufficiently to receive
+doyle_scarlet_13_d	35	0.9142857142857143	6961	236	, and expressed his hopes, that M. 	, and expressed his hopes that he h
+radcliffe_udolpho_25_g	30	0.9333333333333333	8884	19687	 sunk into a silence, which Em	 sunk into a silence, which wa
+radcliffe_udolpho_2_g	46	0.9130434782608695	8683	14857	 along the shores of the Mediterranean, and ha	 along the shores of the Mediterranean, toward
+radcliffe_udolpho_57_g	30	0.9	9475	2532	 the retrospect of all that ha	 the retrospect of all the dan
+radcliffe_udolpho_36_g	30	0.9	8703	8739	 the Mediterranean, and had th	 the Mediterranean, and a part
+collins_moonstone_67_d	30	0.9	9493	4121	 all that had happened, since 	 all that had happened in the 
+stoker_dracula_12_g	37	0.9459459459459459	4996	2920	 trembling hand, she opened the door 	 trembling hands, we opened the door 
+radcliffe_udolpho_34_g	36	0.9166666666666666	9092	47625	, that it was his intention to retur	, that it was her intention to retir
+collins_moonstone_74_d	30	0.9666666666666667	5241	12632	, with her eyes fixed on the c	, with her eyes fixed on the s
+radcliffe_udolpho_50_g	31	0.9032258064516129	6122	52057	t the sound of his voice, lost 	t the sound of his voice, she r
+radcliffe_udolpho_18_g	30	0.9333333333333333	5242	47907	 with her eyes fixed on the cu	 with her eyes fixed on the dy
+radcliffe_udolpho_13_g	33	0.9090909090909091	1035	31179	tion would not suffer her to ques	tion would not suffer either to s
+radcliffe_udolpho_13_g	32	0.9375	4293	25033	 preceding that, on which the la	 preceding that, on which she wa
+radcliffe_udolpho_13_g	32	0.96875	7175	36608	 Emily continued to weep, and Va	 Emily continued to weep, and wa
+radcliffe_udolpho_48_g	30	0.9666666666666667	1035	19812	tion would not suffer her to q	tion would not suffer her to c
+radcliffe_udolpho_22_g	43	0.9069767441860465	707	2662	 the scenes of her early happiness, now ren	 the scenes of her early happiness, often s
+radcliffe_udolpho_22_g	33	0.9090909090909091	5241	35681	, with her eyes fixed on the curr	, with her eyes fixed on the door
+shelley_frankenstein_54_g	32	0.90625	4392	18438	 the woods, that surrounded the 	 the woods that surrounded it an
+shelley_frankenstein_54_g	30	0.9	9141	16184	e on the following day, he ask	e on the following day. The da
+stoker_dracula_3_g	30	0.9333333333333333	9493	21342	 all that had happened, since 	 all that has happened since I
+shelley_frankenstein_49_g	30	0.9	7084	599	 could no longer repress, the 	 could no longer suppress the 
+radcliffe_udolpho_10_g	32	0.9375	1035	11143	tion would not suffer her to que	tion would not suffer her to rep
+radcliffe_udolpho_10_g	30	0.9	1039	33822	 would not suffer her to quest	 would not suffer her to judge
+radcliffe_udolpho_12_g	31	0.9354838709677419	5242	8834	 with her eyes fixed on the cur	 with her eyes fixed on the far
+radcliffe_udolpho_12_g	30	0.9333333333333333	6671	29638	 countenance of Valancourt, li	 countenance of Valancourt, on
+radcliffe_udolpho_12_g	30	0.9333333333333333	9238	30951	 and Emily, perceiving that sh	 and Emily, perceiving that Va
+stoker_dracula_9_g	30	0.9333333333333333	9493	123	 all that had happened, since 	 all that has happened since w
+radcliffe_udolpho_47_g	30	0.9333333333333333	8458	14592	 returned to the mention of he	 returned to the mention of si
+radcliffe_udolpho_54_g	31	0.9032258064516129	2879	29692	d the full value of the educati	d the full value of the qualiti
+collins_moonstone_76_d	30	0.9	1681	3950	. In the first days of her aff	. In the first days of her wid
+radcliffe_udolpho_35_g	34	0.9411764705882353	8689	913	 the shores of the Mediterranean, 	 the shore of the Mediterranean. T

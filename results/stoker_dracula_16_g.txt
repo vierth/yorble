@@ -1,0 +1,4 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_21_g	30	0.9333333333333333	9471	21141	 his little golden crucifix. S	 his little golden crucifix, a
+stoker_dracula_21_g	32	0.9375	18931	19167	 and as I looked I could see its	 and as I looked I could see Qui
+stoker_dracula_21_g	35	0.9142857142857143	20316	24688	 from one to the other of us. We ga	 from one to the other of us she sa

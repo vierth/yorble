@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_6_g	30	0.9	4825	35418	 at the very sight of him. "Oh	 at the very sight of him. Her
+stoker_dracula_1_g	31	0.9032258064516129	11466	29335	t seemed to me that not only hi	t seemed to me that our only ch
+doyle_adventures_9_d	30	0.9333333333333333	2659	44233	e," said Holmes, laughing. "Ou	e," said Holmes, laughing. "In
+christie_secretadversary_24_d	32	0.90625	4065	1579	perhaps you would not mind waiti	perhaps you would not mind retir
+doyle_baskervilles_2_u	30	0.9333333333333333	14016	4819	ing down the stairs in the dar	ing down the stairs into the d
+stoker_dracula_21_g	33	0.9090909090909091	7516	11793	 waited to hear from him, for he 	 waited to hear from him, but he 
+stoker_dracula_21_g	31	0.9032258064516129	12012	19901	 "In God's name, what does it a	 "In God's name what does this 

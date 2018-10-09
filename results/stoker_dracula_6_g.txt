@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_58_d	30	0.9	5772	12790	 on the subject of the legends	 on the subject of the Sergean
+stoker_dracula_18_g	30	0.9666666666666667	18334	34128	e threw himself on his knees b	e threw himself on his knees, 
+stoker_dracula_11_g	30	0.9	24066	5897	 is beginning to tell on me, a	 is beginning to tell upon my 
+doyle_scarlet_13_d	30	0.9	14609	16176	 for a moment, and then said: 	 for a moment, and then I saw 
+doyle_scarlet_13_d	30	0.9	15292	20944	, and I gave him the same time	, and I gave him the same choi
+christie_styles_6_d	36	0.9166666666666666	14609	16939	 for a moment, and then said: "May I	 for a moment, and then said: “Mr. I
+stoker_dracula_10_g	32	0.90625	18447	15068	. I was firm, however, and told 	. I was firm, however, and made 
+stoker_dracula_20_g	32	0.90625	17609	1791	t, and asked him if he would not	t, and asked him if he could tel
+doyle_adventures_4_d	32	0.90625	28552	22771	fter a few minutes' silence, he 	fter a few minutes' silence. "Wh
+stoker_dracula_12_g	30	0.9333333333333333	11993	10478	 I did not know what to say, b	 I did not know what to say mo
+christie_styles_5_d	31	0.9032258064516129	14609	12771	 for a moment, and then said: "	 for a moment, and then asked: 
+austen_northangerabbey_28_g	30	0.9	18616	12141	I shall see him in the morning	I shall see you in the morning
+radcliffe_udolpho_50_g	33	0.9090909090909091	1871	18651	, and listening to the talk of th	, and listening to the roar of th
+stoker_dracula_24_g	30	0.9	13863	16106	. _Dr. Seward's Diary._ _5 Jun	. _Dr. Seward's Diary._ _5 Oct
+collins_moonstone_84_d	30	0.9	12034	435	ned the conversation as she sa	ned the conversation as soon a
+shelley_frankenstein_51_g	30	0.9	17530	6930	 in the same manner as the fli	 in the same manner as in the 
+stoker_dracula_1_g	36	0.9444444444444444	4764	2980	y have had something to do with the 	y have had something to do with it; 
+stoker_dracula_1_g	30	0.9333333333333333	8021	2986	 had something to do with the 	 had something to do with it; 
+radcliffe_udolpho_12_g	30	0.9666666666666667	14609	32866	 for a moment, and then said: 	 for a moment, and then said w
+lewis_monk_1_g	31	0.9032258064516129	14608	52424	t for a moment, and then said: 	t for a moment, and then made t
+stoker_dracula_9_g	36	0.9166666666666666	13894	7925	._--The case of Renfield grows more 	._--The case of Renfield grows even 
+stoker_dracula_9_g	34	0.9411764705882353	24485	12704	. * * * * * _3 August._--Another w	. * * * * * _25 August._--Another 
+stoker_dracula_16_g	31	0.9032258064516129	17141	4778	 asked him what it was, and he 	 asked him what it was that he 
+stoker_dracula_16_g	30	0.9333333333333333	18335	10595	 threw himself on his knees be	 threw himself on his knees, a
+collins_moonstone_76_d	30	0.9	5768	991	 him on the subject of the leg	 him on the subject of the Moo
+stoker_dracula_21_g	33	0.9090909090909091	15552	11018	 before I knew what he was going 	 before I knew what I was doing, 

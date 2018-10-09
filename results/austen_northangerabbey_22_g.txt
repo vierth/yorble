@@ -1,0 +1,32 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_6_d	30	0.9333333333333333	16062	16937	ed for a moment, and then adde	ed for a moment, and then said
+austen_northangerabbey_14_g	31	0.9354838709677419	2507	15849	 that Henry Tilney should ever 	 that Henry Tilney could never 
+austen_northangerabbey_14_g	31	0.9032258064516129	14199	14599	,” said Miss Tilney, “that I al	,” said Miss Tilney, “that you 
+radcliffe_udolpho_36_g	31	0.9354838709677419	17092	7475	, there was a something in the 	, there was something in the fo
+doyle_scarlet_5_d	30	0.9	157	11067	 that they could ever have bee	 that they would never have le
+shelley_frankenstein_32_g	30	0.9333333333333333	2946	14429	 as nearly as possible in the 	 as nearly as possible in his 
+stoker_dracula_12_g	34	0.9117647058823529	18704	18792	 them in a quarter of an hour. Aga	 them in a quarter of an hour, and
+radcliffe_udolpho_34_g	30	0.9	6659	27147	 the only one of the party who	 the only one of the party, ac
+christie_styles_5_d	33	0.9090909090909091	16062	12769	ed for a moment, and then added, 	ed for a moment, and then asked: 
+lewis_monk_4_g	30	0.9333333333333333	17093	71298	 there was a something in the 	 there was a something in his 
+austen_northangerabbey_28_g	30	0.9	3714	15735	 to the breakfast-parlour, as 	 to the breakfast-parlour, whe
+austen_northangerabbey_26_g	32	0.90625	13588	11791	” said the general, with a look 	” said the general, with a most 
+radcliffe_udolpho_3_g	34	0.9117647058823529	9201	1177	 the pleasure of accompanying her 	 the pleasure of accompanying you 
+radcliffe_udolpho_3_g	36	0.9444444444444444	18443	5286	 from the surrounding objects, she s	 from the surrounding objects, so as
+radcliffe_udolpho_48_g	30	0.9	1825	16091	n the place whence she had tak	n the place, whence he had van
+radcliffe_udolpho_48_g	30	0.9	4112	11514	ed to acknowledge that the win	ed to acknowledge, that the fo
+shelley_frankenstein_54_g	30	0.9333333333333333	16416	6474	 have been a constant friend; 	 have been my constant friend 
+collins_hauntedhotel_11_u	31	0.967741935483871	3745	1475	t had been pointed out to her b	t had been pointed out to her, 
+doyle_adventures_2_d	30	0.9	16266	2401	 it is impossible for me not t	 it is impossible for me to sa
+radcliffe_udolpho_10_g	30	0.9333333333333333	332	4125	 with the consciousness of exi	 with the consciousness of irr
+lewis_monk_6_g	34	0.9117647058823529	14846	54956	er spirits were relieved by the se	er spirits were enlivened by the e
+austen_northangerabbey_19_g	30	0.9	15170	501	 Catherine had never heard Mrs	 Catherine had never heard of 
+radcliffe_udolpho_12_g	34	0.9117647058823529	331	12704	, with the consciousness of existe	, with the consciousness of deserv
+radcliffe_udolpho_12_g	31	0.967741935483871	18448	1349	 the surrounding objects, she s	 the surrounding objects, the s
+lewis_monk_1_g	31	0.9032258064516129	16064	52425	 for a moment, and then added, 	 for a moment, and then made th
+doyle_scarlet_12_d	30	0.9	17392	18850	, and for some time it had no 	, and for some time he had to 
+radcliffe_udolpho_47_g	32	0.90625	7997	15264	 there are moments when we could	 there are moments, when her cou
+radcliffe_udolpho_54_g	31	0.9032258064516129	17758	12916	ture of the feelings which, in 	ture of those feelings, which i
+austen_northangerabbey_3_g	30	0.9333333333333333	5899	932	 when they were seated at tabl	 when they were seated at tea,
+collins_moonstone_49_d	30	0.9	11464	781	 nothing to compare with it; a	 nothing to compare with his f
+christie_styles_4_d	31	0.9032258064516129	16056	5034	 stopped for a moment, and then	 stopped for a moment, and gaze

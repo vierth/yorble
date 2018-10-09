@@ -1,0 +1,66 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_3_u	30	0.9333333333333333	5918	4249	 shrugged his shoulders. “I wo	 shrugged his shoulders. “I ha
+stoker_dracula_23_g	30	0.9666666666666667	16831	7387	 We were silent for a minute o	 We were silent for a minute, 
+collins_moonstone_58_d	35	0.9142857142857143	16846	14365	 for a minute or two, and then, gla	 for a minute or two, and then he a
+christie_styles_10_d	51	0.9019607843137255	329	10061	 me that it would be a good opportunity to deliver 	 me that it would be a good opportunity to tackle h
+christie_styles_10_d	33	0.9090909090909091	1590	11150	 don’t know anything about the co	 don’t know anything about me, do
+christie_styles_10_d	35	1.0	5909	3311	?” Poirot shrugged his shoulders. “	?” Poirot shrugged his shoulders. “
+christie_styles_10_d	30	0.9	7099	24042	 Mary Cavendish were standing 	 Mary Cavendish was standing i
+christie_styles_10_d	31	0.967741935483871	11758	14747	 that Dr. Bauerstein had been a	 that Dr. Bauerstein has been a
+christie_styles_10_d	30	0.9666666666666667	21244	2527	 go down to the village, and l	 go down to the village, and s
+lewis_monk_9_g	30	0.9	16220	13954	 passed through the little gat	 passed through the little Clo
+christie_styles_13_d	33	0.9090909090909091	1265	22383	 “What on earth does he mean?” La	 “What on earth does this mean?” 
+christie_styles_13_d	30	0.9	4847	18384	Mademoiselle Cynthia was not a	Mademoiselle Cynthia was in lo
+christie_styles_13_d	32	0.96875	11497	16875	ed. “Impossible!” “Not at all.” 	ed. “Impossible!” “Not at all. I
+christie_styles_13_d	31	0.967741935483871	14545	2203	 the crime had been committed? 	 the crime had been committed, 
+stoker_dracula_18_g	32	0.9375	9484	26595	 he took it for granted that I h	 he took it for granted that his
+doyle_adventures_12_d	30	0.9333333333333333	5877	28135	 the other side of the room. W	 the other side of the room, b
+doyle_baskervilles_12_u	30	0.9	5918	21469	 shrugged his shoulders. “I wo	 shrugged his shoulders. “One 
+christie_styles_6_d	36	0.9444444444444444	3665	3596	 entered Mrs. Inglethorp’s room, whe	 entered Mrs. Inglethorp’s room. She
+christie_styles_6_d	30	0.9333333333333333	11930	19705	 down the coffee in the hall? 	 down the coffee on the hall t
+christie_styles_6_d	34	0.9117647058823529	13896	17992	 drew a deep breath of relief, for	 drew a deep breath of relief. “Yo
+collins_moonstone_56_d	32	0.96875	2287	11403	 shook his head. “No,” he said m	 shook his head. “No,” he said, 
+christie_secretadversary_22_d	33	0.9090909090909091	5918	4255	 shrugged his shoulders. “I wonde	 shrugged his shoulders. “I could
+doyle_adventures_4_d	30	0.9	5918	20536	 shrugged his shoulders. “I wo	 shrugged his shoulders. "I am
+doyle_adventures_4_d	30	0.9	5918	37598	 shrugged his shoulders. “I wo	 shrugged his shoulders. "I am
+doyle_baskervilles_9_u	30	0.9	10786	28635	 sometimes it must have been a	 sometimes it might have been 
+doyle_baskervilles_7_u	30	0.9	11546	4640	 interest could he have in my 	 interest could he have in per
+christie_styles_11_d	30	0.9	4685	1976	 surprise, he replied that tha	 surprise, he replied that, on
+christie_styles_11_d	35	1.0	5909	3396	?” Poirot shrugged his shoulders. “	?” Poirot shrugged his shoulders. “
+austen_northangerabbey_2_g	32	0.90625	12150	8609	. “It would have been very risky	. “It would have been very shock
+christie_styles_5_d	30	0.9	3673	25887	 Mrs. Inglethorp’s room, wheth	 Mrs. Inglethorp’s room, as he
+christie_styles_5_d	31	0.9032258064516129	4847	8983	Mademoiselle Cynthia was not at	Mademoiselle Cynthia does not t
+christie_styles_5_d	40	0.95	5909	208	?” Poirot shrugged his shoulders. “I won	?” Poirot shrugged his shoulders. “I can
+christie_styles_5_d	36	0.9444444444444444	5911	37706	 Poirot shrugged his shoulders. “I w	 Poirot shrugged his shoulders. “How
+christie_styles_5_d	30	0.9	7099	28968	 Mary Cavendish were standing 	 Mary Cavendish was standing w
+christie_styles_5_d	33	0.9090909090909091	12013	313	 it possible that, as Inglethorp 	 it possible that Mrs. Inglethorp
+christie_styles_5_d	30	0.9	15780	4529	 an awkward position, for no o	 an awkward position for all o
+christie_styles_5_d	35	0.9142857142857143	16846	30057	 for a minute or two, and then, gla	 for a minute or two, and then said
+lewis_monk_4_g	30	0.9666666666666667	4058	93057	 begged me to accompany him ho	 begged me to accompany him th
+christie_styles_12_d	31	0.9032258064516129	2287	5315	 shook his head. “No,” he said 	 shook his also. “No,” he said 
+christie_styles_12_d	38	0.9210526315789473	2954	615	y.” “You are too amiable, madame. What	y.” “You are too amiable, madame.” Sti
+christie_styles_12_d	34	0.9117647058823529	3065	12218	 that of Mademoiselle Cynthia, it 	 that of Mademoiselle Cynthia. I h
+christie_styles_12_d	30	0.9	3073	13534	 Mademoiselle Cynthia, it was 	 Mademoiselle Cynthia into a l
+christie_styles_12_d	30	0.9	12016	18399	 possible that, as Inglethorp 	 possible that Mrs. Inglethorp
+christie_secretadversary_14_d	30	0.9	5918	7191	 shrugged his shoulders. “I wo	 shrugged his shoulders. “Ah, 
+collins_moonstone_72_d	30	0.9	7289	3976	d the words which had aroused 	d the words which had dropped 
+christie_styles_8_d	33	0.9393939393939394	767	11403	 a message for you—from Poirot.” 	 a message for you, from Poirot. 
+christie_styles_8_d	66	0.9393939393939394	1207	11530	 “‘Find the extra coffee-cup, and you can rest in peace.’” “What o	 “‘Find the extra coffee-cup, and you can rest in peace.’ Is that 
+christie_styles_8_d	67	0.9104477611940298	2159	11529	” “‘Find the extra coffee-cup, and you can rest in peace.’ Are you 	” “‘Find the extra coffee-cup, and you can rest in peace.’ Is that 
+christie_styles_8_d	30	0.9	5413	6162	, and Mademoiselle Cynthia is 	, and Mademoiselle Cynthia.” “
+christie_styles_8_d	30	0.9	13757	6766	 flashed through my mind. I ho	 flashed through my brain. I h
+christie_styles_8_d	34	0.9117647058823529	14942	10055	ould not Mrs. Inglethorp have pref	ould not Mrs. Inglethorp have made
+christie_styles_1_d	31	0.9032258064516129	1945	19232	 know what he’s talking about. 	 know what I’m talking about. T
+christie_styles_1_d	31	1.0	19540	21716	 nodded rather gloomily. “Yes, 	 nodded rather gloomily. “Yes, 
+radcliffe_udolpho_10_g	31	0.9354838709677419	7290	3205	 the words which had aroused me	 the words, which had roused eq
+christie_secretadversary_3_d	33	0.9090909090909091	493	5479	, but I flattered myself that by 	, but I flatter myself that my ch
+doyle_baskervilles_4_u	30	0.9	20796	13323	.” “Well, of course, that sett	.” “Well, of course, that is p
+radcliffe_udolpho_41_g	30	0.9	17402	7667	 was very fond of her, and wou	 was very fond of her, and she
+christie_secretadversary_15_d	30	0.9	5918	2208	 shrugged his shoulders. “I wo	 shrugged his shoulders. “You 
+christie_secretadversary_15_d	30	0.9	5918	3020	 shrugged his shoulders. “I wo	 shrugged his shoulders. “My d
+collins_moonstone_52_d	31	0.9032258064516129	9487	1561	 took it for granted that I had	 took it for granted that we sh
+christie_styles_4_d	31	0.9354838709677419	3032	28192	 into Mrs. Inglethorp’s room fr	 into Mrs. Inglethorp’s room?” 
+christie_styles_4_d	30	0.9666666666666667	3032	29591	 into Mrs. Inglethorp’s room f	 into Mrs. Inglethorp’s room, 
+christie_styles_4_d	30	0.9	3673	27177	 Mrs. Inglethorp’s room, wheth	 Mrs. Inglethorp’s room with s
+christie_styles_4_d	33	0.9090909090909091	3673	29596	 Mrs. Inglethorp’s room, whether 	 Mrs. Inglethorp’s room, was the 
+christie_styles_4_d	33	0.9090909090909091	16839	6114	 silent for a minute or two, and 	 silent for a minute or two as we

@@ -1,0 +1,41 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_85_d	33	0.9696969696969697	2678	16973	t in ignorance of the truth. If s	t in ignorance of the truth. “If 
+doyle_baskervilles_12_u	30	0.9	22458	5962	 of my conversation in the lib	 of my conversation with the l
+dickens_christmascarole_4_g	30	0.9	1599	5181	 was at first inclined to trea	 was at first inclined to be s
+collins_moonstone_56_d	30	1.0	12613	16514	, in the mind of Sergeant Cuff	, in the mind of Sergeant Cuff
+collins_moonstone_80_d	37	0.918918918918919	10586	10992	with an appearance of the utmost inno	with an appearance of the utmost humi
+doyle_adventures_4_d	31	0.9032258064516129	14745	7722	 believe in his innocence as fi	 believe in his innocence, and 
+christie_styles_5_d	37	0.918918918918919	1565	16301	 put some questions to me, which I wa	 put some questions to you which I wa
+collins_moonstone_74_d	33	0.9696969696969697	6691	16098	the person with the cap-ribbons, 	the person with the cap-ribbons) 
+collins_moonstone_74_d	32	0.96875	6692	18663	he person with the cap-ribbons, 	he person with the cap-ribbons a
+collins_moonstone_74_d	30	0.9	11483	20622	 Mr. Godfrey Ablewhite as well	 Mr. Godfrey Ablewhite was exp
+collins_moonstone_74_d	30	0.9	14008	20622	 Mr. Godfrey Ablewhite was in 	 Mr. Godfrey Ablewhite was exp
+collins_moonstone_74_d	31	0.9032258064516129	15642	2379	 of the lost Moonstone. He had 	 of the lost Moonstone. Her gua
+collins_moonstone_74_d	30	0.9	21870	10662	 of precious publications, fee	 of precious publications) ent
+radcliffe_udolpho_13_g	38	0.9210526315789473	15956	41551	 explanation of the circumstances was 	 explanation of the circumstances he h
+austen_northangerabbey_26_g	33	0.9090909090909091	18448	252	 difficulties in the way of your 	 difficulties in the way of her m
+doyle_scarlet_2_d	30	0.9	4123	1502	 from morning to night in her 	 from morning to night. On the
+collins_moonstone_84_d	33	0.9090909090909091	439	2346	, without knowing it myself.” I t	, without knowing it yourself. It
+collins_moonstone_84_d	30	0.9	10001	8050	 when the Diamond was lost. An	 when the Diamond was lost?” T
+collins_moonstone_84_d	30	0.9	17237	8050	 when the Diamond was lost. Pe	 when the Diamond was lost?” T
+collins_moonstone_84_d	34	0.9705882352941176	17346	8050	 when the Diamond was lost.” The o	 when the Diamond was lost?” The o
+lewis_monk_8_g	32	0.90625	9434	34480	 the accomplishment of this righ	 the accomplishment of his wishe
+collins_moonstone_53_d	30	0.9	8823	12030	 Mr. Godfrey Ablewhite, after 	 Mr. Godfrey Ablewhite, at any
+collins_moonstone_53_d	30	0.9	14007	12029	t Mr. Godfrey Ablewhite was in	t Mr. Godfrey Ablewhite, at an
+collins_moonstone_53_d	30	0.9	17288	5842	 that Mr. Franklin Blake was a	 that Mr. Franklin Blake wante
+stoker_dracula_9_g	30	0.9333333333333333	10545	21349	 I asked what he meant by “lat	 I asked what he meant by that
+christie_styles_3_d	32	0.9375	5402	4791	he clock on the mantel-piece inf	he clock on the mantelpiece poin
+collins_moonstone_66_d	32	0.9375	10001	8997	 when the Diamond was lost. And 	 when the Diamond was lost; and 
+collins_moonstone_66_d	30	0.9333333333333333	14115	10737	in the disappearance of the Mo	in the disappearance of the Di
+collins_moonstone_66_d	30	0.9	17237	8997	 when the Diamond was lost. Pe	 when the Diamond was lost; an
+collins_moonstone_66_d	30	0.9	17346	8997	 when the Diamond was lost.” T	 when the Diamond was lost; an
+collins_moonstone_60_d	38	0.9210526315789473	10673	9215	 in which the Indians are concerned,” 	 in which the Indians were concerned; 
+collins_moonstone_60_d	32	0.96875	12614	16079	 in the mind of Sergeant Cuff.” 	 in the mind of Sergeant Cuff. I
+collins_moonstone_60_d	30	0.9	12646	4119	“Do you mean to tell me, Miss 	“Do you mean to tell me, in pl
+collins_moonstone_76_d	40	0.925	11978	7101	 there was no alternative but to search 	 there was no alternative but to depart 
+collins_moonstone_76_d	30	0.9	18327	22284	d Mr. Godfrey Ablewhite’s debt	d Mr. Godfrey Ablewhite’s moti
+doyle_baskervilles_15_u	30	0.9	11988	17430	 no alternative but to search 	 no alternative but to catch h
+collins_moonstone_65_d	43	0.9302325581395349	14114	17427	 in the disappearance of the Moonstone was 	 in the disappearance of the Moonstone on t
+collins_moonstone_65_d	30	0.9333333333333333	15901	7190	, as you are aware, in the est	, as you are aware, in the dis
+collins_moonstone_65_d	43	0.9069767441860465	20597	17430	 the disappearance of the Moonstone with Fr	 the disappearance of the Moonstone on the 
+collins_moonstone_52_d	32	0.96875	11483	15226	 Mr. Godfrey Ablewhite as well. 	 Mr. Godfrey Ablewhite as well a

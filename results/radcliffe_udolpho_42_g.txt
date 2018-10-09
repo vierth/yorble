@@ -1,0 +1,120 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_55_d	32	0.9375	1991	38182	 the servants hall, where the dy	 the servants’ hall, where they 
+collins_moonstone_55_d	30	0.9	5942	8799	 as they had been left twenty 	 as they had been left when we
+radcliffe_udolpho_32_g	34	0.9411764705882353	6256	4221	 the horror she had suffered upon 	 the horrors she had suffered, on 
+radcliffe_udolpho_32_g	31	0.9032258064516129	16624	22644	 she recollected, that, on ente	 she recollected, that, in the 
+radcliffe_udolpho_32_g	34	1.0	18269	17275	assured by this circumstance, she 	assured by this circumstance, she 
+shelley_frankenstein_39_g	32	0.90625	15249	11593	 the remainder of the night in a	 the remainder of the night, whi
+radcliffe_udolpho_30_g	31	0.9032258064516129	12182	32077	 she endeavoured to conceal her	 she endeavoured to console her
+radcliffe_udolpho_30_g	33	0.9090909090909091	16619	8796	 till she recollected, that, on e	 till she recollected, that the e
+radcliffe_udolpho_44_g	32	0.90625	2744	1592	 the top of the stair-case, Doro	 the top of the stair-case, wher
+radcliffe_udolpho_44_g	41	0.9024390243902439	14721	9060	 the rooms, through which they passed. Wh	 the rooms, through which he passed, with
+radcliffe_udolpho_44_g	30	0.9	14730	9333	s, through which they passed. 	s, through which he passed, he
+radcliffe_udolpho_44_g	35	0.9714285714285714	17105	12796	 the appearance she had witnessed, 	 the appearance she had witnessed i
+radcliffe_udolpho_44_g	30	0.9666666666666667	17179	9932	 of the deceased Marchioness w	 of the deceased Marchioness, 
+radcliffe_udolpho_56_g	30	0.9	11255	5377	 and her voice trembled, as it	 and her voice trembled, and w
+radcliffe_udolpho_56_g	31	1.0	14496	6273	, and, in the next moment, the 	, and, in the next moment, the 
+radcliffe_udolpho_38_g	30	0.9	1860	14023	, and the Lady Blanche, opened	, and the Lady Blanche joined 
+radcliffe_udolpho_38_g	35	0.9142857142857143	2432	7433	, ma'amselle,' said Dorothee, 'but 	, ma'amselle!' said Dorothee, 'it i
+radcliffe_udolpho_38_g	33	0.9090909090909091	2862	7552	any years have passed since this 	any years have passed, since it h
+radcliffe_udolpho_38_g	35	0.9142857142857143	5613	21702	 It was some time before Emily perc	 It was some time before Emily coul
+radcliffe_udolpho_38_g	33	0.9090909090909091	7348	7433	, ma'amselle,' said Dorothee, poi	, ma'amselle!' said Dorothee, 'it
+radcliffe_udolpho_38_g	34	1.0	7422	4586	her very self! just as she looked 	her very self! just as she looked 
+radcliffe_udolpho_38_g	30	0.9	12186	6430	 endeavoured to conceal her em	 endeavoured to conceal. Her c
+radcliffe_udolpho_38_g	36	0.9166666666666666	12186	25411	 endeavoured to conceal her emotion 	 endeavouring to conceal her emotion
+radcliffe_udolpho_38_g	33	0.9090909090909091	13247	8517	I can almost fancy I see her now.	I can almost fancy I see her befo
+radcliffe_udolpho_38_g	36	0.9166666666666666	15805	11340	 Dorothee replied, that she had cons	 Dorothee replied, that she had been
+radcliffe_udolpho_17_g	33	0.9090909090909091	19000	4131	 distinguished the voice of Annet	 distinguished the voices of Mont
+radcliffe_udolpho_52_g	30	0.9	5611	284	r. It was some time before Emi	r. It was some time before she
+radcliffe_udolpho_52_g	30	0.9	13479	6199	 within the dusky curtains, as	 within the dusky curtains.' A
+radcliffe_udolpho_24_g	35	0.9142857142857143	6187	2261	 almost expected to have seen a hum	 almost expected to have seen among
+radcliffe_udolpho_24_g	34	0.9117647058823529	14496	4783	, and, in the next moment, the app	, and, in the next moment, she hea
+collins_moonstone_89_d	31	0.9032258064516129	12955	16165	 particularly interesting to he	 particularly interested in the
+radcliffe_udolpho_7_g	30	0.9333333333333333	3154	1086	truck with the circumstance, a	truck with the circumstances o
+collins_moonstone_81_d	32	0.90625	12579	10949	 sat down on the side of the bed	 sat down on the slope of the be
+radcliffe_udolpho_39_g	30	0.9	18446	465	 on reaching the foot of the b	 on reaching the door of the l
+christie_secretadversary_25_d	30	0.9	12579	15570	 sat down on the side of the b	 sat down on the edge of the t
+radcliffe_udolpho_23_g	35	0.9142857142857143	342	27048	ed along the north side of the chat	ed along the south side of the cast
+radcliffe_udolpho_23_g	42	0.9047619047619048	476	23638	 a great extent of the castle, and by the 	 a great extent of the castle, and, above 
+radcliffe_udolpho_23_g	32	0.90625	6708	33240	led to support herself upon the 	led to support herself, and the 
+radcliffe_udolpho_23_g	31	0.9032258064516129	7772	25191	 she thought she perceived some	 she thought she perceived ther
+poe_marieroget_1_d	34	0.9117647058823529	17247	63636	 unaccountable circumstance, occur	 unaccountable circumstance, or on
+radcliffe_udolpho_55_g	30	0.9	304	23788	 to the late Marchioness. Thes	 to the late Marchioness, the 
+radcliffe_udolpho_55_g	32	0.90625	12681	24219	 the melancholy catastrophe, whi	 the melancholy catastrophe of h
+radcliffe_udolpho_46_g	30	0.9666666666666667	3159	1597	 with the circumstance, and af	 with the circumstance, and ad
+walpole_castleofotranto_3_g	30	0.9333333333333333	9539	24547	 disengaged herself from the v	 disengaged herself from her w
+walpole_castleofotranto_3_g	30	0.9333333333333333	18894	28779	, which seemed to come from th	, which seemed to come from ab
+radcliffe_udolpho_26_g	35	0.9142857142857143	703	610	 requested, that Emily would wait h	 requested, that Emily would meet h
+radcliffe_udolpho_26_g	30	0.9333333333333333	9539	20882	 disengaged herself from the v	 disengage herself from the gr
+radcliffe_udolpho_26_g	32	0.9375	10991	15967	ed softly to the door, which sto	ed softly to the door, which, on
+radcliffe_udolpho_1_g	32	0.9375	7700	12383	 expression of the countenance i	 expression of her countenance, 
+radcliffe_udolpho_1_g	30	0.9	9539	3630	 disengaged herself from the v	 disengaged himself from the w
+radcliffe_udolpho_1_g	30	0.9	17925	23166	 recollected that she had left	 recollected that she had take
+stoker_dracula_18_g	34	1.0	12579	35652	 sat down on the side of the bed. 	 sat down on the side of the bed. 
+doyle_adventures_12_d	31	0.9032258064516129	242	36652	 that suite of rooms, which had	 that suite of rooms which I wa
+radcliffe_udolpho_16_g	31	0.9032258064516129	6234	52837	, suddenly remembering the horr	, suddenly remembering that her
+radcliffe_udolpho_33_g	33	0.9090909090909091	14497	9569	 and, in the next moment, the app	 and, in the next moment, she hea
+radcliffe_udolpho_2_g	31	0.9032258064516129	8815	14950	 on the night before her death,	 on the night before their depa
+radcliffe_udolpho_2_g	32	0.90625	11728	15579	 returned into the chamber, she 	 returned to her chamber, she ta
+radcliffe_udolpho_15_g	31	0.9032258064516129	7772	12038	 she thought she perceived some	 she thought she perceived a go
+radcliffe_udolpho_15_g	30	0.9	12954	2082	e particularly interesting to 	e particularly interesting, Em
+radcliffe_udolpho_36_g	32	0.90625	247	10376	 suite of rooms, which had been 	 suite of rooms, which had not b
+radcliffe_udolpho_36_g	32	0.96875	350	8262	 the north side of the chateau, 	 the north-side of the chateau, 
+radcliffe_udolpho_36_g	31	0.9032258064516129	1579	7564	 the great stair-case, and, aft	 the great stair-case, and thro
+radcliffe_udolpho_36_g	31	0.9032258064516129	14496	1369	, and, in the next moment, the 	, and, in the next moment, was 
+collins_moonstone_67_d	31	0.9032258064516129	13506	9108	 as if she could have seen the 	 as if she could have eaten me 
+radcliffe_udolpho_34_g	35	0.9428571428571428	7696	12881	 the expression of the countenance 	 the expression of his countenance 
+radcliffe_udolpho_34_g	30	0.9	9539	12842	 disengaged herself from the v	 disengaged herself from his a
+radcliffe_udolpho_34_g	38	0.9210526315789473	12177	48375	; but she endeavoured to conceal her e	; but she endeavoured to conceal this 
+radcliffe_udolpho_34_g	34	0.9117647058823529	12555	11571	 to support herself, she sat down 	 to support herself, and sat down 
+radcliffe_udolpho_34_g	30	0.9	14496	12468	, and, in the next moment, the	, and, in the next moment, sun
+radcliffe_udolpho_34_g	30	0.9	14496	19489	, and, in the next moment, the	, and, in the next moment, Lud
+christie_styles_5_d	34	0.9117647058823529	2736	28916	 reached the top of the stair-case	 reached the top of the stairs, he
+lewis_monk_4_g	30	0.9	9539	107035	 disengaged herself from the v	 disengaged herself from me wi
+lewis_monk_4_g	35	0.9142857142857143	13089	27996	, and stretching out her hand to me	, and stretched out her hand to me.
+lewis_monk_4_g	35	0.9142857142857143	16416	39319	 had followed them into the rooms, 	 had followed her into the room, cl
+radcliffe_udolpho_50_g	34	0.9117647058823529	18397	54714	s they passed along the halls and 	s they passed along the hall, a lo
+radcliffe_udolpho_18_g	30	0.9	8561	27190	 dropping to pieces with age. 	 dropping to pieces with the d
+radcliffe_udolpho_18_g	41	0.926829268292683	12555	620	 to support herself, she sat down on the 	 to support herself, and sat down on the 
+radcliffe_udolpho_18_g	30	0.9	18753	30104	 suite of apartments, and retu	 suite of apartments, and foun
+radcliffe_udolpho_18_g	37	0.918918918918919	18819	21091	 the passage, leading into the great 	 the passage leading to the great oak
+radcliffe_udolpho_13_g	37	0.918918918918919	7696	13328	 the expression of the countenance in	 the expression of his countenance an
+radcliffe_udolpho_13_g	31	0.9354838709677419	7700	43622	 expression of the countenance 	 expression of his countenance 
+radcliffe_udolpho_13_g	36	0.9166666666666666	12186	47362	 endeavoured to conceal her emotion 	 endeavouring to conceal her emotion
+radcliffe_udolpho_13_g	30	0.9666666666666667	15441	41298	e strange circumstance, that h	e strange circumstances, that 
+walpole_castleofotranto_1_g	30	0.9	15438	5247	 the strange circumstance, tha	 the strange circumstances she
+radcliffe_udolpho_48_g	30	0.9	8237	15533	 memorials of the departed Mar	 memorials of her departed hap
+radcliffe_udolpho_48_g	31	0.9032258064516129	13654	27615	 as her eyes wandered over the 	 as her eye wandered over it, a
+radcliffe_udolpho_22_g	31	0.9032258064516129	11430	8971	 never heard any thing so sweet	 never heard any thing so stran
+radcliffe_udolpho_22_g	33	0.9090909090909091	14495	24731	n, and, in the next moment, the a	n, and, in the next moment, told 
+radcliffe_udolpho_22_g	33	0.9696969696969697	14496	36270	, and, in the next moment, the ap	, and, in the next moment, the wa
+radcliffe_udolpho_22_g	30	0.9	15438	667	 the strange circumstance, tha	 the strange circumstance of h
+radcliffe_udolpho_22_g	37	0.918918918918919	16981	15731	 she had seen was nothing human, but 	 she had seen was nothing human. It w
+radcliffe_udolpho_4_g	30	0.9	18274	31979	ed by this circumstance, she c	ed by this circumstance; her f
+radcliffe_udolpho_10_g	31	0.9032258064516129	7772	33657	 she thought she perceived some	 she thought she perceived a pe
+radcliffe_udolpho_10_g	37	1.0	12249	11222	, observing her countenance change, e	, observing her countenance change, e
+radcliffe_udolpho_10_g	31	0.967741935483871	13656	33619	s her eyes wandered over the pa	s her eyes wandered over the la
+radcliffe_udolpho_10_g	30	0.9666666666666667	16618	23630	, till she recollected, that, 	, till she recollected, that a
+shelley_frankenstein_51_g	31	0.9032258064516129	1015	3978	 the remembrance of past events	 the remembrance of the events 
+lewis_monk_8_g	34	0.9117647058823529	7645	27889	 bore a strong resemblance to the 	 bore a strong resemblance to Lore
+radcliffe_udolpho_21_g	32	0.9375	7700	1339	 expression of the countenance i	 expression of her countenance, 
+stoker_dracula_1_g	32	0.90625	18894	24689	, which seemed to come from the 	, which seemed to come from all 
+radcliffe_udolpho_12_g	30	0.9	12282	28732	e, enquired if she was ill. 'L	e, enquired if she was ill, an
+radcliffe_udolpho_12_g	40	0.95	12555	28561	 to support herself, she sat down on the	 to support herself, she sat down on a t
+lewis_monk_1_g	31	0.9032258064516129	9539	38768	 disengaged herself from the ve	 disengaged herself from his em
+radcliffe_udolpho_27_g	31	0.9032258064516129	11929	10056	 thought she saw something glid	 thought she saw something movi
+radcliffe_udolpho_41_g	33	0.9393939393939394	304	19980	 to the late Marchioness. These e	 to the late Marchioness. 'There 
+radcliffe_udolpho_41_g	36	0.9722222222222222	805	12405	 all the servants were gone to bed. 	 all the servants were gone to bed, 
+radcliffe_udolpho_41_g	31	0.9032258064516129	4753	10938	, madam,' said Dorothee, 'and w	, madam,' said Dorothee, 'that 
+radcliffe_udolpho_41_g	33	0.9090909090909091	7444	5988	 she looked when she came first t	 she looked, when she came into t
+radcliffe_udolpho_41_g	31	0.9354838709677419	10323	21124	 was removed for interment.' Wh	 was removed for interment. The
+radcliffe_udolpho_41_g	34	0.9117647058823529	15805	20255	 Dorothee replied, that she had co	 Dorothee replied, that she did no
+radcliffe_udolpho_47_g	31	0.9354838709677419	17576	331	 the occurrence of this night, 	 the occurrences of the night, 
+christie_secretadversary_24_d	30	0.9	14757	8159	d. When they reached the stair	d. When they reached the car, 
+radcliffe_udolpho_54_g	34	0.9117647058823529	2860	6411	 many years have passed since this	 many years have passed, since las
+radcliffe_udolpho_54_g	30	0.9	7652	14259	 strong resemblance to the min	 strong resemblance to the por
+radcliffe_udolpho_54_g	43	0.9069767441860465	7776	10657	 thought she perceived something of that pe	 thought she perceived something more than 
+radcliffe_udolpho_54_g	33	0.9393939393939394	18998	19694	ly distinguished the voice of Ann	ly distinguished the voice of Mon
+stoker_dracula_21_g	34	0.9117647058823529	12579	4353	 sat down on the side of the bed. 	 sat down on the edge of the bed, 
+radcliffe_udolpho_35_g	39	0.9743589743589743	7772	21996	 she thought she perceived something of	 she thought she perceived something mo
+christie_styles_4_d	30	0.9	8441	14508	 on the dressing-table, a pair	 on the dressing-table, is pin

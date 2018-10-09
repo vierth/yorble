@@ -1,0 +1,7 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_13_g	30	0.9666666666666667	3861	2328	 dearest, sweetest Catherine, 	 dearest, sweetest Catherine w
+collins_moonstone_59_d	33	0.9090909090909091	6275	10026	, in that case, she would have me	, in that case, where would have 
+austen_northangerabbey_29_g	30	0.9666666666666667	6011	9722	 there is no great harm done, 	 there is no great harm done. 
+radcliffe_udolpho_34_g	30	0.9333333333333333	3064	26770	 was determined they should no	 was determined they should de
+radcliffe_udolpho_13_g	30	0.9	6462	12407	ssed by the disappointment of 	ssed by the disappointment, wh
+christie_styles_4_d	30	0.9333333333333333	1381	7869	y difficult to know whom to tr	y difficult to know how to tre

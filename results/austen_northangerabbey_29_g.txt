@@ -1,0 +1,28 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_21_g	30	0.9	7437	10444	 caught her notice, before any	 caught her notice before. Hen
+austen_northangerabbey_5_g	33	0.9090909090909091	16968	3272	 met with Mrs. Thorpe, and then w	 met with Mrs. Thorpe!” and she w
+collins_hauntedhotel_20_u	32	0.9375	1011	4406	 which she had spent at that pla	 which she had spoken at that pa
+radcliffe_udolpho_6_g	36	0.9166666666666666	6977	22009	 she stepped from the carriage, she 	 she stepped from the carriage in se
+stoker_dracula_18_g	32	0.90625	6981	6238	 stepped from the carriage, she 	 stepped from the carriage with 
+doyle_signoffour_7_d	30	0.9333333333333333	14523	21186	 run backwards and forwards so	 run backwards and forwards wi
+stoker_dracula_20_g	30	0.9	8194	10716	 could not but feel that it mi	 could not but feel that if I 
+doyle_adventures_4_d	30	0.9	187	12005	e corner of the carriage, in a	e corner of the carriage and r
+lewis_monk_4_g	30	0.9333333333333333	10418	53945	 the natural consequence of mo	 the natural consequence of hi
+austen_northangerabbey_28_g	34	0.9117647058823529	6131	16630	 the appearance of her carriage--a	 the appearance of the carriage wa
+radcliffe_udolpho_13_g	30	0.9	8110	27804	 the consideration of their da	 the consideration of her stat
+radcliffe_udolpho_13_g	30	0.9	17911	34065	 endeavoured to impress on her	 endeavoured to impose on hers
+austen_northangerabbey_1_g	31	0.9032258064516129	1054	2680	 one of the happiest of her lif	 one of the happiest of Catheri
+dickens_christmascarole_1_g	30	0.9	16174	9674	 left the room, without any re	 left the room without an angr
+shelley_frankenstein_40_g	32	0.90625	14857	1286	 all the kindness which her unlo	 all the kindness which her beau
+radcliffe_udolpho_4_g	30	0.9333333333333333	16873	29197	 at the recollection of what h	 at the recollection of that q
+christie_secretadversary_17_d	30	0.9	7207	20100	d the pleasure of seeing her, 	d the pleasure of seeing his t
+lewis_monk_10_g	33	0.9090909090909091	1603	22373	 was scarcely possible to reach h	 was scarcely possible to hear th
+lewis_monk_10_g	31	0.967741935483871	3955	25249	 the innocent with the guilty i	 the innocent with the guilty, 
+austen_northangerabbey_4_g	30	0.9	7207	1381	d the pleasure of seeing her, 	d the pleasure of seeing you, 
+collins_moonstone_53_d	32	0.90625	7618	9498	t the end of half an hour, be te	t the end of half an hour, I pre
+austen_northangerabbey_16_g	43	0.9534883720930233	15696	11797	 expressed himself on the occasion with the	 expressed himself on the occasion with bec
+radcliffe_udolpho_12_g	35	0.9142857142857143	5878	51176	. But, whatever might be the distre	. But, whatever might be the future
+radcliffe_udolpho_12_g	30	0.9	9275	21962	, when he recollected this eng	, when he recollected this cir
+collins_moonstone_60_d	30	0.9	3231	7031	 prevented her from noticing a	 prevented me from noticing it
+stoker_dracula_21_g	30	0.9	8194	24761	 could not but feel that it mi	 could not but feel that Art w
+austen_northangerabbey_17_g	31	0.9032258064516129	18105	193	 acquaintance like the Tilneys 	 acquaintance with the Tilneys 

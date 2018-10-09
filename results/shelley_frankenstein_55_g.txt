@@ -1,0 +1,30 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_2_g	30	0.9	7736	17797	 strength is exhausted, and I 	 strength was exhausted, and S
+lewis_monk_2_g	33	0.9090909090909091	9968	28735	 listened to me with attention an	 listened to her with attention. 
+walpole_castleofotranto_3_g	31	0.9032258064516129	12584	25879	 it is in my power to seize the	 it is in my power to save thee
+lewis_monk_9_g	30	0.9	9988	66107	 attention and kindness. “Be a	 attention and kindness. I am 
+lewis_monk_9_g	30	0.9	12576	37075	, and if it is in my power to 	, and if it is in my power, wi
+collins_hauntedhotel_26_u	31	0.9354838709677419	11991	8316	 months have elapsed since the 	 months has elapsed since the d
+collins_moonstone_85_d	31	0.9032258064516129	5258	7052	, hardly conscious of what had 	, hardly conscious of what I wa
+reeve_oldenglishbaron	30	0.9	4948	17956	ted to accompany them and proc	ted to accompany them, and to 
+radcliffe_udolpho_25_g	33	0.9393939393939394	4089	10953	 with a sensation of horror not t	 with a sensation of horror, to t
+shelley_frankenstein_53_g	34	0.9117647058823529	4983	2206	 a short distance from the house, 	 a short distance from the shore; 
+shelley_frankenstein_53_g	31	0.9032258064516129	5434	4153	 the room where the corpse of m	 the room where the corpse lay 
+shelley_frankenstein_53_g	34	0.9117647058823529	5593	7866	 presented itself to my mind, but 	 presented itself to my mind with 
+shelley_frankenstein_53_g	30	0.9	8667	16723	 me. Sometimes, indeed, I drea	 me. Sometimes, indeed, I felt
+shelley_frankenstein_53_g	31	1.0	11991	11371	 months have elapsed since the 	 months have elapsed since the 
+collins_hauntedhotel_23_u	34	0.9117647058823529	5301	13262	 eyes wandered round the room as i	 eyes wandered round the room with
+reeve_oldenglishbaron	30	0.9	4948	17956	ted to accompany them and proc	ted to accompany them, and to 
+shelley_frankenstein_42_g	30	0.9	6817	1215	 which I had contemplated but 	 which I had contemplated duri
+stoker_dracula_2_g	30	0.9	625	25509	 beginning to rise. Suddenly a	 beginning to shave. Suddenly 
+doyle_adventures_5_d	33	0.9393939393939394	11991	17739	 months have elapsed since the co	 months have elapsed since then. 
+shelley_frankenstein_54_g	30	0.9	5593	1795	 presented itself to my mind, 	 presented itself to my imagin
+reeve_oldenglishbaron	30	0.9	4948	17956	ted to accompany them and proc	ted to accompany them, and to 
+christie_secretadversary_11_d	30	0.9	4337	7752	ed towards the window, and dra	ed towards the window and aske
+radcliffe_udolpho_10_g	30	0.9	7046	32576	 a few hours before; they had 	 a few hours before, she had c
+walpole_castleofotranto_5_g	35	0.9142857142857143	3846	22607	ng over her in the agony of despair	ng over her in an agony of despairi
+lewis_monk_8_g	30	0.9333333333333333	3411	27298	 her head upon her arm and a h	 her head upon her arm, and ga
+shelley_frankenstein_47_g	34	0.9117647058823529	1140	14782	nce, but there was something in my	nce, but there is something in you
+radcliffe_udolpho_54_g	30	0.9	3168	21146	 the feelings that oppressed m	 the feelings, that depressed 
+reeve_oldenglishbaron	30	0.9	4948	17956	ted to accompany them and proc	ted to accompany them, and to 
+christie_styles_4_d	30	0.9666666666666667	5301	33009	 eyes wandered round the room 	 eyes wandered round the room—

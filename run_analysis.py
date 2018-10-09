@@ -1,23 +1,29 @@
 import prepare_corpus, index_corpus, detect_intertexuality, compile_and_filter_results, align_quotes, form_quote_system, build_chord_viz
 
+#
+#
+#
+corpusfolder = "chaptercorpus"
+
 ####################
 # ANALYSIS OPTIONS #
 ####################
 # Set seedlength
-seedlength = 4
+seedlength = 10
 
 # Matches must be above this percent similar. Use floats between 0 and 1
-# .8 works well for prose Chinese documents
-threshold = .8
+# .8 works well for prose Chinese documents. .9 works well for prose
+# English
+threshold = .9
 
 # Set the minimum length of an acceptable match. The shorter the length
 # the more noisy the results are.
-matchlength = 10
+matchlength = 30
 
 # Set this to limit the similarity comparison to last n characters
 # Set to None for no limit. Setting a limit significantly
 # speeds the calculations up.
-max_comp = 100
+max_comp = 300
 
 
 
@@ -27,8 +33,13 @@ max_comp = 100
 # Name of save file. Leave as "corpus.pickle" for best compatibility with other scripts
 picklefile = "corpus.pickle"
 
-# Items to remove from texts
-toremove = ['』','。', '！', '，', '：', '、', '（', '）', '；', '？', '〉', '〈', '」', '「', '『', '“', '”', '!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '_', '`''{', '|', '}', '~', '¤', '±', '·', '×', 'à', 'á', 'è', 'é', 'ê', 'ì', 'í', 'ò', 'ó', '÷', 'ù', 'ú', 'ü', 'ā', 'ī', 'ń', 'ň', 'ō', 'ū', 'ǎ', 'ǐ', 'ǔ', 'ǖ', 'ǘ', 'ǚ', 'ǜ', 'ǹ', 'ɑ', 'ɡ', 'α', 'β', 'γ', 'ε', 'ζ', 'η', 'θ', 'ι', 'κ', 'λ', 'μ', 'ν', 'ξ', 'ο', 'π', 'ρ', 'σ', 'τ', 'υ', 'φ', 'χ', 'ψ', 'ω', 'а', 'б', 'в', 'г', 'д', 'е', 'к', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ъ', 'ы', 'ь', 'э', 'ю', 'я', 'ё', '—', '‖', '‘', '’', '…', '※', 'ⅰ', 'ⅲ', '∈', '∏', '∑', '√', '∠', '∥', '∧', '∩', '∪', '∫', '∮', '∶', '∷', '∽', '≈', '≌', '≡', '⊙', '⊥', '⌒', '①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩', '⑴', '⑵', '⑶', '⑷', '⑸', '⑹', '⑺', '⑻', '⑼', '⑽', '⑾', '⑿', '⒀', '⒁', '⒂', '⒃', '⒄', '⒅', '⒆', '⒈', '⒉', '⒊', '⒋', '⒌', '⒍', '⒎', '⒏', '⒐', '⒑', '⒒', '⒓', '⒔', '⒕', '⒖', '⒗', '⒘', '⒙', '⒚', '⒛', '─', '┅', '┋', '┌', '┍', '┎', '┏', '┐', '┑', '┒', '┓', '└', '┕', '┘', '┙', '┚', '┛', '├', '┝', '┞', '┠', '┡', '┢', '┣', '┤', '┥', '┦', '┧', '┩', '┪', '┫', '┬', '┭', '┮', '┯', '┰', '┱', '┲', '┳', '■', '□', '▲', '△', '◆', '◇', '○', '◎', '●', '★','︶', '﹑', '﹔', '﹖', '＂', '＃', '％', '＆', '＊','．', '／', '０', '１', '２', '３', '４', '５', '６', '７', '８', '９', '＜', '＝', '＞', '＠', '［', '＼', '］', '＿', '｀', 'ａ', 'ｂ', 'ｃ', 'ｄ', 'ｅ', 'ｆ', 'ｇ', 'ｈ', 'ｉ', 'ｊ', 'ｋ', 'ｌ', 'ｍ', 'ｎ', 'ｏ', 'ｐ', 'ｑ', 'ｒ', 'ｓ', 'ｔ', 'ｕ', 'ｖ', 'ｗ', 'ｘ', 'ｙ', 'ｚ', '｛', '｝', '～', '￥','a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z','《', '》', '〔', '〕', '【', '】', 'A',  'B',  'C',  'D',  'E',  'F',  'G',  'H', 'I', 'J', 'K', 'L', "M", 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V',  'Ｗ',  'Ｘ',  'Ｙ',  'Ｚ',  '＾',  '｜', '￠',  '￡', '~']
+# Items to remove from texts. Useful if there is noise in your texts that you want to remove
+# Should be a list of strings
+toremove = []
+
+# Remove whitespace? If set to False, this will replace one or more white spaces with
+# a single space. Otherwise, all whitespace gets deleted.
+deletewhitespace = False
 
 ####################
 # INDEXING OPTIONS #
@@ -75,10 +86,10 @@ result_directory = 'results'
 #***************#
 
 # While debug is True, the script does not track which files
-# have been compared and also deletes results from old runs.foranalysis.txt"
+# have been compared and also deletes results from old runs.
 # If this is False, then the script can be stopped and restarted
 # without losing progress.
-DEBUG=False
+DEBUG=True
 
 # This following setting is necessary because of the multiprocessing module
 # The higher the maxtasks, the faster the processing is but the more memory
@@ -99,9 +110,9 @@ frontloading = False
 # Filter the common, short quotes?
 filtercommon = True
 # What length constitutes "short"?
-shortquotelength = 20
+shortquotelength = 40
 # How many repetitions consitute common?
-repmax = 400
+repmax = 100
 
 # Should similar to the common ones be filtered?
 # This will add significant slowdown depending on how many
@@ -125,11 +136,12 @@ result_directory = "results"
 filteredresultfile = "corpus_results.txt"
 
 
-#************#
-# PARAMETERS #
-#************#
+#*************************#
+# QUOTE SYSTEM PARAMETERS #
+#*************************#
 
-# Set a minimum threshold for similarity. 100 means one 100-character quote
+# Set a minimum threshold for similarity for recording an edge.
+# 100 means one 100-character quote
 # or alternatively ten 10-character quotes (or something like that)
 scorelimit = 100
 
@@ -146,8 +158,13 @@ edgefile = 'edgetable.csv'
 # Align quotes occuring between the following documents. Provide at
 # least two. If None, all quotes will be aligned. If your corpus contains
 # signficant reuse, this may be slow.
-alignment_docs = ["KR2a0018 梁書-唐-姚思廉_10","KR2a0024 南史-唐-李延壽_54","KR2a0018 梁書-唐-姚思廉_11"]
+alignment_docs = None
 
+# Which documents do you want to visualize?
+docs_for_viz = ["poe_ruemorgue_1_d", "lewis_monk_8_g"]
+
+label_info = ["author", "title", "section", "genre"]
+    
 
 #**********************#
 # ALIGNMENT PARAMETERS #
@@ -167,8 +184,8 @@ mismatchscore = -1
 # the proposed break. When it finds rangematch exact
 # characters, it inserts a break in the middle.
 chunklim = 200
-overlap = 10
-rangematch = 6
+overlap = 30
+rangematch = 12
 
 
 #***********************#
@@ -183,12 +200,12 @@ corpus_text_lengths = "corpus_text_lengths.txt"
 # RUN ANALYSIS #
 ################
 
-prepare_corpus.run(picklefile, toremove)
+prepare_corpus.run(picklefile, toremove, corpusfolder, deletewhitespace)
 
-if create_index:
-    index_corpus.run(seedlength, picklefile, indexfile)
+# if create_index:
+#     index_corpus.run(seedlength, picklefile, indexfile)
 
-detect_intertexuality.run(seedlength, threshold, matchlength, max_comp, textstoanalyze, corpuscomposition, picklefile, indexfile, create_index, result_directory, maxchildtasks, frontloading, DEBUG=False)
+detect_intertexuality.run(seedlength, threshold, matchlength, max_comp, textstoanalyze, corpuscomposition, picklefile, indexfile, create_index, result_directory, maxchildtasks, frontloading, DEBUG)
 
 compile_and_filter_results.run(filtercommon, shortquotelength, repmax, filtersimilar, similaritythreshold, limitcheck,limextent, result_directory, filteredresultfile)
 
@@ -196,4 +213,4 @@ form_quote_system.run(scorelimit, filteredresultfile, edgefile)
 
 align_quotes.run(alignment_docs,matchscore, misalignscore, mismatchscore, chunklim, overlap,rangematch, filteredresultfile, alignmentoutput)
 
-build_chord_viz.run(alignmentoutput, alignment_docs, corpus_text_lengths)
+build_chord_viz.run(alignmentoutput, docs_for_viz, corpus_text_lengths, label_info)

@@ -1,0 +1,4 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_66_d	32	0.90625	7018	11163	 should become acquainted with m	 should be made acquainted with 
+stoker_dracula_21_g	30	0.9	16851	27926	 my heart sank within me as wi	 my heart sank within me: besi
+doyle_baskervilles_15_u	43	0.9302325581395349	10830	14659	, therefore, that if in the absence of his 	, therefore, that in the absence of his mas

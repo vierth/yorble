@@ -1,0 +1,41 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe
+radcliffe_udolpho_32_g	32	0.9375	7196	11516	 there is no danger of that, for	 there is no danger of that,' re
+shelley_frankenstein_39_g	30	0.9	10254	16557	o, without saying a word! You 	o, without saying a word to an
+radcliffe_udolpho_30_g	30	0.9	11110	9178	 she would willingly have give	 she would willingly have resi
+austen_northangerabbey_23_g	31	0.9354838709677419	2162	14647	. The clock struck twelve, and 	. The clock struck twelve--and 
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe
+collins_hauntedhotel_4_u	30	0.9	1835	7973	 anything in the world than wa	 anything in the world that I 
+radcliffe_udolpho_38_g	31	0.9032258064516129	11109	1045	, she would willingly have give	, she would willingly have defe
+collins_moonstone_75_d	33	0.9696969696969697	7382	11694	” “Just as you please, my dear.” 	” “Just as you please, my dear,” 
+lewis_monk_3_g	35	0.9714285714285714	9946	26177	 was obliged to give up the point a	 was obliged to give up the point. 
+collins_moonstone_89_d	30	0.9333333333333333	9082	24379	 slowly down the street. She s	 slowly down the street. The m
+collins_moonstone_89_d	30	0.9	11763	31491	 what was the matter. The othe	 what was the matter. “Who the
+collins_moonstone_89_d	31	0.9032258064516129	11763	32869	 what was the matter. The other	 what was the matter. They trie
+radcliffe_udolpho_39_g	37	0.918918918918919	8060	14136	 and, in spite of what she had heard 	 and, in spite of all she had heard a
+collins_moonstone_79_d	33	0.9090909090909091	13638	5252	 message had been left for her; a	 message had been left for me. Ha
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe
+stoker_dracula_23_g	30	0.9	2425	6290	e, it is twenty minutes after 	e, it is twenty minutes past o
+austen_northangerabbey_9_g	32	0.90625	7386	3640	ust as you please, my dear.” “Mr	ust as you please, my dear,” rep
+austen_northangerabbey_9_g	31	0.9032258064516129	12700	8423	,” said Catherine warmly, “for 	,” said Catherine warmly, “and 
+radcliffe_udolpho_1_g	30	0.9	11643	24771	e within view of the town of K	e within view of the front of 
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe
+radcliffe_udolpho_33_g	32	0.90625	2166	9175	e clock struck twelve, and it st	e clock struck twelve, and then 
+radcliffe_udolpho_33_g	34	0.9117647058823529	2934	23343	, and she instantly returned to th	, and she instantly turned into it
+doyle_baskervilles_9_u	31	0.9032258064516129	16086	34324	 in the course of the next thre	 in the course of the next few 
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe
+stoker_dracula_12_g	30	0.9	4708	25886	 if it had not been for this d	 if it had not been for the wa
+radcliffe_udolpho_34_g	30	0.9	2706	40764	 anxious attention to the weat	 anxious attention, to the nar
+austen_northangerabbey_28_g	37	0.918918918918919	8831	16559	 address from her companion, “Who is 	 address from her companion, who sat 
+radcliffe_udolpho_3_g	30	0.9333333333333333	11585	1376	 proceeded on their journey wi	 proceeded on their journey. A
+austen_northangerabbey_6_g	30	0.9	4754	5749	But it does not signify, the n	But it does not signify if the
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe
+doyle_scarlet_2_d	30	0.9	9074	18690	 walking slowly down the stree	 walking slowly down the other
+lewis_monk_10_g	31	0.9032258064516129	13888	34058	, on hearing the reason of thei	, on hearing the threats of the
+collins_moonstone_84_d	30	0.9	11763	12249	 what was the matter. The othe	 what was the matter. The Fren
+christie_styles_8_d	30	0.9333333333333333	6923	1498	 “I should like to see the cas	 “I should like to see the lad
+christie_styles_1_d	31	0.9032258064516129	6923	14432	 “I should like to see the cast	 “I should like to see them!” c
+austen_northangerabbey_19_g	30	0.9333333333333333	8064	1556	, in spite of what she had hea	, in spite of what she had bel
+lewis_monk_1_g	34	0.9117647058823529	11755	33205	 to know what was the matter. The 	 to know what was the matter. I sh
+radcliffe_udolpho_27_g	33	0.9090909090909091	8077	11447	 what she had heard of the prodig	 what she had heard of the daring
+reeve_oldenglishbaron	32	0.90625	11585	28446	 proceeded on their journey with	 proceeded on their journey. Whe

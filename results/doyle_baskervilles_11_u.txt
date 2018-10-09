@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_9_u	32	0.90625	21914	4943	 since I had been upon the moor 	 since I have been on the moor. 
+doyle_baskervilles_7_u	32	0.9375	7885	23690	 why it was that you were so pre	 why it was that you were so eag
+doyle_baskervilles_7_u	30	0.9	15332	14541	 be surprised to hear that his	 be surprised to learn that wh
+christie_styles_5_d	33	0.9696969696969697	9482	3369	 the early hours of the morning. 	 the early hours of the morning, 
+lewis_monk_4_g	32	0.90625	15467	104831	 the same path at the same hour,	 the same place at the same hour
+christie_styles_12_d	32	0.9375	9247	3458	t the time of the tragedy. It wa	t the time of the tragedy. In fa
+christie_styles_12_d	39	0.9743589743589743	9476	10450	 until the early hours of the morning. 	 until the early hours of the morning a
+christie_styles_12_d	30	0.9333333333333333	10096	3456	 at the time of the tragedy? S	 at the time of the tragedy. I
+doyle_scarlet_2_d	32	0.9375	23880	9846	 I had an opportunity of seeing 	 I had an opportunity of asking 
+reeve_oldenglishbaron_	30	0.9	10629	28934	 are scattered throughout the 	 are scattered throughout nume
+doyle_adventures_2_d	33	0.9696969696969697	9482	45172	 the early hours of the morning. 	 the early hours of the morning a
+walpole_castleofotranto_5_g	30	0.9	10629	48676	 are scattered throughout the 	 are scattered throughout nume
+collins_moonstone_53_d	32	0.9375	23880	5411	 I had an opportunity of seeing 	 I had an opportunity of saying 
+doyle_adventures_9_d	31	0.9032258064516129	3826	11037	t is better that I should ask t	t is better that I should not t
+collins_hauntedhotel_25_u	31	0.9354838709677419	3572	3148	 the interest which he took in 	 the interest which I took in h
+lewis_monk_1_g	33	0.9393939393939394	23882	33021	 had an opportunity of seeing som	 had an opportunity of seeing my 
+doyle_baskervilles_4_u	30	0.9	12684	3811	What do you think of that? We’	What do you think of that, Wat
+radcliffe_udolpho_14_g	31	0.9032258064516129	23882	4422	 had an opportunity of seeing s	 had an opportunity of reading 
+doyle_scarlet_12_d	33	0.9696969696969697	9482	13432	 the early hours of the morning. 	 the early hours of the morning, 
+doyle_baskervilles_2_u	30	0.9	547	12755	 Sir Charles Baskerville and m	 Sir Charles Baskerville was i
+doyle_baskervilles_2_u	30	0.9	3088	12755	 Sir Charles Baskerville and s	 Sir Charles Baskerville was i
+doyle_baskervilles_2_u	30	0.9	3214	12755	 Sir Charles Baskerville that 	 Sir Charles Baskerville was i
+doyle_baskervilles_2_u	31	0.9032258064516129	3214	16986	 Sir Charles Baskerville that I	 Sir Charles Baskerville. With 
+doyle_baskervilles_2_u	30	0.9	4879	12755	 Sir Charles Baskerville had m	 Sir Charles Baskerville was i
+doyle_baskervilles_2_u	30	0.9	14147	17738	 nothing would induce me to he	 nothing would induce him to g
+doyle_scarlet_1_d	30	0.9	12684	10594	What do you think of that? We’	What do you think of that?” “I
+doyle_scarlet_1_d	37	0.918918918918919	13192	9275	.” “How on earth did you do that?” “L	.” “How on earth did you know that?” 
+doyle_baskervilles_15_u	30	0.9666666666666667	547	5003	 Sir Charles Baskerville and m	 Sir Charles Baskerville and w
+doyle_baskervilles_15_u	30	0.9666666666666667	3088	5003	 Sir Charles Baskerville and s	 Sir Charles Baskerville and w
+doyle_baskervilles_15_u	30	0.9	3214	5003	 Sir Charles Baskerville that 	 Sir Charles Baskerville and w
+doyle_baskervilles_15_u	30	0.9333333333333333	4879	5003	 Sir Charles Baskerville had m	 Sir Charles Baskerville and w
+doyle_scarlet_8_d	30	0.9	22398	4074	 which might indicate the char	 which might indicate the pres
+christie_styles_4_d	30	0.9	12684	15530	What do you think of that? We’	What do you think of that?” I 

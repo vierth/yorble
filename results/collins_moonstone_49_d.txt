@@ -1,0 +1,10 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+reeve_oldenglishbaron	34	0.9117647058823529	13291	18062	d, at the same time, that the devi	d, at the same time, that the crim
+collins_moonstone_65_d	33	0.9090909090909091	2145	7359	e pieces of the same puzzle.” “Ho	e pieces of the same puzzle. So f
+collins_moonstone_65_d	31	0.9032258064516129	11745	11073	 constitutional superiority to 	 constitutionally superior to r
+collins_moonstone_52_d	31	0.9032258064516129	1818	21578	 Penelope’s notion that they me	 Penelope’s notion that her fel
+collins_moonstone_52_d	36	0.9166666666666666	10297	21546	 time of which I am now writing, and	 time of which I am now writing. Pen
+collins_moonstone_52_d	30	0.9	10467	2647	 Miss Rachel’s birthday, the t	 Miss Rachel’s birthday. The j
+collins_moonstone_52_d	31	0.9032258064516129	15934	3689	ine times out of ten the place 	ine times out of ten they take 
+christie_styles_4_d	31	0.9354838709677419	2127	13503	 may turn out to be pieces of t	 may turn out to be a piece of 
+christie_styles_4_d	30	0.9	12313	32559	. To my surprise he did nothin	. To my surprise, he did not e

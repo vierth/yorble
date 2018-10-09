@@ -1,0 +1,12 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_84_d	30	0.9	5004	400	 something to ask on my side. 	 something to say on my side, 
+collins_moonstone_84_d	31	0.9032258064516129	6804	282	. For the first time in my life	. For the first time in my expe
+lewis_monk_5_g	30	0.9	5773	20083	 know what has become of him, 	 know what was become of his F
+collins_hauntedhotel_25_u	30	0.9666666666666667	371	6424	I have a question to ask you, 	I have a question to ask you a
+collins_hauntedhotel_15_u	31	0.9032258064516129	2635	7321	, to say the least of it, out o	, to say the least of it, that 
+collins_hauntedhotel_15_u	30	0.9	3014	5489	ed her, before she could say m	ed her, before she could speak
+collins_hauntedhotel_15_u	123	0.9349593495934959	9556	7187	We shall meet again--here in England, or there in Venice where my husband died--and meet for the last time.' In spite of he	We shall meet again--here in England, or there in Venice where my husband died--and meet for the last time.' It was an odd 
+collins_hauntedhotel_10_u	30	0.9333333333333333	2080	3157	 the sinking spirit of the wom	 the sinking spirit of the cou
+collins_moonstone_60_d	30	1.0	6807	6431	or the first time in my life, 	or the first time in my life, 
+collins_moonstone_52_d	31	0.9032258064516129	2634	21872	s, to say the least of it, out 	s, to say the least of it. For 
+radcliffe_udolpho_35_g	34	0.9117647058823529	6807	21647	or the first time in my life, agai	or the first time in my life, I wi

@@ -1,0 +1,52 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_20_g	30	0.9	19360	20151	 on the surface of the waves r	 on the surface of the water. 
+doyle_baskervilles_9_u	30	0.9	12516	25883	 the silence of the midnight a	 the silence of the night, a l
+radcliffe_udolpho_36_g	30	0.9	7894	27172	 concerning the state of the c	 concerning the fate of the ma
+radcliffe_udolpho_36_g	32	0.9375	8552	17832	 gazed with admiration on the vi	 gazed with admiration on this v
+radcliffe_udolpho_36_g	42	0.9047619047619048	10350	16653	 with the splendour of the setting sun, ap	 with the splendour of the setting rays; a
+radcliffe_udolpho_36_g	31	0.967741935483871	10359	19195	 splendour of the setting sun, 	 splendour of the setting sun. 
+radcliffe_udolpho_36_g	45	0.9111111111111111	16788	13344	. At a little distance from the portico they 	. At a little distance from the point of the 
+radcliffe_udolpho_36_g	38	0.9210526315789473	18930	4651	he indulged herself in imagining what 	he indulged herself in imagining the p
+radcliffe_udolpho_36_g	31	0.9032258064516129	20571	24681	 that opened towards the Adriat	 that opened towards the Medite
+radcliffe_udolpho_36_g	30	0.9666666666666667	23221	20162	 long, long peals of thunder s	 long, long peals of thunder, 
+radcliffe_udolpho_34_g	31	0.9032258064516129	13714	29417	 congratulated himself on his r	 congratulated himself, on havi
+radcliffe_udolpho_34_g	30	0.9	15124	50006	 of musical instruments, and t	 of musical instruments, as we
+lewis_monk_4_g	30	0.9	5531	80351	 was personally acquainted. He	 was personally acquainted wit
+lewis_monk_4_g	32	0.90625	12513	45303	pon the silence of the midnight 	pon the silence of the night. 'W
+lewis_monk_4_g	34	0.9117647058823529	16791	35215	t a little distance from the porti	t a little distance from the great
+radcliffe_udolpho_50_g	30	0.9	8918	4604	 came at intervals on the bree	 came at intervals on the air.
+radcliffe_udolpho_50_g	32	0.90625	17627	7856	 pensive tranquillity which soft	 pensive tranquillity, which twi
+radcliffe_udolpho_13_g	31	0.967741935483871	125	36740	 on the following morning, the 	 on the following morning, she 
+radcliffe_udolpho_13_g	30	0.9333333333333333	18274	28728	 in the distant perspective of	 in the distant perspective, a
+radcliffe_udolpho_3_g	30	0.9	2709	20867	 was somewhat surprised to obs	 was somewhat surprised to fin
+radcliffe_udolpho_3_g	31	0.9032258064516129	7962	1361	 The travellers proceeded witho	 The travellers proceeded on th
+radcliffe_udolpho_3_g	37	0.918918918918919	18277	10370	 the distant perspective of the canal	 the distant perspective of the valle
+radcliffe_udolpho_48_g	32	0.9375	20804	15501	 and, anxious to escape from ser	 and, anxious to escape from the
+radcliffe_udolpho_22_g	37	0.918918918918919	119	16111	 Early on the following morning, the 	 Early on the following morning, as E
+doyle_scarlet_2_d	30	0.9333333333333333	125	562	 on the following morning, the	 on the following morning Sher
+radcliffe_udolpho_4_g	36	0.9166666666666666	10355	22192	 the splendour of the setting sun, a	 the splendour of the setting rays, 
+radcliffe_udolpho_4_g	35	0.9142857142857143	12200	32876	 through the silence of night! Now 	 through the silence of night to he
+radcliffe_udolpho_4_g	37	0.918918918918919	18277	27694	 the distant perspective of the canal	 the distant perspective of the valle
+dickens_christmascarole_3_g	33	0.9090909090909091	14664	2854	. The walls and ceilings were ado	. The walls and ceiling were so h
+dickens_christmascarole_3_g	30	0.9	16499	42119	 of heart, that would have sub	 of heart, that he would have 
+christie_secretadversary_17_d	32	0.9375	5528	12455	 he was personally acquainted. H	 he was personally unacquainted 
+radcliffe_udolpho_10_g	30	0.9666666666666667	12038	33657	 she thought she perceived a g	 she thought she perceived a p
+lewis_monk_8_g	33	0.9090909090909091	16791	27795	t a little distance from the port	t a little distance from them sto
+lewis_monk_5_g	33	0.9090909090909091	15497	52215	 He would then be convinced that 	 He would not be convinced that A
+radcliffe_udolpho_21_g	30	0.9	20017	8871	 the magnificence of the saloo	 the magnificence of the palac
+radcliffe_udolpho_12_g	32	0.90625	127	11841	n the following morning, the tra	n the following morning, she was
+radcliffe_udolpho_12_g	33	0.9090909090909091	16791	146	t a little distance from the port	t a little distance from the city
+radcliffe_udolpho_14_g	36	0.9166666666666666	17213	18946	 Emily, as she listened, caught the 	 Emily, as she listened, thought he 
+radcliffe_udolpho_14_g	30	0.9333333333333333	19690	20567	, and could not forbear smilin	, and could not forbear silent
+radcliffe_udolpho_14_g	30	0.9	19736	1137	 she had been indulging, and a	 she had been indulging in fan
+radcliffe_udolpho_14_g	39	0.9230769230769231	20943	21213	 composing the following lines: THE SEA	 composing the following lines. THE PIE
+radcliffe_udolpho_49_g	36	0.9444444444444444	125	1695	 on the following morning, the trave	 on the following morning, she trace
+radcliffe_udolpho_49_g	30	0.9	15728	1179	. Soon after his arrival, he o	. Soon after her arrival, she 
+radcliffe_udolpho_47_g	30	0.9	19640	16271	 recalled from her reverie to 	 recalled from her reverie, sm
+radcliffe_udolpho_54_g	32	0.90625	127	23569	n the following morning, the tra	n the following morning, she was
+radcliffe_udolpho_54_g	33	0.9696969696969697	2703	14915	 Emily was somewhat surprised to 	 Emily was somewhat surprised at 
+radcliffe_udolpho_54_g	30	0.9	12006	19429	ut, at some distance on the se	ut, at some distance, in the d
+radcliffe_udolpho_54_g	30	0.9	16845	19690	 Emily distinguished the verse	 Emily distinguished the voice
+radcliffe_udolpho_54_g	30	0.9	20152	669	he passed in the way to her ch	he passed in their way to the 
+stoker_dracula_16_g	30	0.9	12515	17130	n the silence of the midnight 	n the silence of the night whe
+radcliffe_udolpho_35_g	32	0.90625	12037	21995	, she thought she perceived a go	, she thought she perceived some

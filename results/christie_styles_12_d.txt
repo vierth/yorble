@@ -1,0 +1,39 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_14_d	41	0.9024390243902439	5330	1000	. “No,” he said quietly. “There is only o	. “No,” he said quietly. “There is still 
+christie_styles_2_d	34	0.9705882352941176	9583	10280	 nothing to do with that matter. M	 nothing to do with that matter.” 
+christie_styles_2_d	32	0.90625	15423	5154	 and placed it on the table by t	 and placed it on the table outs
+dickens_christmascarole_1_g	30	0.9	8431	11613	 something has occurred to occ	 something had occurred to sto
+doyle_adventures_5_d	36	0.9166666666666666	19083	23867	here can be no question as to his id	here can be no question as to their 
+christie_secretadversary_17_d	30	0.9666666666666667	6638	12004	 came to the conclusion that M	 came to the conclusion that t
+christie_styles_8_d	30	0.9	9663	22372	 that Mrs. Inglethorp was shie	 that Mrs. Inglethorp was pois
+christie_styles_8_d	30	0.9	9663	23068	 that Mrs. Inglethorp was shie	 that Mrs. Inglethorp was pois
+christie_styles_8_d	30	0.9666666666666667	12612	12220	.” “But that had already been 	.” “But that has already been 
+christie_styles_8_d	30	0.9	12979	6163	 and Mademoiselle Cynthia. And	 and Mademoiselle Cynthia.” “Y
+doyle_adventures_2_d	43	0.9069767441860465	10456	45172	 the early hours of the morning as being sa	 the early hours of the morning as we sat o
+christie_styles_1_d	39	0.9743589743589743	16361	6310	 the Red Cross Hospital at Tadminster: 	 the Red Cross Hospital at Tadminster, 
+radcliffe_udolpho_10_g	40	0.925	5691	121	 ordered a fire to be lighted in her roo	 ordered a fire to be lighted in the sto
+lewis_monk_6_g	30	0.9333333333333333	8730	14363	 sudden change of sentiment? “	 sudden change of sentiment ma
+doyle_adventures_9_d	30	0.9	19083	41961	here can be no question as to 	here can be no question that i
+radcliffe_udolpho_12_g	40	0.925	7965	44464	 the greater part of the conversation. A	 the greater part of this conversation, 
+lewis_monk_1_g	31	0.9354838709677419	12400	39985	 attention was attracted by the	 attention was attracted by per
+stoker_dracula_9_g	32	0.90625	6299	17546	 to the conclusion that it was t	 to the conclusion that it must 
+doyle_scarlet_12_d	33	0.9696969696969697	10456	13432	 the early hours of the morning a	 the early hours of the morning, 
+doyle_scarlet_4_d	31	0.9032258064516129	1595	5714	hen the tragedy occurred. I fou	hen the tragedy occurred. I’ve 
+christie_secretadversary_4_d	30	0.9666666666666667	6638	10182	 came to the conclusion that M	 came to the conclusion that D
+christie_secretadversary_4_d	32	0.90625	10717	6652	.” He paused a moment, and Cynth	.” He paused a moment, and then 
+doyle_baskervilles_15_u	31	0.9032258064516129	6784	13429	on, and that therefore the quar	on, and that therefore there wa
+doyle_baskervilles_15_u	30	0.9	19083	13834	here can be no question as to 	here can be no question that S
+christie_styles_4_d	30	0.9	6263	27174	 in Mrs. Inglethorp’s room, I 	 in Mrs. Inglethorp’s room wit
+christie_styles_4_d	114	0.9035087719298246	7059	20249	You need not think that any fear of publicity, or scandal between husband and wife will deter me.” I conjectured, 	You need not think that any fear of publicity, or scandal between husband and wife will deter me.’ Then I thought 
+christie_styles_4_d	38	0.9210526315789473	7110	21439	candal between husband and wife will d	candal between husband and wife is a d
+christie_styles_4_d	30	0.9	7396	21399	 ‘I don’t know what to do; sca	 ‘I don’t know what to do,’ sh
+christie_styles_4_d	54	0.9629629629629629	7424	21439	candal between husband and wife is a dreadful thing.’ 	candal between husband and wife is a dreadful thing, D
+christie_styles_4_d	36	0.9166666666666666	7426	20302	ndal between husband and wife is a d	ndal between husband and wife will d
+christie_styles_4_d	52	0.9615384615384616	7426	21441	ndal between husband and wife is a dreadful thing.’ 	ndal between husband and wife is a dreadful thing, D
+christie_styles_4_d	30	0.9	7848	20600	 o’clock, Mrs. Inglethorp quar	 o’clock, Mrs. Inglethorp rang
+christie_styles_4_d	30	0.9	9586	6078	thing to do with that matter. 	thing to do with the matter?” 
+christie_styles_4_d	30	0.9333333333333333	12148	27173	n in Mrs. Inglethorp’s room. “	n in Mrs. Inglethorp’s room wi
+christie_styles_4_d	30	0.9	12513	29594	to Mrs. Inglethorp’s room. I a	to Mrs. Inglethorp’s room, was
+christie_styles_4_d	31	0.9032258064516129	13365	5393	at Mrs. Inglethorp’s death lay 	at Mrs. Inglethorp’s death so g
+christie_styles_4_d	31	0.9032258064516129	14717	27174	 in Mrs. Inglethorp’s room? The	 in Mrs. Inglethorp’s room with
+christie_styles_4_d	30	0.9	14720	28197	 Mrs. Inglethorp’s room? There	 Mrs. Inglethorp’s room?” “Whe

@@ -1,0 +1,11 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_10_g	32	0.90625	17022	21613	 without a moment's delay, walke	 without a moment's delay, we be
+radcliffe_udolpho_57_g	30	0.9	1437	5757	 The Mysteries of Udolpho, whe	 The Mysteries of Udolpho, by 
+lewis_monk_4_g	33	0.9090909090909091	1950	101781	 the injustice of your suspicions	 the injustice of her suspicions,
+austen_northangerabbey_28_g	39	0.9487179487179487	16311	1939	ed for the pleasure of her company to d	ed for the pleasure of her company for 
+radcliffe_udolpho_50_g	32	0.9375	9127	25237	, appeared to contradict the ver	, appeared to contradict the pro
+austen_northangerabbey_6_g	31	0.9354838709677419	12122	2512	 particular friend of mine had 	 particular friend of mine, a M
+stoker_dracula_1_g	30	0.9	15976	8626	 did not understand, she was a	 did not understand, she went 
+lewis_monk_1_g	32	0.90625	12122	43128	 particular friend of mine had a	 particular Friend of mine, has 
+doyle_scarlet_4_d	32	0.90625	14890	7078	 “I shall be most happy to make 	 “I shall be most happy to tell 
+christie_secretadversary_24_d	33	0.9090909090909091	16313	13102	 for the pleasure of her company 	 for the pleasure of your company

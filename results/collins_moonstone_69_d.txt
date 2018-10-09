@@ -1,0 +1,46 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_89_d	43	0.9069767441860465	7482	37238	 took him by the two shoulders, and pushed 	 took him by the two shoulders and put him 
+collins_moonstone_89_d	31	0.9354838709677419	9330	69181	 at our house in Yorkshire and 	 at our house in Yorkshire, on 
+collins_moonstone_89_d	31	0.967741935483871	14653	37992	 at the other end of the room. 	 at the other end of the room, 
+collins_moonstone_89_d	30	0.9333333333333333	22463	58618	 It is needless to say that my	 It is needless to say, that M
+collins_moonstone_89_d	35	0.9142857142857143	22463	79672	 It is needless to say that my time	 It is needless to say that my dres
+radcliffe_udolpho_7_g	30	0.9	20235	12144	 the importance of preserving 	 the importance of observing m
+doyle_signoffour_8_d	30	0.9333333333333333	10584	789	 to the place where she had ch	 to the place where he had com
+austen_northangerabbey_29_g	30	0.9	13646	14527	 backwards and forwards from M	 backwards and forwards some t
+christie_styles_9_d	30	0.9	14655	5876	t the other end of the room. “	t the other side of the room. 
+stoker_dracula_23_g	30	0.9333333333333333	19519	8717	 in different parts of the roo	 in different parts of the wor
+stoker_dracula_25_g	31	0.9032258064516129	14653	10737	 at the other end of the room. 	 at the other end of the wire. 
+collins_moonstone_58_d	30	0.9	18295	15943	 such a question as that, afte	 such a question as that to me
+christie_styles_10_d	31	0.9032258064516129	15369	8167	 caught me by the hand, and whi	 caught me by the arm, and whir
+collins_moonstone_70_d	31	0.9032258064516129	4807	8887	 in Northumberland Street; and 	 in Northumberland Street? Egad
+collins_moonstone_70_d	37	0.918918918918919	12280	14922	 the scandal which has assailed Mr. L	 the scandal which has assailed your 
+collins_moonstone_56_d	32	0.9375	7796	14592	 went on with her questions, una	 went on with her questions, as 
+stoker_dracula_20_g	31	0.9032258064516129	7053	28429	 know nothing whatever of the m	 know nothing whatever of him. 
+collins_hauntedhotel_5_u	30	0.9	18061	14584	 and composed herself. She cro	 and compose herself. The care
+collins_moonstone_67_d	30	0.9	13223	9916	 at the top of her voice. “Tel	 at the top of her voice. One 
+stoker_dracula_12_g	31	0.967741935483871	23067	34862	nge which I had noticed in her 	nge which I had noticed in the 
+radcliffe_udolpho_34_g	32	0.90625	18319	16218	, after what had just happened, 	, after what has just appeared, 
+collins_hauntedhotel_6_u	30	0.9	10495	9145	e turned once more to Mr. Godf	e turned once more to Mr. Troy
+lewis_monk_4_g	35	0.9142857142857143	14653	28112	 at the other end of the room. “Ind	 at the other end of the room, and 
+collins_moonstone_74_d	34	0.9117647058823529	1956	21733	 at the Mothers’-Small-Clothes nex	 at the Mothers’ Small-Clothes, an
+radcliffe_udolpho_13_g	30	0.9	5573	30710	to a chair by the window, wher	to a chair by the window, 'how
+radcliffe_udolpho_3_g	34	0.9117647058823529	14401	16697	 other circumstances, I should hav	 other circumstances I should be a
+stoker_dracula_2_g	31	0.9032258064516129	10584	16126	 to the place where she had che	 to the places where he had see
+stoker_dracula_2_g	30	0.9	23070	3780	 which I had noticed in her co	 which I had noticed in the dr
+austen_northangerabbey_6_g	36	0.9166666666666666	14653	803	 at the other end of the room. “Inde	 at the other end of the room, and e
+collins_moonstone_72_d	32	0.96875	1956	626	 at the Mothers’-Small-Clothes n	 at the Mothers’-Small-Clothes? 
+collins_moonstone_72_d	32	0.90625	1959	5768	 the Mothers’-Small-Clothes next	 the Mothers’-Small-Clothes. I t
+doyle_adventures_5_d	30	0.9333333333333333	19519	29884	 in different parts of the roo	 in different parts of the cou
+collins_hauntedhotel_11_u	31	0.9354838709677419	126	235	 close on the servant’s heels a	 close on the servant's heels. 
+collins_hauntedhotel_11_u	35	0.9142857142857143	11961	9814	 which those words were spoken migh	 which those words were spoken. She
+collins_moonstone_84_d	30	0.9	5294	19328	 for the pleasure of telling t	 for the pleasure of writing t
+christie_styles_8_d	33	0.9090909090909091	8522	16787	 what the newspapers say. It may 	 what the newspapers say I make o
+lewis_monk_6_g	36	0.9166666666666666	10125	9166	 produced the slightest effect on he	 produced the slightest effect, and 
+collins_moonstone_62_d	30	0.9333333333333333	6413	7554	 taking no more notice of her 	 taking no more notice of Mr. 
+lewis_monk_1_g	30	0.9	9937	41282	 made a second attempt to leav	 made a second attempt to reti
+collins_moonstone_50_d	32	0.90625	8480	23723	 in the safe keeping of the bank	 in the safe keeping of a bank i
+collins_moonstone_50_d	35	0.9428571428571428	8480	23772	 in the safe keeping of the bank.” 	 in the safe keeping of the bank at
+stoker_dracula_16_g	30	0.9	8458	11016	em which he had placed in the 	em which he had placed there. 
+collins_moonstone_76_d	40	0.925	11612	14605	 was speaking. When he had done, she sai	 was speaking. When I had done, she stil
+collins_moonstone_76_d	31	0.9354838709677419	22463	23118	 It is needless to say that my 	 It is needless to say that I w
+collins_moonstone_52_d	30	1.0	5746	213	 between Mr. Franklin Blake’s 	 between Mr. Franklin Blake’s 

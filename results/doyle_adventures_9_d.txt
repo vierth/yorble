@@ -1,0 +1,17 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_12_g	31	0.9032258064516129	16563	16560	promise me that you will not te	promise me that you will neithe
+radcliffe_udolpho_12_g	30	0.9	27553	36781	 will have the goodness to loo	 will have the goodness to bea
+radcliffe_udolpho_12_g	31	0.9032258064516129	28612	32954	 for it would be absurd to supp	 for it would be absurd to comp
+shelley_frankenstein_47_g	33	0.9090909090909091	15220	10633	 enough to discover that there wa	 enough to discover that the unna
+doyle_baskervilles_4_u	31	0.9032258064516129	7622	15217	room in his dressing-gown, read	room in his dressing-gown and w
+radcliffe_udolpho_27_g	34	1.0	20778	2318	 at the other end of the passage, 	 at the other end of the passage, 
+doyle_scarlet_12_d	31	0.9032258064516129	44386	1548	 for the remainder of your exis	 for the remainder of our lives
+radcliffe_udolpho_47_g	31	0.9354838709677419	8809	4539	 listened in silence to the str	 listened in silence to the var
+doyle_scarlet_4_d	31	0.9032258064516129	19432	1204	 that it must have been nearer 	 that it must have been there d
+christie_secretadversary_10_d	30	0.9	42411	9804	 of the beautiful woman, the s	 of the beautiful woman with t
+christie_secretadversary_4_d	30	0.9333333333333333	17793	14667	. On the other hand, the face 	. On the other hand, they are 
+doyle_baskervilles_2_u	30	0.9	32611	7796	he moon was shining brightly. 	he moon was shining bright upo
+stoker_dracula_16_g	30	0.9	1871	12487	 little before seven o'clock, 	 little before twelve o'clock 
+stoker_dracula_16_g	31	0.9032258064516129	43836	2658	t was most probable that the si	t was most probable that it was
+doyle_baskervilles_15_u	37	0.918918918918919	41958	13831	. There can be no question that it wa	. There can be no question that Stapl
+radcliffe_udolpho_35_g	30	0.9	40612	441	 in the neighbourhood and hung	 in the neighbourhood, and tha

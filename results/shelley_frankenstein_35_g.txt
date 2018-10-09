@@ -1,0 +1,49 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_53_g	31	0.9032258064516129	1868	1082	 her countenance expressed affe	 her countenance expressed more
+shelley_frankenstein_50_g	31	0.9354838709677419	5083	9236	. I threw myself into the chais	. I threw myself into the carri
+shelley_frankenstein_50_g	34	0.9117647058823529	5114	9269	e that was to convey me away and i	e that was to convey me away, hard
+doyle_adventures_8_d	32	0.90625	10885	15319	 which I shall never forget: “Th	 which I shall never forget, 'Oh
+shelley_frankenstein_33_g	30	0.9	10623	46	 of the most distinguished dis	 of the most distinguished of 
+christie_secretadversary_7_d	31	0.9032258064516129	10192	2624	 about fifty years of age, but 	 about fifty years of age, his 
+radcliffe_udolpho_11_g	30	0.9	4824	261	 the carriage which was to con	 the carriage, which was to ta
+doyle_signoffour_12_d	30	0.9	9093	20044	s very different when the mast	s very different when there is
+shelley_frankenstein_38_g	30	0.9	3111	5148	 departure for Ingolstadt, whi	 departure for Ingolstadt, Jus
+shelley_frankenstein_39_g	30	0.9	3110	13438	y departure for Ingolstadt, wh	y departure for Ingolstadt. Be
+stoker_dracula_13_g	34	0.9117647058823529	9501	31635	uring the first two or three days 	uring the past two or three days s
+radcliffe_udolpho_38_g	30	0.9	10693	39989	 the present state of the scie	 the present state of her spir
+shelley_frankenstein_30_g	32	0.90625	9593	1692	 becoming acquainted with the lo	 becoming acquainted with more l
+lewis_monk_3_g	30	0.9666666666666667	7119	45683	 replied in the affirmative. “	 replied in the affirmative. '
+radcliffe_udolpho_24_g	31	0.967741935483871	6785	6747	 several questions concerning m	 several questions, concerning 
+radcliffe_udolpho_7_g	32	0.90625	4090	3472	 endeavoured to persuade his fat	 endeavoured to persuade him to 
+shelley_frankenstein_34_g	34	0.9411764705882353	7631	11041	 Albertus Magnus and Paracelsus. M	 Albertus Magnus, and Paracelsus, 
+shelley_frankenstein_34_g	30	0.9333333333333333	7796	7590	 of natural philosophy which h	 of natural philosophy with wh
+shelley_frankenstein_34_g	37	0.918918918918919	14329	7583	 branch of natural philosophy in whic	 branch of natural philosophy with wh
+shelley_frankenstein_34_g	32	0.96875	14785	7583	 branch of natural philosophy, i	 branch of natural philosophy wi
+austen_northangerabbey_15_g	31	0.9032258064516129	4090	6197	 endeavoured to persuade his fa	 endeavoured to persuade her, a
+radcliffe_udolpho_23_g	30	0.9	10693	23774	 the present state of the scie	 the present state of her spir
+radcliffe_udolpho_55_g	33	0.9090909090909091	424	2137	 the first misfortune of my life 	 the first misfortune of her life
+radcliffe_udolpho_55_g	30	0.9	10623	3892	 of the most distinguished dis	 of the most distinguished nob
+radcliffe_udolpho_6_g	32	0.96875	9910	42766	 recollected what he had said of	 recollected what he had said co
+stoker_dracula_18_g	37	0.9459459459459459	12816	27209	 there was a certain dignity in his m	 there was a certain dignity in the m
+radcliffe_udolpho_33_g	32	0.90625	1383	33709	 hopes of future happiness were 	 hopes of future happiness with 
+shelley_frankenstein_53_g	33	1.0	1863	6638	, and her countenance expressed a	, and her countenance expressed a
+shelley_frankenstein_53_g	30	0.9	3110	19084	y departure for Ingolstadt, wh	y departure for Ingolstadt. I 
+shelley_frankenstein_32_g	37	1.0	10016	13636	artly from curiosity and partly from 	artly from curiosity and partly from 
+radcliffe_udolpho_18_g	30	0.9	2323	47876	 been extinguished and the sou	 been extinguished, and she sa
+radcliffe_udolpho_18_g	30	0.9	10693	34696	 the present state of the scie	 the present state of her spir
+radcliffe_udolpho_18_g	30	0.9	10693	45835	 the present state of the scie	 the present state of her spir
+radcliffe_udolpho_13_g	30	0.9333333333333333	3490	31663	e that remained to me, and abo	e that remained to me, and tha
+radcliffe_udolpho_48_g	32	0.90625	10690	8506	 of the present state of the sci	 of the present state of her min
+shelley_frankenstein_51_g	36	1.0	196	320	 necessary for the completion of my 	 necessary for the completion of my 
+shelley_frankenstein_51_g	30	0.9	6395	397	 letters of introduction and p	 letters of introduction that 
+lewis_monk_8_g	30	0.9	185	14609	 thought it necessary for the 	 thought it necessary before I
+lewis_monk_6_g	30	0.9	3450	41270	 was unwilling to quit the sig	 was unwilling to quit her Sis
+doyle_adventures_9_d	30	0.9	4964	24820	 to renew her entreaties that 	 to renew her entreaties when 
+radcliffe_udolpho_12_g	30	0.9	1868	22232	 her countenance expressed aff	 her countenance expressed ill
+shelley_frankenstein_47_g	32	0.90625	248	7018	 should be made acquainted with 	 should become acquainted with m
+shelley_frankenstein_47_g	35	0.9142857142857143	14420	14245	 it is on that account that I have 	 it is on that account that I feel 
+lewis_monk_1_g	30	0.9333333333333333	181	5036	ther thought it necessary for 	ther thought it necessary to p
+lewis_monk_1_g	33	0.9090909090909091	264	7041	acquainted with other customs tha	acquainted with our customs, that
+collins_moonstone_66_d	35	0.9428571428571428	248	11163	 should be made acquainted with oth	 should be made acquainted with wha
+radcliffe_udolpho_54_g	31	0.9032258064516129	3450	8180	 was unwilling to quit the sigh	 was unwilling to quit the cham
+stoker_dracula_21_g	30	0.9333333333333333	10885	7649	 which I shall never forget: “	 which I shall never forget, a

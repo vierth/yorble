@@ -1,0 +1,7 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_10_g	30	0.9	13444	33598	 During this conversation I ha	 During this conversation, the
+radcliffe_udolpho_10_g	30	0.9333333333333333	6169	24179	ed permission to address the c	ed permission to address her f
+lewis_monk_1_g	33	0.9090909090909091	15280	30072	 with difficulty repressed her bi	 with difficulty repressed his in
+doyle_baskervilles_4_u	31	0.9032258064516129	13446	19185	uring this conversation I had r	uring this conversation, and Dr
+radcliffe_udolpho_14_g	30	0.9	5107	19908	 conjecture concerning the pro	 conjecture concerning the mus
+collins_hauntedhotel_10_u	32	0.90625	156	8101	 accompanied them to the court. 	 accompanied them to the door. T

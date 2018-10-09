@@ -1,0 +1,17 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_11_g	31	0.9032258064516129	1886	22128	 went to the window, and stood 	 went to the window and looked 
+collins_moonstone_56_d	30	0.9	3748	12382	,” answered Mr. Franklin, “whe	,” answered Mr. Franklin. “Tha
+collins_moonstone_61_d	33	0.9393939393939394	4822	1761	.” “I don’t understand you,” says	.” “I don’t understand you,” answ
+collins_hauntedhotel_5_u	30	0.9	120	14951	 was thrown open violently fro	 was thrown open violently; th
+collins_moonstone_67_d	31	0.9032258064516129	2494	16927	 her fellow-servant to destroy 	 her fellow-servant had destroy
+lewis_monk_4_g	31	0.9032258064516129	3540	70486	e stopped, and looked at the ra	e stopped, and looked at me ear
+collins_moonstone_74_d	45	0.9555555555555556	1574	15234	 so strongly as I felt it at that moment. I t	 so strongly as I felt it at that moment. But
+collins_moonstone_50_d	31	0.9032258064516129	3748	8708	,” answered Mr. Franklin, “when	,” answered Mr. Franklin, “I be
+collins_moonstone_50_d	30	0.9	3748	14552	,” answered Mr. Franklin, “whe	,” answered Mr. Franklin, “say
+collins_moonstone_50_d	31	0.9354838709677419	4849	3343	” says Mr. Franklin. “I’ll expl	” says Mr. Franklin. “I’ll tell
+collins_moonstone_66_d	30	0.9	4896	13828	” says the Sergeant. “When I c	” says the Sergeant. “Then I’l
+collins_moonstone_76_d	30	0.9	4654	15940	 the matter of the Diamond whe	 the matter of the Diamond—sho
+collins_moonstone_76_d	36	0.9444444444444444	4947	152	 to throw the necessary light on the	 to throw the necessary light on cer
+christie_secretadversary_15_d	30	0.9333333333333333	4823	6418	” “I don’t understand you,” sa	” “I don’t understand you,” re
+collins_moonstone_49_d	30	0.9333333333333333	6284	15931	, nine times out of ten, the o	, nine times out of ten the pl
+collins_moonstone_52_d	30	0.9	6287	3689	ine times out of ten, the othe	ine times out of ten they take

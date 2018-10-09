@@ -1,0 +1,18 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_89_d	32	0.96875	7005	56089	e was passing through the door, 	e was passing through the door o
+radcliffe_udolpho_23_g	30	0.9	6030	11325	it is impossible that you, who	it is impossible, that you cou
+collins_moonstone_79_d	31	0.9032258064516129	6952	683	At the end of that time she sha	At the end of that time the mis
+doyle_signoffour_6_d	30	0.9	5042	13548	, throwing out his hands in ex	, throwing out his hands, and 
+doyle_scarlet_3_d	32	0.90625	9773	13489	There’s nothing to be afeared ab	There’s nothing to be learned by
+austen_northangerabbey_9_g	35	0.9142857142857143	9915	5777	 she could not help observing that 	 she could not help wondering that 
+doyle_scarlet_11_d	31	0.9032258064516129	8856	10705	,” her father answered. “It wil	,” her father answered. “That i
+radcliffe_udolpho_6_g	30	0.9	6714	10820	 remained silent for some litt	 remained silent for some time
+shelley_frankenstein_48_g	31	0.9032258064516129	9919	1978	 could not help observing that 	 could not help believing that 
+christie_secretadversary_17_d	30	0.9333333333333333	9497	20345	 in the opposite direction.” “	 in the opposite direction. He
+christie_styles_1_d	32	0.9375	9494	21236	ing in the opposite direction.” 	ing in the opposite direction bo
+stoker_dracula_9_g	41	0.926829268292683	9166	4556	h, Lucy, it isn’t the first time I have t	h, Lucy, it is the first time I have writ
+doyle_scarlet_12_d	32	0.90625	1639	17058	one knew whither he had gone or 	one knew whither they had gone. 
+doyle_scarlet_12_d	32	0.9375	9494	3870	ing in the opposite direction.” 	ing in the opposite direction, a
+christie_secretadversary_24_d	30	0.9	9973	15318	 the fastening of the doors th	 the fastenings of the door. J
+doyle_scarlet_8_d	31	0.9032258064516129	2999	8308	y resolved themselves into a de	y resolved themselves into thre
+doyle_scarlet_8_d	34	0.9117647058823529	9041	7614	hat’s about the size of it.” “But 	hat’s about the size of it.” “Why 

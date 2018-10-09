@@ -1,0 +1,36 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_4_d	30	0.9	5223	17996	, I had no difficulty in disco	, I had no difficulty in recog
+doyle_baskervilles_9_u	30	0.9	5586	7762	t it seemed to me that the les	t it seemed to me that she was
+doyle_scarlet_5_d	30	0.9	27109	4678	 thinking the matter over for 	 thinking the matter over, it 
+doyle_baskervilles_7_u	30	0.9	5587	18440	 it seemed to me that the less	 it seemed to me that the tone
+stoker_dracula_12_g	31	0.9032258064516129	10943	1865	 went round to the back to see 	 went round to the back of the 
+stoker_dracula_12_g	30	0.9333333333333333	28535	28988	." _Dr. Seward's Diary._ _2 Oc	." _Dr. Seward's Diary._ _20 S
+christie_styles_5_d	30	0.9333333333333333	16882	8693	 I took the opportunity of bri	 I took the opportunity of whi
+lewis_monk_4_g	31	0.9032258064516129	16882	93903	 I took the opportunity of brin	 I took the opportunity of than
+austen_northangerabbey_28_g	31	0.9032258064516129	1371	12992	 manner in which this was done 	 manner in which it was done so
+collins_moonstone_74_d	30	0.9	16882	20726	 I took the opportunity of bri	 I took the opportunity of cal
+radcliffe_udolpho_3_g	31	0.9032258064516129	21886	7249	 determined to have the matter 	 determined to take the latter 
+stoker_dracula_2_g	30	0.9	1	1	 JONATHAN HARKER'S JOURNAL _1 	 JONATHAN HARKER'S JOURNAL--_c
+stoker_dracula_2_g	37	0.9459459459459459	25416	3321	e. The instant, however, that I did s	e. The instant, however, that I had s
+doyle_baskervilles_8_u	31	0.9032258064516129	23136	5231	t was evident that he was under	t was evident that he was very 
+stoker_dracula_24_g	34	0.9117647058823529	16377	23389	ing from one to another of us:-- "	ing from one to another of us. "Of
+stoker_dracula_24_g	41	0.926829268292683	17322	16107	 _Dr. Seward's Diary._ _1 October._--I am	 _Dr. Seward's Diary._ _5 October._--We a
+stoker_dracula_24_g	42	0.9047619047619048	28537	16107	 _Dr. Seward's Diary._ _2 October._--I pla	 _Dr. Seward's Diary._ _5 October._--We al
+stoker_dracula_24_g	33	0.9090909090909091	29942	9164	 between sunrise and sunset; we s	 between sunrise and sunset; for 
+stoker_dracula_24_g	31	0.9032258064516129	30398	18407	. * * * * * _Later._--We have m	. * * * * * _Later._--When the 
+stoker_dracula_3_g	30	0.9	1	2	 JONATHAN HARKER'S JOURNAL _1 	 JONATHAN HARKER'S JOURNAL--_c
+stoker_dracula_3_g	30	0.9	16314	3725	 and walked about the room. By	 and walked about the room pul
+stoker_dracula_3_g	33	0.9090909090909091	29429	24849	. There was something about his m	. There was something about them 
+christie_secretadversary_11_d	30	0.9666666666666667	12427	8587	er, and raised his eyebrows st	er, and raised his eyebrows as
+lewis_monk_10_g	33	0.9090909090909091	24145	6898	 to distract my attention from it	 to distract her attention from t
+doyle_adventures_2_d	31	0.9354838709677419	1797	21638	 asked him if he could tell us 	 asked him if he could tell me 
+doyle_adventures_2_d	38	0.9210526315789473	7240	21636	 I asked him if he could tell me the n	 I asked him if he could tell me what 
+stoker_dracula_1_g	30	0.9	2	0	JONATHAN HARKER'S JOURNAL _1 O	JONATHAN HARKER'S JOURNAL (_Ke
+collins_hauntedhotel_25_u	30	0.9	20681	11303	 useless to speak to him. He w	 useless to speak to her. Her 
+stoker_dracula_9_g	30	0.9	24181	9413	 "I don't take any stock at al	 "I don't take any stock in ca
+stoker_dracula_9_g	30	0.9333333333333333	28535	7890	." _Dr. Seward's Diary._ _2 Oc	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	30	0.9	28535	25256	." _Dr. Seward's Diary._ _2 Oc	." _Dr. Seward's Diary._ _4 Se
+radcliffe_udolpho_41_g	30	0.9	16314	15543	 and walked about the room. By	 and walked about the room and
+christie_styles_3_d	30	0.9	10915	6027	 nothing could be done; so I w	 nothing could be done now. I 
+stoker_dracula_21_g	31	0.9032258064516129	10714	24759	 I could not but feel that if I	 I could not but feel that Art 
+christie_styles_4_d	32	0.90625	30561	6069	t has anything to do with this. 	t has anything to do with the ma

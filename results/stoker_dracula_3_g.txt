@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_84_d	30	0.9	27196	19834	cious of the presence of the C	cious of the presence of some 
+lewis_monk_5_g	30	0.9	29557	24598	 them, and they could not have	 them, and they could not esca
+stoker_dracula_1_g	35	0.9142857142857143	2413	9493	 I have been taught to regard with 	 I have been taught to regard such 
+stoker_dracula_1_g	31	0.9032258064516129	23588	27261	 I must have fallen asleep; I h	 I must have fallen asleep and 
+doyle_adventures_9_d	30	0.9333333333333333	10371	25324	 under the impression that he 	 under the impression that I l
+lewis_monk_1_g	30	0.9666666666666667	14071	50040	, and after a moment's pause s	, and after a moment's pause S
+stoker_dracula_9_g	32	0.9375	21342	123	 all that has happened since I c	 all that has happened since we 
+radcliffe_udolpho_41_g	30	0.9333333333333333	3724	15542	, and walked about the room pu	, and walked about the room an
+collins_moonstone_76_d	30	0.9	10319	17428	 to the best of my ability, an	 to the best of my ability. I 
+radcliffe_udolpho_35_g	30	0.9	21034	5919	 the presence of the Count, an	 the presence of the Countess 
+radcliffe_udolpho_35_g	30	0.9	27204	5919	 the presence of the Count, an	 the presence of the Countess 
+christie_styles_4_d	30	0.9333333333333333	15831	5078	 over the beautiful expanse, b	 over the beautiful expanse of

@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_49_g	30	0.9	16898	1682	 insurmountable barrier to the	 insurmountable barriers to ou
+austen_northangerabbey_16_g	33	1.0	2334	9859	 I would have given the world to 	 I would have given the world to 
+stoker_dracula_1_g	30	0.9	16488	13053	 the beauty of the scene, some	 the beauty of the scene as we
+radcliffe_udolpho_12_g	30	0.9	1185	25102	ow little do you know me. Huma	ow little do you know me, mada
+radcliffe_udolpho_49_g	33	0.9090909090909091	11765	1170	 of grief. Soon after my arrival 	 of grief. Soon after her arrival
+radcliffe_udolpho_54_g	30	0.9	15804	18796	 her on the following day. My 	 her on the following day. Emi
+stoker_dracula_16_g	31	1.0	13739	5804	 felt my heart sink within me. 	 felt my heart sink within me. 

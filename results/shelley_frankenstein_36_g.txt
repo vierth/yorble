@@ -1,0 +1,30 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_35_g	31	0.967741935483871	3167	7796	 of natural philosophy which re	 of natural philosophy which he
+shelley_frankenstein_35_g	32	0.90625	3167	14336	 of natural philosophy which rel	 of natural philosophy in which 
+collins_moonstone_88_d	30	0.9333333333333333	13003	7721	 would have been discovered mo	 would have been discovered in
+doyle_signoffour_10_d	30	0.9	5244	2499	 succeeded in discovering the 	 succeeded in dissolving the h
+poe_pitandpendulum_1_g	30	0.9333333333333333	10621	8271	ing from their sockets in atte	ing from their sockets, in the
+doyle_signoffour_12_d	30	0.9333333333333333	10462	47635	 at the top of the house, and 	 at the top of the house, in M
+shelley_frankenstein_39_g	30	0.9	8562	11543	 No one can conceive the varie	 No one can conceive the angui
+lewis_monk_11_g	33	0.9090909090909091	2318	865	as well acquainted with the theor	as well acquainted with the natur
+austen_northangerabbey_23_g	30	0.9333333333333333	11428	12997	 well remembered the words of 	 well remembered the doors of 
+walpole_castleofotranto_2_g	30	0.9	664	18354	 with an air of frankness and 	 with an air of firmness and a
+walpole_castleofotranto_2_g	30	0.9	3436	19095	e acquainted with the science 	e acquainted with the secret a
+collins_hauntedhotel_17_u	31	0.9032258064516129	2320	14362	 well acquainted with the theor	 well acquainted with the peera
+shelley_frankenstein_30_g	34	0.9411764705882353	3428	1478	 I became acquainted with the scie	 I became acquainted with the cele
+lewis_monk_3_g	32	0.90625	2318	49030	as well acquainted with the theo	as well acquainted with the road
+radcliffe_udolpho_39_g	30	0.9	11526	2845	 think of us with affection, a	 think of you with affection? 
+shelley_frankenstein_34_g	30	0.9	3167	7590	 of natural philosophy which r	 of natural philosophy with wh
+doyle_signoffour_8_d	30	0.9333333333333333	2320	10937	 well acquainted with the theo	 well acquainted with the hous
+doyle_signoffour_4_d	30	0.9333333333333333	1744	5061	, and there is nothing more to	, and there is nothing more un
+walpole_castleofotranto_3_g	31	0.9032258064516129	12202	32533	 now convinced that he was just	 now convinced that he was not 
+radcliffe_udolpho_34_g	32	0.90625	3437	46858	 acquainted with the science of 	 acquainted with the secret of t
+lewis_monk_4_g	30	0.9	2325	80366	 acquainted with the theory an	 acquainted with the holy Man 
+shelley_frankenstein_42_g	32	0.9375	2318	2406	as well acquainted with the theo	as well acquainted with the path
+walpole_castleofotranto_1_g	32	0.90625	2320	12484	 well acquainted with the theory	 well acquainted with her father
+walpole_castleofotranto_1_g	30	0.9333333333333333	14077	32686	 had been guilty of a crime. S	 had been guilty of no crime. 
+doyle_adventures_5_d	30	0.9	2667	37251	ly attracted my attention was 	ly attracted my attention, sin
+lewis_monk_7_g	30	0.9	3167	20916	 of natural philosophy which r	 of natural philosophy, his pr
+radcliffe_udolpho_41_g	36	0.9444444444444444	7024	17188	 concerning the manner in which I sh	 concerning the manner, in which she
+radcliffe_udolpho_41_g	33	0.9090909090909091	13003	13853	 would have been discovered more 	 would have been discovered long 
+collins_moonstone_65_d	31	0.9354838709677419	2317	17276	 as well acquainted with the th	 as well acquainted with those 

@@ -1,0 +1,40 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_88_d	30	0.9666666666666667	1742	8366	 under the circumstances. In o	 under the circumstances. I on
+collins_moonstone_88_d	30	0.9	2602	108059	 appeared on the threshold--an	 appeared on the threshold, in
+collins_moonstone_88_d	33	0.9090909090909091	4979	65299	 have taken possession of this re	 have taken possession of the key
+poe_reddeath_1_g	40	0.975	7175	12006	 which had distinguished him from the ti	 which had distinguished him from the fi
+austen_northangerabbey_10_g	31	0.9032258064516129	255	5198	 towards the close of the Londo	 towards the close of their con
+austen_northangerabbey_10_g	30	0.9333333333333333	2141	44	 the evening at the theatre. N	 the evening at the theatre; a
+collins_hauntedhotel_13_u	35	0.9714285714285714	498	2202	when the servant announced that a l	when the servant announced that 'a 
+collins_moonstone_45_d	30	0.9	1742	2653	 under the circumstances. In o	 under the circumstances, I be
+stoker_dracula_22_g	30	0.9	1742	22713	 under the circumstances. In o	 under the circumstances it wo
+collins_hauntedhotel_2_u	32	0.90625	1600	10929	 his rounds among the patients w	 his rounds among his patients. 
+collins_hauntedhotel_4_u	32	0.90625	2633	6222	 laid her hand on his arm. 'I en	 laid her hand on his arm. 'You 
+collins_hauntedhotel_4_u	30	0.9	7939	12172	ou have disappointed me.' Her 	ou have disappointed me,' she 
+collins_moonstone_68_d	30	0.9333333333333333	1740	24338	en under the circumstances. In	en under the circumstances. He
+collins_moonstone_89_d	36	0.9166666666666666	3957	16112	 something entirely new in his profe	 something entirely new in his exper
+collins_moonstone_89_d	30	0.9333333333333333	4745	22518	, for many a long year past, t	, for many a long year past. Y
+collins_moonstone_81_d	35	0.9142857142857143	4102	7473	produced a strong impression of som	produced a strong impression on him
+christie_secretadversary_25_d	30	0.9333333333333333	1742	14724	 under the circumstances. In o	 under the circumstances. It w
+collins_moonstone_47_d	30	0.9666666666666667	7203	2425	 from the time when he was a s	 from the time when he was a b
+lewis_monk_9_g	34	0.9117647058823529	6753	30565	 what is the matter with you.' He 	 what is the matter with you. You 
+collins_hauntedhotel_26_u	36	0.9166666666666666	4101	4930	 produced a strong impression of som	 produced a strong impression on him
+collins_moonstone_85_d	36	1.0	9016	15413	 rose, and took a turn in the room. 	 rose, and took a turn in the room. 
+collins_hauntedhotel_23_u	35	0.9142857142857143	4282	8518	ithout waiting to be answered, she 	ithout waiting to be answered. Her 
+collins_moonstone_80_d	30	0.9	1742	1331	 under the circumstances. In o	 under the circumstances, to o
+doyle_adventures_4_d	30	0.9	1742	10667	 under the circumstances. In o	 under the circumstances, and 
+collins_hauntedhotel_6_u	30	0.9333333333333333	1740	1345	en under the circumstances. In	en under the circumstances. Li
+collins_moonstone_74_d	30	0.9	1742	19863	 under the circumstances. In o	 under the circumstances. She 
+stoker_dracula_3_g	31	0.9032258064516129	1742	13227	 under the circumstances. In ot	 under the circumstances I felt
+collins_moonstone_84_d	30	0.9	3987	8460	 professional experience. 'It 	 professional experience to be
+christie_secretadversary_5_d	32	0.90625	3319	4829	e was of middle height, and (app	e was of middle height, and squa
+walpole_castleofotranto_5_g	31	0.9032258064516129	4984	33397	 taken possession of this resol	 taken possession of his soul. 
+lewis_monk_1_g	32	1.0	5132	21162	he sound of his voice seemed to 	he sound of his voice seemed to 
+collins_moonstone_50_d	34	0.9411764705882353	1952	18457	 in undisturbed possession of the 	 in undisturbed possession of him 
+collins_moonstone_50_d	30	0.9	8631	1443	or you would never have come h	or you would never have compro
+stoker_dracula_9_g	30	0.9	7216	21977	e when he was a student, he st	e when he was a student here. 
+christie_styles_3_d	30	0.9	1742	9426	 under the circumstances. In o	 under the circumstances.” Joh
+collins_hauntedhotel_10_u	30	0.9333333333333333	3657	2194	 her ghastly complexion, and w	 her ghastly complexion and he
+collins_moonstone_76_d	30	0.9	1742	17319	 under the circumstances. In o	 under the circumstances; and 
+collins_moonstone_49_d	39	0.9487179487179487	1952	13335	 in undisturbed possession of the consu	 in undisturbed possession of the Honou
+collins_moonstone_65_d	34	0.9117647058823529	8542	1365	 quite unconnected with the state 	 quite unconnected with the case w

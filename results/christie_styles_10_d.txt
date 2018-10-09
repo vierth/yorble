@@ -1,0 +1,60 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_85_d	33	0.9090909090909091	8165	25794	he caught me by the arm, and whir	he caught me by the arm, and barr
+collins_moonstone_85_d	30	0.9	21750	1262	. There was a moment when you 	. There was a moment when I th
+doyle_adventures_12_d	30	0.9	10980	28111	, walking up and down the room	, walking up and down on the o
+doyle_adventures_12_d	31	0.9032258064516129	10989	41895	 up and down the room, her head	 up and down the room, his hand
+doyle_baskervilles_12_u	30	0.9	3320	21469	 shrugged his shoulders. “Sure	 shrugged his shoulders. “One 
+stoker_dracula_10_g	31	0.9032258064516129	922	21532	here was no possibility of bein	here was no possibility of an o
+stoker_dracula_10_g	40	0.925	12296	16662	 There was a smile on her face, and her 	 There was a smile on her face, and it w
+collins_moonstone_80_d	32	0.90625	19343	5458	 sorry for that,” he said. “I al	 sorry for this,” he said. “I ha
+doyle_baskervilles_7_u	41	0.926829268292683	6256	5587	 thoughts were interrupted by the sudden 	 thoughts were interrupted by the sound o
+christie_styles_11_d	38	0.9473684210526315	3311	3396	?” Poirot shrugged his shoulders. “Sur	?” Poirot shrugged his shoulders. “Cer
+christie_styles_11_d	34	0.9411764705882353	7062	12018	 Cavendish, Esq., Styles Court, St	 Cavendish, Esq., Styles Court.” S
+christie_styles_11_d	55	0.9272727272727272	21336	18913	 the dispensary in the Red Cross Hospital at Tadminster	 the dispensary at the Red Cross Hospital in Tadminster
+christie_styles_11_d	31	0.9354838709677419	22381	19350	Hydro-chloride of strychnine,” 	Hydro-chloride of Strychnine.” 
+christie_styles_11_d	31	0.9354838709677419	22381	20339	Hydro-chloride of strychnine,” 	Hydro-chloride of Strychnine?” 
+christie_styles_11_d	30	0.9	22569	19351	ydro-chloride of strychnine ve	ydro-chloride of Strychnine.” 
+christie_styles_11_d	30	0.9	22569	20340	ydro-chloride of strychnine ve	ydro-chloride of Strychnine?” 
+stoker_dracula_12_g	35	0.9142857142857143	922	32157	here was no possibility of being ab	here was no possibility of making a
+christie_styles_5_d	35	1.0	3311	208	?” Poirot shrugged his shoulders. “	?” Poirot shrugged his shoulders. “
+christie_styles_5_d	33	1.0	3313	37706	 Poirot shrugged his shoulders. “	 Poirot shrugged his shoulders. “
+christie_styles_5_d	36	0.9166666666666666	15765	8368	 Mrs. Inglethorp had written on the 	 Mrs. Inglethorp had written the nig
+christie_styles_5_d	31	0.9032258064516129	21659	38848	.” Poirot shook his head. “No, 	.” Poirot shook his head. “Why 
+christie_styles_5_d	30	1.0	24041	28967	. Mary Cavendish was standing 	. Mary Cavendish was standing 
+lewis_monk_4_g	31	0.9032258064516129	17355	70251	 I had almost forgotten that en	 I had almost forgotten the spe
+collins_moonstone_74_d	30	0.9	5597	19863	 under the circumstances. “Tha	 under the circumstances. She 
+christie_styles_12_d	30	0.9	5736	3352	 that Mrs. Cavendish does not 	 that Mrs. Cavendish was not s
+christie_styles_12_d	30	0.9	5736	4629	 that Mrs. Cavendish does not 	 that Mrs. Cavendish has not a
+christie_styles_12_d	30	0.9	15554	12033	 the following morning, and th	 the following morning, found 
+christie_styles_12_d	30	0.9	20592	12223	 of Mademoiselle Cynthia. They	 of Mademoiselle Cynthia. I ha
+christie_styles_12_d	49	0.9591836734693877	21342	16349	ispensary in the Red Cross Hospital at Tadminster	ispensary of the Red Cross Hospital at Tadminster
+christie_styles_2_d	37	0.918918918918919	24041	10108	. Mary Cavendish was standing in the 	. Mary Cavendish was saying in the vo
+christie_styles_8_d	30	0.9	2426	10153	 suggested the possibility tha	 suggested that possibility to
+christie_styles_8_d	35	0.9714285714285714	2949	26635	 know what you are talking about.” 	 know what you are talking about,” 
+christie_styles_8_d	30	0.9666666666666667	4782	20143	,” said Poirot thoughtfully, “	,” said Poirot thoughtfully, a
+christie_styles_8_d	34	0.9117647058823529	8164	1777	 he caught me by the arm, and whir	 he caught me by the arm, and drew
+christie_styles_8_d	31	0.9032258064516129	13843	22422	” “What do you mean?” She answe	” “What do you mean?” she asked
+christie_styles_8_d	34	0.9117647058823529	18392	20143	,” said Poirot thoughtfully, “and 	,” said Poirot thoughtfully, as we
+christie_styles_8_d	30	0.9	21660	10111	” Poirot shook his head. “No, 	” Poirot shook his head. “But 
+lewis_monk_7_g	30	0.9	6623	12512	 uttered an exclamation of sat	 uttered an exclamation of joy
+christie_styles_1_d	40	1.0	21351	6307	 in the Red Cross Hospital at Tadminster	 in the Red Cross Hospital at Tadminster
+christie_secretadversary_3_d	30	0.9	15554	7714	 the following morning, and th	 the following morning and pro
+lewis_monk_6_g	30	0.9	11102	44076	 She stopped suddenly, and loo	 She stopped suddenly, and utt
+austen_northangerabbey_16_g	34	0.9117647058823529	6360	10220	 there was no one else in the room	 there was nobody else in the room
+radcliffe_udolpho_14_g	30	0.9	15554	19291	 the following morning, and th	 the following morning; and ad
+christie_styles_3_d	30	0.9	5597	9426	 under the circumstances. “Tha	 under the circumstances.” Joh
+christie_styles_3_d	30	0.9	15581	1731	 there was no sign of the Scot	 there was no sign of the room
+doyle_scarlet_4_d	30	0.9	468	5327	, in all probability, been the	, in all probability. When the
+doyle_scarlet_4_d	32	0.90625	13841	10433	s.” “What do you mean?” She answ	s.” “What do you mean?” The cons
+christie_secretadversary_24_d	34	0.9117647058823529	6623	10499	 uttered an exclamation of satisfa	 uttered an exclamation of astonis
+radcliffe_udolpho_54_g	30	0.9	22311	4060	 in this particular little bot	 in this particular. Little mo
+collins_moonstone_76_d	31	0.9032258064516129	7300	13263	 of your way of thinking. It is	 of your way of thinking,” I sa
+christie_secretadversary_15_d	30	0.9	3320	2208	 shrugged his shoulders. “Sure	 shrugged his shoulders. “You 
+stoker_dracula_21_g	30	0.9	22353	19115	 looked out of the window. “Hy	 looked out of the window. The
+collins_moonstone_65_d	31	0.9032258064516129	468	9848	, in all probability, been the 	, in all probability, made the 
+christie_styles_4_d	30	0.9333333333333333	4129	31458	,” replied Poirot placidly. “B	,” replied Poirot placidly. I 
+christie_styles_4_d	32	0.96875	4782	4601	,” said Poirot thoughtfully, “th	,” said Poirot thoughtfully, “it
+christie_styles_4_d	30	0.9666666666666667	4782	14841	,” said Poirot thoughtfully, “	,” said Poirot thoughtfully. “
+christie_styles_4_d	34	0.9117647058823529	18392	4601	,” said Poirot thoughtfully, “and 	,” said Poirot thoughtfully, “it w
+christie_styles_4_d	30	0.9666666666666667	18392	14841	,” said Poirot thoughtfully, “	,” said Poirot thoughtfully. “
+christie_styles_4_d	30	0.9	21657	2802	me.” Poirot shook his head. “N	me.” Poirot shook his head ene

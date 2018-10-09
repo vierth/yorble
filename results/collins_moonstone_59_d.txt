@@ -1,0 +1,170 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_55_d	30	0.9	2919	15849	 Superintendent Seegrave (who 	 Superintendent Seegrave, of y
+collins_moonstone_55_d	30	0.9	2919	35002	 Superintendent Seegrave (who 	 Superintendent Seegrave’s to 
+collins_moonstone_55_d	30	0.9	2919	39684	 Superintendent Seegrave (who 	 Superintendent Seegrave also 
+collins_moonstone_55_d	30	0.9	2919	43492	 Superintendent Seegrave (who 	 Superintendent Seegrave that 
+collins_moonstone_55_d	46	0.9130434782608695	19962	24541	or the life of me, I couldn’t help following t	or the life of me, I couldn’t help looking out
+collins_moonstone_55_d	31	0.9032258064516129	26881	20138	 Superintendent Seegrave had le	 Superintendent Seegrave, and, 
+collins_moonstone_55_d	31	0.9032258064516129	26881	32396	 Superintendent Seegrave had le	 Superintendent Seegrave at the
+collins_moonstone_55_d	30	0.9	26881	39684	 Superintendent Seegrave had l	 Superintendent Seegrave also 
+collins_moonstone_55_d	32	0.90625	26881	43492	 Superintendent Seegrave had lef	 Superintendent Seegrave that he
+doyle_baskervilles_5_u	33	0.9696969696969697	18890	18089	 I’m not easy in my mind about ta	 I’m not easy in my mind about it
+doyle_baskervilles_5_u	32	0.90625	25611	10081	 laid his hand on my arm. “Is an	 laid his hand upon my arm. “If 
+collins_moonstone_54_d	35	0.9142857142857143	27729	19249	 backwards and forwards there as if	 backwards and forwards, here and i
+christie_styles_7_d	37	0.918918918918919	147	19515	, like a man whose mind was made up, 	, like a man whose mind is made up. “
+christie_styles_7_d	32	0.90625	18345	5095	, before I could put in a word e	, before I could get in a word, 
+christie_styles_7_d	32	0.90625	27487	1379	 was looking up attentively at o	 was looking attentively at Poir
+shelley_frankenstein_43_g	30	0.9666666666666667	13776	11322	n about a quarter of an hour f	n about a quarter of an hour s
+collins_moonstone_63_d	33	0.9393939393939394	205	8553	. “Mr. Betteredge,” he said, “as 	. “Mr. Betteredge,” he said, “I h
+collins_moonstone_63_d	32	0.90625	4294	10414	, Mr. Betteredge?” I answered, “	, Mr. Betteredge,” he answered, 
+collins_moonstone_63_d	77	0.922077922077922	6282	5405	 that the Shivering Sand seemed to draw her to it against her own will, whene	 that the Shivering Sand seemed to draw her to it against her will, and wonde
+collins_moonstone_63_d	30	0.9333333333333333	7586	9573	, Mr. Betteredge,” he said; “a	, Mr. Betteredge,” he said. “S
+collins_moonstone_63_d	30	0.9333333333333333	19732	4529	,” I heard the Sergeant say, “	,” I heard the Sergeant say to
+collins_moonstone_63_d	33	0.9090909090909091	23742	9573	, Mr. Betteredge,” he said. “I am	, Mr. Betteredge,” he said. “She 
+collins_moonstone_71_d	33	0.9090909090909091	29412	128	. Samuel, the footman, was the fi	. Samuel, the footman, was sent f
+doyle_adventures_10_d	30	0.9	900	7891	 the disappearance of the Diam	 the disappearance of the brid
+doyle_adventures_10_d	30	0.9	900	14121	 the disappearance of the Diam	 the disappearance of the brid
+collins_moonstone_57_d	31	0.9032258064516129	10436	11476	,” said the Sergeant, “the more	,” said the Sergeant, “the sear
+collins_moonstone_57_d	30	0.9333333333333333	20840	10231	 “The Last Rose of Summer” as 	 “The Last Rose of Summer” sof
+collins_moonstone_57_d	31	0.9032258064516129	22913	9379	,” answered the Sergeant. “Ask 	,” answered the Sergeant, “she 
+collins_moonstone_57_d	30	0.9	25565	5425	” Sergeant Cuff stopped short 	” Sergeant Cuff stopped her by
+collins_moonstone_57_d	31	0.9032258064516129	26881	8112	 Superintendent Seegrave had le	 Superintendent Seegrave,” adde
+collins_moonstone_57_d	32	0.90625	28097	10230	d “The Last Rose of Summer” at t	d “The Last Rose of Summer” soft
+doyle_adventures_6_d	50	0.94	876	38039	 with being concerned in the disappearance of the 	 with being concerned in the disappearance of Mr. 
+radcliffe_udolpho_38_g	31	0.9032258064516129	17364	8053	 you may depend upon it, she wi	 you may depend upon it, shall 
+radcliffe_udolpho_51_g	38	0.9210526315789473	13675	24260	 partly for the purpose of clearing Ro	 partly for the purpose of hearing of 
+radcliffe_udolpho_5_g	30	0.9	28848	18049	 resolved to leave the house. 	 resolved to leave them here. 
+collins_moonstone_68_d	32	0.90625	13377	23427	 the loss of the Moonstone, the 	 the loss of the Moonstone, and 
+collins_moonstone_69_d	31	0.9032258064516129	5119	15983	he best detective officers I kn	he best detective officer in En
+collins_moonstone_64_d	30	0.9	14744	4895	,” says the Sergeant. “And I s	,” says the Sergeant. “When I 
+collins_moonstone_89_d	30	0.9333333333333333	8395	21758	,” said the Sergeant. “I want 	,” said the Sergeant. “I was j
+collins_moonstone_89_d	31	0.9032258064516129	22172	20200	 the Sergeant, shaking his head	 the Sergeant, patting his head
+collins_moonstone_89_d	31	0.9032258064516129	22913	32557	,” answered the Sergeant. “Ask 	,” answered the Sergeant. “See 
+collins_moonstone_89_d	34	0.9117647058823529	27514	27693	 at one particular window, on the 	 at one particular window at the t
+collins_moonstone_81_d	30	0.9666666666666667	205	2494	. “Mr. Betteredge,” he said, “	. “Mr. Betteredge,” she said, 
+collins_moonstone_81_d	80	0.9125	12798	1945	 a bottle of Dutch gin and a couple of clean pipes on the table, and stared as i	 a bottle of Dutch gin and a couple of clean pipes on the table, and opened the 
+collins_moonstone_81_d	34	0.9117647058823529	13375	9144	to the loss of the Moonstone, the 	to the loss of the Moonstone were 
+radcliffe_udolpho_39_g	30	0.9	17779	15147	 her present situation, she wo	 her present situation, that o
+poe_marieroget_1_d	30	0.9	900	66423	 the disappearance of the Diam	 the disappearance of this sam
+poe_marieroget_1_d	33	0.9090909090909091	10043	94173	here would have been the need of 	here would have been no need of r
+poe_marieroget_1_d	30	0.9	11350	66765	 a visit to some friends of he	 a visit to some friend in the
+doyle_scarlet_3_d	30	0.9	27729	18384	 backwards and forwards there 	 backwards and forwards throug
+collins_moonstone_47_d	30	0.9	17522	6740	 my lady’s establishment, I co	 my lady’s establishment, as w
+christie_secretadversary_6_d	30	0.9	8700	2444	. “There’s something to be sai	. “There’s something of the si
+austen_northangerabbey_9_g	30	0.9	12050	13208	e was in the habit of going; a	e was in the habit of judging 
+radcliffe_udolpho_1_g	30	0.9	900	24016	 the disappearance of the Diam	 the disappearance of the pict
+collins_moonstone_58_d	40	0.925	205	6754	. “Mr. Betteredge,” he said, “as you hav	. “Mr. Betteredge,” he said, “have you a
+collins_moonstone_58_d	30	0.9333333333333333	7586	9888	, Mr. Betteredge,” he said; “a	, Mr. Betteredge,” he said. “Y
+collins_moonstone_58_d	30	0.9	10416	9884	 you, Mr. Betteredge,” said th	 you, Mr. Betteredge,” he said
+collins_moonstone_58_d	37	0.9459459459459459	10422	17200	Mr. Betteredge,” said the Sergeant, “	Mr. Betteredge,” says the Sergeant, “
+collins_moonstone_58_d	30	0.9	17364	15054	 you may depend upon it, she w	 you may depend upon it the tr
+collins_moonstone_58_d	31	0.9032258064516129	17720	3098	 Rosanna Spearman,” I said. “If	 Rosanna Spearman?” he said. “I
+collins_moonstone_58_d	31	0.9354838709677419	20840	9252	 “The Last Rose of Summer” as h	 “The Last Rose of Summer” to h
+collins_moonstone_58_d	35	0.9142857142857143	23742	9888	, Mr. Betteredge,” he said. “I am i	, Mr. Betteredge,” he said. “You mi
+collins_moonstone_58_d	30	0.9	25917	6557	,” says the Sergeant, “what on	,” says the Sergeant, “that’s 
+collins_moonstone_58_d	32	0.9375	28098	9252	 “The Last Rose of Summer” at th	 “The Last Rose of Summer” to hi
+radcliffe_udolpho_6_g	30	0.9	5677	24193	 at a little distance for what	 at a little distance from whi
+lewis_monk_9_g	30	0.9	27729	60606	 backwards and forwards there 	 backwards and forwards. The A
+collins_moonstone_70_d	30	0.9666666666666667	897	14114	 in the disappearance of the D	 in the disappearance of the M
+collins_moonstone_70_d	31	0.9032258064516129	26063	19532	n’t the shadow of a reason why 	n’t the shadow of a reason for 
+doyle_adventures_12_d	30	0.9666666666666667	18893	22997	m not easy in my mind about ta	m not easy in my mind about th
+doyle_signoffour_7_d	30	0.9	27729	21190	 backwards and forwards there 	 backwards and forwards with o
+radcliffe_udolpho_33_g	31	0.9032258064516129	17779	33222	 her present situation, she wou	 her present situation she shru
+doyle_baskervilles_12_u	31	0.9032258064516129	22880	6351	 “There can’t be a doubt about 	 “There can be no doubt about t
+dickens_christmascarole_4_g	32	0.9375	8594	12151	 went down on his knees on the b	 went down on his knees for the 
+collins_moonstone_56_d	31	0.9032258064516129	1812	14495	 Do you happen to know whether 	 Do you happen to know when it 
+collins_moonstone_56_d	36	0.9166666666666666	2886	12862	. At eleven, on Thursday morning, Su	. At eleven on Thursday morning you 
+collins_moonstone_56_d	30	0.9	2919	16128	 Superintendent Seegrave (who 	 Superintendent Seegrave, on t
+collins_moonstone_56_d	30	0.9	2919	21703	 Superintendent Seegrave (who 	 Superintendent Seegrave was s
+collins_moonstone_56_d	30	0.9	8773	15970	,” remarked the Sergeant. “Her	,” remarked the Sergeant. “It’
+collins_moonstone_56_d	30	0.9	13682	2868	 for the purpose of clearing R	 for the purpose of hearing wh
+collins_moonstone_56_d	30	0.9	17702	318	 be mistaken about Rosanna Spe	 be mistaken about Rosanna, wh
+collins_moonstone_56_d	30	0.9	18320	24770	,” answered Sergeant Cuff, bef	,” answered Sergeant Cuff. We 
+collins_moonstone_56_d	31	0.9354838709677419	20733	5334	” says the Sergeant, with a hea	” says the Sergeant, with a wag
+collins_moonstone_56_d	32	0.96875	20837	23659	 of “The Last Rose of Summer” as	 of “The Last Rose of Summer” so
+collins_moonstone_56_d	30	0.9	20840	23904	 “The Last Rose of Summer” as 	 “The Last Rose of Summer” evi
+collins_moonstone_56_d	30	0.9	22166	17848	” says the Sergeant, shaking h	” says the Sergeant, taking me
+collins_moonstone_56_d	30	0.9	22703	6242	,” says Sergeant Cuff. “You ha	,” says Sergeant Cuff. “But wh
+collins_moonstone_56_d	32	0.90625	24987	5332	t,” says the Sergeant, with the 	t,” says the Sergeant, with a wa
+collins_moonstone_56_d	30	0.9	26161	17848	” says the Sergeant, walking o	” says the Sergeant, taking me
+collins_moonstone_56_d	32	0.90625	26881	3959	 Superintendent Seegrave had lef	 Superintendent Seegrave than Se
+collins_moonstone_56_d	30	0.9	26881	8271	 Superintendent Seegrave had l	 Superintendent Seegrave shoul
+collins_moonstone_56_d	35	0.9142857142857143	26881	9649	 Superintendent Seegrave had left a	 Superintendent Seegrave had alread
+collins_moonstone_56_d	30	0.9333333333333333	26881	18558	 Superintendent Seegrave had l	 Superintendent Seegrave laid 
+collins_moonstone_56_d	30	0.9	26881	21703	 Superintendent Seegrave had l	 Superintendent Seegrave was s
+collins_moonstone_56_d	31	0.9032258064516129	28098	23662	 “The Last Rose of Summer” at t	 “The Last Rose of Summer” soft
+collins_moonstone_56_d	30	0.9	28098	23904	 “The Last Rose of Summer” at 	 “The Last Rose of Summer” evi
+doyle_baskervilles_11_u	31	0.967741935483871	19863	17170	 and judge for yourself.” She t	 and judge for yourself.” The t
+collins_moonstone_80_d	37	0.918918918918919	13375	12282	to the loss of the Moonstone, the spi	to the loss of the Moonstone, is the 
+collins_moonstone_80_d	31	0.967741935483871	18292	6520	, with the greatest pleasure,” 	, with the greatest pleasure.” 
+collins_moonstone_80_d	33	0.9090909090909091	27726	346	ing backwards and forwards there 	ing backwards and forwards betwee
+collins_moonstone_67_d	48	0.9166666666666666	16181	14630	 drop of comfort out of the Dutch bottle. Mrs Yo	 drop of comfort out of the Dutch bottle. I foun
+collins_moonstone_67_d	31	0.9032258064516129	21067	14922	 I leave you to imagine what I 	 I leave you to imagine how I w
+walpole_castleofotranto_4_g	34	0.9705882352941176	3107	10220	 the first opportunity of getting 	 the first opportunity of setting 
+dickens_christmascarole_2_g	31	0.9032258064516129	27562	10502	 at the back of the house. Look	 at the back of the house. It o
+lewis_monk_4_g	30	0.9	3107	9283	 the first opportunity of gett	 the first opportunity of decl
+lewis_monk_4_g	30	0.9666666666666667	5670	37824	 waited at a little distance f	 waited at a little distance, 
+lewis_monk_4_g	30	0.9666666666666667	5670	40844	 waited at a little distance f	 waited at a little distance. 
+lewis_monk_4_g	30	0.9	27726	45753	ing backwards and forwards the	ing backwards and forwards in 
+austen_northangerabbey_28_g	34	0.9117647058823529	3107	1678	 the first opportunity of getting 	 the first opportunity of being su
+collins_moonstone_74_d	34	0.9117647058823529	27726	3029	ing backwards and forwards there a	ing backwards and forwards by the 
+collins_moonstone_72_d	32	0.9375	13377	7606	 the loss of the Moonstone, the 	 the loss of the Moonstone, let 
+collins_moonstone_72_d	32	0.90625	26699	6999	 degraded in my own estimation—I	 degraded in your own estimation
+collins_moonstone_72_d	35	0.9142857142857143	26699	7675	 degraded in my own estimation—I ha	 degraded in my own estimation. If 
+walpole_castleofotranto_1_g	30	0.9	27726	17509	ing backwards and forwards the	ing backwards and forwards in 
+austen_northangerabbey_1_g	30	0.9	27562	3573	 at the back of the house. Loo	 at the back of the house. Suc
+radcliffe_udolpho_22_g	30	0.9666666666666667	18959	6740	. And to tell you the truth, I	. And to tell you the truth, m
+collins_hauntedhotel_11_u	31	0.9032258064516129	15464	2635	, to say the least of it, that 	, to say the least of it, out o
+reeve_oldenglishbaron_	32	0.90625	1137	4235	 instrument in the hands of anot	 instruments in the hands of Pro
+radcliffe_udolpho_10_g	30	0.9	26082	5696	 reason why she should have hi	 reason why he should have pre
+lewis_monk_8_g	30	0.9	5676	27792	d at a little distance for wha	d at a little distance from th
+collins_moonstone_53_d	30	0.9	27729	8926	 backwards and forwards there 	 backwards and forwards betwee
+collins_moonstone_62_d	35	0.9142857142857143	1474	12391	t Cuff stood stock-still, and surve	t Cuff stood stock-still, and addre
+collins_moonstone_62_d	43	0.9069767441860465	10420	11331	, Mr. Betteredge,” said the Sergeant, “the 	, Mr. Betteredge,” said the Sergeant, as if
+collins_moonstone_62_d	30	0.9	14800	11129	 that Rosanna Spearman has a s	 that Rosanna Spearman was mis
+collins_moonstone_62_d	30	0.9	17169	13242	 letter in her hand, and she d	 letter in her hand, and stop 
+collins_moonstone_62_d	31	0.9354838709677419	20840	8903	 “The Last Rose of Summer” as h	 “The Last Rose of Summer” to h
+collins_moonstone_62_d	31	0.9032258064516129	22913	2433	,” answered the Sergeant. “Ask 	,” answered the Sergeant. “If i
+collins_moonstone_62_d	35	0.9428571428571428	26495	2401	 for making the substitute dress. I	 for making the substitute dress,” 
+collins_moonstone_62_d	31	0.9032258064516129	26881	3885	 Superintendent Seegrave had le	 Superintendent Seegrave at Ser
+collins_moonstone_62_d	32	0.9375	28098	8903	 “The Last Rose of Summer” at th	 “The Last Rose of Summer” to hi
+radcliffe_udolpho_12_g	30	0.9	5676	143	d at a little distance for wha	d at a little distance from th
+radcliffe_udolpho_12_g	30	0.9	13682	10391	 for the purpose of clearing R	 for the purpose of pleasing h
+radcliffe_udolpho_41_g	37	0.918918918918919	13675	3130	 partly for the purpose of clearing R	 partly for the purpose of capturing 
+collins_hauntedhotel_15_u	36	0.9722222222222222	15463	7320	e, to say the least of it, that she 	e, to say the least of it, that the 
+collins_moonstone_66_d	41	0.9024390243902439	898	10737	in the disappearance of the Diamond, on e	in the disappearance of the Diamond. She 
+collins_moonstone_66_d	33	0.9090909090909091	4294	11679	, Mr. Betteredge?” I answered, “Y	, Mr. Betteredge,” he answered, “
+collins_moonstone_66_d	30	0.9	7586	9534	, Mr. Betteredge,” he said; “a	, Mr. Betteredge,” he said, wi
+collins_moonstone_66_d	32	0.90625	13377	4314	 the loss of the Moonstone, the 	 the loss of the Moonstone, on T
+collins_moonstone_66_d	30	0.9	18320	384	,” answered Sergeant Cuff, bef	,” answered Sergeant Cuff, “th
+collins_moonstone_66_d	31	0.9032258064516129	22913	9502	,” answered the Sergeant. “Ask 	,” answered the Sergeant. “Go o
+collins_moonstone_66_d	30	0.9666666666666667	23740	9532	on, Mr. Betteredge,” he said. 	on, Mr. Betteredge,” he said, 
+collins_moonstone_66_d	30	0.9	25256	13828	” says the Sergeant. “The whol	” says the Sergeant. “Then I’l
+collins_moonstone_66_d	30	0.9	28721	16806	,” proceeded the Sergeant, tak	,” proceeded the Sergeant, “yo
+collins_moonstone_60_d	30	0.9	2919	9930	 Superintendent Seegrave (who 	 Superintendent Seegrave was w
+collins_moonstone_60_d	33	0.9393939393939394	7586	18828	, Mr. Betteredge,” he said; “and 	, Mr. Betteredge,” he said. “And 
+collins_moonstone_60_d	48	0.9166666666666666	10420	3361	, Mr. Betteredge,” said the Sergeant, “the more 	, Mr. Betteredge,” says the Sergeant, with more 
+collins_moonstone_60_d	32	0.90625	16423	4223	” says the Sergeant. “What is sh	” says the Sergeant; “that is wh
+collins_moonstone_60_d	30	0.9	20733	3378	” says the Sergeant, with a he	” says the Sergeant, with more
+collins_moonstone_60_d	31	0.9032258064516129	22913	9853	,” answered the Sergeant. “Ask 	,” answered the Sergeant. “It m
+collins_moonstone_60_d	37	0.918918918918919	23742	18828	, Mr. Betteredge,” he said. “I am ind	, Mr. Betteredge,” he said. “And mind
+collins_moonstone_60_d	32	0.90625	24988	3377	,” says the Sergeant, with the f	,” says the Sergeant, with more 
+collins_moonstone_60_d	30	0.9	25917	1163	,” says the Sergeant, “what on	,” says the Sergeant, “to cont
+collins_moonstone_60_d	30	0.9	26381	1310	 I must go to Frizinghall tomo	 I must go to Frizinghall myse
+collins_moonstone_60_d	30	0.9	26881	9930	 Superintendent Seegrave had l	 Superintendent Seegrave was w
+christie_secretadversary_10_d	33	1.0	13772	10977	e. In about a quarter of an hour 	e. In about a quarter of an hour 
+doyle_baskervilles_2_u	32	0.90625	12049	13177	he was in the habit of going; an	he was in the habit of smoking a
+doyle_scarlet_1_d	30	0.9	18432	2258	 shillings and sixpences, and 	 shillings and sixpence a day 
+collins_moonstone_76_d	30	0.9	13377	15820	 the loss of the Moonstone, th	 the loss of the Moonstone was
+collins_moonstone_76_d	32	0.9375	13377	21343	 the loss of the Moonstone, the 	 the loss of the Moonstone, out 
+collins_moonstone_49_d	30	0.9	23747	12625	 Betteredge,” he said. “I am i	 Betteredge,” he said. “I shal
+collins_moonstone_49_d	33	0.9090909090909091	23876	11102	 on the tip of my tongue to have 	 on the tip of my tongue to say t
+collins_moonstone_65_d	51	0.9215686274509803	881	17411	 being concerned in the disappearance of the Diamon	 being concerned in the disappearance of the Moonst
+collins_moonstone_65_d	30	0.9	4681	12602	 in custody on suspicion, or l	 in custody on suspicion, goin
+collins_moonstone_65_d	31	0.9032258064516129	8394	20947	y,” said the Sergeant. “I want 	y,” said the Sergeant. “I wish 
+collins_moonstone_65_d	32	0.96875	13374	6567	 to the loss of the Moonstone, t	 to the loss of the Moonstone,” 
+collins_moonstone_65_d	30	0.9333333333333333	18320	14500	,” answered Sergeant Cuff, bef	,” answered Sergeant Cuff, “re
+collins_moonstone_65_d	30	0.9	22912	18572	t,” answered the Sergeant. “As	t,” answered the Sergeant, “re
+collins_moonstone_65_d	31	0.9032258064516129	26879	6632	om Superintendent Seegrave had 	om Superintendent Seegrave. He 
+collins_moonstone_65_d	30	0.9	26881	7852	 Superintendent Seegrave had l	 Superintendent Seegrave. And 
+collins_moonstone_65_d	32	0.90625	28721	18836	,” proceeded the Sergeant, takin	,” proceeded the Sergeant, “and 

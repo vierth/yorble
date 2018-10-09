@@ -1,0 +1,65 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_52_g	30	0.9	15686	12367	 and three in the morning. If 	 and three in the morning the 
+collins_moonstone_79_d	109	0.908256880733945	17211	8654	If time, pains, and money can do it, I will lay my hand on the thief who took the Moonstone.”—I had left Lond	If time, pains, and money can do it, I will lay my hand on the thief who took the Moonstone!” The worthy old 
+doyle_signoffour_4_d	30	0.9	16490	10902	 My first impulse was to consu	 My first impulse was, of cour
+stoker_dracula_23_g	35	0.9142857142857143	14501	5092	fter looking at the direction, and 	fter looking at the direction, open
+collins_moonstone_58_d	31	0.967741935483871	2493	6753	e. “Mr. Betteredge,” she said, 	e. “Mr. Betteredge,” he said, “
+radcliffe_udolpho_6_g	30	0.9	7967	15290	 at some little distance from 	 at some little distance on th
+stoker_dracula_18_g	32	0.90625	10949	35652	 sat down on the slope of the be	 sat down on the side of the bed
+collins_hauntedhotel_26_u	43	0.9069767441860465	7473	4931	produced a strong impression on him. “The S	produced a strong impression on him. If we 
+collins_moonstone_85_d	31	1.0	1644	24990	n Rosanna Spearman’s letter, I 	n Rosanna Spearman’s letter, I 
+collins_moonstone_85_d	30	0.9333333333333333	2716	3645	 turned her back on me, and su	 turned her back on me, and co
+collins_moonstone_85_d	30	0.9	5530	24991	 Rosanna Spearman’s letter. Th	 Rosanna Spearman’s letter, I 
+collins_moonstone_85_d	32	0.90625	8995	4313	 at the Shivering Sand, and the 	 at the Shivering Sand, and of a
+collins_moonstone_85_d	33	0.9090909090909091	17096	1112	ing nearer and nearer to me. I lo	ing nearer and nearer to me. She 
+doyle_signoffour_7_d	30	0.9333333333333333	5236	10918	 at the top of her speed. The 	 at the top of our speed. The 
+doyle_scarlet_13_d	30	0.9333333333333333	13609	14915	s throbbing with excitement fr	s throbbing with excitement. A
+doyle_scarlet_13_d	33	0.9090909090909091	14131	5030	 it was impossible for me to unfa	 it was impossible for me to secu
+dickens_christmascarole_4_g	34	0.9411764705882353	4205	1103	 was the only answer I received. I	 was the only answer he received. 
+collins_moonstone_56_d	30	0.9	15126	22189	 the smear of the paint from t	 the smear of the paint on it.
+collins_moonstone_56_d	97	0.9278350515463918	15463	22132	 whether there is any article of dress in this house with the stain of paint on it. Find out who 	 whether there is any article of dress in this house with the smear of the paint on it. Find out 
+collins_moonstone_56_d	43	0.9069767441860465	15555	22237	 who that dress belongs to. Find out how th	 who that dress belongs to. Find out (third
+collins_moonstone_56_d	35	0.9428571428571428	15560	22242	that dress belongs to. Find out how	that dress belongs to. Find out (th
+collins_moonstone_56_d	240	0.9125	15591	22281	 how the person can account for having been in the room, and smeared the paint between midnight and three in the morning. If the person can’t satisfy you, you haven’t far to look for the hand that took the Diamond.” One after another those 	 how the person can account for having been in this room, and smeared the paint, between midnight and three in the morning. If the person can’t satisfy you, you haven’t far to look for the hand that has got the Diamond. I’ll work this by my
+collins_moonstone_56_d	236	0.9110169491525424	15595	22285	 the person can account for having been in the room, and smeared the paint between midnight and three in the morning. If the person can’t satisfy you, you haven’t far to look for the hand that took the Diamond.” One after another those 	 the person can account for having been in this room, and smeared the paint, between midnight and three in the morning. If the person can’t satisfy you, you haven’t far to look for the hand that has got the Diamond. I’ll work this by my
+collins_moonstone_61_d	30	0.9	14133	14460	t was impossible for me to unf	t was impossible for me to see
+collins_moonstone_80_d	33	0.9696969696969697	9141	12279	 into the loss of the Moonstone w	 into the loss of the Moonstone, 
+shelley_frankenstein_48_g	30	0.9	14126	1646	 that it was impossible for me	 that it was impossible to ret
+collins_moonstone_67_d	30	0.9	2685	9043	s Mr. Franklin Blake.” The gir	s Mr. Franklin Blake.” She lim
+collins_moonstone_67_d	30	0.9	3424	5081	 out of sight and hearing of t	 out of sight and hearing. A s
+collins_moonstone_67_d	33	0.9090909090909091	4107	13061	 have got a letter to give me,” I	 have got a letter to give him.” 
+collins_moonstone_67_d	32	0.90625	4542	10796	 on the top of her crutch. “Oh, 	 on the top of her crutch. “I lo
+collins_moonstone_67_d	30	1.0	7395	3301	 without appearing to be much 	 without appearing to be much 
+collins_moonstone_67_d	30	0.9	8627	5934	 journey to Frizinghall, when 	 journey to Frizinghall, and R
+collins_moonstone_67_d	32	0.90625	8992	3671	ing at the Shivering Sand, and t	ing at the Shivering Sand, when 
+radcliffe_udolpho_34_g	32	0.90625	14131	10654	 it was impossible for me to unf	 it was impossible for her to fe
+christie_styles_5_d	32	0.9375	2020	29433	 the conversation by saying, “Wh	 the conversation by saying: “Th
+lewis_monk_4_g	33	0.9090909090909091	14131	27075	 it was impossible for me to unfa	 it was impossible for me to make
+lewis_monk_4_g	33	0.9090909090909091	14131	52420	 it was impossible for me to unfa	 it was impossible for me to join
+radcliffe_udolpho_50_g	30	0.9	12613	40821	 to pursue the search for the 	 to pursue her search of the g
+collins_moonstone_72_d	32	0.90625	9146	7606	 the loss of the Moonstone were 	 the loss of the Moonstone, let 
+christie_secretadversary_17_d	31	0.9032258064516129	730	2366	 waiting for breakfast at the F	 waiting for breakfast. At ten 
+lewis_monk_10_g	31	0.9032258064516129	14131	23143	 it was impossible for me to un	 it was impossible for them to 
+collins_moonstone_84_d	30	0.9	1645	6104	 Rosanna Spearman’s letter, I 	 Rosanna Spearman’s letter. Th
+collins_moonstone_84_d	30	0.9	2013	431	 opened the conversation by sa	 opened the conversation as so
+collins_moonstone_84_d	36	0.9444444444444444	5530	6104	 Rosanna Spearman’s letter. The addr	 Rosanna Spearman’s letter. The read
+collins_moonstone_84_d	30	0.9333333333333333	5911	10772	 you were staying in the house	 you were staying at the house
+collins_moonstone_84_d	31	0.9032258064516129	8456	9026	 Rosanna Spearman) at the perio	 Rosanna Spearman was the perso
+collins_moonstone_84_d	30	1.0	14575	96	 the letter in my pocket, and 	 the letter in my pocket, and 
+collins_moonstone_84_d	32	0.96875	14575	19378	 the letter in my pocket, and co	 the letter in my pocket, and fo
+lewis_monk_7_g	30	0.9333333333333333	14131	2336	 it was impossible for me to u	 it was impossible for her to 
+collins_moonstone_53_d	32	0.90625	8995	7407	 at the Shivering Sand, and the 	 at the Shivering Sand. Was the 
+collins_moonstone_62_d	35	0.9714285714285714	7607	3459	 a memorandum of the hiding-place. 	 a memorandum of the hiding-place, 
+collins_moonstone_62_d	33	0.9696969696969697	7609	14192	 memorandum of the hiding-place. 	 memorandum of the hiding-place i
+radcliffe_udolpho_12_g	30	0.9333333333333333	14126	21896	 that it was impossible for me	 that it was impossible for Ma
+doyle_scarlet_12_d	34	0.9117647058823529	14888	7871	. There was no mistaking it as an 	. There was no mistaking it for an
+collins_hauntedhotel_10_u	31	0.9032258064516129	17126	3047	 looked back again at the lette	 looked back again at the scree
+collins_moonstone_66_d	35	0.9142857142857143	2497	9536	Mr. Betteredge,” she said, without 	Mr. Betteredge,” he said, with the 
+collins_moonstone_66_d	38	0.9210526315789473	4204	3551	” was the only answer I received. I re	” was the only answer I received. Not 
+collins_moonstone_66_d	30	0.9	9146	4314	 the loss of the Moonstone wer	 the loss of the Moonstone, on
+collins_moonstone_60_d	32	0.90625	8450	4471	ecting Rosanna Spearman) at the 	ecting Rosanna Spearman of the t
+collins_moonstone_76_d	32	0.90625	9146	15820	 the loss of the Moonstone were 	 the loss of the Moonstone was b
+collins_moonstone_76_d	30	0.9	9146	21343	 the loss of the Moonstone wer	 the loss of the Moonstone, ou
+collins_moonstone_76_d	30	0.9	12420	20731	t was equally impossible to pu	t was equally impossible not t
+collins_moonstone_76_d	37	0.918918918918919	14126	18488	 that it was impossible for me to unf	 that it was impossible for her to fo
+collins_moonstone_65_d	31	0.9354838709677419	9144	6568	to the loss of the Moonstone we	to the loss of the Moonstone,” 

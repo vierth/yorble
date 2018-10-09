@@ -1,0 +1,99 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_6_u	30	0.9333333333333333	28858	190	had sufficiently recovered my 	had sufficiently recovered to 
+lewis_monk_4_g	30	0.9333333333333333	8693	93903	 I took the opportunity of whi	 I took the opportunity of tha
+lewis_monk_4_g	41	0.9024390243902439	22624	38303	ou ought to be ashamed of yourself, John 	ou ought to be ashamed of yourself for se
+collins_moonstone_74_d	30	0.9	5791	1654	. Under the circumstances, we 	. Under these circumstances, M
+collins_moonstone_74_d	30	0.9	8693	20726	 I took the opportunity of whi	 I took the opportunity of cal
+collins_moonstone_74_d	38	0.9210526315789473	10841	5292	 for the first time since we had enter	 for the first time since we had parte
+collins_moonstone_74_d	33	0.9090909090909091	27775	12103	. “There was something in that ca	. “There was something in the way
+radcliffe_udolpho_18_g	35	0.9428571428571428	10831	12314	, speaking for the first time since	, speaking for the first time in se
+christie_styles_12_d	33	0.9393939393939394	316	18399	 possible that Mrs. Inglethorp’s 	 possible that Mrs. Inglethorp, w
+christie_styles_12_d	30	0.9	1800	2336	 with Mademoiselle Cynthia. Ye	 with Mademoiselle Cynthia’s r
+christie_styles_12_d	33	0.9696969696969697	3369	10456	 the early hours of the morning, 	 the early hours of the morning a
+christie_styles_12_d	30	0.9	11544	9961	 of Mrs. Inglethorp’s death, w	 of Mrs. Inglethorp’s despatch
+christie_styles_12_d	32	0.90625	14897	6263	 in Mrs. Inglethorp’s room, and 	 in Mrs. Inglethorp’s room, I le
+christie_styles_12_d	30	0.9	14897	12149	 in Mrs. Inglethorp’s room, an	 in Mrs. Inglethorp’s room. “I
+christie_styles_12_d	30	0.9	14897	14717	 in Mrs. Inglethorp’s room, an	 in Mrs. Inglethorp’s room? Th
+christie_styles_12_d	30	0.9	18572	6736	 consequence of that quarrel, 	 consequence of the quarrel sh
+christie_styles_12_d	31	0.9032258064516129	25884	12512	 to Mrs. Inglethorp’s room, as 	 to Mrs. Inglethorp’s room. I a
+christie_styles_12_d	33	0.9090909090909091	26608	10083	 important papers in this despatc	 important papers in this particu
+christie_styles_12_d	32	0.90625	32113	17268	 Mrs. Inglethorp’s medicines?” A	 Mrs. Inglethorp’s medicine was 
+christie_styles_12_d	31	0.9032258064516129	37559	11040	 two possibilities: either he k	 two possibilities. Either her 
+christie_styles_12_d	30	0.9666666666666667	38899	10267	bolted the door leading into h	bolted the door leading into M
+christie_styles_12_d	30	0.9	43042	5891	 80 degrees in the shade. Do n	 80 degrees in the shade. Yet 
+christie_secretadversary_14_d	30	0.9	217	7191	 shrugged his shoulders. “I ca	 shrugged his shoulders. “Ah, 
+christie_secretadversary_14_d	31	0.9354838709677419	18363	3241	?” “What do you mean?” “Your mo	?” “What do you mean?” “You do 
+christie_secretadversary_14_d	30	0.9	37713	7191	 shrugged his shoulders. “How 	 shrugged his shoulders. “Ah, 
+christie_styles_2_d	30	0.9	28967	10108	. Mary Cavendish was standing 	. Mary Cavendish was saying in
+christie_styles_2_d	42	0.9285714285714286	31908	12086	 the open window in the drawing-room. Cynt	 the open window in the drawing-room. Mary
+christie_secretadversary_23_d	31	0.967741935483871	6804	3809	 sat at the head of the table, 	 sat at the head of the table l
+stoker_dracula_24_g	34	0.9117647058823529	5791	21454	. Under the circumstances, we were	. Under the circumstances we agree
+doyle_scarlet_2_d	32	0.90625	5791	3117	. Under the circumstances, we we	. Under these circumstances, I e
+christie_secretadversary_17_d	30	0.9	15899	6173	 “I want to speak to you.” Man	 “I want to speak to you.” She
+christie_secretadversary_17_d	36	0.9166666666666666	28754	5979	e must leave no stone unturned—” He 	e must leave no stone unturned. His 
+lewis_monk_10_g	35	0.9142857142857143	40683	37077	 attention was arrested by a weedy 	 attention was arrested by a deep a
+collins_moonstone_84_d	37	0.9459459459459459	10841	6177	 for the first time since we had ente	 for the first time since we had been
+collins_moonstone_84_d	36	0.9166666666666666	10841	11046	 for the first time since we had ent	 for the first time since I had left
+christie_styles_8_d	31	0.9032258064516129	73	12085	, in lively curiosity. “In the 	, in lively curiosity. “I left 
+christie_styles_8_d	30	0.9	1805	6167	 Mademoiselle Cynthia. Yes. He	 Mademoiselle Cynthia.” “Yes, 
+christie_styles_8_d	30	0.9333333333333333	3794	26034	,” said Poirot gravely, “that 	,” said Poirot gravely, “this 
+christie_styles_8_d	30	0.9333333333333333	21614	23211	 I always told you he would.” 	 I always told you he would mu
+christie_styles_8_d	32	0.90625	22924	22629	are say he soaked fly papers. As	are say he soaked fly paper, as 
+christie_styles_8_d	30	0.9	24245	21598	 Miss Howard,” said Poirot ver	 Miss Howard,” said Poirot sud
+christie_styles_8_d	31	0.9032258064516129	24246	26023	Miss Howard,” said Poirot very 	Miss Howard,” said Poirot grave
+christie_styles_8_d	30	0.9	34695	13028	d me that Mrs. Inglethorp had 	d me that Mr. Inglethorp was l
+christie_styles_8_d	30	0.9	38849	10111	” Poirot shook his head. “Why 	” Poirot shook his head. “But 
+christie_styles_8_d	30	0.9	43482	9549	 against Alfred Inglethorp. Wh	 against Alfred Inglethorp is 
+christie_styles_8_d	30	0.9333333333333333	43482	23940	 against Alfred Inglethorp. Wh	 against Alfred Inglethorp.” “
+christie_secretadversary_5_d	30	0.9333333333333333	31992	4657	 stood aside to let her pass. 	 stood aside to let them pass 
+doyle_adventures_2_d	33	0.9696969696969697	3369	45172	 the early hours of the morning, 	 the early hours of the morning a
+doyle_adventures_2_d	35	0.9142857142857143	11078	1993	 to call upon her this morning, as 	 to call upon me this morning, and 
+doyle_adventures_2_d	34	0.9117647058823529	11379	27423	es. Finally he turned to the lawye	es. Finally he returned to the paw
+christie_styles_1_d	33	0.9090909090909091	4759	4457	 difficult situation for you, Mr.	 difficult situation for you all.
+christie_styles_1_d	32	1.0	21147	6606	.” Miss Howard shook hands with 	.” Miss Howard shook hands with 
+christie_styles_1_d	30	0.9	31900	19758	 through the open window in th	 through the open window, and 
+christie_styles_1_d	40	0.925	41824	19105	 arm, and sank his voice to a whisper: “	 arm, and sank her voice to a whisper. “
+christie_secretadversary_3_d	30	0.9	27489	8740	ed at one another blankly. Poi	ed at one another blankly. “Th
+doyle_signoffour_5_d	30	0.9	25987	8033	s we went up the stairs, John 	s we went up the stairs, for h
+austen_northangerabbey_19_g	31	0.9032258064516129	6483	1031	 could not be unaware of the fa	 could not be aware of the pain
+doyle_adventures_9_d	47	0.9148936170212766	33318	2282	ed, jerking his thumb over his shoulder in the 	ed, jerking his thumb over his shoulder; "he's 
+collins_hauntedhotel_25_u	30	0.9333333333333333	18981	420	 you agree with me that the fa	 you agree with me that the on
+collins_hauntedhotel_25_u	33	0.9090909090909091	39089	420	 you agree with me that the door 	 you agree with me that the one d
+doyle_baskervilles_4_u	33	0.9090909090909091	15075	8488	t I am almost certain that it was	t I am almost certain that this a
+stoker_dracula_9_g	31	1.0	16634	23995	 came to the window and called 	 came to the window and called 
+doyle_scarlet_12_d	39	0.9230769230769231	3369	13432	 the early hours of the morning, John h	 the early hours of the morning, when, 
+christie_styles_3_d	33	0.9696969696969697	13709	1368	 going through Mrs. Inglethorp’s 	 going through Mr. Inglethorp’s r
+christie_styles_3_d	52	0.9807692307692307	23197	6053	. I could see by the expression of his face that he 	. I could see by the expression on his face that he 
+christie_styles_3_d	30	0.9333333333333333	27684	4053	s on the mantelpiece, were sha	s on the mantelpiece, were sur
+christie_styles_3_d	37	0.918918918918919	40783	6069	 the expression on his face that was 	 the expression on his face that he h
+collins_moonstone_60_d	30	0.9	5791	13459	. Under the circumstances, we 	. Under those circumstances, i
+christie_secretadversary_10_d	30	0.9	31992	11245	 stood aside to let her pass. 	 stood aside to let him pass o
+christie_secretadversary_24_d	30	0.9666666666666667	37592	14078	w what was going to happen or 	w what was going to happen to 
+christie_secretadversary_4_d	30	0.9	27778	4195	There was something in that ca	There was something in the qua
+doyle_baskervilles_2_u	33	0.9393939393939394	43434	14685	oroner’s jury returns a verdict o	oroner’s jury returned a verdict 
+radcliffe_udolpho_54_g	30	0.9	3736	1724	 prepare ourselves for the wor	 prepare ourselves for the cha
+collins_moonstone_76_d	30	0.9	18364	21084	” “What do you mean?” “Your mo	” “What do you mean?” “You hav
+christie_secretadversary_15_d	30	0.9	217	2208	 shrugged his shoulders. “I ca	 shrugged his shoulders. “You 
+christie_secretadversary_15_d	30	0.9	217	3020	 shrugged his shoulders. “I ca	 shrugged his shoulders. “My d
+christie_secretadversary_15_d	30	0.9333333333333333	37713	2208	 shrugged his shoulders. “How 	 shrugged his shoulders. “You 
+christie_secretadversary_15_d	30	0.9	37713	3020	 shrugged his shoulders. “How 	 shrugged his shoulders. “My d
+collins_moonstone_65_d	30	0.9	5791	8107	. Under the circumstances, we 	. Under these circumstances, a
+christie_styles_4_d	30	0.9	31	25296	 “Where did you find this?” I 	 “Where did you find it?” “In 
+christie_styles_4_d	30	0.9	11547	5395	 Mrs. Inglethorp’s death, who 	 Mrs. Inglethorp’s death so gr
+christie_styles_4_d	36	0.9166666666666666	12459	8248	.” Poirot nodded thoughtfully. “I se	.” Poirot nodded thoughtfully. “Then
+christie_styles_4_d	30	0.9	12805	13989	s Mrs. Inglethorp herself awar	s Mrs. Inglethorp herself drop
+christie_styles_4_d	30	0.9	14412	9502	 purple despatch-case, which w	 purple despatch-case, with a 
+christie_styles_4_d	30	0.9	14897	27174	 in Mrs. Inglethorp’s room, an	 in Mrs. Inglethorp’s room wit
+christie_styles_4_d	31	0.9032258064516129	14900	29596	 Mrs. Inglethorp’s room, and ha	 Mrs. Inglethorp’s room, was th
+christie_styles_4_d	33	0.9393939393939394	15772	26171	 proclaimed the approach of Manni	 proclaimed the approach of Annie
+christie_styles_4_d	32	1.0	17483	21699	 do with it afterwards?” “Well, 	 do with it afterwards?” “Well, 
+christie_styles_4_d	36	0.9444444444444444	25885	29594	to Mrs. Inglethorp’s room, as he and	to Mrs. Inglethorp’s room, was the d
+christie_styles_4_d	31	0.9032258064516129	32890	17465	” I shrugged my shoulders. I pr	” I shrugged my shoulders. Ther
+christie_styles_4_d	30	0.9333333333333333	32891	31485	 I shrugged my shoulders. I pr	 I shrugged my shoulders. If h
+christie_styles_4_d	43	0.9069767441860465	36453	9759	 of twisted wire through the handle. That s	 of twisted wire through the handle. Next, 
+christie_styles_4_d	36	0.9444444444444444	36841	22409	 in the lock of the despatch-case.” 	 in the lock of the despatch-case up
+christie_styles_4_d	33	0.9696969696969697	38332	16128	 the candle grease on the floor, 	 the candle grease on the floor? 
+christie_styles_4_d	33	0.9090909090909091	38336	30141	 candle grease on the floor, and 	 candle grease on the floor when 
+christie_styles_4_d	35	0.9142857142857143	38336	30333	 candle grease on the floor, and th	 candle grease on the floor, you th
+christie_styles_4_d	30	1.0	39480	1919	 of the scrap of conversation 	 of the scrap of conversation 
+christie_styles_4_d	34	0.9117647058823529	40680	296	 my attention was arrested by a we	 my attention was arrested by the 

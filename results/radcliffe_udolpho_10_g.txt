@@ -1,0 +1,48 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+walpole_castleofotranto_5_g	32	0.90625	32931	2539	t immediately occurred to her, t	t immediately occurred to him to
+lewis_monk_5_g	56	0.9285714285714286	15914	48096	 waited impatiently for the conclusion of the sentence, 	 waited impatiently for the conclusion of the service, a
+lewis_monk_5_g	33	0.9090909090909091	24448	1631	e then proceeded to mention what 	e then proceeded to mention the i
+lewis_monk_6_g	53	0.9056603773584906	15914	17961	 waited impatiently for the conclusion of the sentenc	 waited impatiently for the conclusion of this advent
+lewis_monk_6_g	32	0.90625	34193	55810	 retired to her chamber, where, 	 retired to her chamber. There S
+doyle_adventures_9_d	30	0.9	15959	12891	 sentence, but the words died 	 sentence, but the words came 
+radcliffe_udolpho_12_g	31	0.9032258064516129	4125	12705	 with the consciousness of irre	 with the consciousness of dese
+radcliffe_udolpho_12_g	39	0.9230769230769231	5869	3114	 on the night preceding his departure. 	 on the night preceding her departure f
+radcliffe_udolpho_12_g	32	0.90625	6963	46826	 on the preceding evening had pr	 on the preceding evening, what 
+radcliffe_udolpho_12_g	30	0.9	7888	36993	on of the chateau, and its pro	on of the chateau, and with mo
+radcliffe_udolpho_12_g	30	0.9333333333333333	14889	50866	 she seemed totally to have ab	 she seemed totally to have fo
+radcliffe_udolpho_12_g	33	0.9393939393939394	16371	28704	e paleness of her countenance. Te	e paleness of her countenance, en
+radcliffe_udolpho_12_g	30	0.9	17683	20701	 myself of the permission M. S	 myself of the permission you 
+radcliffe_udolpho_12_g	31	0.9032258064516129	21792	17145	,' replied Madame Cheron, with 	,' replied Madame Cheron, 'but 
+radcliffe_udolpho_12_g	31	0.9032258064516129	21792	42546	,' replied Madame Cheron, with 	,' replied Madame Cheron, 'is t
+radcliffe_udolpho_12_g	30	0.9	21792	43229	,' replied Madame Cheron, with	,' replied Madame Cheron; 'thi
+radcliffe_udolpho_12_g	30	0.9333333333333333	22623	13536	, madam,' said Emily mildly, a	, madam,' said Emily timidly, 
+radcliffe_udolpho_12_g	31	0.9032258064516129	23375	17145	,' replied Madame Cheron, not c	,' replied Madame Cheron, 'but 
+radcliffe_udolpho_12_g	30	0.9	23375	42022	,' replied Madame Cheron, not 	,' replied Madame Cheron, 'a v
+radcliffe_udolpho_12_g	30	0.9	23375	42546	,' replied Madame Cheron, not 	,' replied Madame Cheron, 'is 
+radcliffe_udolpho_12_g	30	0.9333333333333333	24084	46825	, on the preceding evening. Sh	, on the preceding evening, wh
+radcliffe_udolpho_12_g	30	0.9	27480	11513	 the chateau, Madame Cheron ex	 the chateau. Madame Cheron, w
+radcliffe_udolpho_12_g	31	0.967741935483871	30481	2520	 circumstances of her conduct, 	 circumstances of her conduct. 
+radcliffe_udolpho_27_g	31	0.9354838709677419	5623	12970	 inclined to believe that this 	 inclined to believe, that the 
+radcliffe_udolpho_27_g	36	0.9166666666666666	13097	6218	, though she scarcely dared to permi	, though she scarcely dared to belie
+radcliffe_udolpho_27_g	31	0.9032258064516129	23937	323	 the circumstances of his recei	 the circumstances of the prece
+radcliffe_udolpho_27_g	30	0.9	32944	11507	 occurred to her, that he migh	 occurred to her, that she had
+radcliffe_udolpho_27_g	42	0.9523809523809523	33920	11145	 continued to gaze for some time on the sp	 continued to gaze, for some time, on the 
+radcliffe_udolpho_14_g	32	0.9375	8894	3936	 the plains of Languedoc. Then, 	 the plains of Languedoc. The pr
+radcliffe_udolpho_14_g	30	0.9	30477	20819	 the circumstances of her cond	 the circumstances of her depa
+radcliffe_udolpho_49_g	32	0.90625	28487	977	 she seated herself in his chair	 she seated herself in his arm-c
+radcliffe_udolpho_49_g	30	0.9	32515	1853	 where she had so often sat wi	 where she had so often saunte
+radcliffe_udolpho_47_g	35	0.9142857142857143	5582	14113	 of the Marchioness of Villeroi, sh	 of the Marchioness de Villeroi, wh
+radcliffe_udolpho_47_g	30	0.9	5585	16187	 the Marchioness of Villeroi, 	 the Marchioness de Villeroi e
+radcliffe_udolpho_47_g	30	0.9	5678	14295	 there appeared no reason why 	 there appeared no reason to s
+radcliffe_udolpho_47_g	33	0.9090909090909091	7864	4123	 expressing his admiration of the	 expressing their admiration of h
+radcliffe_udolpho_47_g	32	0.90625	9733	12487	 the occasion of her grief, and 	 the occasion of her crime and o
+radcliffe_udolpho_47_g	31	0.9032258064516129	11427	16052	 did not appear to notice her i	 did not appear to notice this 
+radcliffe_udolpho_47_g	34	0.9117647058823529	21571	15061	, which always distinguished him. 	, which always distinguished her, 
+radcliffe_udolpho_54_g	30	0.9666666666666667	4546	32108	 opportunity of explaining it 	 opportunity of explaining to 
+radcliffe_udolpho_54_g	33	0.9393939393939394	5582	21868	 of the Marchioness of Villeroi, 	 of the Marchioness de Villeroi, 
+radcliffe_udolpho_54_g	30	1.0	18711	9735	 the exact resemblance of the 	 the exact resemblance of the 
+radcliffe_udolpho_54_g	30	0.9	20388	6699	' Emily, extremely shocked at 	' Emily, extremely shocked, wo
+radcliffe_udolpho_54_g	30	0.9	20396	31399	 extremely shocked at this coa	 extremely shocked at the cons
+doyle_scarlet_1_d	34	0.9117647058823529	609	9789	 the table, at which she had seen 	 the table at which he had been wo
+stoker_dracula_21_g	30	0.9	16497	29922	 she recovered herself, and sm	 she recovered herself and wen
+radcliffe_udolpho_35_g	31	0.9032258064516129	33657	21996	 she thought she perceived a pe	 she thought she perceived some

@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_19_d	30	0.9333333333333333	18717	75	 the way out of the station, a	 the way out of the station. “
+lewis_monk_7_g	30	0.9	10286	13856	 would be no easy matter. We w	 would be no easy matter, the 
+collins_moonstone_53_d	30	0.9	18093	5699	 the small drawing-room, and o	 the small drawing-room, went 
+collins_moonstone_53_d	42	0.9047619047619048	18324	7257	.” With those words, he went out. I had ma	.” With those words, she went out. It was 
+collins_moonstone_53_d	30	0.9	20126	6008	 the small drawing-room. As I 	 the small drawing-room. I can
+collins_moonstone_62_d	30	0.9	9021	11129	 that Rosanna Spearman was the	 that Rosanna Spearman was mis
+collins_moonstone_62_d	37	0.972972972972973	15018	12740	e. “This is how it stands,” he said. 	e. “This is how it stands,” he said, 
+radcliffe_udolpho_12_g	32	0.9375	4755	37948	 happened to glance towards the 	 happened to glance towards it, 
+collins_hauntedhotel_25_u	31	0.9032258064516129	3823	6087	r what has happened since that 	r what has happened in that hor
+shelley_frankenstein_47_g	30	0.9	919	16316	 exclaimed the old man. “Why i	 exclaimed the old man. ‘Who a
+lewis_monk_1_g	31	0.9032258064516129	2165	52412	 looked at me for a moment, nod	 looked at it for a moment, and
+radcliffe_udolpho_47_g	33	0.9393939393939394	18519	1155	 surprise and disappointment, it 	 surprise and disappointment at t
+collins_moonstone_66_d	43	0.9534883720930233	8036	8983	, on the night when the Diamond was lost?” 	, on the night when the Diamond was lost; a
+collins_moonstone_66_d	31	0.9032258064516129	16649	11365	, I have only to say that it wa	, I have only to say that I am 
+collins_moonstone_60_d	32	1.0	14411	12911	, of all the people in the world	, of all the people in the world
+collins_moonstone_60_d	31	0.9032258064516129	17421	6429	 for the first time in his life	 for the first time in my life,
+collins_moonstone_76_d	30	0.9	19287	8591	 acknowledged that he had writ	 acknowledged that he had acte
+collins_moonstone_49_d	37	0.918918918918919	18519	626	 surprise and disappointment, it bega	 surprise and disappointment, with a 
+collins_moonstone_52_d	30	0.9	9796	18859	. What do you say to that?” “S	. What do you say to that? Eve
+radcliffe_udolpho_35_g	31	0.9032258064516129	17421	21645	 for the first time in his life	 for the first time in my life,

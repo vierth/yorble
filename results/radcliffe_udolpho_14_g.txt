@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_47_g	35	0.9142857142857143	823	15615	 melancholy of her countenance an e	 melancholy of her countenance,' sa
+radcliffe_udolpho_47_g	37	0.9459459459459459	5356	17754	t is unnecessary to say with what emo	t is unnecessary to say with what ple
+christie_secretadversary_10_d	33	0.9090909090909091	4422	683	 had an opportunity of reading th	 had an opportunity of judging th
+radcliffe_udolpho_54_g	32	0.96875	4823	1082	 which were interesting to her, 	 which were interesting to her o
+radcliffe_udolpho_54_g	33	1.0	6207	3160	 brought to her recollection the 	 brought to her recollection the 
+reeve_oldenglishbaron	31	0.9032258064516129	20813	12032	t, and the circumstances of her	t, and the circumstances confir
+radcliffe_udolpho_35_g	33	0.9090909090909091	5757	3502	 the plains of Languedoc; and the	 the plains of Languedoc; but the
+radcliffe_udolpho_35_g	35	0.9142857142857143	5757	20583	 the plains of Languedoc; and then 	 the plains of Languedoc; and, to t

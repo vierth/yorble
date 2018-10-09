@@ -1,0 +1,48 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_13_u	30	0.9666666666666667	15059	10454	he conversation between them a	he conversation between the Ba
+austen_northangerabbey_13_g	33	0.9393939393939394	5585	12229	f Mr. and Mrs. Allen were now at 	f Mr. and Mrs. Allen were not to 
+radcliffe_udolpho_32_g	37	0.918918918918919	7558	7911	 the contemplation of her own unutter	 the contemplation of her own interes
+radcliffe_udolpho_30_g	34	0.9117647058823529	5502	9952	 for the first time since her moth	 for the first time since her aunt
+lewis_monk_11_g	31	0.9032258064516129	7558	46809	 the contemplation of her own u	 the contemplation of those on 
+collins_hauntedhotel_2_u	33	0.9090909090909091	2494	5021	without knowing it herself, into 	without knowing it herself) to be
+austen_northangerabbey_18_g	30	0.9333333333333333	12349	4537	 had the smallest idea of the 	 had the smallest idea of it. 
+radcliffe_udolpho_9_g	30	0.9333333333333333	3620	6071	 began to apologize for his ap	 began to apologize for his in
+collins_moonstone_68_d	30	0.9	3317	15464	 within the last few minutes, 	 within the last five minutes—
+radcliffe_udolpho_52_g	42	0.9047619047619048	2982	285	. It was some time before she could find w	. It was some time before she could answer
+lewis_monk_3_g	34	0.9117647058823529	5502	3766	 for the first time since her moth	 for the first time since her chil
+collins_moonstone_69_d	30	0.9	3317	9657	 within the last few minutes, 	 within the last few moments, 
+poe_usher_1_g	30	0.9666666666666667	7554	18142	t in the contemplation of her 	t in the contemplation of the 
+austen_northangerabbey_7_g	30	0.9	3043	14420	 and other family matters occu	 and other family matters now 
+austen_northangerabbey_7_g	30	0.9333333333333333	6912	1870	 sincerely attached to her, th	 sincerely attached to her, ga
+poe_marieroget_1_d	32	0.90625	7555	109684	 in the contemplation of her own	 in the contemplation of whose w
+austen_northangerabbey_9_g	31	0.9032258064516129	6680	4892	 Catherine did not think it cou	 Catherine did not think the po
+austen_northangerabbey_9_g	31	0.9032258064516129	14697	17617	 heard enough to feel that in s	 heard enough to feel that Mrs.
+collins_moonstone_70_d	30	0.9	13039	15965	ion of their circumstances and	ion of the circumstances was n
+stoker_dracula_18_g	30	0.9	5502	428	 for the first time since her 	 for the first time since I ha
+radcliffe_udolpho_16_g	30	0.9	3707	52977	he had little right to expect 	he had little pity to expect f
+radcliffe_udolpho_16_g	31	0.9032258064516129	6210	50839	, that he might have some expla	, that he might have some priva
+austen_northangerabbey_22_g	30	0.9666666666666667	13457	4102	 constrained to acknowledge hi	 constrained to acknowledge th
+collins_moonstone_56_d	30	0.9	5502	4703	 for the first time since her 	 for the first time in their l
+doyle_baskervilles_9_u	30	0.9	2990	14457	 some time before she could fi	 some time before he could pre
+radcliffe_udolpho_36_g	32	0.90625	2668	22565	 watched the progress of this re	 watched the progress of the bar
+radcliffe_udolpho_34_g	36	0.9444444444444444	2985	9302	t was some time before she could fin	t was some time, before she could gi
+christie_styles_5_d	30	0.9333333333333333	5502	10841	 for the first time since her 	 for the first time since we h
+collins_moonstone_74_d	30	0.9333333333333333	5502	5292	 for the first time since her 	 for the first time since we h
+radcliffe_udolpho_50_g	30	1.0	947	11520	 could no longer refrain from 	 could no longer refrain from 
+radcliffe_udolpho_50_g	30	0.9	2668	5370	 watched the progress of this 	 watched the progress of twili
+radcliffe_udolpho_3_g	30	0.9	2982	5210	. It was some time before she 	. It was some time before St. 
+radcliffe_udolpho_4_g	30	0.9333333333333333	2668	2350	 watched the progress of this 	 watched the progress of the d
+reeve_oldenglishbaron_	30	0.9333333333333333	11588	9104	 the countenance of his son; a	 the countenance of his own ma
+collins_moonstone_84_d	30	0.9	2491	2345	n, without knowing it herself,	n, without knowing it yourself
+collins_moonstone_84_d	31	0.9354838709677419	5501	6176	e for the first time since her 	e for the first time since we h
+collins_moonstone_84_d	30	0.9	5502	11046	 for the first time since her 	 for the first time since I ha
+lewis_monk_7_g	30	0.9	9700	31301	 induced him to represent the 	 induced him to repress them; 
+doyle_adventures_2_d	33	0.9090909090909091	5865	37761	 would have the goodness to show 	 would have the goodness to sit d
+christie_styles_1_d	30	0.9	7558	16542	 the contemplation of her own 	 the contemplation of my own a
+walpole_castleofotranto_5_g	32	0.90625	11584	27737	d in the countenance of his son;	d in the countenances of this un
+lewis_monk_5_g	30	0.9	4127	19424	 received him with the simple 	 received him with a simple re
+austen_northangerabbey_16_g	44	0.9545454545454546	3408	4177	 young man whom she had never seen before. W	 young man, whom she had never seen before, 
+austen_northangerabbey_19_g	30	0.9	4318	2705	e, and entreating him to say n	e, and entreating him to make 
+radcliffe_udolpho_12_g	30	0.9	5789	34870	 of paying his respects to the	 of paying his respects to you
+radcliffe_udolpho_12_g	30	0.9333333333333333	13005	44287	 been totally mistaken in his 	 been totally mistaken in her 
+doyle_baskervilles_2_u	30	0.9	16224	12991	 declared his intention of off	 declared his intention of sta

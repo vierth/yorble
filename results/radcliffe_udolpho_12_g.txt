@@ -1,0 +1,44 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_1_g	31	0.967741935483871	18819	46294	 a clandestine correspondence, 	 a clandestine correspondence w
+lewis_monk_1_g	33	0.9090909090909091	23124	46296	 clandestine correspondence to be	 clandestine correspondence with 
+lewis_monk_1_g	30	0.9	32866	52425	 for a moment, and then said w	 for a moment, and then made t
+radcliffe_udolpho_27_g	31	0.9032258064516129	144	10008	 at a little distance from the 	 at a little distance, on the r
+radcliffe_udolpho_27_g	30	0.9	3665	11278	, and scarcely doubted, that i	, and scarcely doubting, that 
+radcliffe_udolpho_27_g	33	0.9090909090909091	18743	13173	. She determined, however, that n	. She determined, however, to wat
+radcliffe_udolpho_27_g	30	0.9	21686	1241	 ignorant of a circumstance, w	 ignorant of the circumstance 
+radcliffe_udolpho_14_g	30	0.9	1734	1442	 entered the breakfast-room. '	 entered the breakfast room, s
+radcliffe_udolpho_14_g	30	0.9	3688	3109	 that it was Valancourt whom s	 that it was Valancourt himsel
+radcliffe_udolpho_14_g	31	0.9032258064516129	29254	6137	 the idea of Valancourt, to who	 the idea of Valancourt, though
+radcliffe_udolpho_14_g	30	0.9	30330	14029	 the beauties of Tholouse. She	 the beauties of Tholouse, who
+radcliffe_udolpho_14_g	30	0.9	48461	4239	 on the point of leaving the r	 on the point of breaking the 
+radcliffe_udolpho_49_g	30	0.9	11839	268	 On the following morning, she	 On the following morning, Emi
+radcliffe_udolpho_49_g	32	0.9375	11841	1697	n the following morning, she was	n the following morning, she tra
+radcliffe_udolpho_49_g	30	0.9333333333333333	31052	8279	s the Chevalier Valancourt, ma	s the Chevalier Valancourt, wh
+radcliffe_udolpho_49_g	30	0.9333333333333333	31053	10556	 the Chevalier Valancourt, mad	 the Chevalier Valancourt; and
+radcliffe_udolpho_49_g	30	0.9333333333333333	32137	8279	s the Chevalier Valancourt,' s	s the Chevalier Valancourt, wh
+radcliffe_udolpho_49_g	30	0.9	32138	10556	 the Chevalier Valancourt,' sa	 the Chevalier Valancourt; and
+radcliffe_udolpho_49_g	33	0.9090909090909091	37407	8279	s the Chevalier Valancourt,' was 	s the Chevalier Valancourt, who g
+radcliffe_udolpho_49_g	30	0.9	37408	10556	 the Chevalier Valancourt,' wa	 the Chevalier Valancourt; and
+radcliffe_udolpho_49_g	30	0.9	38519	8280	 the Chevalier Valancourt is o	 the Chevalier Valancourt, who
+radcliffe_udolpho_49_g	34	0.9411764705882353	39747	10552	t of the Chevalier Valancourt,' ad	t of the Chevalier Valancourt; and
+radcliffe_udolpho_49_g	36	0.9166666666666666	45271	268	 On the following morning, as Emily 	 On the following morning, Emily lef
+radcliffe_udolpho_49_g	30	0.9	45273	1697	n the following morning, as Em	n the following morning, she t
+radcliffe_udolpho_49_g	32	0.9375	45646	1768	 impatience; and, as she looked 	 impatience; and, as she walked 
+radcliffe_udolpho_49_g	30	0.9333333333333333	47875	4668	 I shall consider him as my ne	 I shall consider him as mine 
+radcliffe_udolpho_47_g	31	0.9354838709677419	9627	10649	e melancholy expression, which 	e melancholy impression, which 
+radcliffe_udolpho_47_g	36	0.9166666666666666	11203	14578	 and, when she returned to the latti	 and, when she returned to the menti
+radcliffe_udolpho_47_g	35	0.9142857142857143	22193	14578	 and, when she returned to the chat	 and, when she returned to the ment
+collins_moonstone_60_d	30	0.9333333333333333	25540	17418	 retired to her own room, the 	 retired to her own room. She 
+radcliffe_udolpho_54_g	41	0.9024390243902439	11838	23566	. On the following morning, she was summo	. On the following morning, she was too m
+radcliffe_udolpho_54_g	32	0.9375	28553	7536	, unable to support herself, she	, unable to support herself, lea
+radcliffe_udolpho_54_g	30	0.9	29712	18370	t immediately, had she not bee	t immediately, had she not wis
+radcliffe_udolpho_54_g	34	0.9411764705882353	44456	23377	, during the greater part of this 	, during the greater part of the n
+radcliffe_udolpho_54_g	32	0.9375	45270	23566	. On the following morning, as E	. On the following morning, she 
+radcliffe_udolpho_54_g	30	0.9	46826	23860	 on the preceding evening, wha	 on the preceding evening, imm
+radcliffe_udolpho_54_g	31	0.9354838709677419	50378	26737	 discovered that Valancourt was	 discovered, that Valancourt, s
+collins_moonstone_76_d	30	0.9333333333333333	21896	18488	 that it was impossible for Ma	 that it was impossible for he
+collins_moonstone_65_d	30	0.9	38799	4360	it is impossible that she can 	it is impossible that you can 
+radcliffe_udolpho_35_g	30	0.9	13928	15145	 'How happened it that you enc	 'How happened it, that you ha
+radcliffe_udolpho_35_g	37	0.918918918918919	27860	20891	 were circumstances, that unitedly fo	 were circumstances, that united to e
+radcliffe_udolpho_35_g	30	0.9	34016	12789	, madam,' said the Count, who 	, madam,' said the Count, 'thi
+radcliffe_udolpho_35_g	30	0.9333333333333333	34016	17226	, madam,' said the Count, who 	, madam,' said the Count, 'to 

@@ -1,0 +1,4 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_5_d	30	0.9	2213	5430	 to receive information, and e	 to receive information, not t
+lewis_monk_5_g	31	0.9032258064516129	7421	47708	 conversations, which had passe	 conversation which had past be
+radcliffe_udolpho_35_g	30	0.9	7421	7351	 conversations, which had pass	 conversation, which was passi

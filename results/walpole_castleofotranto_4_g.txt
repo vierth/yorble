@@ -1,0 +1,44 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_32_g	32	0.9375	37341	6568	 him instant notice, if any one 	 him instant notice if any new o
+lewis_monk_4_g	30	0.9	10220	9283	 the first opportunity of sett	 the first opportunity of decl
+austen_northangerabbey_28_g	40	0.925	10215	1673	 took the first opportunity of setting s	 took the first opportunity of being sud
+radcliffe_udolpho_50_g	32	0.90625	3389	51442	 what was our astonishment when 	 what was her astonishment, when
+radcliffe_udolpho_18_g	35	1.0	7513	3907	d not venture to ask any questions 	d not venture to ask any questions 
+radcliffe_udolpho_13_g	33	0.9090909090909091	35355	47361	, endeavouring to conceal the awe	, endeavouring to conceal her emo
+walpole_castleofotranto_1_g	30	0.9	6039	2272	 terror and amazement, he crie	 terror and amazement. The Pri
+walpole_castleofotranto_1_g	30	0.9333333333333333	6422	41352	 my Lord,” said Hippolita, “re	 my Lord,” said Hippolita, “wh
+walpole_castleofotranto_1_g	32	0.9375	6636	41350	s! my Lord,” said Hippolita; “th	s! my Lord,” said Hippolita, “wh
+walpole_castleofotranto_1_g	30	0.9	9436	37102	” said Manfred: “proceed.” “I 	” said Manfred; “proceed.” “Wh
+walpole_castleofotranto_1_g	30	0.9	12787	43948	 reflected that Isabella had b	 reflected that Isabella was n
+walpole_castleofotranto_1_g	30	0.9666666666666667	19596	1327	 of Otranto should pass from M	 of Otranto “should pass from 
+walpole_castleofotranto_1_g	30	0.9666666666666667	25108	40839	” “Isabella,” said Hippolita, 	” “Isabella,” said Hippolita c
+walpole_castleofotranto_1_g	30	0.9333333333333333	35801	8352	 Alfonso’s statue. Manfred tur	 Alfonso’s statue. Manfred, at
+walpole_castleofotranto_1_g	30	0.9	35998	34453	” “My gracious Lord,” said Hip	” “My gracious Lord,” said Jaq
+walpole_castleofotranto_1_g	30	0.9	36012	41355	 Lord,” said Hippolita, “let u	 Lord,” said Hippolita, “what 
+walpole_castleofotranto_1_g	31	0.9354838709677419	37268	1960	ed one of his attendants to rem	ed one of his attendants to sum
+radcliffe_udolpho_22_g	30	0.9	32	10340	 arrived at the castle, than t	 arrived at the castle, had di
+christie_secretadversary_17_d	31	0.9032258064516129	2291	8221	 the evening of the third they 	 the evening of the third day b
+radcliffe_udolpho_10_g	30	0.9	5977	30477	 the circumstances of the comb	 the circumstances of her cond
+shelley_frankenstein_51_g	30	0.9	1975	281	 the means of obtaining his li	 the means of obtaining the in
+walpole_castleofotranto_5_g	42	0.9285714285714286	211	23954	 to be conveyed into the nearest chamber, 	 to be conveyed to the nearest chamber. Hi
+walpole_castleofotranto_5_g	34	0.9117647058823529	260	24147	, while the surgeons examined his 	, while the surgeons examined Mati
+walpole_castleofotranto_5_g	30	0.9666666666666667	3187	20083	ood heaven receive my soul!” W	ood heaven, receive my soul!” 
+walpole_castleofotranto_5_g	32	0.9375	6421	17637	, my Lord,” said Hippolita, “res	, my Lord,” said Hippolita, “dis
+walpole_castleofotranto_5_g	30	0.9333333333333333	6421	32399	, my Lord,” said Hippolita, “r	, my Lord,” said Hippolita; “t
+walpole_castleofotranto_5_g	32	0.90625	6638	17638	 my Lord,” said Hippolita; “this	 my Lord,” said Hippolita, “disc
+walpole_castleofotranto_5_g	33	1.0	6638	32400	 my Lord,” said Hippolita; “this 	 my Lord,” said Hippolita; “this 
+walpole_castleofotranto_5_g	30	0.9	8759	25382	.” “My Lord,” said Jerome eage	.” “My Lord,” said Jerome, ass
+walpole_castleofotranto_5_g	30	0.9	9343	31322	.” “It is most true,” said Jer	.” “It is most true,” said Man
+walpole_castleofotranto_5_g	31	0.9032258064516129	20305	26550	 my child!” said Hippolita “wha	 my child!” said Hippolita in a
+walpole_castleofotranto_5_g	36	0.9444444444444444	24784	26542	y child! my child;” said Hippolita, 	y child! my child!” said Hippolita i
+walpole_castleofotranto_5_g	31	0.9032258064516129	25493	26550	 my child!” said Hippolita, cat	 my child!” said Hippolita in a
+walpole_castleofotranto_5_g	30	0.9	27799	32867	 the principality, which the d	 the principality, with the ap
+walpole_castleofotranto_5_g	32	0.90625	28912	33174	 love; and it was not till late 	 love; and it was not until afte
+lewis_monk_5_g	30	0.9	36887	45106	r under the protection of the 	r under the protection of a pe
+lewis_monk_6_g	30	0.9	15091	16453	 that Matilda referred to her 	 that Matilda preferred the vi
+lewis_monk_6_g	31	0.9354838709677419	35356	6567	 endeavouring to conceal the aw	 endeavouring to conceal those 
+doyle_adventures_9_d	31	0.9354838709677419	34102	24770	 intention of remaining there, 	 intention of remaining where I
+lewis_monk_1_g	34	0.9117647058823529	1975	26890	 the means of obtaining his libert	 the means of obtaining his object
+radcliffe_udolpho_27_g	30	0.9	5977	323	 the circumstances of the comb	 the circumstances of the prec
+radcliffe_udolpho_54_g	33	0.9696969696969697	17409	11396	e resemblance to the portrait of 	e resemblance of the portrait of 
+radcliffe_udolpho_54_g	32	0.9375	17410	14266	 resemblance to the portrait of 	 resemblance to the portrait at 

@@ -1,0 +1,149 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_7_d	31	0.9032258064516129	9472	6718	 the discovery of the body had 	 the discovery of the body of t
+doyle_scarlet_7_d	34	0.9411764705882353	21327	6718	 the discovery of the body of his 	 the discovery of the body of the 
+doyle_scarlet_7_d	31	0.9032258064516129	25025	9756	t is impossible that she could 	t is impossible that it should 
+austen_northangerabbey_21_g	30	1.0	27655	1552	, about a foot from the ground	, about a foot from the ground
+austen_northangerabbey_21_g	30	0.9	88571	15332	ly out of the question. We thu	ly out of the question. With a
+doyle_signoffour_4_d	42	0.9047619047619048	66409	7168	 was caused by the disappearance of this s	 was caused by the disappearance of Captai
+doyle_signoffour_4_d	31	0.967741935483871	67098	12188	 mysterious disappearance of Ma	 mysterious disappearance of Ca
+doyle_signoffour_6_d	34	0.9411764705882353	56850	10706	ould have anything to do with the 	ould have nothing to do with the m
+reeve_oldenglishbaron	36	0.9166666666666666	10644	8391	 myself at liberty to disclose, but 	 myself at liberty to disclose at th
+reeve_oldenglishbaron	32	0.90625	76680	1314	r judgment in regard to the othe	r judgment, in regard to the pro
+doyle_scarlet_3_d	30	0.9	6928	11927	 murder had been committed,) t	 murder has been committed. It
+doyle_scarlet_3_d	31	0.9032258064516129	25443	11927	 murder had been committed at t	 murder has been committed. It 
+doyle_scarlet_3_d	30	0.9	32097	11927	 murder had been committed. Th	 murder has been committed. It
+doyle_scarlet_3_d	32	0.90625	53981	6943	, under the circumstances, there	, under the circumstances, seeme
+doyle_scarlet_3_d	32	0.90625	89751	12474	 the minuteness with which I hav	 the minuteness with which it wa
+christie_styles_9_d	31	0.9032258064516129	53442	10798	t must have been by an accident	t must have been an accident. B
+stoker_dracula_23_g	30	0.9	53981	1041	, under the circumstances, the	, under the circumstances, of 
+stoker_dracula_23_g	30	0.9	100578	1044	nder the circumstances of larg	nder the circumstances, of abs
+doyle_scarlet_11_d	30	0.9	81344	13514	 difficult to believe that the	 difficult to realize that the
+radcliffe_udolpho_1_g	31	1.0	3560	25673	 it is not surprising that the 	 it is not surprising that the 
+radcliffe_udolpho_1_g	31	0.9032258064516129	66890	42196	 of the same nature, and that, 	 of the same nature as that, fr
+radcliffe_udolpho_1_g	32	0.96875	67675	1204	, with his wife and daughter, en	, with his wife and daughter, on
+radcliffe_udolpho_1_g	32	0.90625	97261	42634	 and the reflection that it had 	 and the reflections that had ca
+collins_moonstone_58_d	30	0.9	53981	10636	, under the circumstances, the	, under those circumstances, a
+christie_styles_10_d	30	0.9	53981	5596	, under the circumstances, the	, under the circumstances. “Th
+christie_styles_13_d	30	0.9	68005	13806	 discovered that she had left 	 discovered that she had told 
+christie_styles_13_d	33	0.9090909090909091	107166	4189	 evidence against himself. His na	 evidence against himself. He wis
+collins_moonstone_77_d	31	0.9032258064516129	16125	5498	 from the spot at which it was 	 from the date at which it was 
+collins_moonstone_70_d	30	0.9	67334	3495	ed, providentially led to her 	ed, providentially led, to rev
+stoker_dracula_18_g	35	0.9428571428571428	33110	22100	 that our first step should be the 	 that our first step should be to a
+collins_hauntedhotel_26_u	30	0.9	44613	21076	 under the influence of the ga	 under the influence of her ow
+collins_hauntedhotel_26_u	30	0.9333333333333333	70194	7637	 between the first and second 	 between the First and Second 
+reeve_oldenglishbaron	36	0.9166666666666666	10644	8391	 myself at liberty to disclose, but 	 myself at liberty to disclose at th
+reeve_oldenglishbaron	32	0.90625	76680	1314	r judgment in regard to the othe	r judgment, in regard to the pro
+radcliffe_udolpho_16_g	30	0.9	12992	67676	that she should never see Mari	that she should never see Vala
+radcliffe_udolpho_16_g	30	0.9	58597	18119	 the conclusion that she, in h	 the conclusion, that she migh
+radcliffe_udolpho_16_g	31	0.9354838709677419	84345	19189	 that, in consequence of these 	 that, in consequence of this e
+radcliffe_udolpho_25_g	31	0.9032258064516129	13810	12503	, after some hesitation, identi	, after some hesitation, desire
+radcliffe_udolpho_25_g	30	0.9	83357	527	 the circumstance of the artic	 the circumstance of the prece
+radcliffe_udolpho_33_g	30	0.9666666666666667	42185	4655	 the difference between the we	 the difference between the wa
+shelley_frankenstein_53_g	30	0.9333333333333333	9472	2512	 the discovery of the body had	 the discovery of the body, wh
+shelley_frankenstein_53_g	34	0.9117647058823529	21324	2509	 of the discovery of the body of h	 of the discovery of the body, whe
+shelley_frankenstein_53_g	30	0.9	36457	1286	 that the body was not thrown 	 that the body was not then co
+doyle_baskervilles_12_u	35	0.9428571428571428	19637	5726	 it is exceedingly improbable that 	 it is exceedingly probable that I 
+doyle_baskervilles_12_u	30	0.9	48088	5726	 it is exceedingly improbable,	 it is exceedingly probable th
+austen_northangerabbey_22_g	30	0.9	15201	3187	ould have been no difficulty i	ould have been so difficult to
+doyle_baskervilles_10_u	30	0.9666666666666667	56854	13736	 have anything to do with the 	 have anything to do with her 
+christie_styles_6_d	30	0.9666666666666667	25032	3054	possible that she could have g	possible that she could have s
+christie_styles_6_d	30	0.9	42578	1525	 at the bottom of the river, w	 at the bottom of the crime, o
+christie_styles_6_d	32	0.90625	75425	4018	 under certain conditions, is no	 under certain conditions, none 
+austen_northangerabbey_14_g	31	0.9032258064516129	75944	10427	. In the present instance, it a	. In the present instance, she 
+doyle_signoffour_11_d	31	0.9032258064516129	42580	5714	t the bottom of the river, will	t the bottom of the river," sai
+doyle_baskervilles_11_u	30	0.9	51467	330	without reference to the quest	without reference to the notes
+collins_moonstone_61_d	30	0.9	100574	1348	e. Under the circumstances of 	e. Under these circumstances, 
+collins_moonstone_80_d	30	0.9	53982	1331	 under the circumstances, ther	 under the circumstances, to o
+radcliffe_udolpho_36_g	30	0.9333333333333333	49486	12834	 the moment of her leaving her	 the moment of her leaving Par
+reeve_oldenglishbaron	36	0.9166666666666666	10644	8391	 myself at liberty to disclose, but 	 myself at liberty to disclose at th
+reeve_oldenglishbaron	32	0.90625	76680	1314	r judgment in regard to the othe	r judgment, in regard to the pro
+christie_styles_11_d	38	0.9210526315789473	70986	24217	r attention to the fact, that the time	r attention to the fact that the evide
+christie_styles_11_d	30	0.9	83377	17084	 the articles in question havi	 the articles in question migh
+christie_styles_11_d	31	1.0	91477	17079	 that the articles in question 	 that the articles in question 
+stoker_dracula_12_g	30	0.9	27075	16654	 with the action of the rain a	 with the action of tearing, a
+stoker_dracula_12_g	30	0.9	79806	16655	with the action of the rain, a	with the action of tearing, as
+stoker_dracula_12_g	36	0.9166666666666666	113412	26211	 distance from the scene of the atro	 distance from the scene of their la
+dickens_christmascarole_2_g	30	0.9	4614	29267	, the mother and daughter had 	, the mother and daughter laug
+austen_northangerabbey_2_g	30	0.9	56733	10266	 conversation with the gendarm	 conversation with the gentlem
+christie_styles_5_d	31	0.9032258064516129	19884	39106	e that the body must have been 	e that the door must have been 
+christie_styles_5_d	30	0.9	100575	5791	. Under the circumstances of l	. Under the circumstances, we 
+austen_northangerabbey_28_g	33	0.9393939393939394	32300	4865	 under such circumstances as to l	 under such circumstances as woul
+austen_northangerabbey_28_g	30	0.9	37428	4865	 under such circumstances, tha	 under such circumstances as w
+austen_northangerabbey_28_g	30	0.9	47100	18488	, she might have been found fl	, she might have been turned f
+austen_northangerabbey_28_g	35	0.9142857142857143	47711	4865	 under such circumstances it could 	 under such circumstances as would 
+austen_northangerabbey_28_g	30	0.9333333333333333	103514	4865	 under such circumstances is i	 under such circumstances as w
+collins_moonstone_74_d	31	0.9354838709677419	51474	7576	 reference to the question of h	 reference to the question, on 
+collins_moonstone_74_d	30	0.9333333333333333	53980	22821	t, under the circumstances, th	t, under the circumstances, wa
+collins_moonstone_74_d	30	0.9	100574	1653	e. Under the circumstances of 	e. Under these circumstances, 
+radcliffe_udolpho_13_g	31	0.9354838709677419	49324	15270	, as much as possible, the inte	, as much as possible, the sent
+radcliffe_udolpho_13_g	32	0.90625	103888	38448	 present circumstances, and his 	 present circumstances; and she 
+christie_styles_12_d	31	0.9354838709677419	84345	6049	 that, in consequence of these 	 that, in consequence of the Wa
+radcliffe_udolpho_3_g	32	0.90625	13810	7225	, after some hesitation, identif	, after some hesitation, determi
+christie_secretadversary_14_d	30	0.9	75339	4429	 that the girl had been the vi	 that the girl had been with h
+doyle_adventures_5_d	30	0.9	4087	13144	ne of the most remarkable inst	ne of the most remarkable to w
+doyle_adventures_5_d	30	0.9	24325	34281	 had been the victim of a gang	 had been the victim of an unf
+doyle_adventures_5_d	31	0.9354838709677419	42185	28310	 the difference between the wei	 the difference between the mai
+doyle_adventures_5_d	39	0.9487179487179487	62177	34236	, and there can be _no doubt_ that the 	, and there can be no doubt that the de
+doyle_adventures_5_d	30	0.9666666666666667	70016	5967	, as far as I can understand f	, as far as I can understand, 
+doyle_adventures_5_d	30	0.9	75353	34281	 had been the victim of a gang	 had been the victim of an unf
+radcliffe_udolpho_48_g	30	0.9	78792	23427	 in the neighborhood of the Ru	 in the neighbourhood for the 
+radcliffe_udolpho_48_g	31	0.9032258064516129	83357	14302	 the circumstance of the articl	 the circumstances of her parti
+shelley_frankenstein_40_g	30	0.9	6928	2199	 murder had been committed,) t	 murder had been committed and
+shelley_frankenstein_40_g	34	0.9117647058823529	6928	3855	 murder had been committed,) the y	 murder had been committed at the 
+shelley_frankenstein_40_g	36	0.9444444444444444	25439	2195	 the murder had been committed at th	 the murder had been committed and t
+shelley_frankenstein_40_g	38	1.0	25439	3851	 the murder had been committed at the 	 the murder had been committed at the 
+shelley_frankenstein_40_g	30	0.9	32097	2199	 murder had been committed. Th	 murder had been committed and
+shelley_frankenstein_40_g	30	0.9	32097	3855	 murder had been committed. Th	 murder had been committed at 
+stoker_dracula_24_g	31	0.9032258064516129	91573	2349	t seems almost impossible that 	t seems almost impossible to be
+stoker_dracula_24_g	32	0.90625	100575	21454	. Under the circumstances of lar	. Under the circumstances we agr
+reeve_oldenglishbaron	36	0.9166666666666666	10644	8391	 myself at liberty to disclose, but 	 myself at liberty to disclose at th
+reeve_oldenglishbaron	32	0.90625	76680	1314	r judgment in regard to the othe	r judgment, in regard to the pro
+collins_moonstone_73_d	30	0.9	53981	218	, under the circumstances, the	, under the circumstances, as 
+doyle_scarlet_2_d	30	0.9	61607	2500	 had occasion to observe how a	 had occasion to observe when 
+doyle_scarlet_2_d	31	1.0	78611	3998	as some very good reason for do	as some very good reason for do
+doyle_scarlet_2_d	30	0.9	100574	3116	e. Under the circumstances of 	e. Under these circumstances, 
+radcliffe_udolpho_4_g	32	0.9375	68993	12275	 one of the numerous bands of bl	 one of those numerous bands of 
+radcliffe_udolpho_4_g	30	0.9	86616	24967	 would have been scarcely poss	 would have been scarcely prac
+dickens_christmascarole_3_g	30	0.9333333333333333	106666	2324	 would unquestionably have not	 would unquestionably have don
+christie_secretadversary_17_d	30	0.9	60421	2251	 nine o’clock in the morning. 	 nine o’clock in the evening. 
+christie_secretadversary_17_d	33	0.9090909090909091	94077	22461	 have left nothing behind them; f	 have left something behind them 
+collins_moonstone_84_d	32	0.90625	25029	1836	 impossible that she could have 	 impossible that I could have be
+collins_moonstone_84_d	30	0.9	55311	6674	 personal interviews with the 	 personal interview with Rache
+christie_styles_8_d	30	0.9	38707	14629	, with the exception of Le Mon	, with the exception of Lawren
+lewis_monk_7_g	31	0.9032258064516129	44613	17367	 under the influence of the gas	 under the influence of this st
+lewis_monk_7_g	33	0.9393939393939394	91686	12377	 sufficient presence of mind (it 	 sufficient presence of mind to b
+lewis_monk_7_g	47	0.9148936170212766	93391	2840	t, let the consequences be what they may. He co	t, let the consequences be what they might. He 
+doyle_adventures_2_d	30	0.9	60473	46002	 every morning in the week, _w	 every morning in the week. Fr
+doyle_adventures_2_d	31	0.9032258064516129	75944	3028	. In the present instance, it a	. In the present instance I am 
+doyle_adventures_2_d	31	0.9032258064516129	87855	15488	 in different directions, will 	 in different directions until 
+christie_styles_1_d	30	0.9	94125	2876	 would have enabled them to ca	 would have enabled him to hav
+radcliffe_udolpho_10_g	31	0.9032258064516129	109687	30542	 the contemplation of whose won	 the contemplation of those unn
+shelley_frankenstein_51_g	30	0.9	78792	6568	 in the neighborhood of the Ru	 in the neighbourhood of this 
+lewis_monk_8_g	32	0.90625	30842	8270	 was not impossible that either 	 was not impossible; that her re
+lewis_monk_8_g	30	0.9	40632	5507	ed by the presence of the tide	ed by the presence of the Reve
+lewis_monk_6_g	30	0.9	25117	39707	 without being recognized by a	 without being recognised: By 
+radcliffe_udolpho_21_g	31	0.9354838709677419	31814	3445	 the ordinary character of all 	 the ordinary character of a Fr
+radcliffe_udolpho_12_g	32	0.90625	85964	39035	r reasons for believing them so 	r reasons for believing the repo
+radcliffe_udolpho_12_g	42	0.9047619047619048	103884	49961	 his present circumstances, and his wherea	 his present circumstances, and his future
+radcliffe_udolpho_12_g	30	0.9333333333333333	108259	13405	 have taken the liberty of her	 have taken the liberty of wri
+lewis_monk_1_g	30	0.9	75946	26041	In the present instance, it ap	In the present instance, I all
+doyle_baskervilles_4_u	32	0.90625	4087	5254	ne of the most remarkable instan	ne of the most remarkable things
+doyle_baskervilles_4_u	40	0.925	83501	20608	 in the immediate neighborhood of Paris,	 in the immediate neighbourhood of Chari
+radcliffe_udolpho_27_g	31	0.9032258064516129	83356	322	t the circumstance of the artic	t the circumstances of the prec
+radcliffe_udolpho_14_g	31	0.9032258064516129	67955	19617	 be beyond the view of the boat	 be beyond the view of these ho
+collins_hauntedhotel_15_u	31	0.967741935483871	91412	1037	 I have already mentioned the s	 I have already mentioned, the 
+collins_moonstone_66_d	30	0.9	66423	10739	 the disappearance of this sam	 the disappearance of the Diam
+radcliffe_udolpho_54_g	30	0.9	71284	25327	ed the first moment of his ret	ed the first moments of his li
+doyle_scarlet_1_d	30	0.9	37430	2314	nder such circumstances, that 	nder such circumstances, I nat
+collins_moonstone_76_d	30	0.9666666666666667	12791	15189	 under similar circumstances b	 under similar circumstances, 
+collins_moonstone_76_d	30	0.9	96911	5078	 it became necessary to attach	 it became necessary to add th
+austen_northangerabbey_3_g	30	0.9	75969	4755	, it appears to me that this ‘	, it appears to me that the us
+collins_moonstone_49_d	30	0.9	13455	10487	day, the twenty-fifth of June,	day, the twenty-first of June;
+reeve_oldenglishbaron	36	0.9166666666666666	10644	8391	 myself at liberty to disclose, but 	 myself at liberty to disclose at th
+reeve_oldenglishbaron	32	0.90625	76680	1314	r judgment in regard to the othe	r judgment, in regard to the pro
+doyle_baskervilles_15_u	31	0.9354838709677419	56850	6909	ould have anything to do with t	ould have nothing to do with it
+doyle_baskervilles_15_u	30	0.9	62184	18440	here can be _no doubt_ that th	here can be no doubt that Stap
+doyle_baskervilles_15_u	32	0.90625	74189	21123	 without causing suspicion or an	 without causing suspicion and i
+austen_northangerabbey_17_g	30	0.9	101889	4779	. The circumstance of the firs	. The circumstances of the mor
+collins_moonstone_65_d	31	0.9032258064516129	10679	5760	 which has no bearing upon the 	 which has any bearing on the m
+radcliffe_udolpho_35_g	30	0.9	9910	1426	he first intelligence of the m	he first intelligence of his d

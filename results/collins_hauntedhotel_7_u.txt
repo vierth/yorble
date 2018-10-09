@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_27_g	31	0.9032258064516129	2233	2264	 I would not even look at the r	 I would not even look at him. 
+collins_hauntedhotel_13_u	30	0.9333333333333333	1048	5987	 the late Lord Montbarry's eld	 the late Lord Montbarry's ser
+collins_hauntedhotel_13_u	43	0.9534883720930233	3345	3517	 the mystery of Ferrari's disappearance was	 the mystery of Ferrari's disappearance see
+collins_hauntedhotel_28_u	30	1.0	1235	7578	 of the commission of inquiry 	 of the commission of inquiry 
+collins_hauntedhotel_28_u	30	0.9	3453	7583	he commission of inquiry was a	he commission of inquiry despa
+collins_hauntedhotel_28_u	33	0.9090909090909091	3577	12121	 the late Lord Montbarry had hire	 the late Lord Montbarry had sent
+austen_northangerabbey_13_g	31	0.9354838709677419	2155	13319	ould have been spared the miser	ould have been spared the distr
+radcliffe_udolpho_30_g	30	0.9	930	7818	 what he considered to be a va	 what he considered to be his 
+collins_moonstone_71_d	42	0.9285714285714286	1432	17315	 to be an exception to general rules. If S	 to be an exception to general rules. Samu
+collins_hauntedhotel_17_u	31	0.9032258064516129	3577	12105	 the late Lord Montbarry had hi	 the late Lord Montbarry was th
+collins_moonstone_69_d	35	0.9142857142857143	3123	8478	ed in the safe keeping of a bank. I	ed in the safe keeping of the bank.
+poe_marieroget_1_d	31	0.9032258064516129	2819	89636	 attempt to discover the presen	 attempt to discover the scene,
+collins_hauntedhotel_26_u	30	0.9333333333333333	2200	15538	 from which she is suffering n	 from which he is suffering, s
+collins_hauntedhotel_26_u	34	0.9705882352941176	2200	15997	 from which she is suffering now. 	 from which he is suffering now. '
+collins_hauntedhotel_5_u	31	0.9032258064516129	3688	7580	 that Lady Montbarry had been a	 that Lady Montbarry had taken 
+collins_hauntedhotel_6_u	30	0.9	3360	328	 Ferrari's disappearance was s	 Ferrari's disappearance, and 
+collins_hauntedhotel_6_u	30	0.9	4548	10230	 that Lord Montbarry was no mo	 that Lord Montbarry was in a 
+christie_secretadversary_14_d	33	0.9090909090909091	755	2439	for the purpose of obtaining furt	for the purpose of obtaining a st
+collins_hauntedhotel_11_u	30	0.9	1048	3923	 the late Lord Montbarry's eld	 the late Lord Montbarry,' she
+collins_hauntedhotel_11_u	31	0.967741935483871	2373	763	 life in the palace at Venice. 	 life in the palace at Venice; 
+collins_hauntedhotel_11_u	44	0.9318181818181818	3345	899	 the mystery of Ferrari's disappearance was 	 the mystery of Ferrari's disappearance, rus
+collins_hauntedhotel_25_u	30	0.9	87	1223	 of Lord Montbarry's death, fr	 of Lord Montbarry's death; he
+collins_hauntedhotel_25_u	30	0.9333333333333333	4939	1223	 of Lord Montbarry's death. He	 of Lord Montbarry's death; he
+collins_moonstone_50_d	35	0.9142857142857143	3125	23723	 in the safe keeping of a bank. If 	 in the safe keeping of a bank in L
+collins_moonstone_50_d	33	0.9090909090909091	3125	23772	 in the safe keeping of a bank. I	 in the safe keeping of the bank 
+doyle_scarlet_8_d	30	0.9	3299	12270	 stress of circumstances, the 	 stress of circumstances to se

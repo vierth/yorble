@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_1_d	31	0.9354838709677419	12851	19230	 I know what I am talking about	 I know what I’m talking about.
+collins_moonstone_53_d	34	0.9117647058823529	2370	7223	 have something to say to you.' He	 have something to say to you then
+collins_hauntedhotel_25_u	37	0.918918918918919	5805	7067	 Lady Montbarry and the children. As 	 Lady Montbarry and the children to e
+collins_hauntedhotel_15_u	35	0.9142857142857143	7856	8302	 with Lord and Lady Montbarry? and 	 with Lord and Lady Montbarry at Pa
+collins_moonstone_66_d	30	0.9	8437	8464	thing to do with it, Mr. Westw	thing to do with it, Mr. Bette
+stoker_dracula_21_g	30	0.9	6122	15760	. The moonlight was bright eno	. The moonlight was so bright 
+collins_moonstone_49_d	33	0.9696969696969697	2369	272	I have something to say to you.' 	I have something to say to you.” 

@@ -1,0 +1,19 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_29_g	30	0.9333333333333333	15355	14337	n the reflection of her own fe	n the reflection of her own ch
+stoker_dracula_6_g	31	0.967741935483871	6622	28552	fter a few minutes' silence, re	fter a few minutes' silence, he
+austen_northangerabbey_9_g	32	0.90625	11442	13493	 Isabella's brother; and her jud	 Isabella's brother; and she had
+radcliffe_udolpho_26_g	30	0.9	10514	13867	 brought them to the door of M	 brought them to the foot of a
+doyle_baskervilles_6_u	36	0.9166666666666666	1835	900	 of a very amiable disposition, and 	 of a very amiable disposition, so t
+austen_northangerabbey_22_g	31	0.9032258064516129	7186	15063	I am particularly fond of it.” 	I am particularly fond of this 
+austen_northangerabbey_14_g	32	0.90625	5469	3826	I am sure,” said Catherine, “I k	I am sure,” cried Catherine, “I 
+austen_northangerabbey_14_g	31	0.9032258064516129	12647	2364	.” “I am very glad to hear you 	.” “I am very glad to hear it i
+doyle_adventures_4_d	31	0.967741935483871	6620	22769	 after a few minutes' silence, 	 after a few minutes' silence. 
+radcliffe_udolpho_36_g	30	0.9	14449	30150	 passed between them, and cont	 passed between them, and how 
+radcliffe_udolpho_34_g	31	0.9032258064516129	693	10030	 since her residence in Bath; a	 since her residence in the cas
+radcliffe_udolpho_13_g	38	0.9210526315789473	13883	46986	t would be impossible for you to be ot	t would be impossible for you to reaso
+austen_northangerabbey_6_g	30	0.9333333333333333	9080	7230	 prevented her by saying, “Nov	 prevented her, by saying, “Fo
+dickens_christmascarole_3_g	35	0.9428571428571428	10315	32278	 there is nothing in the world in i	 there is nothing in the world so i
+lewis_monk_8_g	30	0.9	13881	30651	 it would be impossible for yo	 it would seem impossible for 
+austen_northangerabbey_16_g	33	0.9090909090909091	13881	2628	 it would be impossible for you t	 it would be impossible for anybo
+stoker_dracula_9_g	31	0.9032258064516129	7149	14514	 an opportunity of being in one	 an opportunity of being alone 
+austen_northangerabbey_17_g	32	0.90625	7329	5212	 doubt of the propriety of accep	 doubt of the propriety of an ac

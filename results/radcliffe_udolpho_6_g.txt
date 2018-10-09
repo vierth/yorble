@@ -1,0 +1,157 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_46_g	30	0.9	41686	8771	 reason to believe that her de	 reason to believe that his re
+lewis_monk_9_g	31	0.9032258064516129	3447	23949	 in a trembling voice, 'I hope 	 in a trembling voice; 'Is She 
+lewis_monk_9_g	34	0.9411764705882353	23144	14074	 brought to her recollection the o	 brought to her recollection a tho
+lewis_monk_9_g	36	0.9166666666666666	40302	58761	 now started from his seat, and, apo	 now started from his seat, and look
+doyle_baskervilles_1_u	30	0.9	37836	273	 him the night before. I had b	 him the night before. It was 
+christie_styles_13_d	32	0.90625	15906	1564	 the difficulty of finding the r	 the difficulty of bringing the 
+christie_styles_13_d	33	0.9393939393939394	23221	2782	 was inclined to believe, that th	 was inclined to believe that he 
+christie_styles_13_d	30	0.9333333333333333	33110	15748	d, they would probably have di	d, they would probably have le
+collins_moonstone_70_d	30	0.9	17857	9013	 the manner in which the peasa	 the manner in which this pers
+stoker_dracula_18_g	32	0.90625	22013	6238	 stepped from the carriage in se	 stepped from the carriage with 
+radcliffe_udolpho_16_g	30	0.9	4413	77495	 beauty of the landscape, whic	 beauty of the landscape shift
+radcliffe_udolpho_16_g	32	0.90625	18312	75547	s, which, together with the unev	s, which, together with the pile
+radcliffe_udolpho_16_g	30	0.9	20680	69938	 from a remote part of the woo	 from a remote part of the ves
+radcliffe_udolpho_16_g	31	0.9354838709677419	38945	67857	 with a superstitious dread ent	 with a superstitious dread, th
+radcliffe_udolpho_16_g	30	0.9	38997	19517	 could scarcely conceal her ag	 could scarcely conceal the en
+radcliffe_udolpho_25_g	37	0.918918918918919	23225	18263	 inclined to believe, that this was a	 inclined to believe, that there was 
+radcliffe_udolpho_25_g	31	0.9032258064516129	37194	21055	y continued to listen, but the 	y continued to listen, but no m
+radcliffe_udolpho_25_g	31	0.9032258064516129	41565	4336	ion, concerning the state of de	ion, concerning the fate of Mad
+radcliffe_udolpho_25_g	35	0.9142857142857143	41762	10166	. She leaned pensively on the littl	. She leaned pensively on the wall 
+radcliffe_udolpho_25_g	30	0.9333333333333333	42620	22283	 at the casement, till the glo	 at the casement, till the lig
+radcliffe_udolpho_33_g	37	0.9459459459459459	2585	46245	ned, for some time, in a state of tra	ned, for some time, in a state of int
+radcliffe_udolpho_33_g	30	0.9	7509	35420	 of the preceding night, and a	 of the preceding night, sent 
+radcliffe_udolpho_33_g	33	0.9090909090909091	20636	46730	 the sounds were distant, and see	 the sounds were so distant, and 
+radcliffe_udolpho_33_g	34	1.0	22953	7490	ng the recesses of the woods, and 	ng the recesses of the woods, and 
+radcliffe_udolpho_33_g	34	0.9117647058823529	28691	19059	, and, while she listened to the o	, and, while she listened for her 
+radcliffe_udolpho_33_g	30	0.9	38680	41537	 heard the same sounds, and wa	 heard the same sounds; and oc
+radcliffe_udolpho_33_g	30	0.9333333333333333	42610	48181	 continued at the casement, ti	 continued at the casement, fo
+collins_hauntedhotel_23_u	31	0.9032258064516129	41102	6181	. In the present state of my he	. In the present state of her m
+radcliffe_udolpho_2_g	37	0.972972972972973	11991	14861	ng the shores of the Mediterranean; t	ng the shores of the Mediterranean, t
+radcliffe_udolpho_15_g	32	0.90625	7859	19863	 have been made acquainted. But 	 have been made acquainted with 
+radcliffe_udolpho_15_g	34	1.0	19415	19695	 could not forbear smiling at the 	 could not forbear smiling at the 
+radcliffe_udolpho_15_g	42	0.9523809523809523	41554	7880	e conversation, concerning the state of de	e conversation concerning the state of the
+radcliffe_udolpho_15_g	30	0.9	41622	2070	 at this time, particularly af	 at this time particularly int
+radcliffe_udolpho_15_g	32	0.90625	43334	12514	on the silence of the night, and	on the silence of the midnight a
+collins_moonstone_56_d	31	0.9032258064516129	17857	18008	 the manner in which the peasan	 the manner in which he has man
+shelley_frankenstein_48_g	30	0.9	14388	6172	ed on the western horizon, mar	ed on the western horizon, the
+doyle_baskervilles_9_u	30	0.9	35692	28905	 to prevent it from being noti	 to prevent it from being visi
+doyle_baskervilles_9_u	31	0.9354838709677419	43336	25883	 the silence of the night, and 	 the silence of the night, a lo
+radcliffe_udolpho_36_g	31	0.9032258064516129	23371	17976	t, a sound of many voices in lo	t, a sound of many voices, slow
+doyle_scarlet_5_d	34	0.9117647058823529	41680	4152	 every reason to believe that her 	 every reason to believe that it i
+doyle_baskervilles_7_u	30	0.9666666666666667	1567	5601	 interrupted by the sound of t	 interrupted by the sound of r
+stoker_dracula_12_g	32	0.90625	43474	1500	 early in the morning, and withd	 early in the morning, and had n
+radcliffe_udolpho_34_g	37	0.918918918918919	1086	15233	 on visits in the neighbourhood. This	 on visits in the neighbourhood. I wi
+radcliffe_udolpho_34_g	30	0.9	4227	10082	 with so much pleasure to the 	 with so much pleasure, the su
+radcliffe_udolpho_34_g	31	0.9032258064516129	4605	26842	 the Mediterranean. Here they d	 the Mediterranean, where they 
+radcliffe_udolpho_34_g	32	0.90625	6609	29747	, with which he had recited thes	, with which he had deceived the
+radcliffe_udolpho_34_g	32	0.9375	20547	31855	re near some human habitation!' 	re near some human habitation, f
+radcliffe_udolpho_34_g	30	0.9	40669	15439	 lamented this circumstance, b	 lamented the circumstance, wh
+austen_northangerabbey_2_g	31	0.9032258064516129	2149	2265	 interesting conversation, and 	 interesting conversation that 
+lewis_monk_4_g	30	0.9333333333333333	24193	35213	 at a little distance from whi	 at a little distance from the
+lewis_monk_4_g	31	0.9032258064516129	24351	16776	 appeared a group of figures. O	 appeared a Groupe of figures, 
+lewis_monk_4_g	30	0.9666666666666667	40306	105373	 started from his seat, and, a	 started from his seat, and at
+lewis_monk_4_g	30	0.9333333333333333	43334	45304	on the silence of the night, a	on the silence of the night. '
+austen_northangerabbey_28_g	31	0.9032258064516129	5417	1936	hoped for the pleasure of re-tr	hoped for the pleasure of her c
+radcliffe_udolpho_50_g	30	0.9666666666666667	4385	376	 delighted with the romantic b	 delighted with the romantic w
+radcliffe_udolpho_50_g	30	0.9333333333333333	7335	17157	ed their journey along the coa	ed their journey along the bro
+radcliffe_udolpho_50_g	31	0.9032258064516129	11940	17147	 recommenced their journey thro	 recommenced their journey alon
+radcliffe_udolpho_50_g	32	0.90625	13505	55797	 that stretched towards the west	 that stretched towards the nort
+radcliffe_udolpho_50_g	30	0.9	15604	30969	 I cannot show you the way, fo	 I cannot shew you the way; yo
+radcliffe_udolpho_18_g	31	0.9032258064516129	21497	39251	 let me hear the sound of your 	 let me hear the end of your st
+radcliffe_udolpho_18_g	42	0.9047619047619048	32940	34691	t, in the present tone of her spirits, who	t, in the present state of her spirits, sh
+radcliffe_udolpho_18_g	37	0.918918918918919	32941	45831	, in the present tone of her spirits,	, in the present state of her spirits
+radcliffe_udolpho_18_g	30	0.9333333333333333	37593	40948	 walking in the woods, and alo	 walking in the woods and abou
+radcliffe_udolpho_18_g	30	0.9	41525	30400	 thoughts returned to the late	 thoughts returned to the pict
+radcliffe_udolpho_13_g	30	0.9	13332	16737	 considered, that they would s	 considered, that she would th
+radcliffe_udolpho_13_g	36	0.9166666666666666	23225	43715	 inclined to believe, that this was 	 inclined to believe, that it was th
+radcliffe_udolpho_13_g	33	0.9090909090909091	34896	50257	he seemed to have recovered himse	he seemed to have recovered her c
+radcliffe_udolpho_3_g	33	0.9393939393939394	1661	18730	. Valancourt started from his cha	. Valancourt started from his sea
+radcliffe_udolpho_3_g	30	0.9	4470	3076	 by the grandeur of the Pyrene	 by the grandeur of the scenes
+radcliffe_udolpho_3_g	30	0.9333333333333333	12997	11355	 ordered Michael to proceed. T	 ordered Michael to proceed as
+radcliffe_udolpho_3_g	30	0.9666666666666667	15804	11355	 ordered Michael to proceed sl	 ordered Michael to proceed as
+radcliffe_udolpho_3_g	30	0.9	18494	11904	 stopped the carriage; and, as	 stopped the carriage, and wai
+radcliffe_udolpho_3_g	30	0.9333333333333333	40306	18742	 started from his seat, and, a	 started from his seat, and we
+christie_secretadversary_14_d	31	0.9032258064516129	41686	2496	 reason to believe that her dea	 reason to believe that she has
+stoker_dracula_2_g	30	0.9	7509	16062	 of the preceding night, and a	 of the preceding night, as, f
+doyle_baskervilles_8_u	30	0.9333333333333333	19487	1888	, therefore, return to the roa	, therefore, return to the fac
+doyle_baskervilles_8_u	30	0.9	35691	6682	s to prevent it from being not	s to prevent them from being t
+walpole_castleofotranto_1_g	30	0.9	23565	22403	 from the way she had come, an	 from the way she had come. Ch
+dickens_christmascarole_1_g	31	0.9032258064516129	43384	35823	 the lateness of the hour, retu	 the lateness of the hour, much
+radcliffe_udolpho_48_g	30	0.9	7512	18988	 the preceding night, and appe	 the preceding night, and he s
+radcliffe_udolpho_48_g	33	0.9393939393939394	15053	4261	e sunk back in the carriage, and 	e sunk back in the carriage, nor 
+radcliffe_udolpho_48_g	30	0.9	18671	15793	 to distinguish what it was, b	 to distinguish who it was, an
+radcliffe_udolpho_48_g	30	0.9666666666666667	20344	24992	 she endeavoured to support hi	 she endeavoured to support he
+radcliffe_udolpho_48_g	33	0.9393939393939394	23325	13294	hile she hesitated, whether to fo	hile she hesitated whether to ope
+radcliffe_udolpho_22_g	32	0.90625	7508	33835	t of the preceding night, and ap	t of the preceding night, a drea
+radcliffe_udolpho_22_g	30	0.9	34517	26950	 he exclaimed, 'Good God! when	 he exclaimed, 'Good God! Sign
+radcliffe_udolpho_22_g	33	0.9393939393939394	40879	8888	 in the neighbouring cottage. 'If	 in the neighbouring cottages." '
+shelley_frankenstein_54_g	30	0.9	42952	12584	 the remembrance of the extrem	 the remembrance of the threat
+radcliffe_udolpho_4_g	30	0.9	2813	3622	 so short an acquaintance. He 	 so short an acquaintance. Val
+radcliffe_udolpho_4_g	34	0.9705882352941176	3549	29146	, my Emily!' replied St. Aubert, '	, my Emily,' replied St. Aubert, '
+radcliffe_udolpho_4_g	37	0.918918918918919	5950	20300	 characterized the feelings of the au	 characterized the feelings of St. Au
+radcliffe_udolpho_4_g	30	0.9	12206	3334	on. St. Aubert was pleased, an	on. St. Aubert was pleased wit
+radcliffe_udolpho_4_g	30	0.9666666666666667	12649	22476	 meant to pass the night, but 	 meant to pass the night; but 
+radcliffe_udolpho_4_g	31	0.9032258064516129	15247	4090	 from the window, and saw a pea	 from the window, and saw Valan
+radcliffe_udolpho_4_g	42	0.9047619047619048	18650	25421	 would not permit him to distinguish what 	 would not permit them to distinguish anyt
+radcliffe_udolpho_4_g	30	0.9333333333333333	19398	7923	d St. Aubert, who could not fo	d St. Aubert, who could no lon
+radcliffe_udolpho_4_g	34	0.9705882352941176	20928	10352	 bear the motion of the carriage; 	 bear the motion of the carriage, 
+radcliffe_udolpho_4_g	37	0.972972972972973	21610	9363	 water from the rivulet, that flowed 	 water from the rivulet that flowed b
+radcliffe_udolpho_4_g	32	0.9375	39972	934	 will give me leave, I will prep	 will give me leave, I will dire
+christie_secretadversary_17_d	30	0.9	12762	8170	, and they were obliged to pro	, and they were obliged to wai
+lewis_monk_10_g	32	0.90625	22715	59224	 consideration for herself, she 	 consideration for herself than 
+doyle_adventures_2_d	34	0.9411764705882353	41680	31599	 every reason to believe that her 	 every reason to believe that we s
+christie_styles_1_d	30	0.9	3835	16539	 to the contemplation of an ol	 to the contemplation of my ow
+radcliffe_udolpho_10_g	30	0.9	1753	10436	 he returned to his seat witho	 he returned to his seat, then
+radcliffe_udolpho_10_g	35	0.9142857142857143	2809	12052	, on so short an acquaintance. He b	, on so short an acquaintance. For 
+radcliffe_udolpho_10_g	30	0.9	9158	10105	y dear father,' said she, 'do 	y dear father,' said she; 'he 
+radcliffe_udolpho_10_g	41	0.9024390243902439	23225	5623	 inclined to believe, that this was a par	 inclined to believe that this was her re
+radcliffe_udolpho_10_g	37	0.918918918918919	40417	10420	n a few moments he returned with his 	n a few moments, he returned to his s
+radcliffe_udolpho_10_g	30	0.9	42100	30538	d to the contemplation of futu	d to the contemplation of thos
+lewis_monk_8_g	30	0.9333333333333333	24193	27793	 at a little distance from whi	 at a little distance from the
+lewis_monk_8_g	30	0.9666666666666667	28731	1413	, her heart swelled with the a	, her heart swelled with the b
+lewis_monk_8_g	32	0.90625	39278	30217	s at no great distance, on the s	s at no great distance from the 
+lewis_monk_6_g	31	0.9032258064516129	23144	39311	 brought to her recollection th	 brought to his recollection hi
+radcliffe_udolpho_12_g	32	0.90625	1413	47630	 sufficient introductions to tha	 sufficient introduction to my h
+radcliffe_udolpho_12_g	32	0.90625	24193	144	 at a little distance from which	 at a little distance from the c
+radcliffe_udolpho_12_g	32	0.9375	36308	44583	 extremely surprised by her fath	 extremely surprised by her aunt
+radcliffe_udolpho_12_g	31	0.9032258064516129	43361	30950	, and Emily, perceiving the lat	, and Emily, perceiving that Va
+collins_hauntedhotel_25_u	30	0.9	8404	7149	ircumstances have concurred to	ircumstances have occurred, ho
+collins_hauntedhotel_25_u	31	0.9032258064516129	32940	3714	t, in the present tone of her s	t, in the present state of her 
+lewis_monk_1_g	30	0.9	22799	2007	 looked round in vain for a ho	 looked round in vain for plac
+lewis_monk_1_g	31	0.9032258064516129	39279	2587	 at no great distance, on the s	 at no great distance from the 
+radcliffe_udolpho_27_g	37	0.9459459459459459	18671	10151	 to distinguish what it was, but he b	 to distinguish what it was; but she 
+radcliffe_udolpho_27_g	35	1.0	23217	12162	 she was inclined to believe, that 	 she was inclined to believe, that 
+radcliffe_udolpho_27_g	32	0.9375	23225	12970	 inclined to believe, that this 	 inclined to believe, that the f
+radcliffe_udolpho_14_g	30	0.9	15247	3428	 from the window, and saw a pe	 from the window, and saw him 
+radcliffe_udolpho_14_g	37	0.9459459459459459	23143	6206	e brought to her recollection the one	e brought to her recollection the pro
+radcliffe_udolpho_14_g	34	0.9117647058823529	41442	19766	 retired to rest, and Emily to her	 retired to rest, and Emily withdr
+radcliffe_udolpho_49_g	33	0.9090909090909091	12918	1582	he evening was now far advanced; 	he evening was so far advanced, w
+radcliffe_udolpho_49_g	30	0.9	40669	4188	 lamented this circumstance, b	 lamented the circumstance, an
+radcliffe_udolpho_41_g	30	0.9	14174	19927	, and then turned to the windo	, and then returned to the not
+radcliffe_udolpho_41_g	31	0.9032258064516129	17854	17196	ing the manner in which the pea	ing the manner, in which she ha
+radcliffe_udolpho_41_g	34	0.9117647058823529	43070	21876	 fate of the Marchioness, and she 	 fate of the Marchioness and liste
+doyle_scarlet_12_d	36	0.9166666666666666	37823	13325	d sat up with him the night before. 	d sat up with her the night before t
+christie_secretadversary_24_d	31	0.9032258064516129	40413	799	m. In a few moments he returned	m. In a few minutes he returned
+christie_secretadversary_4_d	30	0.9	41680	12374	 every reason to believe that 	 every reason to believe he is
+doyle_baskervilles_2_u	30	0.9	39279	13989	 at no great distance, on the 	 at no great distance at the t
+radcliffe_udolpho_54_g	35	0.9428571428571428	12916	19002	 the evening was now far advanced; 	 the evening was so far advanced; f
+radcliffe_udolpho_54_g	30	0.9	19218	24049	owever this might be, he now s	owever this might be, he was p
+radcliffe_udolpho_54_g	37	0.918918918918919	23144	3160	 brought to her recollection the one 	 brought to her recollection the dyin
+radcliffe_udolpho_54_g	32	0.90625	23232	23202	ed to believe, that this was a p	ed to believe, that there was a 
+radcliffe_udolpho_54_g	44	0.9318181818181818	43103	15739	 felt strongly interested concerning the rem	 felt strongly interested, concerning them, 
+stoker_dracula_16_g	32	0.90625	43335	17130	n the silence of the night, and 	n the silence of the night when 
+radcliffe_udolpho_35_g	32	0.90625	606	17814	 appeared to be increasing fast 	 appeared to be increasing to a 
+radcliffe_udolpho_35_g	41	0.9024390243902439	1681	25955	 from his chair, and went to the window; 	 from his chair, and went to a window to 
+radcliffe_udolpho_35_g	30	0.9	4400	7949	 the romantic beauty of the la	 the romantic beauty of whose 
+radcliffe_udolpho_35_g	33	0.9090909090909091	8490	25992	 to conceal his emotion. 'The let	 to conceal his emotion. The fati
+radcliffe_udolpho_35_g	36	0.9166666666666666	11993	913	 the shores of the Mediterranean; th	 the shore of the Mediterranean. Thi
+radcliffe_udolpho_35_g	33	0.9090909090909091	18312	1179	s, which, together with the uneve	s, which, together with the dutie
+radcliffe_udolpho_35_g	32	0.90625	22468	12306	 the wildness of the place, reca	 the wildness of the place, and 
+radcliffe_udolpho_35_g	30	0.9	27584	9940	he carriage stopped at a neat 	he carriages stopped at a gate
+radcliffe_udolpho_35_g	42	0.9047619047619048	34289	15730	 he took a dislike to the place, and has n	 he took a dislike to the place, and never
+radcliffe_udolpho_35_g	30	0.9333333333333333	42637	27972	 till the gloom of mid-night h	 till the glooms of midnight w
+radcliffe_udolpho_35_g	30	0.9	43074	1917	e of the Marchioness, and she 	e of the Marchioness, and at t
+radcliffe_udolpho_35_g	32	0.90625	43373	12295	 perceiving the lateness of the 	 perceiving the wildness of the 
+christie_styles_4_d	32	0.90625	17004	4752	 proceed to the chateau, and ris	 proceed to the château, and stu
+christie_styles_4_d	30	0.9	41685	23306	y reason to believe that her d	y reason to believe that your 

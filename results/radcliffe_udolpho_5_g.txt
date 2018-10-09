@@ -1,0 +1,82 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_17_g	31	0.9032258064516129	8775	3824	, on the preceding night, his l	, on the preceding night. The l
+radcliffe_udolpho_9_g	31	0.9354838709677419	17865	8699	s of the Mediterranean, and tra	s of the Mediterranean, and had
+radcliffe_udolpho_52_g	30	0.9	18318	71	 On the following morning, the	 On the following morning, as 
+radcliffe_udolpho_24_g	30	0.9	18320	68	n the following morning, there	n the following morning, witho
+stoker_dracula_26_g	31	0.9032258064516129	15630	14974	 with the conversation of his c	 with the concentration of his 
+austen_northangerabbey_7_g	30	0.9	10372	162	 the difficulties of pursuing 	 the difficulties of crossing 
+radcliffe_udolpho_23_g	30	0.9	18318	105	 On the following morning, the	 On the following morning, Emi
+radcliffe_udolpho_29_g	32	0.90625	8776	2534	 on the preceding night, his lit	 on the preceding night, she wit
+collins_hauntedhotel_16_u	30	0.9333333333333333	372	459	 with this difference, that be	 with this difference, that hi
+lewis_monk_2_g	30	0.9	1358	6529	 simplicity of his manners see	 simplicity of his manners, an
+lewis_monk_2_g	30	0.9	8775	51923	, on the preceding night, his 	, on the preceding night, He h
+lewis_monk_2_g	30	0.9	9332	6525	 the simplicity of her manner 	 the simplicity of his manners
+radcliffe_udolpho_26_g	30	0.9333333333333333	8775	1994	, on the preceding night, his 	, on the preceding night, she 
+radcliffe_udolpho_1_g	32	0.9375	14045	14983	, that screened the glen, rose a	, that screened this glen, rose 
+radcliffe_udolpho_1_g	30	0.9666666666666667	18763	34170	 they separated for the night.	 they separated for the night,
+radcliffe_udolpho_6_g	42	0.9047619047619048	5193	24246	, between the boles of the trees at some d	, between the boles of the trees, a small 
+radcliffe_udolpho_6_g	36	0.9444444444444444	7279	14159	 affectionately, and then tried to d	 affectionately, and then turned to 
+radcliffe_udolpho_6_g	30	0.9	14509	38414	 almost expected to see them s	 almost expecting to see them 
+radcliffe_udolpho_6_g	34	0.9117647058823529	16518	12568	. It was evening when they descend	. It was evening when they reached
+radcliffe_udolpho_6_g	34	0.9117647058823529	17865	14277	s of the Mediterranean, and travel	s of the Mediterranean, and the gl
+radcliffe_udolpho_16_g	30	0.9666666666666667	3587	66327	s was diffused upon the air, w	s was diffused upon the air, a
+radcliffe_udolpho_16_g	37	0.918918918918919	6068	11824	 at a considerable distance from the 	 at a considerable distance on the wa
+radcliffe_udolpho_16_g	32	0.90625	17496	76523	s of flowering myrtle and pomegr	s of flowering myrtle and other 
+radcliffe_udolpho_25_g	30	0.9	6886	18390	 brought to his remembrance hi	 brought to her remembrance th
+radcliffe_udolpho_25_g	30	0.9	7910	11389	 determined to attempt it; but	 determined to attempt the out
+radcliffe_udolpho_25_g	30	0.9333333333333333	8775	2821	, on the preceding night, his 	, on the preceding night, had 
+radcliffe_udolpho_25_g	30	0.9	8775	19332	, on the preceding night, his 	, on the preceding night, and 
+radcliffe_udolpho_25_g	32	0.90625	8775	19894	, on the preceding night, his li	, on the preceding night, dismis
+radcliffe_udolpho_33_g	30	0.9	11811	6094	e. They continued to wind unde	e. They continued to wind alon
+radcliffe_udolpho_33_g	30	0.9333333333333333	14509	24984	 almost expected to see them s	 almost expected to see the do
+radcliffe_udolpho_33_g	30	0.9	18320	33776	n the following morning, there	n the following morning, she w
+radcliffe_udolpho_2_g	31	0.9032258064516129	15679	8596	 seemed to have forgotten he ha	 seemed to have forgotten that 
+radcliffe_udolpho_15_g	30	0.9	12933	831	 while their lower steeps were	 while their lower steeps, bro
+radcliffe_udolpho_15_g	31	0.9354838709677419	18320	127	n the following morning, theref	n the following morning, the tr
+radcliffe_udolpho_36_g	35	0.9142857142857143	13416	4179	e waters of the Mediterranean; wher	e waters of the Mediterranean, with
+radcliffe_udolpho_36_g	30	0.9	16967	15494	 among the foliage; while, slo	 among the foliage; while a fo
+radcliffe_udolpho_34_g	30	0.9	1432	48778	 the scenes around them; and S	 the scenery around them, and 
+radcliffe_udolpho_34_g	34	0.9705882352941176	13413	36443	 the waters of the Mediterranean; 	 the waters of the Mediterranean, 
+radcliffe_udolpho_34_g	30	0.9	17863	36451	ers of the Mediterranean, and 	ers of the Mediterranean, so d
+lewis_monk_4_g	30	0.9	5800	96358	, and endeavoured to make his 	, and endeavour to make him en
+lewis_monk_4_g	30	0.9	7268	105492	 pressed it affectionately, an	 pressed it affectionately. 'M
+lewis_monk_4_g	30	0.9333333333333333	7310	37072	 to dissipate the melancholy r	 to dissipate her melancholy, 
+lewis_monk_4_g	30	0.9	13857	46013	n the other side of the valley	n the other side of the Castle
+radcliffe_udolpho_50_g	30	0.9333333333333333	4839	17179	 the brow of the precipice, al	 the brow of the precipice, pr
+radcliffe_udolpho_50_g	37	0.918918918918919	5027	20364	, echoing among the rocks, and his va	, echoing among the rocks, and it gra
+radcliffe_udolpho_50_g	30	0.9	5225	54767	 at some distance, and Valanco	 at some distance, and Blanche
+radcliffe_udolpho_18_g	32	0.90625	13857	26377	n the other side of the valley, 	n the other side of the castle, 
+radcliffe_udolpho_13_g	30	0.9	11179	13836	y,' replied Valancourt, 'how b	y,' replied Valancourt, 'Good 
+radcliffe_udolpho_13_g	30	0.9	18320	36742	n the following morning, there	n the following morning, she s
+radcliffe_udolpho_3_g	30	0.9333333333333333	7268	6553	 pressed it affectionately, an	 pressed it affectionately, wi
+radcliffe_udolpho_3_g	34	0.9117647058823529	7603	7153	 which he thought they could ascen	 which he thought they could gain 
+radcliffe_udolpho_48_g	30	0.9333333333333333	5215	15710	 the trees at some distance, a	 the trees, at some distance. 
+radcliffe_udolpho_48_g	32	0.9375	18317	7442	. On the following morning, ther	. On the following morning, seri
+doyle_scarlet_2_d	30	0.9	18320	564	n the following morning, there	n the following morning Sherlo
+radcliffe_udolpho_4_g	30	0.9	3513	4204	 following the carriage, they 	 following the carriage with h
+radcliffe_udolpho_4_g	30	0.9333333333333333	4281	26966	 conversations of Valancourt a	 conversation of Valancourt so
+radcliffe_udolpho_4_g	31	0.9354838709677419	10812	14262	 St. Aubert and Emily, who were	 St. Aubert and Emily, who, rel
+radcliffe_udolpho_4_g	31	0.967741935483871	15860	9671	 when he reached the carriage, 	 when he reached the carriage; 
+radcliffe_udolpho_10_g	32	0.90625	15583	8102	 Valancourt was so charmed with 	 Valancourt was charmed with the
+collins_moonstone_53_d	30	0.9	373	9735	with this difference, that bea	with this difference, that I t
+collins_moonstone_53_d	32	0.90625	13857	12461	n the other side of the valley, 	n the other side of the holly,” 
+lewis_monk_5_g	30	0.9	2522	34923	 and affectionate hearts. St. 	 and affectionate heart. She a
+radcliffe_udolpho_12_g	33	0.9090909090909091	4277	30805	 the conversations of Valancourt 	 the conversation from Valancourt
+radcliffe_udolpho_12_g	31	0.967741935483871	18317	11838	. On the following morning, the	. On the following morning, she
+radcliffe_udolpho_12_g	30	0.9333333333333333	18317	45270	. On the following morning, th	. On the following morning, as
+radcliffe_udolpho_12_g	30	0.9333333333333333	18663	26133	 efforts to appear cheerful. A	 efforts to appear cheerful di
+radcliffe_udolpho_12_g	31	1.0	18762	45240	, they separated for the night.	, they separated for the night.
+lewis_monk_1_g	36	0.9166666666666666	4264	3342	y interrupted the conversations of V	y interrupted their conversation to 
+lewis_monk_1_g	38	0.9473684210526315	6068	40890	 at a considerable distance from the s	 at a considerable distance from that 
+doyle_baskervilles_4_u	33	0.9393939393939394	5877	16028	, following the direction of the 	, following the direction of his 
+radcliffe_udolpho_27_g	30	0.9	8775	4076	, on the preceding night, his 	, on the preceding night, resp
+collins_moonstone_50_d	30	0.9666666666666667	18230	19253	 the temptation of accepting i	 the temptation of accepting s
+radcliffe_udolpho_49_g	30	0.9	18318	268	 On the following morning, the	 On the following morning, Emi
+radcliffe_udolpho_49_g	31	0.9032258064516129	18320	1697	n the following morning, theref	n the following morning, she tr
+radcliffe_udolpho_47_g	30	0.9	6886	14081	 brought to his remembrance hi	 brought to her remembrance th
+radcliffe_udolpho_47_g	41	0.9024390243902439	18515	2869	 he was often silent and thoughtful; St. 	 he was often silent and thoughtful, and 
+radcliffe_udolpho_54_g	32	0.90625	1593	19742	 perceived, that his opinions we	 perceived, that his companion w
+radcliffe_udolpho_54_g	31	0.967741935483871	18317	23566	. On the following morning, the	. On the following morning, she
+radcliffe_udolpho_35_g	34	0.9117647058823529	2089	24973	e grand feature of the scene; and 	e grand features of the scenery ad
+radcliffe_udolpho_35_g	34	0.9705882352941176	13413	8941	 the waters of the Mediterranean; 	 the waters of the Mediterranean, 
+radcliffe_udolpho_35_g	34	0.9705882352941176	13413	13729	 the waters of the Mediterranean; 	 the waters of the Mediterranean, 

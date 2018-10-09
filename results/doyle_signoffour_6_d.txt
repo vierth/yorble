@@ -1,0 +1,56 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_3_d	31	0.9032258064516129	3781	2766	d in the room, as there is no c	d in the room, but there is no 
+doyle_scarlet_3_d	41	0.926829268292683	5663	12777	There is nothing more to be learned here.	There is nothing more to be learned.” Gre
+doyle_signoffour_3_d	30	0.9	4722	1875	," said Sherlock Holmes, putti	," said Sherlock Holmes, pensi
+doyle_signoffour_3_d	30	0.9	14720	1875	," said Sherlock Holmes, turni	," said Sherlock Holmes, pensi
+radcliffe_udolpho_6_g	30	0.9	11822	41680	 every reason to believe to be	 every reason to believe that 
+doyle_baskervilles_1_u	35	0.9142857142857143	3744	5363	 that he could not have been concea	 that he could not have been on the
+doyle_baskervilles_1_u	34	0.9411764705882353	5927	4574	You know my methods. Apply them, a	You know my methods. Apply them!” 
+doyle_baskervilles_6_u	32	0.9375	4309	13347	 in which we found ourselves was	 in which we found ourselves, la
+stoker_dracula_11_g	30	0.9	11198	4704	 and locked the door on the in	 and locked the door, and then
+doyle_adventures_12_d	31	0.9032258064516129	4174	46712	e swung himself up into the gar	e swung himself up onto the roo
+doyle_adventures_12_d	30	0.9666666666666667	13659	50831	," said Holmes. "I think that 	," said Holmes, "I think that 
+doyle_signoffour_7_d	41	0.926829268292683	13577	22641	 looking from one to the other of us. "Do	 looking from one to the other of us for 
+shelley_frankenstein_53_g	30	0.9	8687	981	 the light of the lantern. It 	 the light of their lantern th
+dickens_christmascarole_4_g	34	0.9117647058823529	9398	8215	e was closely followed by an inspe	e was closely followed by a man in
+doyle_adventures_4_d	30	0.9	1892	27307	 absolutely impossible," I ans	 absolutely impossible. It was
+doyle_adventures_4_d	30	0.9	10715	14694	 nothing to do with the matter	 nothing to do with the sad tr
+doyle_adventures_4_d	33	0.9696969696969697	13582	19599	ing from one to the other of us. 	ing from one to the other of us, 
+doyle_scarlet_5_d	37	0.918918918918919	11815	4145	 I have every reason to believe to be	 I have every reason to believe that 
+doyle_scarlet_5_d	33	0.9696969696969697	14039	4145	 I have every reason to believe, 	 I have every reason to believe t
+christie_secretadversary_26_d	30	0.9333333333333333	13585	9749	 from one to the other of us. 	 from one to the other of his 
+christie_styles_11_d	30	0.9	10710	3771	 have nothing to do with the m	 have nothing to do with it. U
+christie_styles_12_d	33	0.9393939393939394	10715	9583	 nothing to do with the matter. T	 nothing to do with that matter. 
+christie_styles_2_d	34	0.9117647058823529	10715	10280	 nothing to do with the matter. Th	 nothing to do with that matter.” 
+doyle_adventures_5_d	33	0.9393939393939394	5661	32126	. There is nothing more to be lea	. There is nothing more to be sai
+doyle_adventures_5_d	32	0.90625	14721	29416	" said Sherlock Holmes, turning 	" said Sherlock Holmes, bending 
+stoker_dracula_24_g	31	0.9032258064516129	5624	21592	 should have been able to foret	 should have been able to confe
+doyle_scarlet_2_d	32	0.90625	9399	9326	 was closely followed by an insp	 was closely followed by a slip-
+christie_secretadversary_11_d	30	0.9333333333333333	6147	3619	 think that there is nothing e	 think that there was nothing 
+doyle_adventures_2_d	33	0.9696969696969697	4309	28604	 in which we found ourselves was 	 in which we found ourselves as w
+doyle_adventures_2_d	30	0.9	4722	34753	," said Sherlock Holmes, putti	," said Sherlock Holmes, "that
+doyle_adventures_2_d	30	0.9	11198	19299	 and locked the door on the in	 and locked the door of the of
+doyle_adventures_2_d	37	0.918918918918919	11815	31592	 I have every reason to believe to be	 I have every reason to believe that 
+doyle_adventures_2_d	33	0.9696969696969697	14039	31592	 I have every reason to believe, 	 I have every reason to believe t
+doyle_adventures_2_d	30	1.0	14448	26379	 that there is a good deal of 	 that there is a good deal of 
+doyle_signoffour_5_d	33	0.9090909090909091	8686	11929	n the light of the lantern. It wa	n the light of the lantern I read
+doyle_signoffour_5_d	30	0.9	13647	13712	, Mr. Sholto," said Holmes. "I	, Mr. Sholto," said Holmes, ki
+doyle_signoffour_5_d	33	0.9696969696969697	15425	5985	. I have seen something of the ro	. I have seen something of the so
+doyle_adventures_9_d	32	0.90625	359	10678	 said he, with something of the 	 said he, with something of a Ge
+doyle_adventures_9_d	31	1.0	3953	21535	 you will have the kindness to 	 you will have the kindness to 
+doyle_adventures_9_d	31	0.9032258064516129	3953	27549	 you will have the kindness to 	 you will have the goodness to 
+doyle_adventures_9_d	33	0.9090909090909091	15586	14552	. I should like, however, to see 	. I should like, however, to unde
+doyle_baskervilles_4_u	30	0.9	2661	19570	from which I gather that he sl	from which I gather that in al
+christie_styles_3_d	32	0.90625	11511	1695	 bed had not been slept in. Thad	 bed had not been slept in, and 
+collins_moonstone_60_d	30	0.9	6570	16743	 I could not but think what a 	 I could not but think that Mr
+christie_secretadversary_4_d	35	0.9428571428571428	11815	12367	 I have every reason to believe to 	 I have every reason to believe he 
+christie_secretadversary_4_d	41	0.9024390243902439	14038	12366	, I have every reason to believe, is Jona	, I have every reason to believe he is an
+doyle_baskervilles_2_u	33	0.9393939393939394	4810	13493	 which leads out on to the roof. 	 which leads out on to the moor. 
+stoker_dracula_16_g	30	1.0	13585	20316	 from one to the other of us. 	 from one to the other of us. 
+christie_secretadversary_15_d	31	0.9032258064516129	5664	3169	here is nothing more to be lear	here is nothing more to be done
+stoker_dracula_21_g	38	0.9736842105263158	13577	24680	 looking from one to the other of us. 	 looking from one to the other of us s
+doyle_baskervilles_15_u	35	0.9142857142857143	10706	6909	ould have nothing to do with the ma	ould have nothing to do with it, an
+doyle_baskervilles_15_u	30	0.9	15698	16636	e of great service to me," he 	e of great service to me, and 
+christie_styles_4_d	32	0.90625	5663	15020	There is nothing more to be lear	There is nothing more to be done
+christie_styles_4_d	30	0.9333333333333333	10718	6078	thing to do with the matter. T	thing to do with the matter?” 
+christie_styles_4_d	33	0.9393939393939394	11202	8489	 locked the door on the inside." 	 locked the door on the inside, a

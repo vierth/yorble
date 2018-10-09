@@ -1,0 +1,35 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_14_u	30	0.9333333333333333	16208	134	he outside of the building, an	he outside of the building, wi
+stoker_dracula_23_g	30	0.9333333333333333	1697	3692	 he began to consider what he 	 he began to consider whether 
+christie_styles_10_d	30	0.9333333333333333	1215	8165	he caught him by the arm, and 	he caught me by the arm, and w
+collins_moonstone_85_d	32	0.90625	1215	25794	he caught him by the arm, and dr	he caught me by the arm, and bar
+collins_moonstone_85_d	30	0.9	8051	4028	 something serious to say. He 	 something serious to say to y
+collins_moonstone_85_d	37	0.918918918918919	11867	4938	 She started to her feet and looked a	 She started to her feet; and walked 
+reeve_oldenglishbaron	30	0.9333333333333333	1793	24562	 all that had passed in the ol	 all that had passed in the ca
+radcliffe_udolpho_25_g	32	0.90625	15687	17510	 punctual to their appointment. 	 punctual to her appointment, sh
+collins_moonstone_61_d	31	0.9354838709677419	8035	265	er, as if he had something seri	er, as if he had something else
+collins_hauntedhotel_5_u	33	0.9090909090909091	6841	3373	I will call on you to-morrow morn	I will call for you to-morrow on 
+collins_hauntedhotel_5_u	31	0.9032258064516129	13907	5672	 Lord and Lady Montbarry, with 	 Lord and Lady Montbarry, at on
+collins_moonstone_67_d	30	0.9	10198	8279	self face to face with the Cou	self face to face with the fis
+reeve_oldenglishbaron	30	0.9333333333333333	1793	24562	 all that had passed in the ol	 all that had passed in the ca
+doyle_baskervilles_7_u	30	0.9	8135	24887	other members of the family, d	other member of the family cam
+doyle_baskervilles_7_u	30	0.9	13125	24440	 again when he answered her. S	 again when she answered me. “
+stoker_dracula_12_g	31	0.9032258064516129	1228	36956	 by the arm, and drew him away 	 by the arm, and led him away t
+dickens_christmascarole_2_g	43	0.9302325581395349	10188	3364	 found himself face to face with the Counte	 found himself face to face with the uneart
+dickens_christmascarole_2_g	30	0.9	12641	857	 anything had happened in the 	 anything has happened to the 
+christie_styles_5_d	32	0.9375	8133	3919	e other members of the family, d	e other members of the family?” 
+collins_hauntedhotel_6_u	35	0.9142857142857143	9313	12779	,' he thought to himself, as he ret	,' he thought to himself as he took
+collins_hauntedhotel_19_u	30	0.9	10691	12519	 has everything to do with it-	 has everything to do with my 
+reeve_oldenglishbaron	30	0.9333333333333333	1793	24562	 all that had passed in the ol	 all that had passed in the ca
+collins_moonstone_73_d	31	0.9354838709677419	10849	952	 purpose that she had in view. 	 purpose that he has in view.” 
+christie_secretadversary_17_d	30	0.9	9315	19447	 he thought to himself, as he 	 he thought to himself, “they 
+collins_hauntedhotel_11_u	34	0.9411764705882353	3463	4522	like a woman turned to stone. Her 	like a woman turned to stone. She 
+collins_hauntedhotel_11_u	56	0.9464285714285714	4707	10472	ome trifling event would bring us together the next time	ome trifling event will bring us together the next time-
+collins_hauntedhotel_11_u	43	0.9302325581395349	4780	10475	 trifling event will bring us together. I s	 trifling event will bring us together the 
+collins_hauntedhotel_11_u	30	0.9666666666666667	11867	4129	 She started to her feet and l	 She started to her feet, and 
+christie_styles_8_d	35	0.9428571428571428	1215	1778	he caught him by the arm, and drew 	he caught me by the arm, and drew m
+christie_styles_1_d	30	0.9666666666666667	35	20360	 as she held out her hand to t	 as she held out her hand to h
+stoker_dracula_1_g	32	0.90625	10194	28899	 himself face to face with the C	 himself face to face with such 
+doyle_baskervilles_4_u	35	0.9142857142857143	15687	146	 punctual to their appointment. 'Mr	 punctual to their appointment, for
+collins_hauntedhotel_15_u	31	0.9032258064516129	13907	531	 Lord and Lady Montbarry, with 	 Lord and Lady Montbarry, Sir T
+reeve_oldenglishbaron	30	0.9333333333333333	1793	24562	 all that had passed in the ol	 all that had passed in the ca

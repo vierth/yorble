@@ -1,0 +1,69 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_3_g	31	0.9032258064516129	13083	1444	ve me your word that you would 	ve me your word, that you will 
+shelley_frankenstein_37_g	31	0.9032258064516129	8069	9480	hat is the cause of all the mis	hat is the cause of all this?” 
+christie_secretadversary_16_d	30	0.9	17073	5242	 shrugged his shoulders. “Prov	 shrugged his shoulders. “Pack
+austen_northangerabbey_15_g	32	0.90625	11858	14844	 be very glad to see you.” “I fe	 be very glad to see you.” “And 
+poe_marieroget_1_d	32	0.90625	17424	20047	 difficulty in recognizing him, 	 difficulty in recognizing it. T
+doyle_scarlet_7_d	30	0.9	18520	17956	,” said Sherlock Holmes. “The 	,” said Sherlock Holmes. “It w
+doyle_scarlet_7_d	30	0.9	19871	17956	,” said Sherlock Holmes. “You 	,” said Sherlock Holmes. “It w
+radcliffe_udolpho_55_g	30	0.9	20087	16400	s, and it is probable that you	s, and it is probable, that th
+collins_moonstone_47_d	30	0.9	6462	10432	 that it might have been that 	 that it might have been her s
+christie_styles_9_d	30	0.9	17073	5918	 shrugged his shoulders. “Prov	 shrugged his shoulders. “I wo
+doyle_baskervilles_3_u	30	0.9	14672	15730	 Sir Henry Baskerville, in my 	 Sir Henry Baskerville in the 
+doyle_baskervilles_3_u	33	1.0	17066	4242	 Holmes shrugged his shoulders. “	 Holmes shrugged his shoulders. “
+christie_styles_10_d	31	0.9032258064516129	17073	3320	 shrugged his shoulders. “Prove	 shrugged his shoulders. “Surel
+christie_styles_13_d	33	0.9393939393939394	5199	8375	 incriminating documents.” “But h	 incriminating document. “But thi
+doyle_baskervilles_6_u	43	0.9302325581395349	16443	15722	 that we shall succeed in establishing a co	 that we shall succeed in establishing ours
+doyle_adventures_12_d	35	0.9428571428571428	5553	49474	here are several points upon which 	here are several points on which I 
+doyle_adventures_12_d	30	0.9	6462	33748	 that it might have been that 	 that it might have been faste
+doyle_adventures_12_d	30	0.9	14003	41095	 I remembered that Holmes had 	 I remembered that Toller had 
+doyle_adventures_12_d	33	0.9393939393939394	20782	47041	 be very much surprised if it is 	 be very much surprised if this w
+doyle_baskervilles_12_u	32	0.9375	7691	2360	 gentleman with the telescope?” 	 gentleman with the telescope, n
+doyle_baskervilles_12_u	30	0.9	16297	14715	 the connection is between the	 the connection between the ma
+doyle_baskervilles_12_u	33	1.0	17066	21462	 Holmes shrugged his shoulders. “	 Holmes shrugged his shoulders. “
+doyle_baskervilles_12_u	36	0.9166666666666666	17272	4764	 papers from his pocket. “Here is a 	 papers from his pocket. “Here are y
+dickens_christmascarole_4_g	31	0.9032258064516129	7687	3836	 the gentleman with the telesco	 the gentleman with the excresc
+doyle_baskervilles_10_u	32	0.90625	16188	8671	 be at the gate at ten o’clock. 	 be at the gate by ten o clock. 
+christie_secretadversary_22_d	30	0.9	17073	4255	 shrugged his shoulders. “Prov	 shrugged his shoulders. “I co
+doyle_baskervilles_11_u	38	0.9210526315789473	15905	3079	 the late Sir Charles Baskerville,” sa	 the late Sir Charles Baskerville and 
+doyle_baskervilles_11_u	38	0.9210526315789473	15905	3205	 the late Sir Charles Baskerville,” sa	 the late Sir Charles Baskerville that
+doyle_baskervilles_11_u	31	0.9354838709677419	16188	5599	 be at the gate at ten o’clock.	 be at the gate by ten o’clock.
+doyle_baskervilles_11_u	32	0.9375	19447	6793	 appointment with Sir Charles?” 	 appointment with Sir Charles at
+doyle_adventures_4_d	33	0.9696969696969697	7071	43781	m glad to hear you say so,” said 	m glad to hear you say so," said 
+doyle_adventures_4_d	30	0.9666666666666667	17421	18003	 no difficulty in recognizing 	 no difficulty in recognising 
+doyle_adventures_4_d	30	0.9333333333333333	19873	20155	 said Sherlock Holmes. “You ha	 said Sherlock Holmes. "You ma
+doyle_baskervilles_9_u	35	0.9428571428571428	8135	26822	 the Hound of the Baskervilles. We’	 the Hound of the Baskervilles.” He
+collins_moonstone_67_d	32	0.90625	7908	15436	s of the House of Commons under 	s of the House of Commons, and w
+shelley_frankenstein_32_g	37	0.918918918918919	12307	7390	 should have been happy to have come 	 should have been happy to have posse
+doyle_baskervilles_7_u	32	0.96875	8135	13740	 the Hound of the Baskervilles. 	 the Hound of the Baskervilles c
+doyle_baskervilles_7_u	31	0.9032258064516129	11833	21880	I am sure that they would be ve	I am sure that he would be deli
+christie_styles_11_d	30	0.9	17073	3405	 shrugged his shoulders. “Prov	 shrugged his shoulders. “Cert
+stoker_dracula_12_g	30	0.9	137	18599	 pulled himself together in th	 pulled himself together, and 
+radcliffe_udolpho_34_g	30	0.9	15859	15448	 the circumstances which atten	 the circumstance, which, at t
+christie_styles_5_d	30	0.9	17073	37713	 shrugged his shoulders. “Prov	 shrugged his shoulders. “How 
+lewis_monk_4_g	38	0.9210526315789473	15859	105052	 the circumstances which attended the 	 the circumstances which attended our 
+lewis_monk_4_g	30	0.9	17851	87545	 on condition that I could get	 on condition that I would def
+shelley_frankenstein_54_g	30	0.9	20088	5074	, and it is probable that you 	, and it is possible that you 
+collins_hauntedhotel_19_u	30	0.9	10507	6561	he turned away from the pictur	he turned away from the church
+christie_secretadversary_19_d	30	0.9333333333333333	8445	6381	 “There’s no doubt about the a	 “There’s no doubt about her b
+christie_secretadversary_5_d	32	0.9375	4848	1705	 into trouble with the police.” 	 into trouble with the police, I
+doyle_adventures_2_d	30	0.9	20408	2068	e one of the most singular and	e one of the most singular whi
+christie_styles_1_d	32	0.90625	14529	4748	 was waiting upon the platform. 	 was waiting on the platform, an
+walpole_castleofotranto_5_g	30	0.9	6908	4972	 that I know anything of art b	 that I know any thing of the 
+doyle_baskervilles_4_u	30	0.9333333333333333	18520	3004	,” said Sherlock Holmes. “The 	,” said Sherlock Holmes. “We w
+doyle_baskervilles_4_u	30	0.9	18520	11701	,” said Sherlock Holmes. “The 	,” said Sherlock Holmes. “I co
+doyle_baskervilles_4_u	30	0.9	19871	3004	,” said Sherlock Holmes. “You 	,” said Sherlock Holmes. “We w
+doyle_baskervilles_4_u	30	0.9	19871	11701	,” said Sherlock Holmes. “You 	,” said Sherlock Holmes. “I co
+christie_styles_3_d	32	0.90625	6354	3766	 stared fixedly up over my head 	 stared fixedly over my head at 
+christie_styles_3_d	30	0.9333333333333333	8878	360	 candle in his hand, and he he	 candle in his hand, and the a
+collins_hauntedhotel_15_u	30	0.9	17409	6448	ou will have no difficulty in 	ou will have no difficulties t
+doyle_scarlet_4_d	30	0.9666666666666667	1379	5797	 surmise and conjecture. We sh	 surmise and conjecture. We ha
+doyle_baskervilles_2_u	38	0.9210526315789473	8135	2144	 the Hound of the Baskervilles. We’re 	 the Hound of the Baskervilles there h
+doyle_baskervilles_2_u	30	0.9	15914	649	 Sir Charles Baskerville,” sai	 Sir Charles Baskerville, whos
+doyle_baskervilles_2_u	30	0.9	15914	10303	 Sir Charles Baskerville,” sai	 Sir Charles Baskerville, whos
+doyle_baskervilles_2_u	30	0.9	15914	12755	 Sir Charles Baskerville,” sai	 Sir Charles Baskerville was i
+doyle_baskervilles_2_u	30	0.9	19871	15611	,” said Sherlock Holmes. “You 	,” said Sherlock Holmes, “for 
+christie_secretadversary_15_d	32	0.9375	17070	2205	mes shrugged his shoulders. “Pro	mes shrugged his shoulders. “You
+christie_secretadversary_15_d	30	0.9666666666666667	17070	3017	mes shrugged his shoulders. “P	mes shrugged his shoulders. “M
+doyle_baskervilles_15_u	33	0.9090909090909091	1103	9126	 the devilish cunning of it! If h	 the devilish cunning of it, for 
+doyle_baskervilles_15_u	30	0.9666666666666667	8137	22371	he Hound of the Baskervilles. 	he Hound of the Baskervilles, 

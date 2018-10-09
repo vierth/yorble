@@ -1,0 +1,193 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_3_u	30	0.9333333333333333	50890	5241	 and found that He had been a 	 and found that he had been fa
+stoker_dracula_23_g	30	0.9666666666666667	52143	24134	r a few minutes during which b	r a few minutes, during which 
+stoker_dracula_6_g	31	0.9354838709677419	9839	18334	e threw himself upon his knees 	e threw himself on his knees be
+walpole_castleofotranto_3_g	30	0.9	12137	528	 yourself to the church; that 	 yourself to the church; and c
+radcliffe_udolpho_26_g	36	0.9166666666666666	34702	20879	 to disengage himself from her grasp	 to disengage herself from the grasp
+radcliffe_udolpho_26_g	30	0.9333333333333333	51923	1994	, on the preceding night, He h	, on the preceding night, she 
+radcliffe_udolpho_1_g	30	0.9	34705	3630	 disengage himself from her gr	 disengaged himself from the w
+radcliffe_udolpho_6_g	34	0.9117647058823529	59710	36233	 by the violence of his exertions,	 by the violence of his emotions,-
+radcliffe_udolpho_6_g	33	0.9090909090909091	66487	24193	 at a little distance from his Be	 at a little distance from which 
+shelley_frankenstein_46_g	32	0.9375	55783	3442	 will prove the truth of my affe	 will prove the truth of my tale
+lewis_monk_9_g	31	0.9354838709677419	21342	53420	, reverend Father?' cried the N	, reverend Father?' cried She; 
+lewis_monk_9_g	37	0.918918918918919	28334	23165	 one hand, and with the other wiped a	 one hand, and with the other raised 
+lewis_monk_9_g	33	0.9090909090909091	31752	60508	' As He uttered these words, He s	' As He uttered these words, his 
+lewis_monk_9_g	32	1.0	34475	61335	 with precipitation towards the 	 with precipitation towards the 
+lewis_monk_9_g	43	0.9069767441860465	40117	36555	at the singularity of this adventure, Confu	at the singularity of this adventure would 
+lewis_monk_9_g	30	0.9	47136	10842	 that He was incapable of deci	 that He was incapable of atte
+lewis_monk_9_g	30	0.9	47273	35967	e. He was conscious that prude	e. He was conscious that publi
+lewis_monk_9_g	30	0.9666666666666667	50651	346	, when He reflected on his rea	, when He reflected on his rap
+lewis_monk_9_g	34	0.9117647058823529	56321	68002	 I have nothing more to wish for, 	 I have nothing more to ask for, t
+lewis_monk_9_g	33	0.9696969696969697	72404	21091	, and supported herself upon her 	, and supported herself upon the 
+lewis_monk_9_g	34	0.9117647058823529	78745	69862	e had no opportunity of speaking t	e had no opportunity of making thi
+lewis_monk_9_g	35	0.9428571428571428	82722	4842	 the cause of this disturbance. He 	 the cause of this disturbance. A P
+lewis_monk_9_g	33	0.9696969696969697	85381	66158	; Yet an hour, and I shall be in 	; Yet an hour, and I shall be no 
+lewis_monk_9_g	35	0.9428571428571428	87760	4194	 She uttered a loud shriek, and rai	 She uttered a loud shriek, and thr
+stoker_dracula_18_g	39	0.9230769230769231	9837	34126	 He threw himself upon his knees and re	 He threw himself on his knees, and hel
+stoker_dracula_11_g	30	0.9	62009	3427	 putting her hand before his l	 putting his hands before his 
+stoker_dracula_11_g	30	0.9	81197	3190	 and closed the door. The Abbo	 and closed the door. Then, fo
+reeve_oldenglishbaron	30	0.9	75854	21464	 and pressed it to her lips. '	 and pressed it to his lips. “
+radcliffe_udolpho_16_g	31	0.9354838709677419	14178	26412	 the melancholy pleasure of min	 the melancholy pleasure of wan
+radcliffe_udolpho_16_g	31	0.9354838709677419	33187	36206	t is no longer in my power. To 	t is no longer in my power to r
+radcliffe_udolpho_16_g	30	0.9	47790	66640	e remembered the many happy ho	e remembered her many happy ev
+radcliffe_udolpho_16_g	31	0.9032258064516129	61572	41677	nt with a look of mingled pleas	nt with a look of mingled aston
+radcliffe_udolpho_16_g	30	0.9	78753	38944	 opportunity of speaking to Ma	 opportunity of speaking with 
+radcliffe_udolpho_25_g	33	0.9090909090909091	51923	2821	, on the preceding night, He had 	, on the preceding night, had she
+radcliffe_udolpho_25_g	30	0.9	51923	19332	, on the preceding night, He h	, on the preceding night, and 
+radcliffe_udolpho_25_g	31	0.9354838709677419	71606	17301	he pronounced these last words 	he pronounced the last words; b
+radcliffe_udolpho_25_g	32	0.9375	78746	8621	 had no opportunity of speaking 	 had no opportunity of seeking a
+radcliffe_udolpho_33_g	32	0.90625	56043	15043	 from the world for ever. Yet te	 from the world for ever. In the
+dickens_christmascarole_4_g	30	0.9333333333333333	44714	16110	e pronounced these words in a 	e pronounced these words in Sc
+collins_hauntedhotel_23_u	31	0.9354838709677419	71606	12767	he pronounced these last words 	he pronounced the last words. T
+radcliffe_udolpho_2_g	32	0.90625	34705	11649	 disengage himself from her gras	 disengage himself from the assi
+radcliffe_udolpho_15_g	30	0.9	66489	16791	t a little distance from his B	t a little distance from the p
+collins_moonstone_56_d	31	0.967741935483871	15891	18005	 of the manner in which he had 	 of the manner in which he has 
+doyle_baskervilles_11_u	31	0.9032258064516129	817	17639	. He looked round him with exul	. He looked round him with a fu
+stoker_dracula_20_g	30	0.9	69418	4614	 determined not to wake. The F	 determined not to wake her, b
+doyle_adventures_4_d	30	0.9	86468	21095	 each other as Brother and Fri	 each other as brother and sis
+shelley_frankenstein_48_g	31	0.9354838709677419	74530	458	ed by the fear of a discovery, 	ed by the fear of discovery, I 
+radcliffe_udolpho_36_g	30	0.9	66489	13347	t a little distance from his B	t a little distance from the p
+reeve_oldenglishbaron	30	0.9	75854	21464	 and pressed it to her lips. '	 and pressed it to his lips. “
+walpole_castleofotranto_4_g	44	0.9772727272727273	56026	27433	, and shut myself from the world for ever. Y	, and shut myself from the world for ever.” 
+radcliffe_udolpho_34_g	30	0.9333333333333333	24676	18991	ned by the violence of his pas	ned by the violence of his fal
+dickens_christmascarole_2_g	30	0.9	11453	7589	 clasping her hands together w	 clasping his hands together, 
+dickens_christmascarole_2_g	30	0.9	49784	14084	 her arms round his neck, and 	 her arms about his neck, and 
+dickens_christmascarole_2_g	30	0.9	83475	184	 He was endeavouring to persua	 He was endeavouring to pierce
+collins_hauntedhotel_6_u	41	0.926829268292683	80776	2077	 put her handkerchief to her eyes. Her Co	 put her handkerchief to her eyes. The wo
+lewis_monk_4_g	30	0.9	12019	110021	 the innocent Creature whom yo	 the innocent Creature whose e
+lewis_monk_4_g	43	0.9302325581395349	17758	15006	!' As She uttered these last words, her str	!' As She uttered these last words her fury
+lewis_monk_4_g	30	0.9	30705	105217	n an unguarded moment She conf	n an unguarded moment, the hon
+lewis_monk_4_g	32	0.9375	34395	13530	. At length recovering from his 	. At length recovering from her 
+lewis_monk_4_g	35	0.9428571428571428	37117	89511	 other sentiment than disgust the v	 other sentiment than disgust. The 
+lewis_monk_4_g	34	0.9117647058823529	38554	1124	 vowed to me eternal friendship; Y	 vowed to me an eternal friendship
+lewis_monk_4_g	30	0.9	44714	36225	e pronounced these words in a 	e pronounced these words was s
+lewis_monk_4_g	30	0.9	44842	50324	. Uttering a loud shriek, Mati	. Uttering a loud shriek, the 
+lewis_monk_4_g	43	0.9069767441860465	46038	15006	!' As She uttered these last words, She lif	!' As She uttered these last words her fury
+lewis_monk_4_g	31	0.9032258064516129	49207	105341	 spread itself over his cheek. 	 spread itself over his face. H
+lewis_monk_4_g	31	0.9032258064516129	52208	26154	 on the point of speaking; But 	 on the point of speaking; 'My 
+lewis_monk_4_g	30	0.9	52851	102419	 we must never meet again.' 'A	 we must never meet again!' I 
+lewis_monk_4_g	33	0.9696969696969697	58702	73248	e. He shook his head mournfully, 	e. He shook his head mournfully. 
+lewis_monk_4_g	30	0.9333333333333333	63367	4085	e her a perfect Mistress of th	e her a perfect Mistress of ma
+lewis_monk_4_g	32	0.9375	66486	35212	t at a little distance from his 	t at a little distance from the 
+lewis_monk_4_g	30	0.9333333333333333	67696	74552	 the influence of her charms, 	 the influence of the charm, a
+lewis_monk_4_g	31	0.9032258064516129	71381	7448	 the confession of his regard w	 the confession of her regard, 
+lewis_monk_4_g	45	0.9111111111111111	71588	36206	he tone in which She pronounced these last wo	he tone in which She pronounced these words w
+lewis_monk_4_g	30	0.9	72197	2330	 an exclamation of surprize, A	 an exclamation of surprise. '
+lewis_monk_4_g	30	0.9666666666666667	72197	99818	 an exclamation of surprize, A	 an exclamation of surprize, a
+lewis_monk_4_g	30	0.9	76351	81302	 became the Theatre of a thous	 became the Theatre of the mos
+lewis_monk_4_g	30	0.9333333333333333	76793	94404	 rejoice in the opportunity gi	 rejoice in the opportunity of
+lewis_monk_4_g	30	0.9	77634	27692	 entreated permission to quit 	 entreated permission to take 
+lewis_monk_4_g	36	0.9166666666666666	81289	71035	 waited his report impatiently. But 	 waited his return impatiently. But 
+lewis_monk_4_g	31	0.9354838709677419	82444	4613	e looked with disgust on the mo	e looked with disgust upon the 
+lewis_monk_4_g	31	0.9354838709677419	87760	24500	 She uttered a loud shriek, and	 She uttered a loud shriek, dis
+austen_northangerabbey_28_g	30	0.9	49567	13888	ed imagination had presented h	ed imagination had tormented h
+shelley_frankenstein_42_g	30	0.9666666666666667	15408	8861	e! I will not hear you. Where 	e! I will not hear you. There 
+collins_moonstone_74_d	30	0.9	15893	22131	f the manner in which he had f	f the manner in which he gave 
+radcliffe_udolpho_50_g	33	0.9090909090909091	77248	54990	 have nothing to fear from her pr	 have nothing to fear from them; 
+radcliffe_udolpho_18_g	31	0.9032258064516129	52208	33274	 on the point of speaking; But 	 on the point of speaking what 
+radcliffe_udolpho_18_g	31	0.9032258064516129	77248	41659	 have nothing to fear from her 	 have nothing to fear from my i
+radcliffe_udolpho_13_g	30	0.9	13899	9260	 was on the point of becoming 	 was on the point of being uni
+radcliffe_udolpho_13_g	32	0.90625	15894	14976	 the manner in which he had foun	 the manner, in which he had nam
+radcliffe_udolpho_3_g	30	0.9	66483	6641	 sat at a little distance from	 sat at a little distance, con
+walpole_castleofotranto_1_g	31	0.9032258064516129	40119	4999	 the singularity of this advent	 the singularity of this direct
+walpole_castleofotranto_1_g	30	0.9333333333333333	83482	43848	 endeavouring to persuade Rosa	 endeavouring to persuade Isab
+dickens_christmascarole_1_g	33	0.9090909090909091	40927	8280	 immediately sensible of the extr	 immediately sensible of the impr
+doyle_adventures_5_d	31	0.9032258064516129	50890	37828	 and found that He had been a s	 and found that she had been ta
+radcliffe_udolpho_48_g	30	0.9	51924	18985	 on the preceding night, He ha	 on the preceding night, and h
+radcliffe_udolpho_48_g	31	0.9032258064516129	59932	17219	 to enquire whether any change 	 to enquire whether any strange
+radcliffe_udolpho_48_g	30	0.9	69011	26235	 But the time will come, when 	 But the time was come, when h
+shelley_frankenstein_54_g	31	0.9032258064516129	39527	9487	s. I resolved, therefore, not t	s. I resolved, therefore, that 
+shelley_frankenstein_54_g	33	0.9090909090909091	52824	6570	 when I declare to you that we mu	 when I declare to you that our m
+reeve_oldenglishbaron	30	0.9	75854	21464	 and pressed it to her lips. '	 and pressed it to his lips. “
+radcliffe_udolpho_4_g	30	0.9666666666666667	10223	31304	 retired to their respective C	 retired to their respective a
+radcliffe_udolpho_4_g	31	0.9032258064516129	40856	32232	 recovered from his confusion. 	 recovered from the confusion o
+stoker_dracula_3_g	30	0.9	31391	14076	 after a moment's pause Rosari	 after a moment's pause said:-
+reeve_oldenglishbaron_	36	0.9166666666666666	49778	5171	 threw her arms round his neck, and 	 threw her arms about his neck, and 
+lewis_monk_10_g	31	1.0	11453	11147	 clasping her hands together wi	 clasping her hands together wi
+lewis_monk_10_g	30	0.9	13894	17492	, and was on the point of beco	, and was on the point of reti
+lewis_monk_10_g	30	0.9	13894	36822	, and was on the point of beco	, and was on the point of yiel
+lewis_monk_10_g	30	0.9	16045	15117	 the Domina's countenance grew	 the Domina's countenance betr
+lewis_monk_10_g	36	0.9444444444444444	21379	53243	 At the same time starting from his 	 At the same time starting from the 
+lewis_monk_10_g	30	0.9	31574	17820	or reproached her with her ina	or reproached her with her err
+lewis_monk_10_g	31	0.9032258064516129	46982	40783	. He found it impossible for so	. He found it impossible to dis
+lewis_monk_10_g	36	0.9166666666666666	51877	31409	 He bent his steps towards the same 	 He bent his steps towards the place
+lewis_monk_10_g	30	0.9	56043	14468	 from the world for ever. Yet 	 from the world for ever the V
+lewis_monk_10_g	40	0.925	58817	36311	?' exclaimed the Monks with one voice; '	?' exclaimed the Nuns with one voice; 'W
+lewis_monk_10_g	43	0.9534883720930233	60424	57824	. He communicated this intelligence to his 	. He communicated this intelligence to the 
+lewis_monk_10_g	34	0.9117647058823529	72404	53285	, and supported herself upon her I	, and supporting herself upon her 
+lewis_monk_10_g	30	0.9333333333333333	79226	31412	 bent his steps towards the He	 bent his steps towards the pl
+lewis_monk_10_g	30	0.9	79962	33159	 She spoke her voice was low a	 She spoke, her voice was almo
+austen_northangerabbey_31_g	30	0.9333333333333333	60737	256	 could be more natural than fo	 could be more natural than Ca
+lewis_monk_7_g	38	0.9210526315789473	10229	43330	ed to their respective Cells. The Abbo	ed to their respective Cells. The conf
+lewis_monk_7_g	31	0.9032258064516129	12652	12405	 to be sensible of the dangers 	 to be sensible of his danger. 
+lewis_monk_7_g	30	0.9	31034	34606	s, and in a few Months after w	s, and in a few moments after 
+lewis_monk_7_g	30	0.9333333333333333	41939	8292	onsider me only as a Friend, a	onsider me only as a Friend.' 
+lewis_monk_7_g	32	0.90625	57503	37320	 her hair, beat her bosom, and n	 her hair, beat her bosom, used 
+lewis_monk_7_g	30	0.9	67637	16889	 the precipice before him. Mat	 the precipice before him, and
+lewis_monk_7_g	32	0.90625	77253	3717	 nothing to fear from her presen	 nothing to dread from her resen
+lewis_monk_7_g	56	0.9285714285714286	86162	10526	 her hand, and pressed it rapturously to his lips.)--'Re	 her hand, and pressed it rapturously to his lips. 'Me, 
+lewis_monk_7_g	32	0.90625	89862	34484	 remembered nothing but the plea	 remembered nothing but the dang
+radcliffe_udolpho_10_g	30	0.9333333333333333	71986	18711	 the exact resemblance of his 	 the exact resemblance of the 
+radcliffe_udolpho_10_g	30	0.9333333333333333	83831	32308	 confidence and resignation. '	 confidence and resignation to
+lewis_monk_8_g	30	1.0	16554	36758	 raised her forcibly from the 	 raised her forcibly from the 
+lewis_monk_8_g	31	0.967741935483871	34694	39035	 in vain to disengage himself f	 in vain to disengage himself. 
+lewis_monk_8_g	31	0.9032258064516129	47111	23206	 sentiments in his bosom, that 	 sentiment in his bosom than a 
+lewis_monk_8_g	32	0.90625	66487	27793	 at a little distance from his B	 at a little distance from them 
+lewis_monk_8_g	34	0.9117647058823529	69999	27307	 upon her Harp, and gazed on the p	 upon her arm, and gazed upon the 
+lewis_monk_8_g	30	0.9	85130	30317	, and hesitated not a moment t	, and hesitated for a moment. 
+lewis_monk_5_g	30	0.9	9837	13982	 He threw himself upon his kne	 He threw himself upon his Cou
+lewis_monk_5_g	30	0.9	11694	4749	 read the following lines. 'Al	 read the following lines. LOV
+lewis_monk_5_g	31	0.9032258064516129	35836	26242	 followed her example, and She 	 followed her example, and vowe
+lewis_monk_5_g	31	1.0	39628	25888	, and throw myself entirely on 	, and throw myself entirely on 
+lewis_monk_5_g	30	0.9333333333333333	45571	35572	 the consequences of your acti	 the consequences of your atta
+lewis_monk_5_g	31	0.967741935483871	46917	13985	 threw himself upon his Couch, 	 threw himself upon his Couch; 
+lewis_monk_5_g	30	0.9333333333333333	49201	15230	 blush spread itself over his 	 blush spread itself over her 
+lewis_monk_5_g	41	0.926829268292683	53980	33223	 throw myself upon your generosity, when 	 throw myself upon your generosity, and e
+lewis_monk_5_g	30	0.9333333333333333	72197	49337	 an exclamation of surprize, A	 an exclamation of surprize. '
+lewis_monk_5_g	30	0.9333333333333333	75339	35572	 the consequences of your stay	 the consequences of your atta
+lewis_monk_6_g	30	0.9333333333333333	9837	8771	 He threw himself upon his kne	 He threw himself upon his bed
+lewis_monk_6_g	30	0.9	10357	32120	ed in the confessional chair b	ed in the Confessional Chair t
+lewis_monk_6_g	32	0.90625	14154	47612	 could not refuse myself the mel	 could not refuse himself the pl
+lewis_monk_6_g	30	0.9	34086	841	 The Abbot started at this une	 The Abbot started at the soun
+lewis_monk_6_g	32	0.90625	45571	3971	 the consequences of your action	 the consequences of my action b
+lewis_monk_6_g	30	0.9	50512	3002	s till then unknown to him. He	s till then unknown to him: Sw
+lewis_monk_6_g	30	0.9	59764	5605	 fallen into a profound sleep.	 fallen into a profound slumbe
+lewis_monk_6_g	32	0.90625	67448	7371	nted to him in glowing colours. 	nted to him in glaring colours h
+lewis_monk_6_g	31	0.9032258064516129	75334	3966	 upon the consequences of your 	 upon the consequences of my ac
+lewis_monk_6_g	41	0.926829268292683	75836	732	 his hand eagerly, and pressed it to her 	 his hand gently, and pressed it to her b
+lewis_monk_6_g	30	0.9	76463	28987	 the natural warmth of his tem	 the natural warmth of his con
+lewis_monk_6_g	42	0.9285714285714286	77988	21285	s of the former night were repeated, and h	s of the former night were renewed, and th
+collins_moonstone_62_d	35	0.9428571428571428	6792	11677	 prevented him from communicating h	 prevented them from communicating 
+radcliffe_udolpho_12_g	36	0.9444444444444444	465	5693	 an air of conscious superiority in 	 an air of conscious superiority, an
+radcliffe_udolpho_12_g	32	0.90625	16058	11906	 countenance grew inflamed with 	 countenance was inflamed with r
+radcliffe_udolpho_12_g	31	0.9354838709677419	66487	144	 at a little distance from his 	 at a little distance from the 
+collins_hauntedhotel_25_u	34	0.9117647058823529	49784	8605	 her arms round his neck, and load	 her arms round his neck, and hid 
+lewis_monk_1_g	31	0.9032258064516129	4801	18616	 seclusion from the world at hi	 seclusion from the world, and 
+lewis_monk_1_g	30	0.9	4849	3080	 attracted the notice of the w	 attracted the notice of two C
+lewis_monk_1_g	31	0.9354838709677419	7331	23981	 thrice-blessed St. Francis dei	 thrice-blessed St. Francis him
+lewis_monk_1_g	30	0.9	10775	4042	 and elegance of her figure, c	 and elegance of whose figure 
+lewis_monk_1_g	30	0.9	15793	37007	 upon the scene before them. T	 upon the scene before him. Su
+lewis_monk_1_g	30	0.9333333333333333	21586	36031	s disposition to melancholy,' 	s disposition to melancholy. H
+lewis_monk_1_g	30	0.9	31541	25175	 the acuteness of her feelings	 the acuteness of my feelings.
+lewis_monk_1_g	30	0.9333333333333333	35836	44037	 followed her example, and She	 followed her example, and sev
+lewis_monk_1_g	31	0.9032258064516129	45199	52333	e.' As She said this, She sudde	e.' As She said this, She drew 
+lewis_monk_1_g	30	0.9	50129	15475	 inexpressible sweetness. He p	 inexpressible sweetness. Leon
+lewis_monk_1_g	32	0.90625	66942	9012	 the most perfect symmetry, the 	 the most perfect symmetry; Her 
+lewis_monk_1_g	31	0.9354838709677419	74145	25498	 through the medium of your sen	 through the medium of your own
+lewis_monk_1_g	31	1.0	78115	36281	ing visions floated before his 	ing visions floated before his 
+lewis_monk_1_g	30	0.9	78753	24753	 opportunity of speaking to Ma	 opportunity of speaking of hi
+radcliffe_udolpho_27_g	30	0.9	51923	4076	, on the preceding night, He h	, on the preceding night, resp
+collins_moonstone_50_d	30	0.9	61807	9929	 not satisfied with having so 	 not satisfied with saying to 
+radcliffe_udolpho_14_g	30	0.9	83797	837	 her countenance was expressiv	 her countenance an expression
+radcliffe_udolpho_49_g	32	0.90625	29723	8019	r love was so well bestowed, wha	r love was not well bestowed, th
+radcliffe_udolpho_41_g	30	0.9333333333333333	15894	17199	 the manner in which he had fo	 the manner, in which she had 
+doyle_scarlet_12_d	30	0.9333333333333333	78715	1581	 During the whole of the day H	 During the whole of that day 
+christie_styles_3_d	30	0.9	60724	6022	 that nothing could be more na	 that nothing could be done no
+collins_hauntedhotel_10_u	31	0.9032258064516129	80173	8101	 accompanied her to the door of	 accompanied them to the door. 
+collins_moonstone_60_d	32	0.90625	82722	12681	 the cause of this disturbance. 	 the cause of that disturbance, 
+radcliffe_udolpho_54_g	31	0.967741935483871	4126	4300	everie was interrupted by three	everie was interrupted by the e
+radcliffe_udolpho_54_g	30	0.9333333333333333	71986	9735	 the exact resemblance of his 	 the exact resemblance of the 
+stoker_dracula_16_g	34	0.9411764705882353	9840	10595	 threw himself upon his knees and 	 threw himself on his knees, and h
+reeve_oldenglishbaron	30	0.9	75854	21464	 and pressed it to her lips. '	 and pressed it to his lips. “
+collins_moonstone_65_d	30	0.9333333333333333	1109	8082	 an impetuous temperament, and	 an impetuous temperament. Und
+christie_styles_4_d	30	0.9	72197	1299	 an exclamation of surprize, A	 an exclamation of surprise at

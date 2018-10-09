@@ -1,0 +1,63 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_69_d	30	0.9	19430	6475	 had not been in the room at a	 had not been in the room. “Ha
+stoker_dracula_26_g	42	0.9523809523809523	20403	6917	. _Mina Harker's Journal._ _1 October._--I	. _Mina Harker's Journal._ _30 October._--
+stoker_dracula_26_g	38	0.9473684210526315	20403	14206	. _Mina Harker's Journal._ _1 October.	. _Mina Harker's Journal._ _30 October
+stoker_dracula_26_g	46	0.9130434782608695	20403	35457	. _Mina Harker's Journal._ _1 October._--It is	. _Mina Harker's Journal._ _31 October._--Arri
+stoker_dracula_26_g	31	0.9032258064516129	27409	7736	 Dr. Van Helsing or Dr. Seward 	 Dr. Van Helsing, Dr. Seward, a
+doyle_scarlet_10_d	33	0.9393939393939394	18895	7452	 with his elbows on his knees, an	 with his elbows upon his knees, 
+doyle_baskervilles_3_u	31	1.0	21033	3712	e. They all agreed that it was 	e. They all agreed that it was 
+stoker_dracula_23_g	32	0.90625	20410	19854	 Harker's Journal._ _1 October._	 Harker's Journal._ _3-4 October
+stoker_dracula_23_g	32	0.96875	24539	21455	I must have fallen asleep, for, 	I must have fallen asleep, for I
+stoker_dracula_25_g	41	0.9024390243902439	16634	14077	 _Dr. Seward's Diary._ _1 October._--It w	 _Dr. Seward's Diary._ _25 October._--How
+stoker_dracula_25_g	38	0.9473684210526315	16634	18864	 _Dr. Seward's Diary._ _1 October._--I	 _Dr. Seward's Diary._ _28 October._--
+stoker_dracula_25_g	31	0.967741935483871	20410	8742	 Harker's Journal._ _1 October.	 Harker's Journal._ _15 October
+collins_moonstone_58_d	30	0.9	10566	2831	 the corner of the house. Unco	 the corner of the house. Turn
+radcliffe_udolpho_6_g	30	0.9333333333333333	6587	15979	Which is the way to the chapel	Which is the way to the chatea
+christie_styles_10_d	30	0.9	23332	22353	 looked out of the window. All	 looked out of the window. “Hy
+stoker_dracula_18_g	34	1.0	16633	25280	. _Dr. Seward's Diary._ _1 October	. _Dr. Seward's Diary._ _1 October
+stoker_dracula_18_g	32	0.90625	20077	7276	; but it is no place for a woman	; but it is no part for a woman.
+stoker_dracula_18_g	31	0.9354838709677419	20403	9729	. _Mina Harker's Journal._ _1 O	. _Mina Harker's Journal._ _30 
+stoker_dracula_11_g	30	0.9333333333333333	16632	1012	y. _Dr. Seward's Diary._ _1 Oc	y. _Dr. Seward's Diary._ _13 S
+stoker_dracula_11_g	30	0.9	16633	18294	. _Dr. Seward's Diary._ _1 Oct	. _Dr. Seward's Diary._ _17 Se
+doyle_signoffour_7_d	34	0.9117647058823529	16917	457	 the adventure of the night he sud	 the adventures of the night. She 
+radcliffe_udolpho_25_g	35	0.9142857142857143	28865	4617	r that he had something important t	r that he had something of importan
+radcliffe_udolpho_33_g	31	0.967741935483871	23274	12031	 silence so profound that it st	 silence so profound, that it s
+collins_hauntedhotel_23_u	30	0.9	9251	8618	. It was only for a moment, fo	. It was only for a moment. Th
+stoker_dracula_10_g	30	0.9	16633	19636	. _Dr. Seward's Diary._ _1 Oct	. _Dr. Seward's Diary._ _10 Se
+stoker_dracula_20_g	40	1.0	1	0	X JONATHAN HARKER'S JOURNAL _1 October, 	X JONATHAN HARKER'S JOURNAL _1 October, 
+stoker_dracula_20_g	44	0.9318181818181818	16634	17322	 _Dr. Seward's Diary._ _1 October._--It was 	 _Dr. Seward's Diary._ _1 October._--I am pu
+stoker_dracula_20_g	42	0.9285714285714286	16634	28537	 _Dr. Seward's Diary._ _1 October._--It wa	 _Dr. Seward's Diary._ _2 October._--I pla
+stoker_dracula_20_g	33	0.9090909090909091	17237	2330	 I told him that if he would go a	 I told him that if he could get 
+doyle_baskervilles_9_u	37	0.918918918918919	23917	23526	 looked out of the window again. The 	 looked out of the window again. Sir 
+stoker_dracula_12_g	33	0.9090909090909091	8144	12851	; but this was no ordinary case, 	; but this is no ordinary case. Y
+radcliffe_udolpho_34_g	34	0.9117647058823529	9254	8924	t was only for a moment, for, as L	t was only for a moment, for that 
+christie_styles_5_d	30	0.9333333333333333	4952	9319	e closed the door behind us, l	e closed the door behind us. M
+lewis_monk_4_g	33	0.9090909090909091	24156	98830	 I could not distinguish a word h	 I could not distinguish her word
+radcliffe_udolpho_50_g	30	0.9	5707	37883	 looking over their shoulders 	 looking over the shoulder of 
+stoker_dracula_2_g	30	0.9	2	1	 JONATHAN HARKER'S JOURNAL _1 	 JONATHAN HARKER'S JOURNAL--_c
+stoker_dracula_2_g	30	0.9	22000	1886	t all seems like a horrible tr	t all seemed like a horrible n
+stoker_dracula_2_g	35	0.9428571428571428	24275	2467	t. Then there was the sound of a st	t. Then there was the sound of ratt
+doyle_adventures_5_d	32	0.90625	9451	12627	. There was no sign of any one; 	. There was no sign of any viole
+stoker_dracula_24_g	43	0.9069767441860465	16633	16106	. _Dr. Seward's Diary._ _1 October._--It wa	. _Dr. Seward's Diary._ _5 October._--We al
+stoker_dracula_24_g	30	0.9	18029	28987	ed the room." Van Helsing smil	ed the room. Van Helsing motio
+stoker_dracula_24_g	37	0.972972972972973	20403	3381	. _Mina Harker's Journal._ _1 October	. _Mina Harker's Journal._ _5 October
+stoker_dracula_24_g	30	0.9666666666666667	20410	23888	 Harker's Journal._ _1 October	 Harker's Journal._ _5 October
+stoker_dracula_24_g	30	0.9	28743	3706	 I knew that they wanted to te	 I knew that he wanted to get 
+stoker_dracula_3_g	30	0.9	2	2	 JONATHAN HARKER'S JOURNAL _1 	 JONATHAN HARKER'S JOURNAL--_c
+stoker_dracula_3_g	30	0.9	24538	23588	 I must have fallen asleep, fo	 I must have fallen asleep; I 
+christie_secretadversary_11_d	30	0.9333333333333333	24717	12810	 where I was, and that it was 	 where I was, and that I was l
+lewis_monk_7_g	32	0.90625	16917	42740	 the adventure of the night he s	 the adventures of the night to 
+doyle_signoffour_5_d	32	0.90625	2248	13752	ing his hand on his shoulder, sa	ing his hand upon his shoulder. 
+stoker_dracula_1_g	30	0.9	3	0	JONATHAN HARKER'S JOURNAL _1 O	JONATHAN HARKER'S JOURNAL (_Ke
+stoker_dracula_1_g	30	0.9	24538	27261	 I must have fallen asleep, fo	 I must have fallen asleep and
+doyle_adventures_9_d	31	0.9032258064516129	7766	7731	 was composed of all the ills o	 was composed of all the plugs 
+doyle_adventures_9_d	32	0.90625	10278	29619	 turned the key in the lock, dre	 turned the key in the lock. I r
+stoker_dracula_9_g	31	0.9354838709677419	15681	723	 anything that has happened. I 	 anything that has happened to 
+radcliffe_udolpho_49_g	30	0.9	28791	1536	hat had occurred to each durin	hat had occurred to each, sinc
+collins_moonstone_60_d	32	0.90625	10557	13274	ing round the corner of the hous	ing round the corner of the pass
+stoker_dracula_16_g	31	0.967741935483871	2237	21569	er, and laying his hand on his 	er, and laying his head on his 
+stoker_dracula_16_g	30	0.9	21717	21309	he reaction from the terrible 	he reaction of the terrible st
+stoker_dracula_21_g	36	0.9722222222222222	9050	28513	or an instant my heart stood still. 	or an instant my heart stood still, 
+stoker_dracula_21_g	31	1.0	23328	19111	 and looked out of the window. 	 and looked out of the window. 
+stoker_dracula_21_g	31	0.967741935483871	23913	19111	 and looked out of the window a	 and looked out of the window. 
+stoker_dracula_21_g	35	0.9714285714285714	26921	28394	 the windows of St. Mary's Church. 	 the windows of St. Mary's Church a

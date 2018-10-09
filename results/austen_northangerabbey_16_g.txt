@@ -1,0 +1,6 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_19_g	30	0.9	6789	3240	.” Henry smiled, and said, “Ho	.” Henry smiled and said, “I a
+radcliffe_udolpho_12_g	31	0.9032258064516129	14649	40435	 perfectly understand the prese	 perfectly understand this spee
+lewis_monk_1_g	30	0.9	2628	961	 it would be impossible for an	 it would be impossible to fin
+christie_secretadversary_10_d	30	0.9	4266	10499	. She looked at him with great	. She looked at him with renew
+austen_northangerabbey_3_g	30	0.9333333333333333	2416	5624	.” “That is exactly what I say	.” “That is exactly what I sho

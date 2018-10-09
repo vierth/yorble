@@ -1,0 +1,105 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_82_d	42	0.9047619047619048	7222	8003	 the misery and the mortification of it. Y	 the misery and the mortification of your 
+collins_moonstone_82_d	30	0.9	13552	2787	 the nightgown down in the san	 the nightgown down on the tab
+collins_moonstone_82_d	40	0.925	16262	17238	 you, Mr. Franklin,” he answered. “If yo	 you, Mr. Franklin,” he answered. “It’s 
+collins_moonstone_88_d	31	0.9032258064516129	4177	1015	I made the best of my way indoo	I made the best of my way out o
+collins_moonstone_88_d	38	0.9210526315789473	7528	64031	here is nothing to be done but to conf	here is nothing to be done but to watc
+collins_moonstone_88_d	31	0.9032258064516129	8275	15352	. I could only look at her. “‘I	. I could only look at him. “I 
+collins_moonstone_88_d	40	0.975	16570	5333	enth chapters of Betteredge’s Narrative 	enth chapter of Betteredge’s Narrative. 
+doyle_adventures_11_d	31	0.9354838709677419	17173	22811	 of the disappearance of the Di	 of the disappearance of these 
+collins_moonstone_86_d	30	0.9	26	11026	 Mr. Candy’s assistant, Better	 Mr. Candy’s assistant, otherw
+collins_moonstone_86_d	31	0.967741935483871	357	5782	, in such a situation as mine, 	, in such a situation as mine. 
+collins_moonstone_86_d	36	0.9722222222222222	4864	26558	I have got something to say to you; 	I have got something to say to you a
+collins_moonstone_86_d	32	1.0	18944	9205	 from the darkness to the light.	 from the darkness to the light.
+collins_moonstone_87_d	30	0.9333333333333333	22	161	e of Mr. Candy’s assistant, Be	e of Mr. Candy’s assistant whe
+collins_moonstone_51_d	32	0.96875	12705	6717	 out for a breath of fresh air. 	 out for a breath of fresh air b
+collins_moonstone_78_d	31	0.9032258064516129	1595	16827	 the loss of the Diamond, he wo	 the loss of the Diamond, no on
+collins_moonstone_78_d	36	0.9166666666666666	18352	2085	e succession of events which led me 	e succession of events which ended i
+collins_hauntedhotel_21_u	32	0.90625	11338	987	t was impossible for me to risk 	t was impossible for her to ask 
+collins_moonstone_48_d	31	0.9032258064516129	12713	2220	 a breath of fresh air. I went 	 a breath of fresh air. I have 
+collins_moonstone_59_d	30	0.9	3066	4681	 in custody on suspicion, and 	 in custody on suspicion, or l
+collins_moonstone_59_d	59	0.9152542372881356	10710	881	 being concerned in the disappearance of the Diamond. But, 	 being concerned in the disappearance of the Diamond, on ev
+collins_moonstone_59_d	41	0.9024390243902439	17176	900	 the disappearance of the Diamond. For he	 the disappearance of the Diamond, on evi
+collins_moonstone_55_d	36	0.9166666666666666	1261	28293	e in which the Diamond had been lost	e in which the Diamond had been put 
+collins_moonstone_55_d	31	0.9354838709677419	1592	7654	 of the loss of the Diamond, he	 of the loss of the Diamond see
+collins_moonstone_55_d	30	0.9	4874	2149	 something to say to you; it c	 something to say to you.” Wit
+christie_secretadversary_12_d	31	0.9032258064516129	993	715	 at the time. There was more th	 at the time. There was somethi
+doyle_adventures_10_d	32	0.90625	6439	36316	 I ought to have spoken to you? 	 I ought to have spoken to Lord 
+doyle_adventures_10_d	30	0.9	10729	7891	 the disappearance of the Diam	 the disappearance of the brid
+doyle_adventures_10_d	30	0.9	10729	14121	 the disappearance of the Diam	 the disappearance of the brid
+doyle_adventures_10_d	30	0.9	17176	7891	 the disappearance of the Diam	 the disappearance of the brid
+doyle_adventures_10_d	30	0.9	17176	14121	 the disappearance of the Diam	 the disappearance of the brid
+doyle_adventures_6_d	45	0.9333333333333333	10710	38044	 being concerned in the disappearance of the 	 being concerned in the disappearance of Mr. 
+collins_moonstone_75_d	33	0.9538461538461539	18944	4086	 from the darkness to the light.	 from the darkness into the light
+collins_hauntedhotel_17_u	30	0.9666666666666667	12639	10156	 made the first excuse that ca	 made the first excuse that oc
+doyle_adventures_3_d	30	0.9333333333333333	11338	30436	t was impossible for me to ris	t was impossible for me to sol
+lewis_monk_3_g	30	0.9	4177	41493	I made the best of my way indo	I made the best of my way towa
+lewis_monk_3_g	30	0.9	11338	6923	t was impossible for me to ris	t was impossible for her to im
+collins_moonstone_89_d	34	0.9117647058823529	357	15009	, in such a situation as mine, tha	, in such a situation as mine was 
+collins_moonstone_89_d	30	0.9	3147	44899	ing Mr. Godfrey Ablewhite off 	ing Mr. Godfrey Ablewhite in v
+collins_moonstone_81_d	31	0.9032258064516129	171	1645	 Rosanna Spearman’s letter. On 	 Rosanna Spearman’s letter, I s
+collins_moonstone_81_d	32	0.90625	171	5530	 Rosanna Spearman’s letter. On m	 Rosanna Spearman’s letter. The 
+collins_moonstone_81_d	30	0.9333333333333333	1171	1645	 Rosanna Spearman’s letter, wh	 Rosanna Spearman’s letter, I 
+collins_moonstone_81_d	30	0.9333333333333333	1171	5530	 Rosanna Spearman’s letter, wh	 Rosanna Spearman’s letter. Th
+collins_moonstone_81_d	30	0.9333333333333333	2770	2390	 looked at me as if I was a st	 looked at me as if I was an o
+collins_moonstone_81_d	30	0.9	11338	14133	t was impossible for me to ris	t was impossible for me to unf
+collins_moonstone_81_d	45	0.9111111111111111	15893	6101	 humble servant, “ROSANNA SPEARMAN.” The read	 humble servant, “ROSANNA SPEARMAN.” I turned
+austen_northangerabbey_7_g	30	0.9	6300	4978	 such a little thing as the ke	 such a little thing as this? 
+christie_secretadversary_25_d	30	0.9	12661	1891	 that came into my head, and g	 that came into my head a long
+austen_northangerabbey_15_g	30	0.9	12978	399	e opportunity of taking the ni	e opportunity of asking the ot
+poe_marieroget_1_d	30	0.9	896	55311	 personal interview with Rache	 personal interviews with the 
+poe_marieroget_1_d	30	0.9	10729	66423	 the disappearance of the Diam	 the disappearance of this sam
+poe_marieroget_1_d	30	0.9	17099	53981	, under the circumstances—that	, under the circumstances, the
+poe_marieroget_1_d	30	0.9	17176	66423	 the disappearance of the Diam	 the disappearance of this sam
+radcliffe_udolpho_1_g	30	0.9	10729	24016	 the disappearance of the Diam	 the disappearance of the pict
+radcliffe_udolpho_1_g	30	0.9	17176	24016	 the disappearance of the Diam	 the disappearance of the pict
+collins_moonstone_58_d	33	0.9090909090909091	11096	10739	 was plain—that Sergeant Cuff was	 was plain that Sergeant Cuff’s s
+collins_moonstone_70_d	30	0.9666666666666667	10726	14114	 in the disappearance of the D	 in the disappearance of the M
+collins_hauntedhotel_26_u	30	0.9666666666666667	13995	14518	. Then, again, there is the co	. Then, again, there is the Co
+collins_moonstone_85_d	31	0.9032258064516129	171	24991	 Rosanna Spearman’s letter. On 	 Rosanna Spearman’s letter, I d
+collins_moonstone_85_d	30	0.9	539	22648	 I forced myself to look my ow	 I forced myself to look at yo
+collins_moonstone_85_d	30	0.9333333333333333	1171	24991	 Rosanna Spearman’s letter, wh	 Rosanna Spearman’s letter, I 
+collins_moonstone_85_d	30	0.9	1595	22057	 the loss of the Diamond, he w	 the loss of the Diamond—the D
+collins_moonstone_85_d	30	0.9333333333333333	2177	21698	t news that reached us in the 	t news that reached me in the 
+collins_moonstone_85_d	30	0.9	6662	21085	with all my heart and soul. Be	with all my heart and soul I h
+collins_moonstone_85_d	35	0.9714285714285714	15783	9617	y end in understanding each other, 	y end in understanding each other y
+doyle_scarlet_13_d	30	0.9333333333333333	11338	5032	t was impossible for me to ris	t was impossible for me to sec
+doyle_scarlet_13_d	31	0.9032258064516129	12978	10288	e opportunity of taking the nig	e opportunity of making the man
+radcliffe_udolpho_2_g	32	0.90625	10765	6287	ut, at the same time, he let me 	ut, at the same time, felt more 
+collins_moonstone_56_d	30	0.9	1271	18364	 the Diamond had been lost. Fo	 the Diamond has been lost. Se
+collins_moonstone_61_d	34	0.9117647058823529	3211	406	 favourite walk in the shrubbery, 	 favourite walk by the shrubbery s
+collins_moonstone_61_d	41	0.9024390243902439	4863	10696	 I have got something to say to you; it c	 I have got something to say to you from 
+collins_moonstone_61_d	35	0.9142857142857143	11335	14457	. It was impossible for me to risk 	. It was impossible for me to see h
+collins_moonstone_61_d	33	0.9696969696969697	17853	3276	y interest in Rosanna Spearman. A	y interest in Rosanna Spearman.” 
+collins_moonstone_61_d	52	0.9038461538461539	18053	3428	no interest whatever in Rosanna Spearman.” At those 	no interest whatever in Rosanna Spearman.” I looked 
+collins_moonstone_80_d	30	0.9	17839	11284	 appealed to my interest in Ro	 appealed to his interest in R
+collins_moonstone_67_d	30	0.9	18691	3674	 at the Shivering Sand, with i	 at the Shivering Sand, when w
+lewis_monk_4_g	32	0.90625	11338	27077	t was impossible for me to risk 	t was impossible for me to make 
+lewis_monk_4_g	32	0.90625	11338	52422	t was impossible for me to risk 	t was impossible for me to join 
+collins_moonstone_74_d	33	0.9090909090909091	210	11233	 I sat at the window, waiting unt	 I sat at the window waiting the 
+doyle_adventures_5_d	30	0.9	18363	24268	n of events which led me to th	n of events which led up to it
+collins_hauntedhotel_19_u	34	0.9705882352941176	3305	12653	, for all I knew to the contrary, 	, for all I know to the contrary, 
+doyle_scarlet_2_d	30	0.9333333333333333	12979	19350	 opportunity of taking the nig	 opportunity of taking the con
+dickens_christmascarole_3_g	30	0.9	16091	23339	 his eyes on the ground. “Bett	 his eyes upon the ground. But
+lewis_monk_10_g	30	0.9	17639	44404	 once more attempted to meet m	 once more attempted to move i
+collins_moonstone_84_d	35	0.9142857142857143	168	6101	 of Rosanna Spearman’s letter. On m	 of Rosanna Spearman’s letter. The 
+collins_moonstone_84_d	33	1.0	894	6672	 a personal interview with Rachel	 a personal interview with Rachel
+collins_moonstone_84_d	33	0.9393939393939394	1168	6101	 of Rosanna Spearman’s letter, wh	 of Rosanna Spearman’s letter. Th
+collins_moonstone_84_d	38	0.9736842105263158	16572	11134	th chapters of Betteredge’s Narrative 	th chapter of Betteredge’s Narrative, 
+collins_moonstone_84_d	31	0.9032258064516129	17099	2942	, under the circumstances—that 	, under the circumstances—to on
+lewis_monk_7_g	30	0.9	11338	2338	t was impossible for me to ris	t was impossible for her to re
+christie_secretadversary_5_d	30	0.9	17173	6304	 of the disappearance of the D	 of the disappearance of Jane 
+doyle_adventures_2_d	30	0.9	11342	2406	s impossible for me to risk we	s impossible for me to say whe
+collins_moonstone_53_d	34	0.9117647058823529	18690	9711	e at the Shivering Sand, with its 	e at the Shivering Sand—with this 
+collins_moonstone_62_d	30	0.9	3837	1184	, and went into the house.* * 	, and went on into the house. 
+collins_moonstone_62_d	31	0.9032258064516129	4148	1183	d, and went into the house. “I 	d, and went on into the house. 
+collins_moonstone_50_d	31	0.967741935483871	60	20645	 appeared to think that we had 	 appeared to think that he had 
+collins_moonstone_50_d	31	0.9354838709677419	10915	20645	 appeared to think that I had b	 appeared to think that he had 
+collins_moonstone_66_d	42	0.9047619047619048	10727	10737	in the disappearance of the Diamond. But, 	in the disappearance of the Diamond. She r
+collins_moonstone_66_d	42	0.9047619047619048	17176	10739	 the disappearance of the Diamond. For her	 the disappearance of the Diamond. She ref
+collins_moonstone_60_d	31	0.9032258064516129	1595	12814	 the loss of the Diamond, he wo	 the loss of the Diamond, I do 
+collins_moonstone_60_d	30	0.9	18691	16579	 at the Shivering Sand, with i	 at the Shivering Sand, that e
+christie_secretadversary_15_d	30	0.9	7528	2394	here is nothing to be done but	here is nothing to be done.” “
+collins_moonstone_65_d	31	0.9032258064516129	1595	7330	 the loss of the Diamond, he wo	 the loss of the Diamond, were 
+collins_moonstone_65_d	30	0.9	3066	12602	 in custody on suspicion, and 	 in custody on suspicion, goin
+collins_moonstone_65_d	54	0.9259259259259259	10707	17408	 of being concerned in the disappearance of the Diamon	 of being concerned in the disappearance of the Moonst

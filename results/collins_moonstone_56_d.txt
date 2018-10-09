@@ -1,0 +1,66 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_61_d	30	0.9	9917	2099	 on the previous morning, and 	 on the previous evening, and 
+collins_moonstone_61_d	30	0.9	12382	1787	,” answered Mr. Franklin. “Tha	,” answered Mr. Franklin; “and
+collins_moonstone_67_d	30	0.9	1351	2084	 the best medical advice at ou	 the best medical advice. Can 
+collins_moonstone_67_d	30	0.9	22900	10370	, to the best of his ability, 	, to the best of my ability, I
+stoker_dracula_12_g	32	0.90625	17398	37864	 shook his head, and answered, “	 shook his head and answered:-- 
+radcliffe_udolpho_34_g	31	0.9032258064516129	3119	52197	 arrival, I went down to the ga	 arrival, went down to the quay
+dickens_christmascarole_2_g	31	0.9032258064516129	20370	1221	, and that there was no smear o	, and that there was no noise o
+collins_hauntedhotel_6_u	30	0.9	23597	8080	 his hands in his pockets, loo	 his hands in his pockets, and
+collins_moonstone_74_d	30	0.9	18007	22131	f the manner in which he has m	f the manner in which he gave 
+radcliffe_udolpho_13_g	32	0.90625	16567	42441	 consequence of what he had seen	 consequence of what he had alre
+radcliffe_udolpho_13_g	32	0.90625	18008	14976	 the manner in which he has mana	 the manner, in which he had nam
+christie_styles_12_d	30	0.9	11403	5315	 shook his head. “No,” he said	 shook his also. “No,” he said
+walpole_castleofotranto_1_g	30	0.9333333333333333	13578	23983	. She addressed herself to the	. She addressed herself to eve
+christie_secretadversary_1_d	30	0.9	9180	1794	 led the way upstairs. The Ser	 led the way upstairs. The pla
+dickens_christmascarole_3_g	30	0.9	24636	13702	 the threshold of the door. “C	 the threshold of the door the
+christie_secretadversary_11_d	32	0.96875	24206	6999	 the middle of the room, and sto	 the middle of the room, and sit
+collins_hauntedhotel_11_u	30	0.9666666666666667	15213	6807	or the first time in my life. 	or the first time in my life, 
+lewis_monk_10_g	30	0.9	5040	43838	 the first appearance of anyth	 the first appearance of dange
+collins_moonstone_84_d	31	0.9032258064516129	4703	17421	 for the first time in their li	 for the first time in his life
+collins_moonstone_84_d	33	0.9090909090909091	15211	17421	 for the first time in my life. S	 for the first time in his life. 
+lewis_monk_7_g	30	0.9333333333333333	13583	39815	 addressed herself to the Serg	 addressed herself to the Spir
+collins_moonstone_53_d	31	0.9032258064516129	4763	5662	 for my lady, and hearing that 	 for my lady, and, hearing she 
+collins_moonstone_53_d	34	0.9411764705882353	16771	12896	Let us forget what has passed, and	Let us forget what has passed, God
+collins_moonstone_62_d	45	0.9111111111111111	3959	3885	 Superintendent Seegrave than Sergeant Cuff, 	 Superintendent Seegrave at Sergeant Cuff’s d
+collins_moonstone_62_d	30	0.9	9649	3885	 Superintendent Seegrave had a	 Superintendent Seegrave at Se
+collins_moonstone_62_d	30	0.9	18558	3885	 Superintendent Seegrave laid 	 Superintendent Seegrave at Se
+collins_moonstone_62_d	30	0.9	21703	3885	 Superintendent Seegrave was s	 Superintendent Seegrave at Se
+collins_moonstone_62_d	30	0.9	23597	8849	 his hands in his pockets, loo	 his hands in his pockets, and
+collins_moonstone_62_d	30	0.9333333333333333	23662	8903	 “The Last Rose of Summer” sof	 “The Last Rose of Summer” to 
+collins_moonstone_62_d	30	0.9	23904	8903	 “The Last Rose of Summer” evi	 “The Last Rose of Summer” to 
+collins_moonstone_62_d	30	0.9	24770	392	,” answered Sergeant Cuff. We 	,” answered Sergeant Cuff. “An
+doyle_adventures_9_d	30	0.9	13765	36282	 put the clue into your hands?	 put the case into your hands 
+radcliffe_udolpho_12_g	30	0.9	2868	10391	 for the purpose of hearing wh	 for the purpose of pleasing h
+lewis_monk_1_g	30	0.9	19766	13376	 a lively interest in the pain	 a lively interest in the talk
+collins_moonstone_50_d	30	0.9	12382	14552	,” answered Mr. Franklin. “Tha	,” answered Mr. Franklin, “say
+radcliffe_udolpho_41_g	30	0.9	18008	17199	 the manner in which he has ma	 the manner, in which she had 
+collins_hauntedhotel_10_u	30	0.9	13202	418	 settled the question of the p	 settled the question in the s
+collins_moonstone_66_d	33	1.0	6571	18167	. There will be grass walks, Mr. 	. There will be grass walks, Mr. 
+collins_moonstone_66_d	30	0.9	6872	17306	 Sergeant Cuff, “you will see 	 Sergeant Cuff, “you will, soo
+collins_moonstone_60_d	30	0.9	2242	9150	 Superintendent Seegrave, retu	 Superintendent Seegrave’s rep
+collins_moonstone_60_d	30	0.9	3959	9930	 Superintendent Seegrave than 	 Superintendent Seegrave was w
+collins_moonstone_60_d	30	0.9	5333	3377	,” says the Sergeant, with a w	,” says the Sergeant, with mor
+collins_moonstone_60_d	30	0.9	5368	18640	 his grizzled head, and a stre	 his grizzled head, and his re
+collins_moonstone_60_d	32	0.90625	8272	9691	Superintendent Seegrave should h	Superintendent Seegrave found th
+collins_moonstone_60_d	30	0.9	9649	9930	 Superintendent Seegrave had a	 Superintendent Seegrave was w
+collins_moonstone_60_d	31	0.9032258064516129	9999	9689	 “Superintendent Seegrave order	 “Superintendent Seegrave found
+collins_moonstone_60_d	32	0.90625	10373	9691	Superintendent Seegrave upon tha	Superintendent Seegrave found th
+collins_moonstone_60_d	31	0.9354838709677419	10597	614	.” Sergeant Cuff looked at Mr. 	.” Sergeant Cuff looked at me. 
+collins_moonstone_60_d	35	0.9142857142857143	15211	6429	 for the first time in my life. Ser	 for the first time in my life, whe
+collins_moonstone_60_d	34	0.9117647058823529	16129	9691	Superintendent Seegrave, on the pr	Superintendent Seegrave found the 
+collins_moonstone_60_d	30	0.9666666666666667	16515	16079	 in the mind of Sergeant Cuff—	 in the mind of Sergeant Cuff.
+collins_moonstone_60_d	30	0.9	18558	9930	 Superintendent Seegrave laid 	 Superintendent Seegrave was w
+collins_moonstone_60_d	30	0.9666666666666667	21703	9930	 Superintendent Seegrave was s	 Superintendent Seegrave was w
+collins_moonstone_60_d	35	0.9142857142857143	22738	9150	 Superintendent Seegrave’s respect 	 Superintendent Seegrave’s report; 
+collins_moonstone_49_d	30	0.9	12382	1446	,” answered Mr. Franklin. “Tha	,” answered Mr. Franklin. “I s
+collins_moonstone_65_d	30	0.9	3959	7852	 Superintendent Seegrave than 	 Superintendent Seegrave. And 
+collins_moonstone_65_d	30	0.9	8938	7852	 Superintendent Seegrave in th	 Superintendent Seegrave. And 
+collins_moonstone_65_d	30	0.9	9649	7852	 Superintendent Seegrave had a	 Superintendent Seegrave. And 
+collins_moonstone_65_d	30	0.9	10372	7852	 Superintendent Seegrave upon 	 Superintendent Seegrave. And 
+collins_moonstone_65_d	31	0.9032258064516129	12635	6634	 Superintendent Seegrave. “Let 	 Superintendent Seegrave. He pr
+collins_moonstone_65_d	30	0.9	15946	7330	 the loss of her Diamond,” rem	 the loss of the Diamond, were
+collins_moonstone_65_d	30	0.9	16128	7852	 Superintendent Seegrave, on t	 Superintendent Seegrave. And 
+collins_moonstone_65_d	30	0.9	18558	7852	 Superintendent Seegrave laid 	 Superintendent Seegrave. And 
+collins_moonstone_65_d	30	0.9	24770	14500	,” answered Sergeant Cuff. We 	,” answered Sergeant Cuff, “re
+radcliffe_udolpho_35_g	32	0.96875	15211	21645	 for the first time in my life. 	 for the first time in my life, 

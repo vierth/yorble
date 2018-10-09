@@ -1,0 +1,23 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_22_g	31	0.9032258064516129	388	3187	ould have been difficult to det	ould have been so difficult to 
+austen_northangerabbey_14_g	32	0.90625	22054	18049	I wish you could have gone. It w	I wish you could have gone too. 
+collins_hauntedhotel_27_u	34	0.9117647058823529	17473	379	e walked up and down the room; sta	e walked up and down the room. Aft
+collins_moonstone_61_d	30	0.9	11484	13221	there was nothing more to come	there was nothing more to be s
+doyle_baskervilles_7_u	31	0.9354838709677419	23617	9102	 I can be of service to you in 	 I can be of service to you I t
+stoker_dracula_12_g	30	0.9	8309	30895	 than they had been upon the r	 than they had been in the mor
+dickens_christmascarole_2_g	31	0.9032258064516129	717	25321	 of the Ghost of Christmas Yet 	 of the Ghost of Christmas Past
+dickens_christmascarole_2_g	38	0.9210526315789473	855	32543	e shadows of the things that have not 	e shadows of the things that have been
+dickens_christmascarole_2_g	30	0.9	14370	28291	 "Spirit!" said Scrooge, shudd	 "Spirit!" said Scrooge, "show
+dickens_christmascarole_2_g	30	0.9666666666666667	27049	32543	e shadows of the things that W	e shadows of the things that h
+dickens_christmascarole_1_g	30	0.9	3825	12660	," observed the gentleman with	," observed the gentleman. "It
+doyle_scarlet_2_d	30	0.9	8216	9326	 was closely followed by a man	 was closely followed by a sli
+dickens_christmascarole_3_g	30	0.9333333333333333	21076	16157	 Tiny Tim upon his shoulder, v	 Tiny Tim upon his shoulder. A
+dickens_christmascarole_3_g	30	0.9	21582	15860	 the two young Cratchits got u	 the two young Cratchits, who 
+dickens_christmascarole_3_g	30	0.9	21582	18491	 the two young Cratchits got u	 the two young Cratchits set c
+dickens_christmascarole_3_g	30	0.9	24184	15133	" said Mrs. Cratchit. "And the	" said Mrs. Cratchit. "And you
+dickens_christmascarole_3_g	30	0.9	25040	18491	 the two young Cratchits kisse	 the two young Cratchits set c
+christie_secretadversary_17_d	31	0.9032258064516129	8546	14143	he who had entered first. "Let 	he who had entered first. It wo
+radcliffe_udolpho_10_g	31	0.9032258064516129	18668	16034	 the emotion of her heart. "Wha	 the emotions of her heart. Val
+doyle_adventures_9_d	36	0.9166666666666666	21821	21937	ed at the work upon the table, and p	ed at the books upon the table, and 
+collins_moonstone_66_d	34	0.9411764705882353	1103	3552	 was the only answer he received. 	 was the only answer I received. N
+doyle_scarlet_4_d	30	0.9333333333333333	17474	5374	 walked up and down the room; 	 walked up and down the room--

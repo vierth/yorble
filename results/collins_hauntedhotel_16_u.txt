@@ -1,0 +1,12 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_2_g	30	0.9	1604	1930	 present themselves at the fam	 present themselves at the Abb
+walpole_castleofotranto_3_g	32	0.90625	238	9638	 open for the reception of trave	 open for the reception of the s
+lewis_monk_9_g	30	0.9	1819	2738	 opportunity of renewing his a	 opportunity of repeating his 
+collins_hauntedhotel_23_u	30	0.9	2555	5167	 have suffered?' she asked pet	 have suffered?' he asked. She
+stoker_dracula_20_g	34	0.9117647058823529	1810	16884	 took the opportunity of renewing 	 took the opportunity of bringing 
+walpole_castleofotranto_4_g	30	0.9333333333333333	2342	14452	 In this frame of mind and bod	 In this frame of mind, and de
+collins_moonstone_53_d	31	0.9032258064516129	460	9735	with this difference, that his 	with this difference, that I to
+collins_moonstone_53_d	30	0.9333333333333333	3699	12593	 as if nothing had happened.' 	 as if nothing had happened?’ 
+lewis_monk_5_g	30	0.9	2544	39806	e of what I have suffered?' sh	e of what I have suffered has 
+doyle_baskervilles_2_u	30	0.9	180	18386	 three weeks before the date a	 three weeks before the fatal 
+collins_moonstone_65_d	30	0.9	3081	17327	 and you will understand her. 	 and you will understand how u

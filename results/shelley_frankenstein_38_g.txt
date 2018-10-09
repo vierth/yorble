@@ -1,0 +1,28 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_39_g	30	0.9	16	21	 the following letter into my 	 the following letter from my 
+shelley_frankenstein_39_g	32	0.96875	5650	14918	 of having caused the deaths of 	 of having caused the death of m
+christie_styles_7_d	33	0.9090909090909091	670	5207	 figure to myself that the task o	 figure to myself that the man wo
+christie_styles_7_d	30	0.9333333333333333	4795	16073	, with the exception of her ne	, with the exception of the se
+doyle_adventures_10_d	30	0.9	6747	6519	 approaching marriage with a y	 approaching marriage with Mis
+doyle_adventures_6_d	30	0.9	4794	18449	r, with the exception of her n	r, with the exception of his c
+collins_moonstone_46_d	30	0.9333333333333333	10305	5388	 but it is nevertheless true. 	 but it is nevertheless true—s
+shelley_frankenstein_30_g	30	0.9	14041	2115	 endeavour to elevate my mind 	 endeavour to regulate my mind
+shelley_frankenstein_37_g	31	0.9032258064516129	1009	12503	 in your own handwriting. “Get 	 in your own handwriting. They 
+poe_usher_1_g	30	0.9333333333333333	4793	19043	er, with the exception of her 	er, with the exception of cert
+shelley_frankenstein_52_g	30	0.9	5383	12765	, which had before been remark	, which had before been clear,
+poe_marieroget_1_d	30	0.9	4793	66618	er, with the exception of her 	er, with the exception of a sl
+radcliffe_udolpho_1_g	32	0.90625	5364	11210	ness to her manners, which had b	ness to her manner, which added 
+walpole_castleofotranto_4_g	37	0.918918918918919	4536	12248	 too much occupied in their own grief	 too much occupied with their own ref
+radcliffe_udolpho_50_g	30	0.9	11319	35915	 turned his eyes toward the Ea	 turned his eyes towards that 
+walpole_castleofotranto_1_g	32	0.9375	5667	11491	 the deaths of her brothers and 	 the death of her brother, and f
+radcliffe_udolpho_48_g	31	0.9032258064516129	2238	7909	 rewarded for any exertions by 	 rewarded for her exertions by 
+radcliffe_udolpho_48_g	32	0.90625	8823	5040	 progress I had made in the scie	 progress he had made in the set
+shelley_frankenstein_54_g	48	0.9166666666666666	7601	7609	 “Elizabeth Lavenza. “Geneva, March 18th, 17—.” 	 “Elizabeth Lavenza. “Geneva, May 18th, 17—” Thi
+dickens_christmascarole_3_g	30	0.9	4906	2380	he began to think that the dea	he began to think that the sou
+reeve_oldenglishbaron_	30	0.9	6705	2829	 received the congratulatory v	 received the congratulations 
+christie_styles_1_d	30	0.9	8978	20815	 and changed the subject from 	 and changed the subject. “Com
+shelley_frankenstein_51_g	30	0.9333333333333333	13483	6799	s of my native country. We pas	s of my native country. We vis
+radcliffe_udolpho_21_g	32	0.9375	4536	7534	 too much occupied in their own 	 too much occupied by their own 
+radcliffe_udolpho_12_g	33	0.9090909090909091	9747	28234	 with a mixture of affection and 	 with a mixture of attention and 
+shelley_frankenstein_47_g	30	0.9	12846	7024	d become acquainted with any o	d become acquainted with my ad
+doyle_scarlet_12_d	30	0.9	4907	2050	e began to think that the deat	e began to think that they wer

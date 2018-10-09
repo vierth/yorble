@@ -1,0 +1,75 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_75_d	31	0.9032258064516129	8179	19584	ted the attention of the women-	ted the attention of the compan
+collins_moonstone_75_d	30	1.0	11679	27674	 to London by the next train, 	 to London by the next train, 
+collins_moonstone_89_d	31	1.0	1054	1559	 since the time when she was a 	 since the time when she was a 
+collins_moonstone_89_d	40	0.925	2168	55379	 Miss Verinder’s sitting-room, and what 	 Miss Verinder’s sitting-room, and saw y
+collins_moonstone_89_d	31	0.9032258064516129	8136	21928	,” added the Sergeant, turning 	,” added the Sergeant, patting 
+collins_moonstone_89_d	31	0.9032258064516129	9379	32557	,” answered the Sergeant, “she 	,” answered the Sergeant. “See 
+collins_moonstone_81_d	30	0.9333333333333333	2612	15425	 from the smear on the door mu	 from the smear on the door. “
+doyle_scarlet_3_d	32	0.90625	11899	5193	s. “You don’t seem to be much di	s. “You don’t seem to give much 
+lewis_monk_2_g	35	0.9142857142857143	7425	84358	er, as soon as we were left alone a	er, as soon as they were left alone
+collins_moonstone_58_d	32	1.0	1776	7602	 about the servants in general, 	 about the servants in general, 
+collins_moonstone_58_d	30	0.9	3652	3552	,” said the Sergeant. “The oth	,” said the Sergeant. “When yo
+collins_moonstone_58_d	32	0.90625	4644	752	e,” answered the Sergeant, “if I	e,” answered the Sergeant, “you 
+collins_moonstone_58_d	30	0.9	5426	2981	 Sergeant Cuff stopped her by 	 Sergeant Cuff stopped there, 
+collins_moonstone_58_d	35	0.9142857142857143	7239	7408	 called the servants together, and 	 called the servants together in th
+collins_moonstone_58_d	30	0.9	8639	11980	he girl had come down to break	he girl had come down to tea, 
+collins_moonstone_58_d	30	0.9666666666666667	8750	11656	 illness of the previous day t	 illness of the previous day. 
+collins_moonstone_58_d	32	0.90625	9379	753	,” answered the Sergeant, “she w	,” answered the Sergeant, “you w
+collins_moonstone_58_d	30	0.9333333333333333	10231	9252	 “The Last Rose of Summer” sof	 “The Last Rose of Summer” to 
+radcliffe_udolpho_25_g	37	0.918918918918919	5096	4799	 her first surprise was over, saw the	 her first surprise was over, made he
+collins_moonstone_56_d	34	0.9411764705882353	2168	8648	 Miss Verinder’s sitting-room, and	 Miss Verinder’s sitting-room,” sa
+collins_moonstone_56_d	32	0.90625	2433	3956	 to Superintendent Seegrave. “On	 to Superintendent Seegrave than
+collins_moonstone_56_d	32	0.90625	2433	10369	 to Superintendent Seegrave. “On	 to Superintendent Seegrave upon
+collins_moonstone_56_d	34	0.9411764705882353	2433	12632	 to Superintendent Seegrave. “One 	 to Superintendent Seegrave. “Let 
+collins_moonstone_56_d	30	0.9	2750	11112	efore we go a step further.” “	efore we go a step further in 
+collins_moonstone_56_d	31	0.9032258064516129	3652	24923	,” said the Sergeant. “The othe	,” said the Sergeant. “The piec
+collins_moonstone_56_d	30	0.9	8111	2241	. Superintendent Seegrave,” ad	. Superintendent Seegrave, ret
+collins_moonstone_56_d	30	0.9	8112	9649	 Superintendent Seegrave,” add	 Superintendent Seegrave had a
+collins_moonstone_56_d	30	0.9	8112	18558	 Superintendent Seegrave,” add	 Superintendent Seegrave laid 
+collins_moonstone_56_d	30	0.9	8246	9895	 crowded into the room on Thur	 crowded into the room on the 
+collins_moonstone_56_d	30	0.9	8351	3959	 Superintendent Seegrave’s man	 Superintendent Seegrave than 
+collins_moonstone_56_d	30	0.9	8351	22738	 Superintendent Seegrave’s man	 Superintendent Seegrave’s res
+collins_moonstone_56_d	52	0.9230769230769231	10231	23662	 “The Last Rose of Summer” softly to himself. At las	 “The Last Rose of Summer” softly to himself. Later 
+collins_moonstone_56_d	30	0.9	10231	23904	 “The Last Rose of Summer” sof	 “The Last Rose of Summer” evi
+doyle_baskervilles_11_u	30	0.9	7092	4590	 with the utmost readiness by 	 with the utmost readiness. “T
+collins_moonstone_61_d	42	0.9285714285714286	605	12158	.” I hardly knew what to say to this. The 	.” I hardly knew what to say to that. She 
+collins_moonstone_61_d	30	0.9333333333333333	4645	737	,” answered the Sergeant, “if 	,” answered the Sergeant, “on 
+collins_moonstone_61_d	32	0.90625	9378	736	r,” answered the Sergeant, “she 	r,” answered the Sergeant, “on t
+collins_moonstone_61_d	34	0.9411764705882353	12595	12647	 looked at it for a moment with a 	 looked at me for a moment with a 
+christie_styles_5_d	32	0.90625	2334	36037	 the conclusions he drew from it	 the conclusions I drew from tho
+christie_styles_5_d	31	0.9032258064516129	7807	23646	I want to be able to account ne	I want to be able to count upon
+austen_northangerabbey_26_g	30	0.9	8718	12778	 sufficiently recovered from h	 sufficiently recovered to thi
+collins_moonstone_72_d	33	0.9393939393939394	10974	898	 I believe I should have blushed 	 I believe I should have rushed f
+doyle_adventures_5_d	33	0.9393939393939394	7958	27848	 at least a presumption that it h	 at least a presumption that the 
+radcliffe_udolpho_22_g	35	0.9142857142857143	12595	24998	 looked at it for a moment with a m	 looked at her for a moment with a 
+shelley_frankenstein_51_g	30	0.9	884	13459	t prevail on myself to see him	t prevail on myself to enter m
+collins_moonstone_62_d	30	0.9333333333333333	4645	2433	,” answered the Sergeant, “if 	,” answered the Sergeant. “If 
+collins_moonstone_62_d	30	0.9333333333333333	4645	6934	,” answered the Sergeant, “if 	,” answered the Sergeant, “bef
+collins_moonstone_62_d	34	0.9705882352941176	4779	760	 in the house on Wednesday night. 	 in the house on Wednesday night; 
+collins_moonstone_62_d	30	0.9333333333333333	9379	6934	,” answered the Sergeant, “she	,” answered the Sergeant, “bef
+collins_moonstone_62_d	30	0.9333333333333333	10231	8903	 “The Last Rose of Summer” sof	 “The Last Rose of Summer” to 
+radcliffe_udolpho_12_g	34	0.9117647058823529	8718	49695	 sufficiently recovered from her i	 sufficiently recovered to hear wi
+lewis_monk_1_g	30	0.9	12595	52412	 looked at it for a moment wit	 looked at it for a moment, an
+collins_hauntedhotel_10_u	30	0.9666666666666667	607	5064	 I hardly knew what to say to 	 I hardly know what to say to 
+collins_moonstone_66_d	30	0.9	4424	17299	,” said Sergeant Cuff, “if you	,” said Sergeant Cuff, “you wi
+collins_moonstone_66_d	30	0.9	4629	11679	, Mr. Betteredge,” answered th	, Mr. Betteredge,” he answered
+collins_moonstone_66_d	36	0.9166666666666666	11460	229	?” I asked. “Yes,” said the Sergeant	?” I asked. “No,” said the Sergeant.
+collins_moonstone_60_d	30	0.9	4645	9853	,” answered the Sergeant, “if 	,” answered the Sergeant. “It 
+collins_moonstone_60_d	30	0.9	4645	19128	,” answered the Sergeant, “if 	,” answered the Sergeant, “bec
+collins_moonstone_60_d	30	0.9	8351	9150	 Superintendent Seegrave’s man	 Superintendent Seegrave’s rep
+collins_moonstone_60_d	30	0.9333333333333333	9379	19128	,” answered the Sergeant, “she	,” answered the Sergeant, “bec
+collins_moonstone_60_d	30	0.9	11471	4217	 “Yes,” said the Sergeant, “th	 “Yes,” says the Sergeant; “th
+collins_moonstone_76_d	30	0.9333333333333333	2045	5216	r ladyship’s permission to kee	r ladyship’s permission to emb
+collins_moonstone_49_d	30	0.9	9446	3603	, there was no help for it, bu	, there was no help for it now
+doyle_baskervilles_15_u	30	0.9333333333333333	9724	16501	. “I have already told your la	. “I have already told you tha
+collins_moonstone_65_d	31	0.9354838709677419	2041	1709	 your ladyship’s permission to 	 your ladyship’s permission) I 
+collins_moonstone_65_d	31	0.9032258064516129	2436	6634	 Superintendent Seegrave. “One 	 Superintendent Seegrave. He pr
+collins_moonstone_65_d	31	0.9032258064516129	2436	7852	 Superintendent Seegrave. “One 	 Superintendent Seegrave. And s
+collins_moonstone_65_d	30	0.9	4645	18573	,” answered the Sergeant, “if 	,” answered the Sergeant, “req
+collins_moonstone_65_d	31	0.9032258064516129	8418	21390	ng the bell, and order the wash	ng the bell, and ordered her wa
+collins_moonstone_65_d	31	0.9354838709677419	9164	13299	 trouble your ladyship with one	 trouble your ladyship with the
+collins_moonstone_65_d	30	0.9333333333333333	9379	18573	,” answered the Sergeant, “she	,” answered the Sergeant, “req
+collins_moonstone_65_d	36	0.9166666666666666	11606	9759	 all the wardrobes in the house or n	 all the wardrobes in the house. It 
+collins_moonstone_52_d	30	0.9	808	915	 I have already told you. “If 	 I have already told you. His 
+christie_styles_4_d	37	0.918918918918919	2071	14951	 keep to myself for the present. My b	 keep to myself for the present.” He 

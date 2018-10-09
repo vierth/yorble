@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_11_u	36	0.9444444444444444	5304	7104	 taking a very grave responsibility 	 taking a very great responsibility 
+collins_moonstone_61_d	30	0.9	2545	12060	 make a clean breast of it, fo	 make a clean breast of it.” “
+doyle_baskervilles_9_u	30	0.9	855	7765	t seemed to me that there was 	t seemed to me that she was st
+doyle_baskervilles_7_u	31	0.9032258064516129	852	1365	. It seemed to me that there wa	. It seemed to me that the pall
+doyle_baskervilles_7_u	30	0.9	8362	24490	 it, Dr. Watson," said she. I 	 it, Dr. Watson,” said she. “M
+christie_styles_5_d	30	0.9	5323	43708	e responsibility upon myself i	e responsibility upon itself, 
+doyle_adventures_5_d	30	0.9	855	16328	t seemed to me that there was 	t seemed to me that he was far
+doyle_adventures_2_d	33	0.9090909090909091	855	12182	t seemed to me that there was mor	t seemed to me that if there was 
+doyle_adventures_2_d	30	0.9	2416	33662	 Jones, of Scotland Yard. He i	 Jones, of Scotland Yard? Let 
+doyle_adventures_2_d	39	0.9230769230769231	9282	1359	 of the greatest interest to me," she s	 of the greatest interest to me," I obs
+doyle_adventures_9_d	31	1.0	7853	5192	 I think that I must have been 	 I think that I must have been 
+stoker_dracula_9_g	31	0.9032258064516129	8907	28298	. It was a shock to me to hear 	. It was a shock to me to turn 

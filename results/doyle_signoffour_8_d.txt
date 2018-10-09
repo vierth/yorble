@@ -1,0 +1,26 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_4_d	35	0.9142857142857143	9890	6798	 Pondicherry Lodge, Upper Norwood, 	 Pondicherry Lodge in Upper Norwood
+doyle_signoffour_6_d	36	0.9722222222222222	4577	12685	d Holmes, shrugging his shoulders, "	d Holmes, shrugging his shoulders. "
+doyle_signoffour_6_d	31	0.9032258064516129	10466	10244	 happened to be at the Norwood 	 happened to be out at Norwood 
+doyle_signoffour_1_d	33	0.9393939393939394	8051	3871	 in the Jefferson Hope case?" "We	 in the Jefferson Hope case." "Ye
+doyle_signoffour_3_d	34	0.9117647058823529	6104	2984	 of the slightest importance to yo	 of the slightest importance, but 
+doyle_adventures_12_d	31	0.9032258064516129	4519	23002	 easy in my mind about it." "Bu	 easy in my mind about them." "
+doyle_baskervilles_10_u	34	0.9411764705882353	8475	974	e excitements of the night. I was 	e excitements of the night. I am c
+doyle_signoffour_11_d	30	0.9	17561	3126	t is more than I can tell. Sin	t is more than I can tell. I d
+collins_hauntedhotel_5_u	30	0.9666666666666667	6104	7336	 of the slightest importance t	 of the slightest importance) 
+doyle_baskervilles_9_u	30	0.9	17048	13659	e. They have always been a ter	e. They have always been toget
+shelley_frankenstein_42_g	30	0.9	10937	2408	 well acquainted with the hous	 well acquainted with the path
+stoker_dracula_2_g	30	0.9	789	16126	 to the place where he had com	 to the places where he had se
+christie_secretadversary_23_d	37	0.918918918918919	737	1409	 There was no difficulty about this. 	 There was no difficulty about it. As
+shelley_frankenstein_40_g	32	0.90625	10937	6646	 well acquainted with the house,	 well acquainted with the accuse
+lewis_monk_10_g	30	0.9	6515	5816	 on either side of the stream 	 on either side of the great G
+christie_secretadversary_19_d	31	0.9032258064516129	2236	10905	 expected. They seem to have co	 expected. She seems to have so
+lewis_monk_7_g	30	0.9	15546	5147	 separated from the others, be	 separated from her Mother's b
+doyle_adventures_2_d	42	0.9285714285714286	9696	6485	." I took the paper from him and read the 	." I took the paper from him and read as f
+lewis_monk_6_g	30	0.9	11266	13774	 which communicated with that 	 which communicated with St. C
+stoker_dracula_1_g	30	0.9	7915	27229	 we resumed our journey. "I am	 we resumed our journey. I thi
+doyle_adventures_9_d	30	0.9	9699	27635	I took the paper from him and 	I took the lamp from him, and 
+collins_moonstone_60_d	30	0.9	9951	16616	 under circumstances which poi	 under circumstances which wer
+christie_secretadversary_10_d	30	0.9	17451	4578	 would give a good deal not to	 would give a good deal to ove
+collins_moonstone_52_d	31	0.9032258064516129	10634	19932	 towards the detection of the c	 towards the decoration of the 
+radcliffe_udolpho_35_g	30	0.9	11234	24075	 through a trap-door into a ro	 through a trap-door into some

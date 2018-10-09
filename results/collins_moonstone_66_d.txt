@@ -1,0 +1,25 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_60_d	30	0.9	7536	12421	 Mr. Franklin, and the other t	 Mr. Franklin, on the other si
+collins_moonstone_60_d	30	0.9333333333333333	9502	9853	,” answered the Sergeant. “Go 	,” answered the Sergeant. “It 
+collins_moonstone_60_d	30	0.9	9534	18828	, Mr. Betteredge,” he said, wi	, Mr. Betteredge,” he said. “A
+collins_moonstone_60_d	34	0.9705882352941176	11080	15812	After what has passed between the 	After what had passed between the 
+collins_moonstone_60_d	35	0.9142857142857143	14572	5183	 the subject of the Moonstone! My o	 the subject of the Moonstone out o
+collins_moonstone_60_d	34	0.9705882352941176	17762	5180	 on the subject of the Moonstone, 	 on the subject of the Moonstone o
+collins_moonstone_60_d	31	0.9354838709677419	18925	8729	 to be said on both sides!” I m	 to be said on both sides.” In 
+doyle_scarlet_4_d	33	0.9090909090909091	17701	6208	here,” he said, pointing to the a	here,” he said, pointing to a nar
+collins_moonstone_76_d	31	0.9032258064516129	4314	15820	 the loss of the Moonstone, on 	 the loss of the Moonstone was 
+collins_moonstone_76_d	32	0.9375	4314	21343	 the loss of the Moonstone, on T	 the loss of the Moonstone, out 
+collins_moonstone_76_d	34	0.9117647058823529	11080	19221	After what has passed between the 	After what has passed between us, 
+collins_moonstone_76_d	31	0.967741935483871	14572	998	 the subject of the Moonstone! 	 the subject of the Moonstone, 
+collins_moonstone_76_d	45	0.9333333333333333	17762	995	 on the subject of the Moonstone, which I sha	 on the subject of the Moonstone, which has a
+collins_moonstone_49_d	31	0.9032258064516129	16427	4681	, I doubt if I could have felt 	, I doubt if I could have been 
+collins_moonstone_65_d	30	0.9	52	9177	f Sergeant Cuff. I found him s	f Sergeant Cuff had found hims
+collins_moonstone_65_d	33	0.9090909090909091	384	14500	,” answered Sergeant Cuff, “that 	,” answered Sergeant Cuff, “relat
+collins_moonstone_65_d	30	0.9333333333333333	4314	6570	 the loss of the Moonstone, on	 the loss of the Moonstone,” s
+collins_moonstone_65_d	30	0.9333333333333333	10737	17428	in the disappearance of the Di	in the disappearance of the Mo
+collins_moonstone_65_d	44	0.9090909090909091	14186	4467	 the circumstances have fatally misled me?” 	 the circumstances have fatally misled you i
+collins_moonstone_65_d	30	0.9333333333333333	16639	12655	, and all the rest of it—entir	, and all the rest of it—nothi
+collins_moonstone_65_d	32	0.90625	16806	18836	,” proceeded the Sergeant, “you 	,” proceeded the Sergeant, “and 
+collins_moonstone_65_d	43	0.9069767441860465	17367	18946	 that money-lender in London, whom I have t	 that money-lender in London, whom I mentio
+collins_moonstone_65_d	41	0.9024390243902439	17858	1794	 whether I am right or wrong. In the mean	 whether I am right or wrong.” “Is the pe
+collins_moonstone_52_d	30	0.9	5925	14590	 for Miss Rachel’s sake. In th	 for Miss Rachel’s sake. With 

@@ -1,0 +1,84 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_42_g	31	0.9032258064516129	5532	10859	 entered the bed-chamber by the	 entered the bed-chamber, I hea
+collins_moonstone_55_d	41	0.926829268292683	4090	30258	e produced a favourable impression on Agn	e produced an unfavourable impression on 
+austen_northangerabbey_8_g	31	0.9354838709677419	12250	14366	 two younger sisters and the nu	 two younger sisters and their 
+christie_styles_7_d	30	0.9333333333333333	11631	16135	ther in the drawing-room. Here	ther in the drawing-room. I re
+stoker_dracula_13_g	30	0.9333333333333333	12110	921	n. Under these circumstances, 	n. Under the circumstances, Va
+walpole_castleofotranto_2_g	30	0.9333333333333333	658	41838	 at the other end of the corri	 at the other end of the court
+doyle_adventures_6_d	30	0.9	3141	19578	 the second floor of the house	 the second floor of the opium
+collins_hauntedhotel_17_u	30	0.9	2503	3911	e had not left the hotel more 	e had not left the hotel ten m
+collins_hauntedhotel_17_u	35	0.9142857142857143	12216	10920	 night in the room occupied by her 	 night in the room occupied in the 
+collins_hauntedhotel_24_u	36	0.9722222222222222	657	2085	s at the other end of the corridor w	s at the other end of the corridor. 
+doyle_adventures_3_d	38	0.9210526315789473	979	30428	d that it was impossible for her to as	d that it was impossible for me to sol
+radcliffe_udolpho_52_g	33	0.9090909090909091	11878	15664	 could give no explanation of the	 could give any explanation of it
+stoker_dracula_14_g	32	0.9375	4884	15209	 back to the drawing-room she wa	 back to the drawing-room, he sa
+lewis_monk_3_g	30	1.0	985	6921	 it was impossible for her to 	 it was impossible for her to 
+collins_moonstone_89_d	30	0.9666666666666667	12110	51709	n. Under these circumstances, 	n. Under those circumstances, 
+collins_moonstone_81_d	35	0.9428571428571428	980	14126	 that it was impossible for her to 	 that it was impossible for me to u
+doyle_scarlet_7_d	30	0.9	5422	2704	 on the second floor (no other	 on the second floor, and ther
+collins_hauntedhotel_16_u	31	0.9032258064516129	6369	1782	 Lady Montbarry's advice, and t	 Lady Montbarry's advice, he to
+radcliffe_udolpho_46_g	30	0.9	3320	1748	 to take possession of the roo	 to take possession of the est
+collins_hauntedhotel_14_u	31	0.9032258064516129	4233	1610	s on the walls and ceiling were	s on the walls and ceilings cle
+radcliffe_udolpho_26_g	30	0.9	11878	25949	 could give no explanation of 	 could give no explanation, an
+christie_styles_10_d	30	0.9	978	23134	ed that it was impossible for 	ed that it was possible, from 
+lewis_monk_9_g	31	0.9354838709677419	3700	11854	 to have the pleasure of person	 to have the pleasure of presen
+collins_moonstone_70_d	31	0.9032258064516129	9908	8243	ed the motive which had led to 	ed the motive which had loaded 
+collins_hauntedhotel_26_u	30	0.9666666666666667	11254	19926	 to her feet with a cry of ter	 to her feet, with a cry of tr
+doyle_adventures_12_d	30	0.9	2714	28132	 on the other side of the draw	 on the other side of the room
+doyle_adventures_12_d	30	0.9	9469	28132	 on the other side of the draw	 on the other side of the room
+doyle_scarlet_13_d	32	0.90625	985	5030	 it was impossible for her to as	 it was impossible for me to sec
+doyle_scarlet_13_d	31	0.9032258064516129	2714	6929	 on the other side of the drawi	 on the other side of the river
+doyle_scarlet_13_d	31	0.9032258064516129	9469	6929	 on the other side of the drawi	 on the other side of the river
+radcliffe_udolpho_16_g	30	0.9	9045	30610	 that she was going to sleep, 	 that she was going to leave t
+radcliffe_udolpho_33_g	36	0.9166666666666666	661	26665	 the other end of the corridor were 	 the other end of the corridor, dete
+collins_hauntedhotel_23_u	30	0.9	3988	1588	 those words, Lady Montbarry l	 those words, Lord Montbarry s
+christie_styles_6_d	33	0.9393939393939394	2306	16930	hesitated for a moment--and then 	hesitated for a moment, and then 
+collins_moonstone_61_d	30	0.9	987	14460	t was impossible for her to as	t was impossible for me to see
+collins_moonstone_61_d	33	0.9090909090909091	12111	1349	. Under these circumstances, but 	. Under these circumstances, is i
+collins_hauntedhotel_5_u	32	0.90625	1614	14354	ly accepted the suggestion. They	ly accepted the suggestion. An h
+doyle_adventures_4_d	34	0.9117647058823529	12111	6688	. Under these circumstances, but o	. Under these circumstances the yo
+shelley_frankenstein_48_g	30	0.9	980	1646	 that it was impossible for he	 that it was impossible to ret
+walpole_castleofotranto_4_g	31	0.9032258064516129	979	16269	d that it was impossible for he	d that it is impossible for me 
+christie_styles_11_d	30	0.9	4102	25083	 favourable impression on Agne	 favourable impression on the 
+radcliffe_udolpho_34_g	32	0.96875	661	13484	 the other end of the corridor w	 the other end of the corridor. 
+radcliffe_udolpho_34_g	30	1.0	985	10654	 it was impossible for her to 	 it was impossible for her to 
+christie_styles_5_d	32	0.9375	5503	41213	 ran swiftly down the stairs, en	 ran swiftly down the stairs and
+christie_styles_5_d	30	0.9	6408	36837	 key in the lock of the dressi	 key in the lock of the despat
+christie_styles_5_d	30	0.9	9205	3916	 the other members of the trav	 the other members of the fami
+christie_styles_5_d	30	0.9	12111	5791	. Under these circumstances, b	. Under the circumstances, we 
+lewis_monk_4_g	30	0.9	657	28111	s at the other end of the corr	s at the other end of the room
+lewis_monk_4_g	34	0.9117647058823529	985	27075	 it was impossible for her to ask 	 it was impossible for me to make 
+lewis_monk_4_g	30	0.9333333333333333	985	52420	 it was impossible for her to 	 it was impossible for me to j
+lewis_monk_4_g	30	0.9	2714	46011	 on the other side of the draw	 on the other side of the Cast
+lewis_monk_4_g	30	0.9	9469	46011	 on the other side of the draw	 on the other side of the Cast
+lewis_monk_4_g	31	0.9032258064516129	12115	114370	der these circumstances, but on	der these circumstances, our yo
+collins_moonstone_74_d	33	0.9090909090909091	12111	1654	. Under these circumstances, but 	. Under these circumstances, Mr. 
+radcliffe_udolpho_18_g	30	0.9	657	23128	s at the other end of the corr	s at the other end of the cast
+radcliffe_udolpho_18_g	30	0.9	2714	26375	 on the other side of the draw	 on the other side of the cast
+radcliffe_udolpho_18_g	30	0.9	9469	26375	 on the other side of the draw	 on the other side of the cast
+radcliffe_udolpho_13_g	35	0.9142857142857143	8773	2965	 she observed with surprise that He	 she observed with surprise the dej
+austen_northangerabbey_26_g	30	0.9333333333333333	3949	11747	 the prettiest room in the hou	 the prettiest room in the wor
+christie_styles_12_d	33	0.9393939393939394	2873	2858	ed that she had heard from the ho	ed that she had heard, from her o
+dickens_christmascarole_1_g	35	0.9428571428571428	11476	12895	ly that it would be useless to reas	ly that it would be useless to purs
+radcliffe_udolpho_22_g	30	0.9333333333333333	2714	11296	 on the other side of the draw	 on the other side of the door
+radcliffe_udolpho_22_g	30	0.9333333333333333	9469	11296	 on the other side of the draw	 on the other side of the door
+radcliffe_udolpho_22_g	31	0.9032258064516129	12200	15953	 should pass the night in the r	 should pass the night with her
+collins_hauntedhotel_19_u	30	0.9	2205	83	e open space of the square. Sh	e open space of the square, ba
+doyle_scarlet_2_d	33	0.9090909090909091	12111	3117	. Under these circumstances, but 	. Under these circumstances, I ea
+dickens_christmascarole_3_g	30	0.9	4239	2857	he walls and ceiling were skil	he walls and ceiling were so h
+lewis_monk_10_g	31	0.9354838709677419	985	23143	 it was impossible for her to a	 it was impossible for them to 
+lewis_monk_7_g	30	1.0	985	2336	 it was impossible for her to 	 it was impossible for her to 
+christie_styles_1_d	31	0.9032258064516129	111	477	 connected with the affairs of 	 connected with the affair. I h
+radcliffe_udolpho_12_g	30	0.9333333333333333	980	21896	 that it was impossible for he	 that it was impossible for Ma
+collins_hauntedhotel_25_u	30	0.9333333333333333	5824	290	 Agnes in the drawing-room. Th	 Agnes in the drawing-room. 'H
+doyle_baskervilles_4_u	30	0.9	2714	16131	 on the other side of the draw	 on the other side of the stre
+doyle_baskervilles_4_u	30	0.9	9469	16131	 on the other side of the draw	 on the other side of the stre
+collins_hauntedhotel_10_u	32	0.9375	2385	7964	 the hotel. Lady Montbarry recei	 the hotel. Lady Montbarry graci
+collins_hauntedhotel_10_u	30	0.9666666666666667	13190	2910	 Lady Montbarry looked round t	 Lady Montbarry looked round a
+collins_hauntedhotel_10_u	33	0.9090909090909091	13190	3331	 Lady Montbarry looked round the 	 Lady Montbarry looked round for 
+collins_moonstone_60_d	33	0.9090909090909091	12111	13459	. Under these circumstances, but 	. Under those circumstances, it w
+doyle_baskervilles_2_u	30	0.9	111	1812	 connected with the affairs of	 connected with the affair. Wi
+collins_moonstone_76_d	35	1.0	980	18488	 that it was impossible for her to 	 that it was impossible for her to 
+collins_moonstone_76_d	30	0.9	8644	5075	and it became necessary to thi	and it became necessary to add
+stoker_dracula_21_g	30	0.9	8486	23316	 to take advantage of her brot	 to take advantage of their co
+collins_moonstone_65_d	33	0.9090909090909091	12111	8107	. Under these circumstances, but 	. Under these circumstances, and 

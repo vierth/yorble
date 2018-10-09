@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+dickens_christmascarole_1_g	30	0.9	5577	11723	 the impression that he shared	 the impression that they scar
+doyle_scarlet_2_d	39	0.9743589743589743	11332	10107	d to the subject of his own accord. “I 	d to the subject of his own accord. It 
+dickens_christmascarole_3_g	31	0.9354838709677419	12238	8940	 that there was something singu	 that there was something going
+stoker_dracula_3_g	30	0.9	12237	2535	t that there was something sin	t that there is something in t
+stoker_dracula_3_g	32	0.90625	14579	3024	I have had a long talk with Sir 	I have had a long talk with the 
+doyle_adventures_2_d	30	0.9333333333333333	3670	38728	 a considerable interest in ou	 a considerable interest in th
+lewis_monk_8_g	30	0.9	3500	30539	and it was suggested that Perk	and it was suggested that She 
+doyle_adventures_9_d	31	0.9354838709677419	10669	16162	 I have already explained that 	 I have already explained, has 
+doyle_adventures_9_d	33	0.9090909090909091	11369	16737	I could not quite understand the 	I could not quite understand was 
+radcliffe_udolpho_12_g	30	0.9	2102	48115	 circumstance occurred, which 	 circumstance occurs, which ma
+radcliffe_udolpho_12_g	33	0.9393939393939394	11385	43154	e understand the object of your q	e understand the subject of your 
+radcliffe_udolpho_41_g	30	0.9333333333333333	8199	18826	 know more than he cared to sa	 know more than she dared to a
+christie_secretadversary_4_d	30	0.9	5128	8431	 the possibility of the interf	 the possibility of the latter
+doyle_baskervilles_2_u	36	0.9166666666666666	8372	17033	 Mr. Frankland, of Lafter Hall, who 	 Mr. Frankland, of Lafter Hall, and 
+doyle_baskervilles_2_u	32	0.90625	10377	17037	 Frankland, of Lafter Hall, let 	 Frankland, of Lafter Hall, and 
+radcliffe_udolpho_54_g	32	0.90625	13012	20756	, and there was something indesc	, and there was something in his
+stoker_dracula_21_g	33	0.9393939393939394	5320	2244	 it was easy to see that he said 	 it was easy to see that he had s
+collins_moonstone_49_d	33	0.9696969696969697	11379	14181	t quite understand the object of 	t quite understand the object to 
+doyle_baskervilles_15_u	30	0.9	2310	16909	 the escaped convict upon the 	 the escaped convict and the r
+doyle_baskervilles_15_u	30	0.9	9419	3863	 the remainder of his fortune 	 the remains of his fortune, h

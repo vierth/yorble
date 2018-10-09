@@ -1,0 +1,53 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_57_d	37	0.918918918918919	3608	9449	here was no help for it but to yield 	here was no help for it, but to tell 
+doyle_signoffour_9_d	34	0.9117647058823529	18532	3745	 heard him talking to himself. I e	 heard him talking to himself and 
+collins_moonstone_75_d	30	0.9333333333333333	1365	27857	d, Drusilla,” she said. “I mea	d, Drusilla,” she said. “I sha
+collins_moonstone_75_d	30	0.9	2512	27857	d, Drusilla,” she said, “I mus	d, Drusilla,” she said. “I sha
+collins_moonstone_75_d	31	1.0	6649	30906	he person with the cap-ribbons 	he person with the cap-ribbons 
+collins_moonstone_75_d	32	0.9375	14650	4166	 at the Mothers’-Small-Clothes. 	 at the Mothers’ Small-Clothes, 
+collins_moonstone_75_d	32	0.9375	14650	6242	 at the Mothers’-Small-Clothes. 	 at the Mothers’ Small-Clothes, 
+austen_northangerabbey_18_g	34	0.9705882352941176	3948	5115	there are more ways than one of so	there are more ways than one of ou
+collins_moonstone_68_d	55	0.9272727272727272	11033	6515	 of the Mothers’-Small-Clothes-Conversion Society that 	 of the Mothers’-Small-Clothes-Conversion-Society. The 
+collins_moonstone_68_d	55	0.9272727272727272	11033	10966	 of the Mothers’-Small-Clothes-Conversion Society that 	 of the Mothers’-Small-Clothes-Conversion-Society, and 
+collins_moonstone_68_d	30	0.9	14653	6518	 the Mothers’-Small-Clothes. “	 the Mothers’-Small-Clothes-Co
+collins_moonstone_68_d	30	0.9	14653	10969	 the Mothers’-Small-Clothes. “	 the Mothers’-Small-Clothes-Co
+collins_moonstone_68_d	32	0.9375	14811	12722	y saying a few cheering words?” 	y saying a few cheering words on
+stoker_dracula_5_g	30	0.9	2935	16405	 the disturbing influence of a	 the disturbing influence end 
+lewis_monk_3_g	30	0.9	18499	29578	ly backwards and forwards. I a	ly backwards and forwards. Eve
+collins_moonstone_69_d	31	0.9032258064516129	11036	1959	 the Mothers’-Small-Clothes-Con	 the Mothers’-Small-Clothes nex
+collins_moonstone_69_d	35	0.9142857142857143	14650	1956	 at the Mothers’-Small-Clothes. “De	 at the Mothers’-Small-Clothes next
+poe_usher_1_g	31	0.9032258064516129	6697	27369	 the upper regions of the house	 the upper portion of the house
+poe_marieroget_1_d	30	0.9	17839	94170	. There would have been nothin	. There would have been no nee
+christie_styles_9_d	31	0.9032258064516129	15827	9487	 took it for granted that she a	 took it for granted that I had
+doyle_baskervilles_3_u	34	0.9117647058823529	8101	9801	 when I found myself in the street	 when I found myself in the sittin
+lewis_monk_9_g	31	0.9032258064516129	18499	60604	ly backwards and forwards. I al	ly backwards and forwards. The 
+collins_moonstone_70_d	30	0.9	722	21870	 of precious publications read	 of precious publications, fee
+collins_moonstone_70_d	36	0.9166666666666666	2732	3410	 perishing fellow-creatures, the mem	 perishing fellow-creature, on the e
+collins_moonstone_70_d	34	0.9705882352941176	6647	6690	 the person with the cap-ribbons h	 the person with the cap-ribbons, 
+stoker_dracula_18_g	30	0.9333333333333333	15827	26598	 took it for granted that she 	 took it for granted that his 
+christie_styles_6_d	30	0.9	4982	9827	 flashed across my mind. “Oh! 	 flashed across my mind: “She 
+collins_moonstone_80_d	30	0.9	3606	2546	 There was no help for it but 	 There was no help for it. I w
+collins_moonstone_80_d	30	0.9	4306	5827	 can hardly object to that!” I	 can hardly object to _that_ o
+doyle_scarlet_5_d	31	0.9032258064516129	331	1632	 manner convinced me that it wa	 manner convinced me that he ha
+christie_styles_11_d	30	0.9	15690	25442	 it never occurred to me to in	 it never occurred to me that 
+radcliffe_udolpho_34_g	30	0.9	18118	45101	, which I have mentioned as co	, which I have mentioned, I ov
+collins_moonstone_74_d	30	0.9	722	10662	 of precious publications read	 of precious publications) ent
+collins_moonstone_74_d	35	0.9428571428571428	6648	16098	the person with the cap-ribbons hap	the person with the cap-ribbons) wa
+collins_moonstone_74_d	41	0.926829268292683	6649	18663	he person with the cap-ribbons happened t	he person with the cap-ribbons appeared. 
+collins_moonstone_74_d	34	0.9705882352941176	7999	11371	 my exquisite sense of duty done, 	 my exquisite sense of duty done? 
+collins_moonstone_74_d	60	0.9166666666666666	12865	14294	, once embarked on a career of manifest usefulness, the true	, once embarked on a career of manifest usefulness, nothing 
+collins_moonstone_74_d	32	0.9375	14650	21733	 at the Mothers’-Small-Clothes. 	 at the Mothers’ Small-Clothes, 
+collins_moonstone_74_d	30	0.9333333333333333	17862	13414	 nothing out of the common in 	 nothing out of the common to 
+collins_moonstone_72_d	35	0.9714285714285714	10026	17080	 the fresh-coloured young footman s	 the fresh-coloured young footman, 
+collins_moonstone_72_d	30	1.0	11033	5765	 of the Mothers’-Small-Clothes	 of the Mothers’-Small-Clothes
+collins_moonstone_72_d	31	0.967741935483871	11478	5814	Sunday-Sweetheart-Supervision S	Sunday-Sweetheart-Supervision. 
+collins_moonstone_72_d	35	0.9714285714285714	12064	17080	 the fresh-coloured young footman. 	 the fresh-coloured young footman, 
+collins_moonstone_72_d	32	0.96875	14650	626	 at the Mothers’-Small-Clothes. 	 at the Mothers’-Small-Clothes? 
+collins_moonstone_72_d	30	0.9666666666666667	14653	5768	 the Mothers’-Small-Clothes. “	 the Mothers’-Small-Clothes. I
+collins_moonstone_72_d	30	0.9	15690	18441	 it never occurred to me to in	 it never occurred to me, unti
+collins_moonstone_73_d	31	0.9032258064516129	5665	345	 precious publications. In the 	 precious publications in her p
+walpole_castleofotranto_5_g	30	0.9	1185	6489	. As soon as we were alone, my	. As soon as they were alone, 
+doyle_signoffour_5_d	30	0.9	18262	4100	here for a minute or two, the 	here for a minute or two, for 
+christie_secretadversary_24_d	30	0.9333333333333333	18265	220	e for a minute or two, the usu	e for a minute or two, then tu
+collins_moonstone_52_d	33	0.9393939393939394	11381	23711	he afternoon of the next day had 	he afternoon of the next day, he 
+collins_moonstone_52_d	30	0.9333333333333333	15827	1561	 took it for granted that she 	 took it for granted that we s

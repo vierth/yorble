@@ -1,0 +1,12 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_50_g	31	0.9354838709677419	1660	56519	 the summits of the mountains, 	 the summit of the mountains. T
+walpole_castleofotranto_1_g	30	0.9333333333333333	2408	12484	 well acquainted with the path	 well acquainted with her fath
+shelley_frankenstein_40_g	30	0.9	2408	6646	 well acquainted with the path	 well acquainted with the accu
+radcliffe_udolpho_4_g	32	0.96875	1659	19071	d the summits of the mountains, 	d the summits of the mountains. 
+shelley_frankenstein_49_g	31	0.9032258064516129	2455	6147	e of another would destroy the 	e of another will destroy the c
+shelley_frankenstein_49_g	34	0.9117647058823529	6285	2164	 too horrible for human eyes. But 	 too horrible for human eyes to be
+shelley_frankenstein_49_g	33	0.9393939393939394	11828	5076	 the neighbourhood of man and lea	 the neighbourhood of man and dwe
+shelley_frankenstein_49_g	30	0.9333333333333333	11828	7403	 the neighbourhood of man and 	 the neighbourhood of man, as 
+radcliffe_udolpho_14_g	32	0.90625	2483	11324	he solitary grandeur of the scen	he solitary grandeur of the obje
+radcliffe_udolpho_47_g	30	0.9	3596	10646	 the melancholy impression I r	 the melancholy impression, wh
+collins_moonstone_65_d	31	0.9354838709677419	2406	17277	as well acquainted with the pat	as well acquainted with those p

@@ -1,0 +1,2 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_32_g	30	0.9666666666666667	0	0	_To Mrs. Saville, England._ Ju	_To Mrs. Saville, England._ Au

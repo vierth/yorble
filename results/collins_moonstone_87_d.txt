@@ -1,0 +1,96 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_28_u	31	0.9032258064516129	4675	5725	 the question that he had just 	 the questions that had just be
+collins_hauntedhotel_21_u	32	0.96875	1693	3609	he might be expected to return, 	he might be expected to return. 
+collins_moonstone_59_d	37	1.0	20066	1515	 with a look of melancholy interest. 	 with a look of melancholy interest. 
+collins_hauntedhotel_3_u	35	0.9142857142857143	18047	2142	 the circumstances under which I ob	 the circumstances under which the 
+collins_moonstone_55_d	31	0.967741935483871	638	30268	 an unfavourable impression of 	 an unfavourable impression on 
+collins_moonstone_54_d	30	0.9	32432	21788	 turned to me. “There is an ur	 turned to me. “There is no he
+lewis_monk_11_g	30	0.9	5692	24436	 the difficulty of explaining 	 the difficulty of exploring t
+collins_moonstone_57_d	30	0.9	10728	10973	, I believe I should have sunk	, I believe I should have blus
+doyle_adventures_6_d	31	0.9032258064516129	20344	4161	 of which I was in search. He t	 of which I was in search. Orde
+doyle_adventures_6_d	32	0.90625	31438	12609	e with the air of a man whose mi	e with the air of a man who has 
+collins_hauntedhotel_4_u	30	0.9	26751	9777	 complaint to make against you	 complaint to make against him
+collins_moonstone_75_d	32	0.90625	4088	14301	me, in the first instance, to gi	me, in the first instance, from 
+collins_moonstone_75_d	32	0.90625	4088	14347	me, in the first instance, to gi	me, in the first instance, from 
+shelley_frankenstein_56_g	30	0.9	10739	6276	 I should have sunk under the 	 I should have sunk under my h
+radcliffe_udolpho_17_g	31	0.9032258064516129	31439	207	 with the air of a man whose mi	 with the air of a man, who is 
+stoker_dracula_5_g	30	0.9	19909	5441	 really and truly sorry, Mr. B	 really and truly sorry, for t
+stoker_dracula_5_g	30	0.9	23105	15922	, under what circumstances I h	, under what circumstances wou
+shelley_frankenstein_30_g	31	0.9032258064516129	29231	5563	 sooner than I expect. I hardly	 sooner than I expected. I shal
+lewis_monk_3_g	37	0.9459459459459459	829	64938	 I found it impossible to resist. Whi	 I found it impossible to resist thei
+lewis_monk_3_g	32	0.9375	14192	52223	 gave me an opportunity of putti	 gave me an opportunity of culti
+collins_moonstone_69_d	30	0.9	918	2297	 question which he had put, ac	 question which he had just ad
+collins_moonstone_69_d	33	0.9393939393939394	4693	2312	 he had just addressed to me, I f	 he had just addressed to me. In 
+collins_moonstone_69_d	31	0.9032258064516129	9187	9937	 made a second attempt to appea	 made a second attempt to leave
+doyle_scarlet_10_d	32	0.9375	24052	9494	ing in the opposite direction a 	ing in the opposite direction.” 
+doyle_scarlet_14_d	31	0.9032258064516129	3726	8732	 reason to suppose that the los	 reason to suppose that he was 
+collins_moonstone_89_d	33	0.9090909090909091	1647	16206	 Ezra Jennings, relating to the t	 Ezra Jennings, relating to what 
+collins_moonstone_89_d	31	0.9354838709677419	10232	52061	, under circumstances which mad	, under circumstances which sha
+collins_moonstone_89_d	31	0.9032258064516129	14470	38088	 with breathless interest to he	 with breathless interest, over
+collins_moonstone_89_d	30	0.9666666666666667	21213	63405	 of recovering the Moonstone. 	 of recovering the Moonstone y
+collins_moonstone_89_d	31	0.9032258064516129	29715	13586	 on the chance of your feeling 	 on the chance of your being in
+collins_moonstone_81_d	30	0.9	34	1004	d waiting for me, with the str	d waiting for me, with his sti
+poe_usher_1_g	30	0.9	829	35950	 I found it impossible to resi	 I found it impossible to say)
+doyle_signoffour_8_d	30	0.9	10233	9951	 under circumstances which mad	 under circumstances which poi
+austen_northangerabbey_15_g	30	0.9	1125	396	 the opportunity of speaking t	 the opportunity of asking the
+austen_northangerabbey_15_g	30	0.9	4126	396	 the opportunity of speaking t	 the opportunity of asking the
+collins_moonstone_79_d	31	0.9032258064516129	18866	10014	 position in which I stood. I t	 position in which I stood, my 
+poe_marieroget_1_d	30	0.9	25888	110811	 to which I have referred stru	 to which I have referred, for
+austen_northangerabbey_21_g	33	0.9090909090909091	31875	3958	 entered the room and took the Di	 entered the room, and to the ris
+doyle_signoffour_4_d	31	0.9032258064516129	8905	10463	 difference of opinion, as you 	 difference of opinion as to th
+collins_hauntedhotel_20_u	37	0.918918918918919	30547	11870	e started to his feet, and looked at 	e started to her feet and looked at h
+collins_moonstone_47_d	30	0.9666666666666667	16629	5973	 in the way, and stopped him. 	 in the way and stopped him. H
+lewis_monk_2_g	32	0.90625	1129	78753	 opportunity of speaking to me i	 opportunity of speaking to Mati
+lewis_monk_2_g	30	0.9333333333333333	4130	78753	 opportunity of speaking to me	 opportunity of speaking to Ma
+collins_moonstone_77_d	35	0.9428571428571428	13592	6245	 I mentioned the time at which his 	 I mentioned the time at which it w
+collins_moonstone_77_d	34	0.9117647058823529	30445	4099	ithout a moment’s hesitation I tol	ithout a moment’s hesitation. At t
+collins_moonstone_70_d	30	1.0	30544	14411	. He started to his feet, and 	. He started to his feet, and 
+collins_hauntedhotel_26_u	32	0.90625	9501	6808	e five minutes to consider, and 	e five minutes to consider what 
+collins_hauntedhotel_26_u	30	0.9	29441	6834	 what I have said to you, I ha	 what I have said to you, and 
+collins_moonstone_85_d	30	0.9333333333333333	10159	20288	ou would have remembered that 	ou would have remembered the v
+collins_moonstone_85_d	30	0.9	24836	21205	.” I attempted to speak. He st	.” I attempted to speak. She l
+collins_moonstone_85_d	34	0.9117647058823529	29882	2479	Perhaps there is some excuse. A ma	Perhaps there is some excuse for m
+collins_moonstone_85_d	31	0.9032258064516129	31977	23258	 vindication of your innocence 	 vindication of my innocence, h
+doyle_scarlet_13_d	30	0.9	1125	10285	 the opportunity of speaking t	 the opportunity of making the
+doyle_scarlet_13_d	30	0.9	1981	825	 I thought to myself, as we de	 I thought to myself, as I eye
+doyle_scarlet_13_d	30	0.9	4126	10285	 the opportunity of speaking t	 the opportunity of making the
+radcliffe_udolpho_16_g	30	0.9	1129	38944	 opportunity of speaking to me	 opportunity of speaking with 
+radcliffe_udolpho_16_g	30	0.9	4130	38944	 opportunity of speaking to me	 opportunity of speaking with 
+radcliffe_udolpho_16_g	32	0.9375	18984	32272	t the curiosity of strangers. Th	t the curiosity of strangers: th
+austen_northangerabbey_22_g	30	0.9	6123	16056	 stopped for a moment, and pic	 stopped for a moment, and the
+collins_moonstone_56_d	34	0.9117647058823529	21506	5035	 with the first appearance of emba	 with the first appearance of anyt
+collins_moonstone_61_d	33	0.9090909090909091	12917	13476	me of Mr. Candy’s illness, you wi	me of Mr. Candy’s illness, owing 
+collins_moonstone_80_d	31	0.9032258064516129	17793	10743	e hesitated to communicate to o	e hesitated to communicate. “I 
+collins_moonstone_80_d	36	0.9444444444444444	17833	797	 he had recovered the use of his mem	 he had recovered the use of his spe
+collins_hauntedhotel_5_u	32	0.9375	22503	4460	 looked at him in astonishment. 	 looked at her in astonishment. 
+doyle_adventures_4_d	30	0.9666666666666667	28984	21919	 nervous system is shattered; 	 nervous system is shattered. 
+doyle_baskervilles_9_u	30	0.9	831	9271	 found it impossible to resist	 found it impossible to remain
+walpole_castleofotranto_4_g	32	0.90625	14200	26574	 an opportunity of putting this 	 an opportunity of pursuing his 
+christie_styles_11_d	31	0.9032258064516129	31439	27057	 with the air of a man whose mi	 with the air of a man who has 
+radcliffe_udolpho_34_g	32	0.90625	24551	48812	 the remembrances which it recal	 the remembrances, which its cla
+collins_hauntedhotel_6_u	31	0.9032258064516129	5650	2292	 difficulty in answering your q	 difficulty in answering. 'You 
+shelley_frankenstein_42_g	30	0.9	23394	10225	 when you have heard that, to 	 when you have heard that, aba
+radcliffe_udolpho_50_g	32	0.90625	12711	23641	I have wearied you with all thes	I have wearied you with a dull s
+radcliffe_udolpho_18_g	31	0.9032258064516129	1187	30334	er, for which he had been evide	er, for which they had been see
+collins_moonstone_72_d	31	1.0	18142	15634	 cannot prevail upon myself to 	 cannot prevail upon myself to 
+radcliffe_udolpho_48_g	30	0.9	8652	7645	 condition of the system, and 	 condition of the estate, and 
+shelley_frankenstein_40_g	43	0.9069767441860465	19091	9118	he person to whom I addressed myself. Ezra 	he person to whom I addressed myself added 
+christie_secretadversary_17_d	32	0.90625	24055	20345	 in the opposite direction a gra	 in the opposite direction. He g
+collins_moonstone_84_d	35	1.0	31973	10252	 the vindication of your innocence 	 the vindication of your innocence 
+lewis_monk_7_g	30	0.9333333333333333	30445	8937	ithout a moment’s hesitation I	ithout a moment's hesitation. 
+christie_styles_1_d	30	1.0	24052	21236	ing in the opposite direction 	ing in the opposite direction 
+lewis_monk_5_g	30	0.9	831	14306	 found it impossible to resist	 found it impossible to write 
+radcliffe_udolpho_12_g	31	0.9032258064516129	23024	16828	 place any confidence in me,” h	 place any confidence in them, 
+lewis_monk_1_g	35	0.9142857142857143	1125	24749	 the opportunity of speaking to me 	 the opportunity of speaking of him
+lewis_monk_1_g	35	0.9142857142857143	4126	24749	 the opportunity of speaking to me;	 the opportunity of speaking of him
+lewis_monk_1_g	30	0.9	9187	41282	 made a second attempt to appe	 made a second attempt to reti
+doyle_scarlet_12_d	36	0.9166666666666666	24051	3869	ding in the opposite direction a gra	ding in the opposite direction, and 
+radcliffe_udolpho_47_g	30	0.9	3726	14313	 reason to suppose that the lo	 reason to suppose, that she h
+collins_moonstone_66_d	30	0.9	23105	12845	, under what circumstances I h	, under what circumstances!) b
+collins_moonstone_60_d	33	0.9090909090909091	10232	16615	, under circumstances which made 	, under circumstances which were 
+collins_moonstone_76_d	32	0.90625	2320	1814	 the responsibility of speaking 	 the responsibility of making hi
+collins_moonstone_76_d	30	0.9333333333333333	10088	3339	, I am afraid I should have sh	, I am afraid I should have fe
+collins_moonstone_76_d	33	0.9090909090909091	30445	9421	ithout a moment’s hesitation I to	ithout a moment’s hesitation. He 
+collins_moonstone_49_d	30	0.9	31774	10988	 I am firmly persuaded that I 	 I am firmly persuaded, than t
+collins_moonstone_52_d	30	0.9666666666666667	29704	8413	 speculated on the chance of y	 speculated on the chance of t
+christie_styles_4_d	30	0.9	6123	5034	 stopped for a moment, and pic	 stopped for a moment, and gaz

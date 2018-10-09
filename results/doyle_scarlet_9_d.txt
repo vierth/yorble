@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_7_d	30	0.9	12841	15600	 upon the man who had won her 	 upon the man who had wronged 
+radcliffe_udolpho_50_g	30	0.9	4552	15740	 of the mountains and the bals	 of the mountains, and the var
+radcliffe_udolpho_18_g	31	0.9032258064516129	4208	3868	on the shores of the Atlantic. 	on the shores of the Adriatic. 
+walpole_castleofotranto_1_g	30	0.9	5617	7637	, with a mixture of pride and 	, with a mixture of grace and 
+radcliffe_udolpho_48_g	31	0.9032258064516129	11648	5312	e had been accustomed to succee	e had been accustomed to see in
+christie_secretadversary_19_d	33	0.9090909090909091	12005	1706	 little chance of learning the ne	 little chance of learning that. 
+lewis_monk_7_g	30	0.9	12701	3059	 that her young heart was no l	 that her young heart was stil
+lewis_monk_8_g	35	0.9142857142857143	14246	17377	 vanished from her sight. Then she 	 vanished from her sight. She shrie
+radcliffe_udolpho_21_g	30	0.9	11648	432	e had been accustomed to succe	e had been accustomed to conve
+radcliffe_udolpho_49_g	31	0.9032258064516129	11648	755	e had been accustomed to succee	e had been accustomed to see th
+radcliffe_udolpho_54_g	30	0.9	9393	14873	 you are the daughter of John 	 you are the daughter of the M
+doyle_scarlet_1_d	38	0.9210526315789473	10494	15189	. Good-bye!” “Good-bye,” he answered, 	. Good-bye.” “Good-bye,” I answered, a

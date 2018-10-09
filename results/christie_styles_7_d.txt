@@ -1,0 +1,70 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_11_g	30	0.9	5589	4344	 committed this murder, I can 	 committed this murder, and so
+radcliffe_udolpho_44_g	30	0.9333333333333333	7263	565	 which the whole household is 	 which the whole household wai
+christie_secretadversary_12_d	36	0.9166666666666666	16659	1346	 for the first time we realized that	 for the first time, she realized th
+doyle_scarlet_6_d	32	0.96875	1264	5619	 the whole thing is clear as day	 the whole thing as clear as day
+collins_moonstone_63_d	30	0.9	17363	1096	 my mind in the interval befor	 my mind in the interval after
+shelley_frankenstein_45_g	35	0.9142857142857143	18292	2166	 did not appear to understand, he a	 did not appear to understand him, 
+christie_secretadversary_18_d	30	0.9	13312	7705	 looked at him curiously. I ha	 looked at him curiously for a
+collins_moonstone_68_d	30	0.9	12214	1224	y member of the family to upho	y member of the family into wh
+poe_usher_1_g	32	0.96875	19168	15287	d buried his face in his hands. 	d buried his face in his hands, 
+doyle_signoffour_8_d	30	0.9333333333333333	12367	10996	 technical knowledge, and is b	 technical knowledge and his p
+poe_marieroget_1_d	30	0.9	1913	55868	 in a case of this kind, where	 in a case of this kind, witho
+poe_marieroget_1_d	30	0.9	17221	6928	 murder had been committed. In	 murder had been committed,) t
+poe_marieroget_1_d	31	0.9032258064516129	17221	25443	 murder had been committed. In 	 murder had been committed at t
+poe_marieroget_1_d	32	0.90625	17221	32097	 murder had been committed. In f	 murder had been committed. The 
+doyle_scarlet_7_d	30	0.9333333333333333	4980	6399	.” The two detectives strode a	.” The two detectives stared a
+doyle_scarlet_3_d	33	0.9090909090909091	17221	11927	 murder had been committed. In fr	 murder has been committed. It re
+christie_secretadversary_6_d	32	1.0	6467	4554	.” “How do you make that out?” “	.” “How do you make that out?” “
+christie_styles_10_d	30	0.9	3295	17999	 Poirot nodded gravely. “That 	 Poirot nodded gravely. “‘To s
+christie_styles_10_d	30	0.9	11290	4502	 strike you as peculiar about 	 strike you as peculiar that a
+christie_styles_10_d	30	1.0	14673	5828	” “Do you really think so?” I 	” “Do you really think so?” I 
+christie_styles_13_d	42	0.9047619047619048	2999	3758	 that he should not be arrested.” “I dare 	 that he should not be arrested.” “Wait a 
+christie_styles_13_d	32	0.90625	6518	16514	 the evidence against him was va	 the evidence against him arose 
+christie_styles_13_d	30	0.9	7021	6460	 the village chemist’s and pur	 the village chemist’s, and si
+christie_styles_13_d	45	0.9111111111111111	12258	18882	 the theory of death from natural causes. If 	 the theory of ‘Death from natural causes’.” 
+christie_styles_13_d	30	0.9333333333333333	13956	14847	re not telling you the truth—l	re not telling you the truth.”
+collins_moonstone_70_d	36	0.9166666666666666	9202	20095	o divert suspicion from himself, is 	o divert suspicion from himself. I a
+doyle_adventures_12_d	36	0.9444444444444444	13998	4983	, unless I am much mistaken, at the 	, unless I am much mistaken, is the 
+christie_styles_6_d	32	0.9375	6466	6425	s.” “How do you make that out?” 	s.” “How do you make that out, M
+christie_styles_6_d	30	0.9666666666666667	18072	17191	.” Inglethorp shook his head s	.” Inglethorp shook his head. 
+christie_styles_6_d	31	0.9354838709677419	18639	9917	 deliberately, “that you are su	 deliberately, “that you were s
+christie_styles_6_d	31	0.9032258064516129	19057	17523	e to say where you were at six 	e to say where you were at the 
+christie_secretadversary_22_d	31	0.9354838709677419	13312	7518	 looked at him curiously. I had	 looked at him curiously. “I ra
+christie_secretadversary_22_d	30	0.9333333333333333	13998	7478	, unless I am much mistaken, a	, unless I am much mistaken.” 
+doyle_baskervilles_9_u	30	0.9666666666666667	13998	421	, unless I am much mistaken, a	, unless I am much mistaken, c
+collins_moonstone_67_d	30	0.9	14083	13659	 speaking the truth without re	 speaking the truth. Without a
+christie_styles_11_d	32	0.90625	956	14822	, Superintendent Summerhaye. “I 	, Superintendent Summerhaye and 
+christie_styles_11_d	30	0.9	9820	2814	 was not Alfred Inglethorp?” “	 was not Alfred Inglethorp who
+christie_styles_11_d	33	0.9090909090909091	19815	23073	 entered the chemist’s shop, and 	 entered the chemist’s shop in th
+stoker_dracula_12_g	30	0.9	2147	25886	 if it hadn’t been for the fac	 if it had not been for the wa
+christie_styles_5_d	30	0.9333333333333333	5750	18962	r Poirot, I am sure you are ca	r Poirot, I am sure you agree 
+christie_styles_5_d	30	0.9	7228	18412	 had a violent quarrel with he	 had a violent quarrel with—so
+christie_styles_5_d	64	0.90625	8480	43223	 peculiar clothes, has a black beard, and uses glasses,” I quote	 peculiar clothes, has a black beard, and uses glasses.” “Poirot
+christie_styles_5_d	35	0.9142857142857143	10657	36394	 turned out to be correct.” “You ne	 turned out to be correct. You obse
+christie_styles_5_d	30	0.9	11396	1915	 Mr. Lawrence Cavendish’s evid	 Mr. Lawrence Cavendish’s. And
+christie_styles_5_d	30	0.9	13071	39049	s the last person one would ac	s the last person she would ad
+christie_styles_5_d	31	0.9032258064516129	16130	1457	 together in the drawing-room. 	 together to the drawing-room, 
+christie_styles_5_d	31	0.967741935483871	19486	12459	.” Poirot nodded thoughtfully, 	.” Poirot nodded thoughtfully. 
+christie_styles_12_d	44	0.9090909090909091	12148	13849	 the symptoms of strychnine poisoning, and y	 the symptoms of strychnine poisoning being 
+christie_styles_12_d	30	0.9	19943	17521	n that day Mr. Inglethorp was 	n that day, Mrs. Inglethorp’s 
+doyle_baskervilles_8_u	31	1.0	5901	5117	 believe in the possibility of 	 believe in the possibility of 
+doyle_baskervilles_8_u	31	0.9032258064516129	12798	2610	 inconceivable that she should 	 inconceivable that he could ha
+walpole_castleofotranto_1_g	32	0.90625	17340	20557	 passed rapidly through my mind 	 passed rapidly through her mind
+shelley_frankenstein_40_g	31	0.9354838709677419	17221	2199	 murder had been committed. In 	 murder had been committed and 
+shelley_frankenstein_40_g	31	0.9032258064516129	17221	3855	 murder had been committed. In 	 murder had been committed at t
+radcliffe_udolpho_4_g	31	0.9032258064516129	15270	18529	 the tone of his voice, but at 	 the tone of his voice, that de
+christie_styles_8_d	33	0.9393939393939394	5931	12817	 Alfred Inglethorp’s innocence?” 	 Alfred Inglethorp’s innocence ha
+christie_styles_8_d	30	0.9333333333333333	12693	7116	 not telling all she knows! Wh	 not telling all she knows!” “
+christie_styles_8_d	31	0.9032258064516129	15348	3473	 looking out of the window we p	 looking out of the window. “He
+christie_styles_8_d	43	0.9069767441860465	16059	5599	 the household, with the exception of the s	 the household, with the exception of Mrs. 
+christie_styles_1_d	30	0.9	18281	20109	 Inglethorp did not appear to 	 Inglethorps did not appear. A
+doyle_signoffour_5_d	30	0.9	12763	3480	t know what to make of it. It 	t know what to make of it." "D
+doyle_baskervilles_4_u	32	0.90625	16169	4437	ed the significance of this. It 	ed the significance of this sent
+stoker_dracula_9_g	30	0.9333333333333333	3512	23103	 And he snapped his fingers ex	 And he snapped his fingers at
+christie_styles_3_d	30	0.9333333333333333	8451	1470	 that Alfred Inglethorp wears 	 that Alfred Inglethorp was no
+collins_moonstone_66_d	30	0.9	14484	16702	 had never occurred to me to d	 had never occurred to me, til
+austen_northangerabbey_3_g	30	0.9333333333333333	3318	5626	 “That is exactly what I thoug	 “That is exactly what I shoul
+stoker_dracula_21_g	32	0.90625	15343	19110	, and looking out of the window 	, and looked out of the window. 
+christie_styles_4_d	30	0.9333333333333333	13452	8198	ed Poirot. “Dr. Bauerstein, no	ed Poirot. “Dr. Bauerstein con
+christie_styles_4_d	31	0.967741935483871	19486	8248	.” Poirot nodded thoughtfully, 	.” Poirot nodded thoughtfully. 

@@ -1,0 +1,60 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_83_d	30	0.9333333333333333	4111	7534	s nothing to be done but to ea	s nothing to be done but to co
+austen_northangerabbey_24_g	30	0.9666666666666667	17247	6717	 and Catherine found herself h	 and Catherine found herself a
+radcliffe_udolpho_45_g	30	0.9	10981	1013	 violently agitated than the r	 violently agitated, and their
+christie_secretadversary_8_d	35	0.9142857142857143	11688	15978	 to understand that there is a secr	 to understand that there was a cer
+collins_moonstone_88_d	34	0.9117647058823529	4111	64037	s nothing to be done but to eat wi	s nothing to be done but to watch 
+doyle_adventures_1_d	32	0.90625	14484	19678	 there was a something in this m	 there was something in his mast
+shelley_frankenstein_50_g	34	0.9117647058823529	2172	4128	 listened to his father in silence	 listened to my father in silence 
+austen_northangerabbey_25_g	30	0.9333333333333333	6879	6940	 uncomfortably circumstanced--	 uncomfortably circumstanced. 
+doyle_adventures_8_d	30	0.9333333333333333	1399	46144	made it impossible for her to 	made it impossible for me to t
+doyle_adventures_8_d	31	0.9354838709677419	14947	46143	 made it impossible for her to 	 made it impossible for me to t
+collins_moonstone_87_d	33	0.9090909090909091	9842	3726	 reason to suppose that the part 	 reason to suppose that the lost 
+austen_northangerabbey_30_g	30	0.9333333333333333	16736	9221	. The general, perceiving how 	. The general, perceiving his 
+austen_northangerabbey_10_g	30	0.9	2580	4784	 remained in the room; and eve	 remained in the room; and tho
+austen_northangerabbey_10_g	31	0.9032258064516129	7879	16423	I do not think I should be easi	I do not think I should be tire
+austen_northangerabbey_13_g	31	0.9032258064516129	1402	1248	e it impossible for her to forg	e it impossible for her to acco
+austen_northangerabbey_13_g	30	0.9333333333333333	2411	4041	 was the first time of her bei	 was the first time of her bro
+austen_northangerabbey_13_g	31	0.9032258064516129	14951	1248	e it impossible for her to obse	e it impossible for her to acco
+stoker_dracula_22_g	34	0.9117647058823529	17913	23888	 as little alteration as possible 	 as little attention as possible. 
+radcliffe_udolpho_42_g	36	0.9166666666666666	10976	14260	 more violently agitated than the re	 more violently agitated than before
+austen_northangerabbey_8_g	31	0.9032258064516129	17893	5499	 that she would make as little 	 that she would move a little t
+lewis_monk_11_g	30	0.9	17322	26118	s convinced her that the stric	s convinced her that the Arche
+christie_secretadversary_12_d	31	0.967741935483871	4102	17386	 there was nothing to be done b	 there was nothing to be done, 
+shelley_frankenstein_43_g	36	0.9166666666666666	2662	1720	 could distinguish nothing but these	 could distinguish, nothing; but fee
+collins_moonstone_71_d	30	0.9333333333333333	4529	17846	 would have been nothing; but 	 would have been nothing out o
+austen_northangerabbey_23_g	30	0.9666666666666667	15672	894	 the common drawing-room, and 	 the common drawing-room and o
+austen_northangerabbey_23_g	30	0.9	16953	2329	f, however, that there were so	f, however, that they were to 
+austen_northangerabbey_23_g	30	0.9	17322	14400	s convinced her that the stric	s convinced her that the serva
+doyle_signoffour_9_d	36	0.9166666666666666	9612	7397	 that you will not be able to withdr	 that you will not be able to wire t
+collins_moonstone_75_d	31	0.9032258064516129	5890	8052	 would have been enough for the	 would have been enough of itse
+collins_hauntedhotel_17_u	31	0.9032258064516129	5487	2110	 in the course of a few minutes	 in the course of a few months.
+stoker_dracula_26_g	36	0.9166666666666666	4102	14308	 there was nothing to be done but to	 there was nothing to be done till t
+doyle_scarlet_14_d	30	0.9333333333333333	9842	8732	 reason to suppose that the pa	 reason to suppose that he was
+radcliffe_udolpho_39_g	31	0.9032258064516129	8498	13638	 the rest of the family. While 	 the rest of the family. She fo
+austen_northangerabbey_7_g	30	0.9333333333333333	3464	12134	 the door was closed upon the 	 the door was closed on them, 
+austen_northangerabbey_15_g	32	0.9375	754	781	 of the first five minutes, she 	 of the first five minutes; the 
+austen_northangerabbey_29_g	30	0.9	698	18175	 preserve their good opinion, 	 preserve the good opinion and
+austen_northangerabbey_21_g	30	0.9	15820	9207	he looked round the room, whet	he looked round the room. The 
+austen_northangerabbey_5_g	33	0.9393939393939394	7570	7157	 very favourable idea of the abbe	 very favourable idea of the age 
+shelley_frankenstein_55_g	31	0.9354838709677419	14479	1143	, but there was a something in 	, but there was something in my
+doyle_scarlet_11_d	30	0.9	16953	17300	f, however, that there were so	f, however, that they were sti
+radcliffe_udolpho_26_g	30	0.9	13503	3013	e, recollecting herself, grew 	e, recollecting herself, 'the 
+radcliffe_udolpho_1_g	30	0.9	10793	5124	 the neighbouring mountains--a	 the neighbouring mountains, w
+radcliffe_udolpho_6_g	30	0.9	3867	38970	ad entirely new to her, of an 	ad entirely new to her, and co
+lewis_monk_9_g	35	0.9428571428571428	2407	14127	. It was the first time of her bein	. It was the first time of her ente
+lewis_monk_9_g	34	0.9117647058823529	17303	26311	 in such a manner as convinced her	 in such a manner as to convince h
+doyle_adventures_12_d	30	0.9	12457	33408	y examining the furniture befo	y examining the furniture of m
+austen_northangerabbey_22_g	31	0.9354838709677419	14484	17093	 there was a something in this 	 there was a something in the t
+collins_moonstone_56_d	30	0.9333333333333333	1610	2183	 for the appearance of his eld	 for the appearance of this re
+stoker_dracula_12_g	30	0.9333333333333333	15818	15915	 she looked round the room, wh	 she looked around the room, a
+lewis_monk_4_g	30	0.9	1519	11753	 knew not how to reply to it. 	 knew not how to reply to her 
+lewis_monk_4_g	34	0.9411764705882353	14483	71297	t there was a something in this mo	t there was a something in his loo
+radcliffe_udolpho_18_g	30	0.9	10793	17535	 the neighbouring mountains--a	 the neighbouring mountains, w
+collins_hauntedhotel_19_u	30	1.0	4102	2487	 there was nothing to be done 	 there was nothing to be done 
+lewis_monk_6_g	30	0.9	5806	16821	 could not easily forget its h	 could not easily forgive his 
+doyle_baskervilles_4_u	32	0.90625	14483	558	t there was a something in this 	t there was something in his ste
+radcliffe_udolpho_47_g	31	0.9032258064516129	9842	14313	 reason to suppose that the par	 reason to suppose, that she ha
+radcliffe_udolpho_47_g	30	0.9	13601	4435	 attention had been fixed with	 attention had been fixed, sin
+radcliffe_udolpho_54_g	31	0.9032258064516129	14484	20761	 there was a something in this 	 there was something in his cou
+collins_moonstone_76_d	32	0.90625	3355	7573	d some difficulty in saving her 	d some difficulty in making the 

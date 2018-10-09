@@ -1,0 +1,140 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_8_d	37	0.918918918918919	23473	49246	 came to the conclusion that the best	 came to the conclusion that the doct
+stoker_dracula_27_g	30	0.9333333333333333	3035	25429	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _6 N
+stoker_dracula_27_g	30	0.9	4719	32391	 I could see that he was tryin	 I could see that he was deter
+stoker_dracula_27_g	30	0.9333333333333333	7429	6640	 in that wonderful diary of Jo	 in that wonderful diary of hi
+stoker_dracula_27_g	30	0.9333333333333333	10420	25429	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _6 N
+stoker_dracula_27_g	30	0.9	12996	42174	 "The Westminster Gazette" and	 "The Westminister Gazette," 2
+stoker_dracula_27_g	31	0.9032258064516129	12996	42218	 "The Westminster Gazette" and 	 "The Westminster Gazette," 25 
+stoker_dracula_27_g	35	0.9428571428571428	16620	17424	. _Jonathan Harker's Journal._ _29 	. _Jonathan Harker's Journal._ _4 N
+stoker_dracula_27_g	30	0.9333333333333333	21756	25428	. _Mina Harker's Journal_ _30 	. _Mina Harker's Journal._ _6 
+stoker_dracula_22_g	30	0.9333333333333333	246	15683	 Madam Mina," he said, "pearl 	 Madam Mina," he said, "dear, 
+stoker_dracula_22_g	30	0.9333333333333333	11570	14343	 experience in Transylvania I 	 experience in Transylvania; a
+stoker_dracula_22_g	30	0.9	14660	27372	 the purchase of the house wer	 the purchase of the houses at
+stoker_dracula_22_g	33	1.0	23473	27081	 came to the conclusion that the 	 came to the conclusion that the 
+stoker_dracula_22_g	31	0.9354838709677419	28791	19403	 bent over and kissed him. The 	 bent over and kissed it. Then 
+poe_pitandpendulum_1_g	34	0.9117647058823529	26877	15132	 the terrible circumstance with wh	 the terrible circumstances which 
+doyle_signoffour_12_d	33	0.9090909090909091	23476	37981	me to the conclusion that the bes	me to the conclusion that this se
+austen_northangerabbey_8_g	33	0.9090909090909091	2879	12369	 an opportunity of reading them. 	 an opportunity of repeating the 
+radcliffe_udolpho_30_g	33	0.9090909090909091	10343	14109	 which you do not understand, tho	 which you do not understand. For
+stoker_dracula_13_g	40	0.95	1	1	II DR. SEWARD'S DIARY--_continued_ When 	II DR. SEWARD'S DIARY--_continued_. The 
+stoker_dracula_13_g	47	0.9148936170212766	3035	18450	 _Mina Harker's Journal._ _29 September._--Afte	 _Mina Harker's Journal._ _22 September._--In t
+stoker_dracula_13_g	47	0.9361702127659575	7371	23943	. _Dr. Seward's Diary._ _29 September._--I was 	. _Dr. Seward's Diary._ _22 September._--It is 
+stoker_dracula_13_g	47	0.9148936170212766	10420	18450	 _Mina Harker's Journal._ _29 September._--Afte	 _Mina Harker's Journal._ _22 September._--In t
+stoker_dracula_13_g	30	0.9	12997	31318	"The Westminster Gazette" and 	"The Westminster Gazette," 25 
+stoker_dracula_13_g	30	0.9	12997	33632	"The Westminster Gazette" and 	"The Westminster Gazette," 25 
+stoker_dracula_13_g	41	0.9512195121951219	13403	23943	. _Dr. Seward's Diary._ _30 September._--	. _Dr. Seward's Diary._ _22 September._--
+stoker_dracula_13_g	33	0.9696969696969697	16631	18456	 Harker's Journal._ _29 September	 Harker's Journal._ _22 September
+stoker_dracula_13_g	47	0.9148936170212766	21756	18449	. _Mina Harker's Journal_ _30 September._--I am	. _Mina Harker's Journal._ _22 September._--In 
+doyle_adventures_10_d	30	0.9	18538	10740	 in communication with the men	 in communication with the pol
+doyle_adventures_10_d	33	0.9090909090909091	19427	10740	 in communication with the proper	 in communication with the police
+collins_hauntedhotel_4_u	30	0.9	17464	110	 the letters which I had seen 	 the letters which had been wr
+christie_secretadversary_18_d	32	0.90625	23478	18229	 to the conclusion that the best	 to the conclusion that the hous
+stoker_dracula_5_g	30	0.9	28794	13687	nt over and kissed him. The te	nt over and kissed him. He sto
+stoker_dracula_19_g	30	0.9333333333333333	3035	20404	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _1 O
+stoker_dracula_19_g	30	0.9333333333333333	10420	20404	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _1 O
+stoker_dracula_19_g	31	0.967741935483871	11570	5602	 experience in Transylvania I c	 experience in Transylvania. I 
+stoker_dracula_19_g	30	0.9333333333333333	21756	20403	. _Mina Harker's Journal_ _30 	. _Mina Harker's Journal._ _1 
+stoker_dracula_14_g	40	0.925	3041	19142	 Harker's Journal._ _29 September._--Aft	 Harker's Journal._ _26 September._--I t
+stoker_dracula_14_g	40	0.975	7372	23473	 _Dr. Seward's Diary._ _29 September._--	 _Dr. Seward's Diary._ _26 September._--
+stoker_dracula_14_g	30	0.9	10343	26590	 which you do not understand, 	 which you cannot understand, 
+stoker_dracula_14_g	40	0.925	10426	19142	 Harker's Journal._ _29 September._--Aft	 Harker's Journal._ _26 September._--I t
+stoker_dracula_14_g	30	0.9	12996	23051	 "The Westminster Gazette" and	 "The Westminster Gazette"--I 
+stoker_dracula_14_g	42	0.9285714285714286	13404	23473	 _Dr. Seward's Diary._ _30 September._--Mr	 _Dr. Seward's Diary._ _26 September._--Tr
+stoker_dracula_14_g	43	0.9767441860465116	16621	19132	 _Jonathan Harker's Journal._ _29 September	 _Jonathan Harker's Journal._ _26 September
+stoker_dracula_14_g	39	0.9230769230769231	21763	19142	 Harker's Journal_ _30 September._--I a	 Harker's Journal._ _26 September._--I 
+lewis_monk_3_g	30	0.9	2879	1873	 an opportunity of reading the	 an opportunity of serving the
+stoker_dracula_26_g	30	0.9333333333333333	3035	6918	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _30 
+stoker_dracula_26_g	30	0.9333333333333333	3035	14207	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _30 
+stoker_dracula_26_g	30	0.9333333333333333	3035	35458	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _31 
+stoker_dracula_26_g	31	0.9032258064516129	7371	34147	. _Dr. Seward's Diary._ _29 Sep	. _Dr. Seward's Diary._ _2 Nove
+stoker_dracula_26_g	30	0.9333333333333333	10420	6918	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _30 
+stoker_dracula_26_g	30	0.9333333333333333	10420	14207	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _30 
+stoker_dracula_26_g	30	0.9333333333333333	10420	35458	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _31 
+stoker_dracula_26_g	30	0.9	13402	34146	t. _Dr. Seward's Diary._ _30 S	t. _Dr. Seward's Diary._ _2 No
+stoker_dracula_26_g	35	0.9428571428571428	16620	7675	. _Jonathan Harker's Journal._ _29 	. _Jonathan Harker's Journal._ _30 
+stoker_dracula_26_g	32	1.0	16620	28863	. _Jonathan Harker's Journal._ _	. _Jonathan Harker's Journal._ _
+stoker_dracula_26_g	36	0.9166666666666666	21754	14204	er. _Mina Harker's Journal_ _30 Sept	er. _Mina Harker's Journal._ _30 Oct
+stoker_dracula_26_g	31	0.9354838709677419	21756	35457	. _Mina Harker's Journal_ _30 S	. _Mina Harker's Journal._ _31 
+stoker_dracula_26_g	43	0.9302325581395349	22776	7464	. * * * * * _Later._--Lord Godalming and Mr	. * * * * * _Later._--Lord Godalming has re
+doyle_scarlet_14_d	33	0.9696969696969697	23473	4870	 came to the conclusion that the 	 came to the conclusion that he h
+radcliffe_udolpho_39_g	36	0.9166666666666666	24486	2274	 covered his face with his hands. I 	 covered his face with his hand, as 
+collins_moonstone_79_d	32	0.9375	17457	868	 one of the letters which I had 	 one of the letters, which had a
+doyle_signoffour_4_d	30	0.9333333333333333	23476	18442	me to the conclusion that the 	me to the conclusion that it w
+christie_styles_9_d	30	0.9	3332	20542	 To my intense surprise, there	 To my intense surprise, Cynth
+stoker_dracula_23_g	30	0.9	4712	24422	ed, and I could see that he wa	ed, and I could see that his f
+stoker_dracula_23_g	38	0.9210526315789473	16618	19841	ed. _Jonathan Harker's Journal._ _29 S	ed. _Jonathan Harker's Journal._ _3-4 
+stoker_dracula_25_g	37	0.9459459459459459	16618	8729	ed. _Jonathan Harker's Journal._ _29 	ed. _Jonathan Harker's Journal._ _15 
+radcliffe_udolpho_6_g	30	0.9	26889	7803	e circumstance with which his 	e circumstances, with which, h
+christie_styles_10_d	30	0.9	2000	11102	 She stopped suddenly, and a q	 She stopped suddenly, and loo
+christie_styles_10_d	33	0.9696969696969697	23301	18339	 did not quite know what to say o	 did not quite know what to say. 
+lewis_monk_9_g	30	0.9	2879	2735	 an opportunity of reading the	 an opportunity of repeating h
+christie_styles_13_d	30	0.9333333333333333	22833	7999	ed earlier than we expected. D	ed earlier than he expected. C
+christie_styles_13_d	35	0.9142857142857143	23473	19134	 came to the conclusion that the be	 came to the conclusion that if he 
+stoker_dracula_18_g	39	0.9230769230769231	226	6804	 "Ah, that wonderful Madam Mina," he sa	 "Ah, that wonderful Madam Mina! She ha
+stoker_dracula_18_g	43	0.9534883720930233	3035	9730	 _Mina Harker's Journal._ _29 September._--	 _Mina Harker's Journal._ _30 September._--
+stoker_dracula_18_g	43	0.9534883720930233	10420	9730	 _Mina Harker's Journal._ _29 September._--	 _Mina Harker's Journal._ _30 September._--
+stoker_dracula_18_g	33	0.9393939393939394	16631	9736	 Harker's Journal._ _29 September	 Harker's Journal._ _30 September
+stoker_dracula_18_g	44	0.9772727272727273	21756	9729	. _Mina Harker's Journal_ _30 September._--I	. _Mina Harker's Journal._ _30 September._--
+stoker_dracula_11_g	41	0.9512195121951219	7371	1013	. _Dr. Seward's Diary._ _29 September._--	. _Dr. Seward's Diary._ _13 September._--
+stoker_dracula_11_g	51	0.9019607843137255	7371	18294	. _Dr. Seward's Diary._ _29 September._--I was so a	. _Dr. Seward's Diary._ _17 September._--I was enga
+stoker_dracula_11_g	40	0.95	7372	20452	 _Dr. Seward's Diary._ _29 September._--	 _Dr. Seward's Diary._ _18 September._--
+stoker_dracula_11_g	41	0.975609756097561	13403	1013	. _Dr. Seward's Diary._ _30 September._--	. _Dr. Seward's Diary._ _13 September._--
+stoker_dracula_11_g	41	0.9512195121951219	13403	18294	. _Dr. Seward's Diary._ _30 September._--	. _Dr. Seward's Diary._ _17 September._--
+stoker_dracula_11_g	40	0.95	13404	20452	 _Dr. Seward's Diary._ _30 September._--	 _Dr. Seward's Diary._ _18 September._--
+stoker_dracula_11_g	32	0.96875	25871	3348	 beat his palms together in a pe	 beat his palms together in a he
+collins_moonstone_85_d	36	0.9166666666666666	8016	10579	s, went straight to my heart. So I s	s, went straight to my heart. It was
+collins_moonstone_85_d	30	0.9	24482	1229	 and covered his face with his	 and covered her face with kis
+austen_northangerabbey_14_g	30	0.9666666666666667	17854	10632	 which his instructions were f	 which his instructions were s
+stoker_dracula_10_g	49	0.9387755102040817	7371	19636	. _Dr. Seward's Diary._ _29 September._--I was so	. _Dr. Seward's Diary._ _10 September._--I was co
+stoker_dracula_10_g	45	0.9111111111111111	13403	19636	. _Dr. Seward's Diary._ _30 September._--Mr. 	. _Dr. Seward's Diary._ _10 September._--I wa
+stoker_dracula_10_g	31	0.9354838709677419	19167	26351	. * * * * * _30 September._--Th	. * * * * * _11 September._--Th
+doyle_baskervilles_11_u	30	0.9	14465	14832	 it never struck me that the v	 it never struck you that the 
+stoker_dracula_20_g	37	0.918918918918919	1039	30501	may be the beginning of the end to yo	may be the beginning of the end. I wo
+shelley_frankenstein_48_g	31	0.9354838709677419	15794	2367	 should have been prepared to s	 should have been prepared for 
+doyle_baskervilles_9_u	30	0.9	18538	3361	 in communication with the men	 in communication with the arc
+doyle_baskervilles_9_u	30	0.9333333333333333	19427	3361	 in communication with the pro	 in communication with the arc
+christie_styles_11_d	33	0.9696969696969697	3329	1959	ed. To my intense surprise, there	ed. To my intense surprise, he re
+christie_styles_11_d	32	0.90625	23478	17646	 to the conclusion that the best	 to the conclusion that he was t
+stoker_dracula_12_g	30	0.9666666666666667	2745	15698	 the papers which Van Helsing 	 the paper which Van Helsing h
+stoker_dracula_12_g	40	0.975	7372	28990	 _Dr. Seward's Diary._ _29 September._--	 _Dr. Seward's Diary._ _20 September._--
+stoker_dracula_12_g	40	0.975	13404	28990	 _Dr. Seward's Diary._ _30 September._--	 _Dr. Seward's Diary._ _20 September._--
+stoker_dracula_12_g	30	0.9	19167	16902	. * * * * * _30 September._--T	. * * * * * _19 September._--A
+stoker_dracula_12_g	42	0.9047619047619048	24482	37025	 and covered his face with his hands. I co	 and covered his face with his hands, sobb
+christie_styles_5_d	31	0.9354838709677419	26079	44126	 laid his head on my shoulder a	 laid his hand on my shoulder. 
+christie_styles_12_d	30	0.9666666666666667	23473	6638	 came to the conclusion that t	 came to the conclusion that M
+christie_secretadversary_14_d	30	0.9	16760	2808	 any information in his power 	 any information in my power. 
+collins_moonstone_72_d	32	1.0	17457	18361	 one of the letters which I had 	 one of the letters which I had 
+doyle_adventures_5_d	31	0.967741935483871	2454	33221	, but I could see that she was 	, but I could see that he was d
+doyle_adventures_5_d	36	0.9166666666666666	15748	13255	 the letters and the dates of his ou	 the letter, and the date of his sup
+stoker_dracula_24_g	30	0.9333333333333333	3035	3382	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _5 O
+stoker_dracula_24_g	30	0.9333333333333333	10420	3382	 _Mina Harker's Journal._ _29 	 _Mina Harker's Journal._ _5 O
+stoker_dracula_24_g	35	0.9428571428571428	16620	2010	. _Jonathan Harker's Journal._ _29 	. _Jonathan Harker's Journal._ _4 O
+stoker_dracula_24_g	35	0.9428571428571428	16620	23877	. _Jonathan Harker's Journal._ _29 	. _Jonathan Harker's Journal._ _5 O
+stoker_dracula_24_g	30	0.9333333333333333	21756	3381	. _Mina Harker's Journal_ _30 	. _Mina Harker's Journal._ _5 
+stoker_dracula_24_g	30	0.9	27764	25779	romise me that you will let me	romise me that you will not te
+stoker_dracula_24_g	35	0.9142857142857143	28618	26006	 saw that I was in earnest, and sto	 saw that she was in earnest, and s
+doyle_scarlet_2_d	30	0.9	2879	19347	 an opportunity of reading the	 an opportunity of taking the 
+christie_secretadversary_17_d	33	1.0	23473	12004	 came to the conclusion that the 	 came to the conclusion that the 
+stoker_dracula_3_g	30	0.9	4705	26601	he paused, and I could see tha	he paused, and I could hear th
+doyle_adventures_2_d	30	0.9666666666666667	23476	25834	me to the conclusion that the 	me to the conclusion that he h
+radcliffe_udolpho_10_g	32	0.90625	14965	21708	 in the meantime I should see Re	 in the meantime I should be ver
+lewis_monk_6_g	31	0.9032258064516129	2000	44076	 She stopped suddenly, and a qu	 She stopped suddenly, and utte
+doyle_adventures_9_d	32	0.90625	27762	16562	 promise me that you will let me	 promise me that you will not te
+radcliffe_udolpho_12_g	31	0.9032258064516129	27763	16560	promise me that you will let me	promise me that you will neithe
+radcliffe_udolpho_14_g	33	0.9393939393939394	2879	4426	 an opportunity of reading them. 	 an opportunity of reading the le
+stoker_dracula_9_g	40	0.95	7372	25258	 _Dr. Seward's Diary._ _29 September._--	 _Dr. Seward's Diary._ _4 September._--Z
+stoker_dracula_9_g	40	0.95	13404	25258	 _Dr. Seward's Diary._ _30 September._--	 _Dr. Seward's Diary._ _4 September._--Z
+stoker_dracula_9_g	31	0.9032258064516129	13950	10847	. * * * * * _Later._--After lun	. * * * * * _Later._--Another n
+stoker_dracula_9_g	30	0.9	13950	26381	. * * * * * _Later._--After lu	. * * * * * _Later._--Another 
+stoker_dracula_9_g	30	0.9333333333333333	23476	17544	me to the conclusion that the 	me to the conclusion that it m
+christie_styles_3_d	30	0.9333333333333333	9865	11743	. God forgive me if I do wrong	. God forgive me if I am wrong
+radcliffe_udolpho_47_g	30	0.9	3265	216	 knocked at the door, and on h	 knocked at the door, and it w
+doyle_scarlet_4_d	30	0.9	23476	4729	me to the conclusion that the 	me to the conclusion that I am
+christie_secretadversary_4_d	30	0.9666666666666667	23473	10182	 came to the conclusion that t	 came to the conclusion that D
+stoker_dracula_16_g	34	1.0	2	1	I DR. SEWARD'S DIARY--_continued_ 	I DR. SEWARD'S DIARY--_continued_ 
+stoker_dracula_16_g	42	0.9047619047619048	28672	21385	, and raising it to his lips, kissed it. I	, and raising it to his lips, pressed it, 
+stoker_dracula_21_g	37	0.918918918918919	3449	28140	 at once from the description to be a	 at once from the description of the 
+stoker_dracula_21_g	30	0.9	4714	10623	, and I could see that he was 	, and I could see that there w
+stoker_dracula_21_g	32	0.9375	8725	29232	se it is a part of the terrible 	se it is a part of the horrible 
+doyle_scarlet_8_d	30	0.9333333333333333	23476	11315	me to the conclusion that the 	me to the conclusion that one 

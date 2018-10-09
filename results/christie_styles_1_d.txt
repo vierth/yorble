@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_10_g	31	0.9032258064516129	16537	30537	ed to the contemplation of my o	ed to the contemplation of thos
+christie_secretadversary_3_d	30	0.9	11246	5484	 I flatter myself that my firs	 I flatter myself that my choi
+stoker_dracula_1_g	30	0.9	8269	12508	. I shall never forget them. S	. I shall never forget the las
+radcliffe_udolpho_41_g	31	0.9032258064516129	2244	10683	 at the time of their father’s 	 at the time of her father's de
+radcliffe_udolpho_41_g	30	0.9	19345	4055	 protected her as much as I co	 protected her, as much as pos
+doyle_scarlet_12_d	31	0.967741935483871	21236	3870	ing in the opposite direction b	ing in the opposite direction, 
+collins_moonstone_66_d	31	0.967741935483871	18239	16142	, whether you like it or not. T	, whether you like it or not.” 
+christie_secretadversary_10_d	50	0.92	8132	10120	 nevertheless conveyed the impression of a wild un	 nevertheless conveyed the impression of a big man
+christie_secretadversary_24_d	32	0.9375	15963	11030	ed and ran back to the house. At	ed and ran back into the house. 
+doyle_baskervilles_2_u	32	0.90625	477	1812	 connected with the affair. I ha	 connected with the affair. With
+collins_moonstone_76_d	35	0.9142857142857143	2868	22461	e, which would have enabled him to 	e, which would have helped him to a
+christie_styles_4_d	33	0.9393939393939394	5353	4997	 turned in at the lodge gates, Jo	 turned in at the lodge gates. Po

@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_6_g	32	0.90625	28394	8576	 having pronounced those words, 	 having pronounced those vows, I
+collins_moonstone_62_d	32	0.90625	20350	8848	d his hands in his locks, and en	d his hands in his pockets, and 
+lewis_monk_1_g	30	0.9	6492	30439	s soon as they were alone, he 	s soon as they were alone, 'Yo
+radcliffe_udolpho_27_g	33	0.9090909090909091	26204	11389	, she looked round for her mother	, she looked round for some other
+radcliffe_udolpho_41_g	30	0.9	12958	6017	to the great hall, where they 	to the great hall, where we se
+collins_moonstone_76_d	32	1.0	35023	16018	 associated in any way with the 	 associated in any way with the 
+collins_moonstone_76_d	32	0.90625	36076	16018	 associated in any way with an e	 associated in any way with the 

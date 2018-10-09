@@ -1,0 +1,16 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_26_g	30	0.9	193	12778	 sufficiently recovered to be 	 sufficiently recovered to thi
+radcliffe_udolpho_48_g	30	0.9	193	23085	 sufficiently recovered to be 	 sufficiently recovered, to li
+collins_hauntedhotel_19_u	30	0.9	603	5800	 with Lady Montbarry; and (thi	 with Lady Montbarry and the c
+reeve_oldenglishbaron	31	0.9032258064516129	8496	21855	I am so unfortunate as to have 	I am so unfortunate as to be re
+collins_hauntedhotel_11_u	30	0.9333333333333333	4147	5862	. 'I don't understand you, sir	. 'I don't understand you,' sh
+collins_hauntedhotel_11_u	32	0.90625	9269	3923	 the late Lord Montbarry.' 'The 	 the late Lord Montbarry,' she s
+lewis_monk_10_g	32	0.90625	193	59137	 sufficiently recovered to be pr	 sufficiently recovered to accep
+collins_moonstone_84_d	31	0.9032258064516129	1179	8460	 professional experience of man	 professional experience to bea
+walpole_castleofotranto_5_g	31	0.9032258064516129	8080	20351	 his hands in his pockets, and 	 his hands in his locks, and en
+lewis_monk_5_g	30	0.9	193	29012	 sufficiently recovered to be 	 sufficiently recovered to joi
+collins_moonstone_62_d	31	1.0	8080	8849	 his hands in his pockets, and 	 his hands in his pockets, and 
+radcliffe_udolpho_12_g	32	0.90625	193	49695	 sufficiently recovered to be pr	 sufficiently recovered to hear 
+collins_moonstone_66_d	31	0.9032258064516129	12045	2627	e drawing-room. There was nothi	e drawing-room. There was his h
+collins_moonstone_76_d	30	0.9333333333333333	7330	22390	 a large sum of money; and a p	 a large sum of money; and he 
+reeve_oldenglishbaron	31	0.9032258064516129	8496	21855	I am so unfortunate as to have 	I am so unfortunate as to be re

@@ -1,0 +1,110 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_46_g	30	0.9	12740	2391	, for whose sake she had not s	, for whose sake she had once 
+stoker_dracula_25_g	32	0.9375	3516	19005	 as might have been expected, fr	 as might have been expected. Tr
+doyle_scarlet_11_d	33	0.9393939393939394	1384	41	 followed her interview with the 	 followed his interview with the 
+radcliffe_udolpho_26_g	33	0.9090909090909091	4422	23874	 convinced him, that he had been 	 convinced him, that she had not 
+radcliffe_udolpho_26_g	30	0.9333333333333333	14529	400	 had so solemnly enjoined his 	 had so solemnly enjoined her 
+radcliffe_udolpho_26_g	30	0.9	23024	23210	 what she had seen in the west	 what she had seen in the port
+radcliffe_udolpho_1_g	30	0.9	12901	3654	 the world, and retired to the	 the world, and retired hither
+radcliffe_udolpho_6_g	34	0.9117647058823529	1831	43066	 the fate of the Marchioness de Vi	 the fate of the Marchioness, and 
+radcliffe_udolpho_6_g	30	0.9	14309	41686	 reason to believe, that they 	 reason to believe that her de
+radcliffe_udolpho_6_g	30	0.9	18676	43075	 of the Marchioness, that she 	 of the Marchioness, and she f
+radcliffe_udolpho_6_g	33	0.9090909090909091	18900	25366	n the recovery of her senses, tha	n the recovery of his senses, hav
+shelley_frankenstein_46_g	30	0.9333333333333333	17186	5724	 airs of her native country, m	 airs of her native country. “
+lewis_monk_9_g	32	1.0	16735	10658	 the first paroxysms of despair 	 the first paroxysms of despair 
+christie_styles_13_d	30	0.9	2997	2793	ed to believe that she had con	ed to believe that he had not 
+doyle_baskervilles_6_u	30	0.9	10508	910	 amiable disposition, she had 	 amiable disposition, so that 
+radcliffe_udolpho_16_g	30	0.9333333333333333	3822	18678	 figure and accomplishments of	 figure and accomplishments, w
+radcliffe_udolpho_16_g	35	0.9142857142857143	15567	8484	 the emotion he had betrayed, on he	 the emotion she had betrayed, she 
+austen_northangerabbey_22_g	31	0.9032258064516129	22757	3446	 of the doors having been left 	 of the door's having been at f
+collins_hauntedhotel_23_u	32	0.90625	11894	7270	 that she had suffered the punis	 that she had suffered in the ni
+radcliffe_udolpho_2_g	31	0.9032258064516129	1890	10685	 conversation, that passed in t	 conversation that passed durin
+radcliffe_udolpho_2_g	30	0.9333333333333333	15216	5422	 his only surviving sister, Ma	 his only surviving sister, wh
+radcliffe_udolpho_2_g	33	0.9090909090909091	15426	14433	, on the eve of her departure fro	, on the eve of their departure, 
+radcliffe_udolpho_2_g	31	0.9032258064516129	23846	14551	 the old housekeeper, the asser	 the old housekeeper, she was e
+christie_styles_6_d	31	0.9032258064516129	22735	2410	, and the circumstance of the d	, and the circumstances of his 
+doyle_adventures_4_d	30	0.9	14103	11028	 there is no doubt, that he su	 there is no doubt that he had
+radcliffe_udolpho_57_g	39	0.9487179487179487	620	4456	 the nearest surviving relative of the 	 the nearest surviving relation of the 
+radcliffe_udolpho_57_g	39	0.9230769230769231	18108	4422	 the wife of Mons. Bonnac, who was an I	 the wife of Mons. Bonnac, who was the 
+radcliffe_udolpho_57_g	39	0.9487179487179487	18180	4456	 the nearest surviving relative of the 	 the nearest surviving relation of the 
+radcliffe_udolpho_36_g	30	0.9666666666666667	1671	20936	 of the abbess was, however, d	 of the abbess was, however, t
+radcliffe_udolpho_36_g	31	0.9354838709677419	7098	15003	s, which, descending to her fro	s, which, descending to the gro
+radcliffe_udolpho_36_g	33	1.0	12924	27972	 to the monastery of St. Claire, 	 to the monastery of St. Claire, 
+christie_secretadversary_26_d	32	0.9375	15429	751	n the eve of her departure from 	n the eve of his departure from 
+lewis_monk_4_g	31	0.9032258064516129	8328	68939	 would not permit him to marry 	 would not permit him to pry in
+lewis_monk_4_g	31	0.9032258064516129	22462	19703	 the doors of the chamber, wher	 the doors of the Chambers, She
+radcliffe_udolpho_50_g	31	0.9032258064516129	3888	40352	 one of the most distinguished 	 one of them she distinguished 
+radcliffe_udolpho_50_g	30	0.9666666666666667	6845	23003	 the desperate resolution of g	 the desperate resolution of t
+radcliffe_udolpho_50_g	30	0.9	23012	47990	, concerning what she had seen	, concerning what she had over
+radcliffe_udolpho_18_g	30	0.9333333333333333	5357	6236	 the solitude, to which she co	 the solitude, to which she wa
+radcliffe_udolpho_18_g	37	1.0	15426	47132	, on the eve of her departure from La	, on the eve of her departure from La
+radcliffe_udolpho_13_g	30	0.9	13104	31858	, and endeavoured to lose the 	, and endeavoured to calm the 
+christie_secretadversary_14_d	30	0.9	14309	2496	 reason to believe, that they 	 reason to believe that she ha
+walpole_castleofotranto_1_g	30	0.9333333333333333	20086	3874	he horror of the spectacle, wa	he horror of the spectacle, th
+radcliffe_udolpho_48_g	32	0.9375	11086	2366	 she had looked forward for the 	 she had looked forward to the f
+radcliffe_udolpho_48_g	30	0.9	18798	5290	ance of the person she had inj	ance of the persons she had be
+radcliffe_udolpho_48_g	30	0.9333333333333333	24124	14302	 the circumstances of her fath	 the circumstances of her part
+shelley_frankenstein_54_g	30	0.9	13105	3283	 and endeavoured to lose the s	 and endeavoured to alter the 
+radcliffe_udolpho_4_g	30	0.9333333333333333	4421	30515	, convinced him, that he had b	, convinced him that he had no
+radcliffe_udolpho_4_g	32	0.9375	7006	15581	ed the plan of her journey, and 	ed the plan of his journey, and 
+stoker_dracula_3_g	30	0.9	9317	24457	 when contrasted with the capt	 when contrasted with the pale
+radcliffe_udolpho_10_g	33	0.9393939393939394	1840	5582	 of the Marchioness de Villeroi, 	 of the Marchioness of Villeroi, 
+radcliffe_udolpho_10_g	35	0.9142857142857143	14392	2274	 papers, together with some letters	 papers, together with some scatter
+radcliffe_udolpho_10_g	30	0.9	15139	5585	 the Marchioness de Villeroi; 	 the Marchioness of Villeroi, 
+radcliffe_udolpho_10_g	33	0.9393939393939394	18957	5582	 of the Marchioness de Villeroi, 	 of the Marchioness of Villeroi, 
+radcliffe_udolpho_10_g	30	0.9	23085	5585	 the Marchioness de Villeroi t	 the Marchioness of Villeroi, 
+radcliffe_udolpho_10_g	34	1.0	24116	30469	 and all the circumstances of her 	 and all the circumstances of her 
+lewis_monk_8_g	30	0.9	6357	23753	 remained in her apartment, fo	 remained in the apartment of 
+lewis_monk_5_g	30	0.9	4392	20127	 thought it necessary to make,	 thought it necessary to maint
+radcliffe_udolpho_21_g	32	0.90625	10125	3656	e reserved and thoughtful in her	e reserved and thoughtful manner
+radcliffe_udolpho_21_g	41	1.0	15420	1029	 Emily, on the eve of her departure from 	 Emily, on the eve of her departure from 
+radcliffe_udolpho_21_g	30	0.9	22173	1712	he character of Montoni, that 	he character of Montoni, such 
+doyle_adventures_9_d	30	0.9	12333	40465	 into the hands of justice; bu	 into the hands of justice. As
+radcliffe_udolpho_12_g	32	0.90625	3828	38149	e and accomplishments of the Mar	e and accomplishments of this sa
+radcliffe_udolpho_12_g	30	0.9333333333333333	8832	4184	 soon perceived, that she had 	 soon perceived, that she was 
+radcliffe_udolpho_12_g	35	0.9428571428571428	15441	3137	 her departure from La Vallee, and 	 her departure from La Vallee, now 
+lewis_monk_1_g	34	0.9411764705882353	4391	41180	e thought it necessary to make, co	e thought it necessary to make som
+lewis_monk_1_g	30	0.9333333333333333	7721	37770	ed to throw herself in his way	ed to throw herself into his a
+collins_moonstone_50_d	31	0.9032258064516129	14309	2061	 reason to believe, that they r	 reason to believe that neither
+radcliffe_udolpho_14_g	32	0.9375	22735	20814	, and the circumstance of the do	, and the circumstances of her d
+radcliffe_udolpho_14_g	30	0.9	24124	20819	 the circumstances of her fath	 the circumstances of her depa
+radcliffe_udolpho_41_g	30	0.9	651	16809	 of the late Marchioness de Vi	 of the late Marchioness, and 
+radcliffe_udolpho_41_g	31	0.9032258064516129	1835	21876	 fate of the Marchioness de Vil	 fate of the Marchioness and li
+radcliffe_udolpho_41_g	31	0.9032258064516129	15915	16809	 of the late Marchioness, when 	 of the late Marchioness, and b
+radcliffe_udolpho_41_g	30	0.9	18211	16809	 of the late Marchioness de Vi	 of the late Marchioness, and 
+radcliffe_udolpho_41_g	30	0.9	23788	19980	 to the late Marchioness, the 	 to the late Marchioness. 'The
+radcliffe_udolpho_47_g	31	0.9032258064516129	662	14119	e Marchioness de Villeroi, and 	e Marchioness de Villeroi, who 
+radcliffe_udolpho_47_g	42	0.9047619047619048	1840	14113	 of the Marchioness de Villeroi, we shall 	 of the Marchioness de Villeroi, who had a
+radcliffe_udolpho_47_g	32	0.9375	1843	16187	 the Marchioness de Villeroi, we	 the Marchioness de Villeroi exp
+radcliffe_udolpho_47_g	30	0.9666666666666667	12927	11244	 the monastery of St. Claire, 	 the monastery of St. Claire. 
+radcliffe_udolpho_47_g	30	0.9666666666666667	15139	14116	 the Marchioness de Villeroi; 	 the Marchioness de Villeroi, 
+radcliffe_udolpho_47_g	30	0.9666666666666667	15139	16187	 the Marchioness de Villeroi; 	 the Marchioness de Villeroi e
+radcliffe_udolpho_47_g	36	0.9444444444444444	18957	14113	 of the Marchioness de Villeroi, aro	 of the Marchioness de Villeroi, who
+radcliffe_udolpho_47_g	30	0.9666666666666667	18960	16187	 the Marchioness de Villeroi, 	 the Marchioness de Villeroi e
+radcliffe_udolpho_47_g	36	0.9166666666666666	23085	14116	 the Marchioness de Villeroi to have	 the Marchioness de Villeroi, who ha
+radcliffe_udolpho_47_g	30	0.9666666666666667	23085	16187	 the Marchioness de Villeroi t	 the Marchioness de Villeroi e
+radcliffe_udolpho_54_g	43	0.9069767441860465	651	22356	 of the late Marchioness de Villeroi, and t	 of the late Marchioness de Villeroi bore t
+radcliffe_udolpho_54_g	32	0.96875	1342	18778	d requested to see her on the mo	d requested to see her on the fo
+radcliffe_udolpho_54_g	38	0.9210526315789473	1839	21867	e of the Marchioness de Villeroi, we s	e of the Marchioness de Villeroi, and 
+radcliffe_udolpho_54_g	31	0.9032258064516129	1846	22367	e Marchioness de Villeroi, we s	e Marchioness de Villeroi bore 
+radcliffe_udolpho_54_g	30	0.9	4167	16082	 the castle of Udolpho, whithe	 the castle of Udolpho, to whi
+radcliffe_udolpho_54_g	30	0.9	10401	15377	 the command of her father, sh	 the command of her father. Il
+radcliffe_udolpho_54_g	30	0.9333333333333333	14529	22938	 had so solemnly enjoined his 	 had so solemnly enjoined her 
+radcliffe_udolpho_54_g	34	0.9705882352941176	15139	21871	 the Marchioness de Villeroi; and 	 the Marchioness de Villeroi, and 
+radcliffe_udolpho_54_g	32	0.9375	15640	3514	his request to be interred near 	his request to be interred in a 
+radcliffe_udolpho_54_g	42	0.9047619047619048	18211	22356	 of the late Marchioness de Villeroi. As E	 of the late Marchioness de Villeroi bore 
+radcliffe_udolpho_54_g	35	0.9428571428571428	18944	8653	 the daughter of the Marchioness de	 the daughter of the Marchioness?' 
+radcliffe_udolpho_54_g	35	0.9428571428571428	18944	14881	 the daughter of the Marchioness de	 the daughter of the Marchioness.' 
+radcliffe_udolpho_54_g	34	1.0	18957	21868	 of the Marchioness de Villeroi, a	 of the Marchioness de Villeroi, a
+radcliffe_udolpho_54_g	30	0.9	18963	22367	e Marchioness de Villeroi, aro	e Marchioness de Villeroi bore
+radcliffe_udolpho_54_g	30	0.9	19357	14674	 in the castle of Udolpho, Lau	 in the castle of Udolpho,' co
+radcliffe_udolpho_54_g	30	0.9	19357	16079	 in the castle of Udolpho, Lau	 in the castle of Udolpho, to 
+radcliffe_udolpho_54_g	30	0.9666666666666667	23085	21871	 the Marchioness de Villeroi t	 the Marchioness de Villeroi, 
+radcliffe_udolpho_54_g	31	0.9032258064516129	23088	22367	e Marchioness de Villeroi to ha	e Marchioness de Villeroi bore 
+radcliffe_udolpho_54_g	30	0.9	24293	22337	on, which the history of the n	on, which the story of the lat
+radcliffe_udolpho_54_g	30	0.9	24340	12327	 indulgence of whose passions 	 indulgence of the passions; b
+radcliffe_udolpho_54_g	33	0.9393939393939394	24413	12507	 to the commission of a crime, fr	 to the commission of crimes, for
+collins_moonstone_52_d	31	0.9032258064516129	11906	11958	d suffered the punishment of gu	d suffered the punishment, for 
+radcliffe_udolpho_35_g	30	0.9	5263	1070	 the Marquis de Villeroi, for 	 the Marquis De Villeroi, who 
+radcliffe_udolpho_35_g	31	0.9032258064516129	11519	1070	 the Marquis de Villeroi, had h	 the Marquis De Villeroi, who h
+radcliffe_udolpho_35_g	33	0.9090909090909091	12927	316	 the monastery of St. Claire, a d	 the monastery of St. Claire. It 

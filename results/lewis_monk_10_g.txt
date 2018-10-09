@@ -1,0 +1,75 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_84_d	30	0.9	36827	13890	 was on the point of yielding 	 was on the point of telling h
+lewis_monk_7_g	30	0.9333333333333333	5351	42125	d deprive him of the power of 	d deprive her of the power of 
+lewis_monk_7_g	31	0.9354838709677419	5413	5138	 was only separated from the Co	 was only separated from her Mo
+lewis_monk_7_g	30	0.9333333333333333	17492	12261	, and was on the point of reti	, and was on the point of shri
+lewis_monk_7_g	34	0.9117647058823529	23142	2335	, it was impossible for them to dr	, it was impossible for her to rep
+lewis_monk_7_g	30	0.9	28243	12556	 the door, and found himself a	 the door, and found herself c
+lewis_monk_7_g	31	0.9032258064516129	29230	29809	 the door of the Sepulchre open	 the door of the Sepulchre, and
+lewis_monk_7_g	32	0.90625	29784	43057	 the foot of the Stairs. The upp	 the foot of the Staircase. The 
+lewis_monk_7_g	58	0.9137931034482759	31170	30340	 continued to proceed, feeling his way along the walls of 	 continued to proceed, feeling their way along the Walls. 
+lewis_monk_7_g	31	0.9032258064516129	36822	12261	, and was on the point of yield	, and was on the point of shrie
+lewis_monk_7_g	42	0.9047619047619048	37818	33707	en thought that He could distinguish sound	en thought that He could distinguish accen
+lewis_monk_7_g	34	0.9411764705882353	40495	38501	. What was his surprize, when He s	. What was his surprize, when the 
+lewis_monk_7_g	31	0.9354838709677419	41028	12286	 shrieking for assistance. The 	 shrieking for assistance when 
+lewis_monk_7_g	30	0.9	46446	40554	 reigned through the Cavern ha	 reigned through the Cave. The
+lewis_monk_7_g	34	0.9411764705882353	46572	43048	e reached the foot of the Stairs u	e reached the foot of the Staircas
+lewis_monk_7_g	30	0.9	55907	34606	s, and in a few minutes after 	s, and in a few moments after 
+lewis_monk_7_g	30	0.9	57771	15321	 convinced him that He was the	 convinced him that He was dis
+lewis_monk_7_g	30	0.9333333333333333	61398	37229	 a loud and piercing shriek in	 a loud and piercing shriek. S
+radcliffe_udolpho_10_g	30	0.9333333333333333	16768	5871	n the night preceding this exa	n the night preceding his depa
+shelley_frankenstein_51_g	31	0.9032258064516129	4540	1830	 the execution of his plan to b	 the execution of his plan. He 
+lewis_monk_8_g	40	0.925	700	25318	 communicating his design to his Uncle a	 communicate his design to his Uncle, as
+lewis_monk_8_g	30	0.9	1543	4430	 at the Gates of St. Clare a f	 at the Gate of St. Clare to r
+lewis_monk_8_g	31	0.9354838709677419	1604	21216	ted by the Mother St. Ursula. H	ted by the Mother St. Ursula's 
+lewis_monk_8_g	31	0.9032258064516129	1606	23107	d by the Mother St. Ursula. He 	d by the Mother St. Ursula's le
+lewis_monk_8_g	34	0.9411764705882353	3093	29780	 silence prevailed through the Cro	 silence prevailed through the Str
+lewis_monk_8_g	30	0.9	11557	23887	 the Prioress of St. Clare wit	 the Prioress of St. Clare. Fo
+lewis_monk_8_g	30	0.9	15128	21463	's countenance betrayed her in	's countenance betrayed, were 
+lewis_monk_8_g	36	0.9444444444444444	22365	8928	 that it was scarcely possible to he	 that it was scarcely possible for h
+lewis_monk_8_g	33	0.9696969696969697	22431	36997	ion increased with every moment: 	ion increased with every moment. 
+lewis_monk_8_g	33	0.9090909090909091	35320	11967	?' exclaimed Sister Helena; 'If I	?' exclaimed Sister Helena; 'Oh! 
+lewis_monk_8_g	31	0.967741935483871	42839	21557	 the solution of this mystery, 	 the solution of this mystery. 
+lewis_monk_8_g	32	0.90625	48841	25425	 was petrified with horror. He g	 was petrified with horror when 
+lewis_monk_8_g	32	0.9375	55762	24046	 bent his course towards the Sta	 bent his course towards the Pal
+lewis_monk_8_g	35	0.9142857142857143	56803	40205	y were on the point of departing, w	y were on the point of separating. 
+lewis_monk_5_g	31	0.9032258064516129	2230	48093	 He waited patiently for her ap	 He waited impatiently for the 
+lewis_monk_5_g	31	0.9032258064516129	23058	2642	 ordered his Attendants to cut 	 ordered his Attendants not to 
+lewis_monk_5_g	30	0.9	26983	24823	 the consequences of their act	 the consequences of this atta
+lewis_monk_5_g	30	0.9	59137	29012	 sufficiently recovered to acc	 sufficiently recovered to joi
+lewis_monk_5_g	31	0.9032258064516129	59854	3354	 the nature of her employment a	 the nature of his employment. 
+lewis_monk_6_g	30	0.9	4866	3308	 His only fear was lest the Do	 His only fear was lest Death 
+lewis_monk_6_g	35	0.9142857142857143	11556	12006	e the Prioress of St. Clare with mu	e the Prioress of St. Clare in the 
+lewis_monk_6_g	30	0.9	13301	10913	 the Votaries of St. Clare, no	 the Votaries of St. Clare. Th
+lewis_monk_6_g	31	0.9032258064516129	19353	17019	 the unfortunate Agnes, She pro	 the unfortunate Agnes, He reso
+lewis_monk_6_g	30	0.9	29230	11124	 the door of the Sepulchre ope	 the door of the Sepulchre was
+lewis_monk_6_g	30	0.9	29699	45292	 him without hesitation. The O	 him without hesitation her ca
+lewis_monk_6_g	30	0.9	30655	15635	 He found himself in total sol	 He found himself in total dar
+lewis_monk_6_g	31	0.9032258064516129	44873	313	 presented itself before them, 	 presented itself before him: H
+lewis_monk_6_g	47	0.9148936170212766	48410	32638	 hair fell in disorder over her face, and almos	 hair fell in disorder over her face and bosom.
+lewis_monk_6_g	46	0.9347826086956522	61081	17719	 He had already descended some steps when He h	 He had already descended some steps when his 
+austen_northangerabbey_16_g	30	0.9	11709	6091	, and an explanation was deman	, and an explanation was given
+radcliffe_udolpho_12_g	30	0.9333333333333333	5695	9090	 having excused himself from a	 having excused herself from a
+radcliffe_udolpho_12_g	36	0.9444444444444444	59131	49689	he was sufficiently recovered to acc	he was sufficiently recovered to hea
+collins_hauntedhotel_25_u	42	0.9285714285714286	33498	4676	 a secret, and that She might depend upon 	 a secret, and that she might depend on my
+lewis_monk_1_g	34	0.9411764705882353	3083	35840	 Universal silence prevailed throu	 Universal silence prevailed aroun
+lewis_monk_1_g	32	0.9375	11557	42815	 the Prioress of St. Clare with 	 the Prioress of St. Clare, the 
+lewis_monk_1_g	31	0.9032258064516129	12350	23783	 the surrounding multitude as f	 the surrounding multitude. It 
+lewis_monk_1_g	30	0.9666666666666667	36908	35840	 Universal silence prevailed. 	 Universal silence prevailed a
+lewis_monk_1_g	30	0.9	37067	39975	, when his attention was arres	, when his attention was attra
+lewis_monk_1_g	31	0.9032258064516129	55018	39231	 was unable to sustain the emot	 was unable to sustain the gaze
+lewis_monk_1_g	30	0.9666666666666667	57742	39097	 pealed along the Vaults, and 	 pealed along the Vaults; and 
+radcliffe_udolpho_41_g	31	0.967741935483871	2610	10336	on the stillness of the night. 	on the stillness of the night, 
+radcliffe_udolpho_41_g	30	0.9333333333333333	2612	21968	 the stillness of the night. T	 the stillness of the night re
+radcliffe_udolpho_41_g	34	0.9117647058823529	21304	4736	ies. It was long before I could fi	ies. It was long before she could 
+doyle_scarlet_12_d	30	0.9	5812	469	anks on either side of the gre	anks on either side of them, t
+radcliffe_udolpho_47_g	35	0.9428571428571428	9050	12853	 have fallen a sacrifice to this en	 have fallen a sacrifice to the ven
+radcliffe_udolpho_47_g	32	0.90625	18716	9140	 the opposition of her Friends. 	 the opposition of his friends. 
+collins_moonstone_66_d	30	0.9666666666666667	41964	943	 persisted in his resolution. 	 persisted in his resolution t
+christie_secretadversary_24_d	30	0.9	50352	4362	 I should not know it again my	 I should not know him again. 
+doyle_baskervilles_2_u	30	0.9	45577	12991	 declared his intention to des	 declared his intention of sta
+radcliffe_udolpho_54_g	30	0.9	51247	8280	he again fixed her eyes upon t	he again fixed her eyes on Emi
+stoker_dracula_16_g	30	0.9	5210	19628	 seemed to reign through the C	 seemed to ring through the li
+collins_moonstone_76_d	31	0.9354838709677419	23143	18493	 it was impossible for them to 	 it was impossible for her to f
+doyle_baskervilles_15_u	30	0.9	2233	912	 waited patiently for her appe	 waited patiently for the oppo
+christie_styles_4_d	31	0.9032258064516129	37077	299	 attention was arrested by a de	 attention was arrested by the 

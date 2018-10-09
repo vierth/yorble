@@ -1,0 +1,107 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_17_u	32	0.90625	346	14059	 related the circumstances of th	 related the circumstances in hi
+doyle_baskervilles_13_u	30	0.9	8915	18230	 the consequences of his confe	 the consequences of his own w
+radcliffe_udolpho_52_g	30	0.9	40736	9842	d carried with them into the r	d carried me with them to the 
+lewis_monk_3_g	33	0.9393939393939394	10024	38174	 presented themselves before him 	 presented themselves before me. 
+lewis_monk_3_g	30	0.9	20480	303	 every circumstance of his gui	 every circumstance to his min
+lewis_monk_3_g	31	0.9354838709677419	35206	14522	 then addressed himself to the 	 then addressed himself to me. 
+lewis_monk_3_g	31	0.9354838709677419	35206	52605	 then addressed himself to the 	 then addressed himself to me, 
+radcliffe_udolpho_23_g	30	0.9333333333333333	6162	8009	 into a thousand pieces. This 	 into a thousand pieces. To hi
+collins_moonstone_79_d	30	0.9	9632	1709	 persuaded himself that when h	 persuaded himself that he act
+poe_marieroget_1_d	33	0.9090909090909091	32446	66420	 by the disappearance of his Pris	 by the disappearance of this sam
+reeve_oldenglishbaron	31	0.9032258064516129	19627	23441	e threw himself into his seat, 	e threw himself into his arms, 
+reeve_oldenglishbaron	30	0.9	35206	6443	 then addressed himself to the	 then addressed himself to Lor
+radcliffe_udolpho_55_g	30	0.9	353	22739	d the circumstances of the mur	d the circumstance of the door
+lewis_monk_2_g	30	0.9	542	1935	ent themselves to the Abbey to	ent themselves at the Abbey, a
+lewis_monk_2_g	30	0.9	1784	26724	 the object of universal execr	 the object of universal estee
+lewis_monk_2_g	30	0.9333333333333333	3763	11634	self from sinking upon the gro	self from sinking upon the flo
+lewis_monk_2_g	30	1.0	4231	80885	 pale, and her eyes sunk and h	 pale, and her eyes sunk and h
+lewis_monk_2_g	32	0.90625	13527	49640	s. Matilda stood before him. She	s. Matilda stood before him in h
+lewis_monk_2_g	30	0.9	23096	71607	e pronounced the last word whe	e pronounced these last words 
+lewis_monk_2_g	42	0.9761904761904762	27883	76096	 penetrated the Friar's soul with horror; 	 penetrated the Friar's soul with horror: 
+lewis_monk_2_g	30	0.9	29706	45685	e your claim to salvation, mak	e your claim to salvation? Tha
+lewis_monk_2_g	30	0.9	35809	51273	 proof against temptation, abs	 proof against temptation; and
+doyle_scarlet_11_d	31	0.9032258064516129	19686	8485	 his head upon the table, sank 	 his head upon the table and so
+radcliffe_udolpho_1_g	30	0.9	33831	3856	 of the surrounding scenery; B	 of the surrounding scene; and
+christie_styles_10_d	30	0.9333333333333333	10539	920	 there was no possibility; Of 	 there was no possibility of b
+lewis_monk_9_g	30	0.9333333333333333	6120	34968	 a clap of thunder, and the st	 a clap of thunder, and the ro
+lewis_monk_9_g	30	0.9	9631	3155	e persuaded himself that when 	e persuaded himself that howev
+lewis_monk_9_g	31	0.9032258064516129	12171	70032	 Elvira and her Daughter. They 	 Elvira and her Daughter, her s
+lewis_monk_9_g	32	0.9375	19502	26174	 seemed to have increased its na	 seemed to have increased his pa
+collins_moonstone_85_d	30	0.9	4036	18171	 by which He had entered the H	 by which I had entered the ro
+reeve_oldenglishbaron	31	0.9032258064516129	19627	23441	e threw himself into his seat, 	e threw himself into his arms, 
+reeve_oldenglishbaron	30	0.9	35206	6443	 then addressed himself to the	 then addressed himself to Lor
+doyle_adventures_12_d	49	0.9183673469387755	40803	52847	. End of the Project Gutenberg EBook of The Monk;	. End of the Project Gutenberg EBook of The Adven
+doyle_signoffour_7_d	33	0.9090909090909091	4131	3236	 immediately followed by the beau	 immediately followed by the murd
+radcliffe_udolpho_16_g	30	0.9	3334	71137	 at a little distance sat the 	 at a little distance, on the 
+radcliffe_udolpho_16_g	30	0.9	26649	42771	, and that I will not be defra	, and that I will not be made 
+radcliffe_udolpho_25_g	30	0.9	23096	17302	e pronounced the last word whe	e pronounced the last words; b
+doyle_baskervilles_10_u	30	0.9	32449	12626	 the disappearance of his Pris	 the disappearance of his litt
+collins_hauntedhotel_23_u	32	0.90625	16888	11607	 remember what you have already 	 remember what you have read.' S
+collins_hauntedhotel_23_u	33	0.9090909090909091	23096	12768	e pronounced the last word when t	e pronounced the last words. The 
+doyle_adventures_4_d	30	0.9	2714	33895	 thought there might be hope, 	 thought there might be some w
+doyle_baskervilles_9_u	30	0.9	14245	15300	, and tell me, what I have to 	, and tell me that I have not 
+doyle_baskervilles_9_u	34	0.9705882352941176	22516	18141	is agitation was so great that He 	is agitation was so great that he 
+reeve_oldenglishbaron	31	0.9032258064516129	19627	23441	e threw himself into his seat, 	e threw himself into his arms, 
+reeve_oldenglishbaron	30	0.9	35206	6443	 then addressed himself to the	 then addressed himself to Lor
+walpole_castleofotranto_4_g	30	0.9	354	5977	 the circumstances of the murd	 the circumstances of the comb
+lewis_monk_4_g	30	0.9	1429	33796	 scarcely could He believe tha	 scarcely could I believe the 
+lewis_monk_4_g	30	0.9	2043	11325	 confusion at the discovery, t	 confusion at this discovery. 
+lewis_monk_4_g	31	0.9354838709677419	7223	6875	 rescued him from the hands of 	 rescued her from the hands of 
+lewis_monk_4_g	33	0.9090909090909091	11549	46602	 gradually disappeared, and their	 gradually disappeared, and at le
+lewis_monk_4_g	37	0.9459459459459459	19858	66238	 was summoned to appear before the Gr	 was summoned to appear before them. 
+lewis_monk_4_g	31	0.9032258064516129	24062	50461	 the lightning flashed around h	 the lightning flashed, and the
+lewis_monk_4_g	31	0.9354838709677419	35206	79715	 then addressed himself to the 	 then addressed himself to me, 
+lewis_monk_4_g	31	0.9032258064516129	38576	76248	 He sank upon his knees, and ra	 He sank upon his knees, gazed 
+lewis_monk_4_g	31	1.0	39715	17511	 the blood which trickled from 	 the blood which trickled from 
+austen_northangerabbey_28_g	30	0.9	4219	6166	 cheeks were pale, and her eye	 cheeks were pale, and her man
+radcliffe_udolpho_50_g	35	0.9142857142857143	34595	36448	 have you brought me?' said the Mon	 have you brought home?' said they 
+radcliffe_udolpho_50_g	30	0.9	35211	33247	 addressed himself to the Monk	 addressed himself to the hunt
+christie_secretadversary_28_d	44	1.0	40803	5967	. End of the Project Gutenberg EBook of The 	. End of the Project Gutenberg EBook of The 
+stoker_dracula_2_g	30	0.9333333333333333	6158	27213	ered into a thousand pieces. T	ered into a thousand pieces on
+walpole_castleofotranto_1_g	30	0.9	21856	21786	. In one of these moments his 	. In one of those moments she 
+walpole_castleofotranto_1_g	31	0.9032258064516129	24365	21301	l silence reigned through the d	l silence reigned throughout th
+dickens_christmascarole_1_g	39	0.9230769230769231	38584	27804	 upon his knees, and raised his hands t	 upon his knees, and clasped his hands 
+doyle_adventures_5_d	30	0.9	11510	2463	d through the bars of his pris	d through the bars of his civi
+radcliffe_udolpho_48_g	32	0.90625	351	14299	ted the circumstances of the mur	ted the circumstances of her par
+radcliffe_udolpho_22_g	38	0.9210526315789473	27443	27293	 felt no pain from the wound. The Pen 	 felt no pain from the wound. She now 
+collins_hauntedhotel_19_u	35	0.9142857142857143	6302	380	 influence over the minds of the Pe	 influence over the mind of this se
+reeve_oldenglishbaron	31	0.9032258064516129	19627	23441	e threw himself into his seat, 	e threw himself into his arms, 
+reeve_oldenglishbaron	30	0.9	35206	6443	 then addressed himself to the	 then addressed himself to Lor
+radcliffe_udolpho_4_g	30	0.9333333333333333	3814	26792	 prevailed, except when the In	 prevailed, except when the be
+radcliffe_udolpho_4_g	42	0.9285714285714286	33818	26861	 the wildness of the surrounding scenery; 	 the wildness of the surrounding scene, st
+reeve_oldenglishbaron_	44	1.0	40803	13522	. End of the Project Gutenberg EBook of The 	. End of the Project Gutenberg EBook of The 
+lewis_monk_10_g	30	0.9	5925	555	 to the Grand Inquisitor, who 	 to the Grand Inquisitor the o
+lewis_monk_10_g	32	0.9375	13048	16767	On the night preceding this drea	On the night preceding this exam
+lewis_monk_10_g	30	0.9333333333333333	32708	555	 to the Grand Inquisitor. The 	 to the Grand Inquisitor the o
+austen_northangerabbey_31_g	45	0.9111111111111111	40803	7550	. End of the Project Gutenberg EBook of The M	. End of the Project Gutenberg EBook of North
+lewis_monk_7_g	30	0.9	13004	32120	 enable him to support the que	 enable him to support the try
+lewis_monk_7_g	74	0.9054054054054054	13529	34635	 Matilda stood before him. She had quitted her religious habit. She now wo	 Matilda stood beside him. She had quitted her religious habit: She was no
+lewis_monk_7_g	30	0.9	21676	43682	 the approach of midnight. Som	 the approach of midnight. VOL
+lewis_monk_7_g	33	0.9696969696969697	22877	12044	 He persisted in his design; and 	 He persisted in his design, and 
+lewis_monk_7_g	32	0.90625	32759	31179	 had been carried away by the De	 had been hurried away by the de
+radcliffe_udolpho_10_g	31	0.9354838709677419	13049	5871	n the night preceding this drea	n the night preceding his depar
+radcliffe_udolpho_10_g	32	0.9375	22425	4460	he recollection of his sentence 	he recollection of the sentence 
+christie_secretadversary_3_d	30	0.9	35206	8252	 then addressed himself to the	 then addressed himself to Tup
+lewis_monk_8_g	33	0.9090909090909091	3030	7523	ed him to follow him. He obeyed w	ed him to follow her. He obeyed, 
+lewis_monk_5_g	30	0.9	4131	51260	 immediately followed by the b	 immediately followed to the G
+lewis_monk_5_g	30	0.9	7061	25445	 sufficient fortitude to persi	 sufficient fortitude to drive
+lewis_monk_5_g	30	0.9	8735	39790	: The remembrance of what his 	: The remembrance of what I ha
+lewis_monk_5_g	30	0.9	13825	19090	ed upon her countenance; But s	ed upon her countenance, but w
+lewis_monk_5_g	30	0.9	33088	26380	. While this was passing, the 	. While this was passing at El
+lewis_monk_6_g	30	0.9	9938	16587	 He could not help feeling the	 He could not help blaming the
+lewis_monk_6_g	30	0.9333333333333333	16099	22757	 dearer to me than ever, and I	 dearer to her than ever, and 
+lewis_monk_6_g	31	0.967741935483871	24562	18066	 earthquake rocked the ground, 	 earthquake rocked the ground. 
+lewis_monk_6_g	31	0.9354838709677419	30690	17759	n his courage failed him: He fe	n his courage failed him. He re
+doyle_adventures_9_d	30	0.9	1447	31327	 believe that He was indeed th	 believe that here was indeed 
+shelley_frankenstein_47_g	30	0.9333333333333333	9632	6986	 persuaded himself that when h	 persuaded myself that when th
+lewis_monk_1_g	34	0.9411764705882353	23168	38328	 loud burst of Thunder was heard; 	 loud burst of thunder was heard. 
+lewis_monk_1_g	30	0.9666666666666667	24366	21542	 silence reigned through the d	 silence reigned through the c
+radcliffe_udolpho_27_g	31	0.9032258064516129	354	323	 the circumstances of the murde	 the circumstances of the prece
+radcliffe_udolpho_27_g	30	0.9	3334	10008	 at a little distance sat the 	 at a little distance, on the 
+radcliffe_udolpho_14_g	32	0.90625	34265	7752	 tremendous precipices; and the 	 tremendous precipices, and with
+doyle_scarlet_12_d	30	0.9	9632	7620	 persuaded himself that when h	 persuaded himself that they m
+christie_styles_3_d	30	0.9	32520	7093	ere in time to witness the Mon	ere in time to witness them. T
+doyle_baskervilles_2_u	30	0.9	1447	14381	 believe that He was indeed th	 believe that it was indeed hi
+reeve_oldenglishbaron	31	0.9032258064516129	19627	23441	e threw himself into his seat, 	e threw himself into his arms, 
+reeve_oldenglishbaron	30	0.9	35206	6443	 then addressed himself to the	 then addressed himself to Lor

@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_12_d	30	0.9666666666666667	5989	47950	. We had hardly reached the th	. We had hardly reached the ha
+doyle_signoffour_7_d	34	0.9117647058823529	194	18639	here is no great mystery in this m	here is no great mystery in that. 
+collins_hauntedhotel_5_u	30	0.9666666666666667	2984	7336	 of the slightest importance, 	 of the slightest importance) 
+christie_secretadversary_26_d	31	1.0	3101	7150	folded the paper carefully and 	folded the paper carefully and 
+collins_moonstone_74_d	35	0.9142857142857143	5521	14486	 that she was suffering from the sa	 that she was suffering from a head
+christie_secretadversary_14_d	34	0.9117647058823529	3814	3888	 that I do not see how this bears 	 that I do not see how it bears on
+doyle_adventures_5_d	30	0.9	1876	29416	" said Sherlock Holmes, pensiv	" said Sherlock Holmes, bendin
+doyle_scarlet_2_d	34	0.9117647058823529	2980	5630	t is of the slightest importance, 	t is of the highest importance, th

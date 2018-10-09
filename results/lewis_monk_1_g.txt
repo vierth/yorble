@@ -1,0 +1,12 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_4_u	30	0.9	17064	19916	 had the good fortune to see M	 had the good fortune to help 
+doyle_baskervilles_4_u	30	0.9	24748	18880	d the opportunity of speaking 	d the opportunity of playing h
+radcliffe_udolpho_14_g	31	0.9032258064516129	33021	4422	 had an opportunity of seeing m	 had an opportunity of reading 
+collins_hauntedhotel_15_u	32	0.90625	7069	5062	 that you continue to wear your 	 that you continue to like your 
+radcliffe_udolpho_47_g	33	0.9090909090909091	9662	9843	 surprise and admiration; but the	 surprise and admiration; and the
+doyle_baskervilles_2_u	31	0.9032258064516129	19159	14206	 to be discovered upon his char	 to be discovered upon Sir Char
+austen_northangerabbey_3_g	30	0.9	18061	8344	 a strong inclination for stud	 a strong inclination for cont
+reeve_oldenglishbaron	34	0.9117647058823529	53383	1035	 almost choaked with passion, and 	 almost choaked with passion, to s
+collins_moonstone_52_d	30	0.9333333333333333	24742	20428	 seized the opportunity of spe	 seized the opportunity of the
+radcliffe_udolpho_35_g	30	0.9	11627	1434	 intelligence of his death.' '	 intelligence of his death, wh
+radcliffe_udolpho_35_g	30	0.9	49108	23753	 the opposite side of the Stre	 the opposite side of the edif

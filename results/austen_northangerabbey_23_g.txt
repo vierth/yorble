@@ -1,0 +1,15 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_23_g	30	0.9333333333333333	2215	21086	 she could scarcely believe it	 she could scarcely believe he
+austen_northangerabbey_29_g	30	0.9	2103	15964	, with the addition of the kit	, with the addition of this si
+doyle_scarlet_11_d	30	0.9333333333333333	2329	17300	f, however, that they were to 	f, however, that they were sti
+austen_northangerabbey_22_g	35	0.9428571428571428	4983	11020	, beyond her expectation, by their 	, beyond her expectation, by the gr
+radcliffe_udolpho_2_g	30	0.9666666666666667	14524	15046	 the clock had struck twelve, 	 the clock had struck twelve b
+christie_secretadversary_22_d	31	0.9032258064516129	11315	8356	 the affairs of the nation for 	 the affairs of the nation. I m
+doyle_adventures_4_d	30	0.9	12707	6657	 within a few paces of the cel	 within a few paces of the bod
+doyle_baskervilles_9_u	38	0.9210526315789473	12692	28649	might have been within a few paces of 	might have been within a few yards of 
+shelley_frankenstein_42_g	30	0.9	854	11983	 he led the way across the hal	 he led the way across the ice
+radcliffe_udolpho_50_g	30	0.9333333333333333	12707	40106	 within a few paces of the cel	 within a few paces of the cha
+radcliffe_udolpho_48_g	30	0.9	9099	8452	re, whenever they should have 	re, whenever they should be vi
+radcliffe_udolpho_4_g	30	0.9	2219	20629	 could scarcely believe it, or	 could scarcely believe that o
+radcliffe_udolpho_54_g	30	0.9	8889	13672	 the stings of conscience. She	 the stings of conscience, whi
+doyle_baskervilles_15_u	30	0.9	12650	7151	 of this unfortunate woman's c	 of this unfortunate woman, Mr

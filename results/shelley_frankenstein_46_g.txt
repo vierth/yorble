@@ -1,0 +1,15 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_53_g	34	0.9117647058823529	8478	15902	 to return to her native country. 	 to return to my native country. I
+doyle_signoffour_11_d	30	0.9	1299	815	 had been the cause of his con	 had been the cause of his ill
+shelley_frankenstein_48_g	30	0.9666666666666667	10083	3703	 the language of the country a	 the language of the country, 
+radcliffe_udolpho_36_g	31	0.967741935483871	8481	29627	 return to her native country. 	 return to her native country, 
+radcliffe_udolpho_34_g	30	0.9	8488	36704	 to her native country. The ge	 to her native country, the re
+collins_moonstone_74_d	32	0.90625	9046	1503	 daughter under the care of a co	 daughter under the care of her 
+radcliffe_udolpho_13_g	30	0.9	2775	1835	e preparations were going forw	e preparations were making for
+lewis_monk_10_g	32	0.90625	1683	27121	 part of the building, which lig	 part of the Building, which bei
+walpole_castleofotranto_5_g	30	0.9	5917	13956	 that his daughter should be u	 that his daughter should amus
+lewis_monk_8_g	30	0.9333333333333333	5147	1928	 a favourable opportunity of p	 a favourable opportunity to i
+lewis_monk_8_g	30	0.9333333333333333	6945	1928	 a favourable opportunity for 	 a favourable opportunity to i
+radcliffe_udolpho_27_g	38	0.9210526315789473	8478	6340	 to return to her native country. The 	 to return to her native country. As t
+collins_moonstone_50_d	34	0.9411764705882353	8764	2054	 he had reason to believe that his	 he had reason to believe that nei
+radcliffe_udolpho_35_g	30	0.9333333333333333	2650	25701	he looked forward to the proba	he looked forward to the perio

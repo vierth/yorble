@@ -1,0 +1,87 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_13_g	31	0.9354838709677419	13907	45998	 allowed her to distinguish lit	 allowed her to distinguish the
+radcliffe_udolpho_13_g	32	0.9375	34693	11181	 in the present state of her spi	 in the present state of her min
+radcliffe_udolpho_13_g	32	0.90625	36206	27941	, looking round the chamber and 	, looking round the chamber for 
+radcliffe_udolpho_13_g	32	0.9375	45832	11181	 in the present state of her spi	 in the present state of her min
+radcliffe_udolpho_3_g	50	0.92	13452	8863	 almost expected to see banditti start up from und	 almost expected to see banditti start from behind
+walpole_castleofotranto_1_g	33	0.9696969696969697	17378	21054	 the foot of the stair-case, and 	 the foot of the staircase, and h
+radcliffe_udolpho_48_g	30	0.9	26375	24275	 on the other side of the cast	 on the other side of the hous
+radcliffe_udolpho_48_g	30	0.9	34696	8509	 the present state of her spir	 the present state of her mind
+radcliffe_udolpho_48_g	30	0.9	45835	8509	 the present state of her spir	 the present state of her mind
+shelley_frankenstein_40_g	31	0.9032258064516129	4999	5107	 conjectures, concerning the mo	 conjecture concerning the prob
+radcliffe_udolpho_22_g	31	0.967741935483871	307	9993	 knocking at her chamber door. 	 knocking at her chamber door, 
+radcliffe_udolpho_22_g	30	0.9333333333333333	671	9379	 ma'amselle!' said Annette, 'd	 ma'amselle!' said Annette; 'w
+radcliffe_udolpho_22_g	31	0.9032258064516129	1022	13522	, ma'amselle, I would not trifl	, ma'amselle, I would not tell 
+radcliffe_udolpho_22_g	30	0.9	3031	19911	 dressing-room, where she foun	 dressing-room, where she ment
+radcliffe_udolpho_22_g	30	0.9	22590	9915	 Montoni, and was retiring; 'B	 Montoni, and was retiring to 
+radcliffe_udolpho_22_g	31	0.9354838709677419	26486	9377	e, ma'amselle,' said Annette, '	e, ma'amselle!' said Annette; '
+radcliffe_udolpho_22_g	31	0.967741935483871	27264	9377	e, ma'amselle!' said Annette: '	e, ma'amselle!' said Annette; '
+radcliffe_udolpho_22_g	30	0.9	29045	4745	, Annette?' said Emily, when s	, Annette?' said Emily, in ast
+radcliffe_udolpho_22_g	36	0.9166666666666666	29224	15437	, ma'amselle, replied Annette, 'nor 	, ma'amselle,' replied Annette, 'I w
+radcliffe_udolpho_22_g	33	0.9090909090909091	31446	35393	ly to her chamber, which was in a	ly to her chamber, which was the 
+radcliffe_udolpho_22_g	30	0.9	36179	9378	, ma'amselle,' said Annette, l	, ma'amselle!' said Annette; '
+radcliffe_udolpho_22_g	32	0.90625	39066	15438	 ma'amselle,' cried Annette, 'lo	 ma'amselle,' replied Annette, '
+radcliffe_udolpho_22_g	30	0.9	40713	4745	, Annette?' said Emily, in muc	, Annette?' said Emily, in ast
+radcliffe_udolpho_22_g	30	0.9666666666666667	47907	35682	 with her eyes fixed on the dy	 with her eyes fixed on the do
+radcliffe_udolpho_22_g	30	0.9666666666666667	48276	11596	 stood hesitating whether to g	 stood hesitating whether to c
+shelley_frankenstein_54_g	35	0.9428571428571428	8496	18342	d the amphitheatre of mountains, th	d the amphitheatre of mountains whi
+reeve_oldenglishbaron	33	0.9090909090909091	16357	28622	 preparations for his reception, 	 preparations for their reception
+doyle_scarlet_2_d	32	0.90625	26377	18709	n the other side of the castle, 	n the other side of the street, 
+radcliffe_udolpho_4_g	30	0.9	10369	2445	ing them with splendid tints, 	ing them with splendid light, 
+radcliffe_udolpho_4_g	30	0.9	13567	26444	, and, soon after, reached the	, and, soon after, enabled the
+collins_hauntedhotel_11_u	31	0.9032258064516129	620	1545	 to support herself, and sat do	 to support herself, and still 
+lewis_monk_7_g	30	0.9	8221	35515	. At length, they reached a li	. At length they reached a spa
+lewis_monk_7_g	35	0.9428571428571428	17376	30307	ed the foot of the stair-case, and 	ed the foot of the Staircase, and c
+lewis_monk_7_g	31	0.9032258064516129	17376	43055	ed the foot of the stair-case, 	ed the foot of the Staircase. T
+lewis_monk_7_g	30	0.9	30124	29835	, and found themselves, after 	, and found themselves at the 
+radcliffe_udolpho_10_g	32	0.96875	6737	8646	 precipices of the mountains, th	 precipices of the mountains, wh
+radcliffe_udolpho_10_g	31	0.9354838709677419	8944	32404	. Emily gazed long on the splen	. Emily gazed long on the plane
+radcliffe_udolpho_10_g	31	1.0	13257	29642	n, rising over the tops of the 	n, rising over the tops of the 
+radcliffe_udolpho_10_g	31	0.9032258064516129	25742	11427	 did not appear to notice this 	 did not appear to notice her i
+shelley_frankenstein_51_g	30	0.9	39491	3111	 the beginning of October; nay	 the beginning of October, and
+shelley_frankenstein_51_g	32	0.90625	47903	14252	 sat with her eyes fixed on the 	 sat with my eyes fixed on the g
+walpole_castleofotranto_5_g	30	0.9333333333333333	34673	27492	 her apartment; but, in the pr	 her apartment; but, in the mi
+lewis_monk_6_g	30	0.9	7970	20519	 shudder at the idea of this d	 shudder at the idea of that w
+austen_northangerabbey_16_g	30	0.9	47549	4744	 that, whatever might be her s	 that, whatever might be our h
+radcliffe_udolpho_21_g	35	1.0	47132	1035	, on the eve of her departure from 	, on the eve of her departure from 
+stoker_dracula_1_g	30	0.9	20585	26210	 and whistled through the whol	 and whistled through the rock
+doyle_adventures_9_d	30	0.9	23129	20778	 at the other end of the castl	 at the other end of the passa
+doyle_adventures_9_d	30	0.9	47795	32195	 along the corridor and round 	 along the corridor and down a
+radcliffe_udolpho_12_g	44	0.9318181818181818	613	28554	 unable to support herself, and sat down on 	 unable to support herself, she sat down on 
+radcliffe_udolpho_12_g	33	0.9090909090909091	4950	29161	n the scenes, to which she was re	n the scene, to which she answere
+radcliffe_udolpho_12_g	30	0.9	5399	18157	, which was necessary to the h	, which was so necessary to he
+radcliffe_udolpho_12_g	31	0.9032258064516129	18695	17731	 windows, that opened upon the 	 windows, that opened upon a ba
+radcliffe_udolpho_12_g	32	0.90625	31026	18743	. She determined, however, when 	. She determined, however, that 
+radcliffe_udolpho_12_g	32	0.90625	47088	25661	 remembered all that Valancourt 	 remembered only that Valancourt
+radcliffe_udolpho_12_g	42	0.9047619047619048	47899	8826	 she sat with her eyes fixed on the dying 	 she sat with her eyes fixed on the far-di
+collins_hauntedhotel_25_u	35	0.9428571428571428	34690	3713	ut, in the present state of her spi	ut, in the present state of her min
+collins_hauntedhotel_25_u	33	0.9393939393939394	45831	3715	, in the present state of her spi	, in the present state of her min
+lewis_monk_1_g	30	0.9	1691	2908	 the meaning of all this befor	 the meaning of all this. I be
+doyle_baskervilles_4_u	32	0.90625	26375	16131	 on the other side of the castle	 on the other side of the street
+radcliffe_udolpho_27_g	32	0.9375	7422	9555	 she became convinced, that it w	 she became convinced, that the 
+radcliffe_udolpho_27_g	31	0.9032258064516129	14860	11107	 lost in the obscurity of eveni	 lost in the obscurity of night
+radcliffe_udolpho_27_g	30	0.9	23129	2318	 at the other end of the castl	 at the other end of the passa
+radcliffe_udolpho_27_g	31	0.9032258064516129	31026	13173	. She determined, however, when	. She determined, however, to w
+radcliffe_udolpho_27_g	33	0.9090909090909091	34151	5966	, that pressed heavily on her spi	, that pressed so heavily on her 
+radcliffe_udolpho_27_g	37	0.918918918918919	45994	8576	 dismissed Annette for the night. Whe	 dismissed Annette for the night, det
+radcliffe_udolpho_14_g	30	0.9333333333333333	4999	19908	 conjectures, concerning the m	 conjecture concerning the mus
+radcliffe_udolpho_14_g	31	0.9032258064516129	9341	12773	s of the mountains, which shut 	s of the mountains, which at ni
+radcliffe_udolpho_14_g	30	0.9	33272	4237	nt on the point of speaking wh	nt on the point of breaking th
+radcliffe_udolpho_49_g	30	0.9	569	8452	' said Emily, trembling excess	' said Emily, trembling extrem
+radcliffe_udolpho_49_g	31	0.967741935483871	18630	8069	, trying to conceal her tears, 	, trying to conceal her tears; 
+radcliffe_udolpho_41_g	30	0.9666666666666667	30826	22256	 the loneliness of the hour an	 the loneliness of the hour as
+radcliffe_udolpho_41_g	30	0.9	36112	10660	 she had formerly heard on tha	 she had formerly heard at the
+radcliffe_udolpho_41_g	30	0.9	37724	12300	 you know, ma'amselle, what an	 you know, ma'amselle, when on
+radcliffe_udolpho_41_g	30	0.9	44865	5712	 every thing was still, and An	 every thing was so still and 
+collins_hauntedhotel_10_u	33	0.9090909090909091	41653	7767	. 'You have nothing to fear from 	. 'You have nothing to fear, so l
+radcliffe_udolpho_47_g	41	0.9512195121951219	25735	16045	' Emily did not appear to notice this rem	' Emily did not appear to notice this que
+christie_secretadversary_10_d	31	0.9032258064516129	44839	5133	 listened attentively; but ever	 listened attentively, but ther
+christie_secretadversary_4_d	30	0.9333333333333333	36712	6656	e paused a moment, and then sa	e paused a moment, and then we
+doyle_baskervilles_2_u	38	0.9210526315789473	33090	11659	 circumstance, connected with the cast	 circumstances connected with the deat
+radcliffe_udolpho_54_g	36	0.9166666666666666	613	7537	 unable to support herself, and sat 	 unable to support herself, leaned a
+radcliffe_udolpho_54_g	30	0.9	21824	8415	 she recovered sufficient cour	 she recovered sufficient spir
+radcliffe_udolpho_54_g	35	1.0	32688	6789	 tried to support her spirits, and 	 tried to support her spirits, and 
+reeve_oldenglishbaron	33	0.9090909090909091	16357	28622	 preparations for his reception, 	 preparations for their reception
+radcliffe_udolpho_35_g	30	0.9333333333333333	10031	8853	s caught the sun-beams, and to	s caught the sun-beams, and ga
+radcliffe_udolpho_35_g	32	0.90625	13434	27216	 her mind, and she almost expect	 her mind, and she almost wept. 
+radcliffe_udolpho_35_g	30	0.9	26378	23196	 the other side of the castle,	 the other side of the chateau

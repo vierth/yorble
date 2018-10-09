@@ -1,0 +1,12 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_48_g	30	0.9333333333333333	12778	23085	 sufficiently recovered to thi	 sufficiently recovered, to li
+dickens_christmascarole_3_g	30	0.9	12428	34893	 an opinion on the subject cou	 an opinion on the subject. Wh
+lewis_monk_10_g	33	1.0	12772	59131	he was sufficiently recovered to 	he was sufficiently recovered to 
+doyle_adventures_2_d	30	0.9	12428	24899	 an opinion on the subject cou	 an opinion upon the subject i
+doyle_signoffour_5_d	30	0.9	11153	11259	 the master of the house, and 	 the master of the house was s
+lewis_monk_5_g	34	0.9117647058823529	12778	29012	 sufficiently recovered to think i	 sufficiently recovered to join hi
+austen_northangerabbey_16_g	31	0.9032258064516129	9099	4285	 with great admiration at every	 with great admiration, and eve
+collins_moonstone_62_d	31	0.9032258064516129	7156	1719	he was very particular in his e	he was very particular in choos
+doyle_adventures_9_d	32	0.90625	10483	6269	, between ourselves, if there is	, between ourselves, if it were 
+radcliffe_udolpho_12_g	43	0.9069767441860465	12770	49687	 she was sufficiently recovered to think it	 she was sufficiently recovered to hear wit
+radcliffe_udolpho_35_g	30	0.9	11581	16197	 simplicity with which she fel	 simplicity, with which the ol

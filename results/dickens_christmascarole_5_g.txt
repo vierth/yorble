@@ -1,0 +1,33 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_87_d	35	0.9142857142857143	6899	21675	. Allow me to ask your pardon. And 	. Allow me to ask your pardon, on m
+collins_hauntedhotel_28_u	43	0.9302325581395349	12414	14698	 End of the Project Gutenberg EBook of A Ch	 End of the Project Gutenberg EBook of The 
+stoker_dracula_22_g	30	0.9	4547	23978	 for the coming of the poulter	 for the coming of the others.
+doyle_signoffour_12_d	30	0.9	7543	50441	I am much obliged to you. I th	I am much obliged to you both 
+lewis_monk_11_g	35	0.9142857142857143	7844	43846	thing could yield him pleasure. He 	thing could give him pleasure. He w
+collins_moonstone_75_d	30	0.9	6933	28847	 will you have the goodness"--	 will you have the goodness to
+shelley_frankenstein_56_g	44	0.9090909090909091	12414	45540	 End of the Project Gutenberg EBook of A Chr	 End of the Project Gutenberg EBook of Frank
+lewis_monk_12_g	43	0.9302325581395349	12414	40804	 End of the Project Gutenberg EBook of A Ch	 End of the Project Gutenberg EBook of The 
+collins_moonstone_89_d	34	0.9117647058823529	5780	25053	 got out into the streets. The peo	 got out into the street. The boy—
+poe_marieroget_1_d	30	0.9	10919	29317	 could not be mistaken, as he 	 could not be mistaken in her 
+doyle_adventures_12_d	43	0.9302325581395349	12414	52848	 End of the Project Gutenberg EBook of A Ch	 End of the Project Gutenberg EBook of The 
+dickens_christmascarole_4_g	59	0.9152542372881356	172	28298	I will live in the Past, the Present, and the Future!" Scro	I will live in the Past, the Present, and the Future. The S
+dickens_christmascarole_4_g	52	0.9615384615384616	274	28352	The Spirits of all Three shall strive within me. Oh 	The Spirits of all Three shall strive within me. I w
+dickens_christmascarole_4_g	35	0.9142857142857143	805	27047	the shadows of the things that woul	the shadows of the things that Will
+collins_moonstone_56_d	30	0.9	3997	19013	 in less than five minutes and	 in less than five minutes. Th
+collins_moonstone_56_d	30	0.9666666666666667	10194	4191	his way, sir, if you please." 	his way, sir, if you please.” 
+doyle_baskervilles_7_u	30	0.9333333333333333	10902	22709	 earnestness that could not be	 earnestness that I could not 
+dickens_christmascarole_2_g	30	0.9666666666666667	807	32543	e shadows of the things that w	e shadows of the things that h
+christie_secretadversary_28_d	43	0.9302325581395349	12414	5968	 End of the Project Gutenberg EBook of A Ch	 End of the Project Gutenberg EBook of The 
+dickens_christmascarole_1_g	36	0.9722222222222222	6404	10313	 "Scrooge and Marley's, I believe?" 	 "Scrooge and Marley's, I believe," 
+dickens_christmascarole_3_g	42	0.9047619047619048	1729	4177	 the Ghost of Christmas Present, sat! Ther	 the Ghost of Christmas Present," said the
+dickens_christmascarole_3_g	36	0.9166666666666666	1729	13958	 the Ghost of Christmas Present, sat	 the Ghost of Christmas Present bles
+dickens_christmascarole_3_g	33	0.9696969696969697	1729	37759	 the Ghost of Christmas Present, 	 the Ghost of Christmas Present k
+dickens_christmascarole_3_g	30	0.9	4680	32702	 as I live!" cried Scrooge, pa	 as I live!" cried Scrooge's n
+dickens_christmascarole_3_g	36	0.9166666666666666	5875	4177	 the Ghost of Christmas Present; and	 the Ghost of Christmas Present," sa
+dickens_christmascarole_3_g	33	0.9696969696969697	5875	13958	 the Ghost of Christmas Present; 	 the Ghost of Christmas Present b
+dickens_christmascarole_3_g	37	0.918918918918919	5875	37759	 the Ghost of Christmas Present; and 	 the Ghost of Christmas Present knew 
+dickens_christmascarole_3_g	44	0.9090909090909091	7623	40713	, and walked about the streets, and watched 	, and walked about the streets, and wasn't m
+dickens_christmascarole_3_g	30	0.9	8607	34687	 these young housekeepers are 	 these young housekeepers. Wha
+dickens_christmascarole_3_g	32	0.90625	10879	22165	" said Scrooge, with an earnestn	" said Scrooge, with an interest
+reeve_oldenglishbaron_	43	0.9302325581395349	12414	13523	 End of the Project Gutenberg EBook of A Ch	 End of the Project Gutenberg EBook of The 
+austen_northangerabbey_31_g	44	0.9090909090909091	12414	7551	 End of the Project Gutenberg EBook of A Chr	 End of the Project Gutenberg EBook of North

@@ -1,0 +1,75 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_64_d	32	0.9375	2720	5599	here was no more to be said, so 	here was no more to be said. As 
+shelley_frankenstein_52_g	41	0.926829268292683	3451	12357	etween two and three in the morning; but 	etween two and three in the morning the m
+stoker_dracula_23_g	42	0.9047619047619048	2	3	I DR. SEWARD'S DIARY _29 October._--This i	I DR. SEWARD'S DIARY _3 October._--The tim
+stoker_dracula_23_g	31	0.9032258064516129	3722	21433	. * * * * * _Later._--Sunset ha	. * * * * * _Later._--I must ha
+stoker_dracula_23_g	32	0.9375	6924	19854	 Harker's Journal._ _30 October.	 Harker's Journal._ _3-4 October
+stoker_dracula_23_g	43	0.9534883720930233	7675	19843	. _Jonathan Harker's Journal._ _30 October.	. _Jonathan Harker's Journal._ _3-4 October
+stoker_dracula_23_g	34	0.9411764705882353	14213	19854	 Harker's Journal._ _30 October, e	 Harker's Journal._ _3-4 October, 
+stoker_dracula_23_g	32	1.0	28863	19843	. _Jonathan Harker's Journal._ _	. _Jonathan Harker's Journal._ _
+stoker_dracula_23_g	32	0.9375	35464	19854	 Harker's Journal._ _31 October.	 Harker's Journal._ _3-4 October
+stoker_dracula_25_g	31	0.9354838709677419	3	2	 DR. SEWARD'S DIARY _29 October	 DR. SEWARD'S DIARY _11 October
+stoker_dracula_25_g	41	0.926829268292683	116	243	 a little before the time of sunset. Each	 a little before the time of sunset. We h
+stoker_dracula_25_g	31	0.9354838709677419	6924	8742	 Harker's Journal._ _30 October	 Harker's Journal._ _15 October
+stoker_dracula_25_g	30	0.9333333333333333	7198	8985	 Lord Godalming went to the Vi	 Lord Godalming went to the Co
+stoker_dracula_25_g	31	0.9354838709677419	7437	11997	 of the _Czarina Catherine_. * 	 of the _Czarina Catherine_ we 
+stoker_dracula_25_g	33	0.9090909090909091	7437	17559	 of the _Czarina Catherine_. * * 	 of the _Czarina Catherine_. She 
+stoker_dracula_25_g	42	0.9523809523809523	7675	8731	. _Jonathan Harker's Journal._ _30 October	. _Jonathan Harker's Journal._ _15 October
+stoker_dracula_25_g	30	0.9	8064	12000	 the _Czarina Catherine_, whic	 the _Czarina Catherine_ we sh
+stoker_dracula_25_g	30	0.9	8064	15736	 the _Czarina Catherine_, whic	 the _Czarina Catherine_ has c
+stoker_dracula_25_g	31	0.9032258064516129	12480	10229	 the _Czarina Catherine_. This 	 the _Czarina Catherine_ is sti
+stoker_dracula_25_g	31	0.9032258064516129	12480	13591	 the _Czarina Catherine_. This 	 the _Czarina Catherine_ is see
+stoker_dracula_25_g	31	0.9032258064516129	12480	15736	 the _Czarina Catherine_. This 	 the _Czarina Catherine_ has co
+stoker_dracula_25_g	31	0.9032258064516129	12480	17562	 the _Czarina Catherine_. This 	 the _Czarina Catherine_. She o
+stoker_dracula_25_g	33	0.9393939393939394	14213	8742	 Harker's Journal._ _30 October, 	 Harker's Journal._ _15 October, 
+stoker_dracula_25_g	44	0.9090909090909091	28863	8731	. _Jonathan Harker's Journal._ _October 30. 	. _Jonathan Harker's Journal._ _15 October, 
+stoker_dracula_25_g	31	0.967741935483871	35464	8742	 Harker's Journal._ _31 October	 Harker's Journal._ _15 October
+stoker_dracula_25_g	30	0.9	36908	1644	 alone knows what may be, and 	 alone knows what may be in st
+stoker_dracula_6_g	35	0.9142857142857143	32565	24068	s beginning to tell upon me, and na	s beginning to tell on me, and I am
+radcliffe_udolpho_1_g	30	0.9333333333333333	14303	44273	 that there was nothing to be 	 that there was nothing to exp
+stoker_dracula_18_g	35	0.9142857142857143	6917	9729	. _Mina Harker's Journal._ _30 Octo	. _Mina Harker's Journal._ _30 Sept
+stoker_dracula_18_g	30	0.9333333333333333	11742	23334	 it?" asked Dr. Van Helsing wi	 it?" asked Dr. Van Helsing. "
+stoker_dracula_18_g	35	0.9142857142857143	14206	9729	. _Mina Harker's Journal._ _30 Octo	. _Mina Harker's Journal._ _30 Sept
+stoker_dracula_18_g	31	0.967741935483871	35457	9729	. _Mina Harker's Journal._ _31 	. _Mina Harker's Journal._ _30 
+stoker_dracula_11_g	31	0.9032258064516129	32565	5899	s beginning to tell upon me, an	s beginning to tell upon my own
+radcliffe_udolpho_16_g	30	0.9666666666666667	12315	30938	e had received a letter from M	e had received a letter from h
+radcliffe_udolpho_16_g	30	0.9	22582	30370	 have been accustomed to hunt 	 have been accustomed to meet 
+radcliffe_udolpho_33_g	30	0.9	5362	17642	 difficulty of procuring the h	 difficulty of procuring which
+doyle_baskervilles_12_u	30	0.9	30758	7730	 through the darkness, with th	 through the darkness which ha
+collins_moonstone_56_d	30	0.9	36342	2578	 carriage and horses; we are t	 carriage and horses were not 
+stoker_dracula_20_g	33	0.9090909090909091	6320	16366	 said, turning from one to the ot	 said, turning from one to anothe
+stoker_dracula_20_g	30	0.9	34148	28537	 _Dr. Seward's Diary._ _2 Nove	 _Dr. Seward's Diary._ _2 Octo
+doyle_baskervilles_9_u	31	0.9032258064516129	14302	7129	d that there was nothing to be 	d that there was nothing more w
+doyle_baskervilles_7_u	30	0.9333333333333333	18401	22953	t there must have been some le	t there must have been some sh
+stoker_dracula_12_g	46	0.9130434782608695	1319	2666	. Van Helsing and I looked at each other with 	. Van Helsing and I looked at each other, and 
+stoker_dracula_12_g	31	0.9032258064516129	1677	34285	 she opened her eyes, said swee	 she opened her eyes, and seein
+stoker_dracula_12_g	30	0.9	34148	28990	 _Dr. Seward's Diary._ _2 Nove	 _Dr. Seward's Diary._ _20 Sep
+stoker_dracula_2_g	31	0.9032258064516129	4704	11534	 the howling of wolves." She st	 the howling of wolves. Some ti
+christie_styles_2_d	31	0.967741935483871	21158	6480	 me in his arms and kissed me. 	 me in his arms and kissed me w
+radcliffe_udolpho_48_g	30	0.9666666666666667	19926	23237	 knowledge of the persons who 	 knowledge of the person, who 
+stoker_dracula_24_g	30	0.9333333333333333	1332	21250	 and I looked at each other wi	 and I looked at each other fo
+stoker_dracula_24_g	38	0.9473684210526315	6917	3381	. _Mina Harker's Journal._ _30 October	. _Mina Harker's Journal._ _5 October,
+stoker_dracula_24_g	31	0.9354838709677419	6924	23888	 Harker's Journal._ _30 October	 Harker's Journal._ _5 October,
+stoker_dracula_24_g	32	0.9375	7437	4711	 of the _Czarina Catherine_. * *	 of the _Czarina Catherine_. He 
+stoker_dracula_24_g	46	0.9565217391304348	7675	2010	. _Jonathan Harker's Journal._ _30 October._--	. _Jonathan Harker's Journal._ _4 October._--W
+stoker_dracula_24_g	42	0.9523809523809523	7675	23877	. _Jonathan Harker's Journal._ _30 October	. _Jonathan Harker's Journal._ _5 October,
+stoker_dracula_24_g	30	0.9	12480	4714	 the _Czarina Catherine_. This	 the _Czarina Catherine_. He s
+stoker_dracula_24_g	40	0.95	14206	3381	. _Mina Harker's Journal._ _30 October, 	. _Mina Harker's Journal._ _5 October, 5
+stoker_dracula_24_g	33	0.9393939393939394	14213	23888	 Harker's Journal._ _30 October, 	 Harker's Journal._ _5 October, a
+stoker_dracula_24_g	30	0.9	22852	29428	. There must be no chances, th	. There must be no chance lost
+stoker_dracula_24_g	31	0.9032258064516129	27670	29109	 Dr. Seward and Mr. Morris have	 Dr. Seward, and Mr. Morris wer
+stoker_dracula_24_g	43	0.9302325581395349	28863	2010	. _Jonathan Harker's Journal._ _October 30.	. _Jonathan Harker's Journal._ _4 October._
+stoker_dracula_24_g	43	0.9302325581395349	28863	23877	. _Jonathan Harker's Journal._ _October 30.	. _Jonathan Harker's Journal._ _5 October, 
+stoker_dracula_24_g	33	0.9090909090909091	33679	29109	 Dr. Seward and Mr. Morris are ge	 Dr. Seward, and Mr. Morris were 
+stoker_dracula_24_g	38	0.9473684210526315	35457	3381	. _Mina Harker's Journal._ _31 October	. _Mina Harker's Journal._ _5 October,
+stoker_dracula_24_g	31	0.9354838709677419	35464	23888	 Harker's Journal._ _31 October	 Harker's Journal._ _5 October,
+collins_hauntedhotel_19_u	30	1.0	14308	2487	 there was nothing to be done 	 there was nothing to be done 
+christie_styles_8_d	30	0.9333333333333333	9600	20886	pleased with the compliment, a	pleased with the compliment. T
+stoker_dracula_1_g	30	0.9666666666666667	9962	12279	 guard against the evil eye. M	 guard against the evil eye. T
+stoker_dracula_1_g	33	0.9090909090909091	9962	19236	 guard against the evil eye. Man!	 guard against the evil eye. Then
+stoker_dracula_1_g	30	0.9	12866	7598	hat was all he knew. We then s	hat was all he knew. When I as
+collins_hauntedhotel_25_u	30	0.9	12315	6876	e had received a letter from M	e had received letters from En
+stoker_dracula_9_g	36	0.9166666666666666	23070	22402	 I could see that the poor dear was 	 I could see that the poor girl was 
+stoker_dracula_21_g	36	0.9444444444444444	2	1	I DR. SEWARD'S DIARY _29 October._--	I DR. SEWARD'S DIARY _3 October._--L
+stoker_dracula_21_g	33	0.9090909090909091	590	17201	 this time the Professor had to a	 this time the Professor had gain
+stoker_dracula_21_g	33	0.9090909090909091	6383	31306	hat have I said? What have I done	hat have I done? What have I done

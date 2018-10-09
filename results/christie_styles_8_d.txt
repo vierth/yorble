@@ -1,0 +1,20 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_1_d	30	0.9	1498	14432	 “I should like to see the lad	 “I should like to see them!” 
+christie_styles_1_d	30	0.9	18838	8270	 I shall never forget the nigh	 I shall never forget them. Sh
+christie_secretadversary_3_d	30	0.9333333333333333	3271	5236	. What are you going to do now	. What are you going to do abo
+doyle_baskervilles_4_u	30	0.9333333333333333	5172	2420	, “perhaps you will tell me wh	, “perhaps you will tell me, M
+collins_moonstone_66_d	32	0.90625	22422	12233	” “What do you mean?” she asked 	” “What do you mean?” I asked. “
+collins_moonstone_60_d	30	0.9333333333333333	12057	19035	re you doing there?” I asked, 	re you doing here?” I asked. “
+doyle_scarlet_1_d	35	0.9142857142857143	18515	14923	. I am much obliged to you for ment	. I am much obliged to you for brin
+doyle_scarlet_1_d	31	0.9032258064516129	21007	12429	,” he continued, staring at me 	,” he continued, turning to me 
+christie_secretadversary_15_d	30	0.9333333333333333	417	823	e. “I’m much obliged to you. A	e. “I’m much obliged to you, H
+christie_secretadversary_15_d	30	0.9	3271	7219	. What are you going to do now	. What are you going to do?” “
+christie_secretadversary_15_d	31	0.9032258064516129	25089	11206	 to think of such a thing.” Poi	 to think of such a thing....” 
+doyle_baskervilles_15_u	41	0.9024390243902439	20851	16296	 of great assistance to me.” I was please	 of great assistance to me. I was depende
+collins_moonstone_65_d	31	0.9354838709677419	5001	21387	 rang the bell, and ordered rou	 rang the bell, and ordered her
+christie_styles_4_d	31	0.9354838709677419	4333	4390	t is of the first importance! S	t is of the first importance.” 
+christie_styles_4_d	45	0.9111111111111111	8434	2804	.” Poirot shook his head energetically. “No, 	.” Poirot shook his head energetically. He wa
+christie_styles_4_d	36	0.9166666666666666	12075	25050	?” I asked, in lively curiosity. “I 	?” I asked, in lively curiosity, as 
+christie_styles_4_d	30	0.9333333333333333	18170	12262	fter a moment’s hesitation, he	fter a moment’s hesitation, cl
+christie_styles_4_d	34	0.9117647058823529	20143	4601	,” said Poirot thoughtfully, as we	,” said Poirot thoughtfully, “it w
+christie_styles_4_d	32	0.90625	20143	14841	,” said Poirot thoughtfully, as 	,” said Poirot thoughtfully. “I 

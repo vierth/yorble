@@ -1,0 +1,41 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_6_g	31	0.9032258064516129	2443	19248	 on the point of breaking when 	 on the point of breaking. Let 
+lewis_monk_6_g	30	0.9333333333333333	13981	8770	. He threw himself upon his Co	. He threw himself upon his be
+lewis_monk_6_g	31	0.967741935483871	14773	45562	 the Marquis de las Cisternas. 	 the Marquis de las Cisternas a
+lewis_monk_6_g	30	0.9	16890	52645	 the Strada di San Iago, four 	 the Strada di San Iago, thoug
+lewis_monk_6_g	35	0.9428571428571428	16920	35168	doors from the Palace d'Albornos, a	doors from the Palace d'Albornos.' 
+lewis_monk_6_g	30	0.9333333333333333	18620	54875	 her embroidery frame, and Leo	 her embroidery frame, and beg
+lewis_monk_6_g	30	0.9333333333333333	21624	5451	to enquire after her health oc	to enquire after the health of
+lewis_monk_6_g	32	0.90625	30805	37402	 be released from her vows, and 	 be released from my vows, and p
+lewis_monk_6_g	30	0.9	36272	20555	xperience has taught me to my 	xperience has taught me to pri
+lewis_monk_6_g	36	0.9166666666666666	40486	47544	, and retired from the chamber. The 	, and retired from the chamber. In t
+lewis_monk_6_g	32	0.90625	45153	45564	he Marquis de las Cisternas is t	he Marquis de las Cisternas and 
+lewis_monk_6_g	50	0.92	48096	17961	 waited impatiently for the conclusion of the serv	 waited impatiently for the conclusion of this adv
+lewis_monk_6_g	44	0.9090909090909091	48335	33248	hat the Physicians despaired of her life; Bu	hat the Physicians despair of her life. Huma
+lewis_monk_6_g	30	0.9666666666666667	50640	4799	 the Sisterhood of St. Clare: 	 the Sisterhood of St. Clare? 
+lewis_monk_6_g	30	0.9666666666666667	50640	10598	 the Sisterhood of St. Clare: 	 the Sisterhood of St. Clare, 
+austen_northangerabbey_19_g	31	0.9032258064516129	44867	6415	 you may be sure that I should 	 you may be sure that he would 
+radcliffe_udolpho_12_g	30	0.9	29012	49695	 sufficiently recovered to joi	 sufficiently recovered to hea
+lewis_monk_1_g	30	0.9666666666666667	14775	15105	he Marquis de las Cisternas. E	he Marquis de las Cisternas.' 
+lewis_monk_1_g	30	0.9	14776	31893	e Marquis de las Cisternas. El	e Marquis de las Cisternas; Bu
+lewis_monk_1_g	73	0.9041095890410958	18834	31766	aughter of 'as honest a painstaking Shoe-maker, as any in Cordova.' A sin	aughter of "as honest a painstaking Shoe-maker as any in Cordova"?' 'You 
+lewis_monk_1_g	30	0.9	20127	5040	 thought it necessary to maint	 thought it necessary to pay t
+lewis_monk_1_g	30	0.9	20127	41181	 thought it necessary to maint	 thought it necessary to make 
+lewis_monk_1_g	30	0.9666666666666667	20795	20016	 Leonella rose from her seat, 	 Leonella rose from her seat t
+lewis_monk_1_g	31	0.967741935483871	26234	20078	 Antonia followed her example, 	 Antonia followed her example. 
+lewis_monk_1_g	31	0.9354838709677419	26242	44037	 followed her example, and vowe	 followed her example, and seve
+lewis_monk_1_g	30	0.9	28665	43878	l. The Prioress crossed hersel	l. The Prioress crossed her ha
+lewis_monk_1_g	30	0.9333333333333333	29849	43073	 Porteress of St. Clare, with 	 Porteress of St. Clare, who i
+lewis_monk_1_g	31	0.9354838709677419	45152	15104	The Marquis de las Cisternas is	The Marquis de las Cisternas.' 
+lewis_monk_1_g	31	0.9032258064516129	45154	31893	e Marquis de las Cisternas is t	e Marquis de las Cisternas; But
+lewis_monk_1_g	30	0.9333333333333333	49849	39610	 recollection convinced him th	 recollection convinced him of
+radcliffe_udolpho_14_g	31	0.9354838709677419	2443	4239	 on the point of breaking when 	 on the point of breaking the s
+radcliffe_udolpho_14_g	30	0.9333333333333333	36164	1894	 without one sigh of regret.' 	 without one sigh of regret, h
+radcliffe_udolpho_41_g	34	0.9117647058823529	19864	12498	d to look round the room, and perc	d to look round the room, and my p
+christie_secretadversary_4_d	30	0.9	36071	7352	 It will be sufficient to supp	 It will be sufficient to say 
+radcliffe_udolpho_54_g	37	0.918918918918919	14810	23750	 received this intelligence with sens	 received this intelligence, with con
+radcliffe_udolpho_54_g	30	0.9	36270	29653	 Experience has taught me to m	 Experience had taught him to 
+reeve_oldenglishbaron	30	0.9	26635	31896	, and unlocked the door. They 	, and unlocked the door; he ma
+collins_moonstone_65_d	33	0.9090909090909091	21599	420	 He requested permission to enqui	 He requested permission to justi
+radcliffe_udolpho_35_g	49	0.9183673469387755	14836	25039	e with sensations very different from those with 	e with sensations very different from those I for
+christie_styles_4_d	30	0.9	49337	1299	 an exclamation of surprize. '	 an exclamation of surprise at

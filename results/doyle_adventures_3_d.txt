@@ -1,0 +1,111 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_52_g	30	0.9	4394	7072	ooking over his shoulder, I sa	ooking over his shoulder. I kn
+lewis_monk_3_g	30	0.9333333333333333	30434	6921	 it was impossible for me to s	 it was impossible for her to 
+collins_moonstone_69_d	32	0.90625	33524	13731	 in such a dramatic manner that 	 in such a frantic manner that I
+doyle_scarlet_14_d	34	1.0	25319	7310	 circumstances connected with the 	 circumstances connected with the 
+collins_moonstone_89_d	30	0.9333333333333333	25305	72297	 extraordinary circumstances c	 extraordinary circumstance, m
+collins_moonstone_89_d	30	0.9	33795	27408	 of something happening on the	 of something happening. Nothi
+collins_moonstone_81_d	34	1.0	30429	14126	 that it was impossible for me to 	 that it was impossible for me to 
+doyle_signoffour_8_d	34	0.9117647058823529	24633	13178	t is just as well that we should d	t is just as well that you should 
+doyle_scarlet_7_d	42	0.9523809523809523	5561	15197	e there was a tap at the door, and the boy	e there was a tap at the door, and the spo
+doyle_scarlet_7_d	34	0.9117647058823529	29808	160	 sprang out of his chair and picke	 sprang out of his chair and upset
+doyle_scarlet_7_d	30	0.9	30965	13524	 with his head sunk upon his b	 with his head sunk on his che
+doyle_signoffour_4_d	32	0.96875	19160	14588	 leaned back in his chair, with 	 leaned back in his chair with a
+doyle_signoffour_6_d	30	1.0	27512	13659	," said Holmes. "I think that 	," said Holmes. "I think that 
+doyle_signoffour_6_d	36	0.9166666666666666	28359	11816	I have every reason to believe that 	I have every reason to believe to be
+doyle_signoffour_6_d	32	0.96875	28359	14040	I have every reason to believe t	I have every reason to believe, 
+doyle_signoffour_1_d	30	0.9	4095	5896	 features of interest. It is p	 features of interest. I was a
+doyle_signoffour_1_d	30	1.0	7083	2721	 his finger-tips together and 	 his finger-tips together and 
+doyle_signoffour_1_d	30	0.9	19398	3503	which, by the way, is rather a	which, by the way, is their no
+doyle_signoffour_1_d	36	0.9722222222222222	31062	61	 the corner of the mantelpiece and, 	 the corner of the mantel-piece and 
+doyle_scarlet_3_d	34	0.9117647058823529	12601	14256	to be left till called for. He sai	to be left till called for. They a
+collins_moonstone_47_d	30	0.9333333333333333	12601	5807	to be left till called for. He	to be left till called for.” T
+walpole_castleofotranto_3_g	30	0.9	6954	22200	 to know what has become of Mr	 to know what was become of Is
+doyle_scarlet_11_d	32	0.96875	31110	866	 with his hands in his pockets, 	 with his hands in his pocket, w
+radcliffe_udolpho_6_g	34	0.9117647058823529	28365	41680	 every reason to believe that I wi	 every reason to believe that her 
+doyle_baskervilles_1_u	30	0.9333333333333333	9704	10348	his is my friend, Dr. Watson, 	his is my friend Dr. Watson.” 
+doyle_baskervilles_1_u	34	0.9117647058823529	18895	3030	t for a few minutes with his finge	t for a few minutes with his naked
+doyle_baskervilles_1_u	30	0.9	20556	9193	 and a general air of being fa	 and a general air of peering 
+christie_styles_13_d	39	0.9230769230769231	5562	22040	 there was a tap at the door, and the b	 there was a tap at the door, and Cynth
+stoker_dracula_18_g	31	0.9032258064516129	6518	10990	s I have trained myself to see 	s I have train myself to keep a
+doyle_adventures_12_d	30	0.9	3387	416	 have been good enough to chro	 have been good enough to draw
+doyle_adventures_12_d	31	0.9032258064516129	4012	4416	 which has been referred to me 	 which has been offered to me a
+doyle_adventures_12_d	30	0.9	7083	5853	 his finger-tips together and 	 his finger-tips together, to 
+doyle_adventures_12_d	31	0.9032258064516129	7193	3166	ce of Miss Mary Sutherland. "Ye	ce of Miss Mary Sutherland, the
+doyle_adventures_12_d	33	0.9090909090909091	15747	1432	." "It seems to me that you have 	." "It seems to me that I have do
+doyle_adventures_12_d	30	0.9	17418	4647	and I have no doubt that we sh	and I have no doubt that is he
+doyle_adventures_12_d	30	0.9	19159	9864	e leaned back in his chair, wi	e leaned back in his chair and
+doyle_adventures_12_d	32	0.9375	27512	50831	," said Holmes. "I think that th	," said Holmes, "I think that wh
+doyle_adventures_12_d	33	0.9090909090909091	31115	41917	 his hands in his pockets, began 	 his hands in his pockets, and an
+doyle_signoffour_7_d	32	1.0	31110	6490	 with his hands in his pockets, 	 with his hands in his pockets, 
+doyle_scarlet_13_d	30	0.9	19159	4402	e leaned back in his chair, wi	e leaned back in his chair and
+doyle_scarlet_13_d	34	0.9117647058823529	30434	5030	 it was impossible for me to solve	 it was impossible for me to secur
+radcliffe_udolpho_25_g	32	0.90625	6954	13236	 to know what has become of Mr. 	 to know what was become of her.
+radcliffe_udolpho_25_g	30	0.9	31364	17604	. It was a considerable sum, f	. It was a considerable time, 
+shelley_frankenstein_53_g	31	0.9354838709677419	452	3870	 the strange coincidences, the 	 the strange coincidences that 
+collins_moonstone_56_d	32	1.0	31110	23592	 with his hands in his pockets, 	 with his hands in his pockets, 
+doyle_signoffour_11_d	38	0.9210526315789473	30970	721	 his head sunk upon his breast, like o	 his head sunk upon his breast, while 
+doyle_baskervilles_11_u	34	0.9117647058823529	27587	6781	 you made an appointment with me f	 you made an appointment with Sir 
+collins_moonstone_61_d	30	0.9	27964	10914	, as you may have noticed, and	, as you may have noticed, ver
+collins_moonstone_61_d	33	0.9090909090909091	30436	14460	t was impossible for me to solve 	t was impossible for me to see he
+doyle_adventures_4_d	31	0.9032258064516129	6451	30740	," said Holmes, laughing; "it i	," said Holmes, laughing. "But 
+doyle_adventures_4_d	31	0.9354838709677419	25343	7817	 with the Study in Scarlet, I f	 with the Study in Scarlet, to 
+doyle_adventures_4_d	36	0.9166666666666666	27057	27995	 has written to me to say that he wo	 has written to him to say that she 
+doyle_adventures_4_d	31	0.967741935483871	27122	42484	 The man who entered was a stur	 The man who entered was a stra
+doyle_adventures_4_d	38	0.9210526315789473	28316	10250	" "On the contrary," said Holmes quiet	" "On the contrary," said Holmes, "it 
+doyle_adventures_4_d	36	0.9166666666666666	28334	37828	," said Holmes quietly; "I have ever	," said Holmes quietly. "I have give
+shelley_frankenstein_48_g	30	0.9	30429	1646	 that it was impossible for me	 that it was impossible to ret
+radcliffe_udolpho_36_g	31	0.9032258064516129	19517	7476	 there was something of the sor	 there was something in the for
+walpole_castleofotranto_4_g	32	0.9375	30428	16269	d that it was impossible for me 	d that it is impossible for me e
+doyle_scarlet_5_d	31	0.9032258064516129	5550	6784	 As he spoke there was a tap at	 As he spoke there was a sharp 
+doyle_scarlet_5_d	43	0.9069767441860465	28359	4146	I have every reason to believe that I will 	I have every reason to believe that it is, 
+radcliffe_udolpho_34_g	30	0.9333333333333333	30434	10654	 it was impossible for me to s	 it was impossible for her to 
+collins_hauntedhotel_6_u	33	0.9090909090909091	31115	8080	 his hands in his pockets, began 	 his hands in his pockets, and lo
+lewis_monk_4_g	30	0.9666666666666667	30434	27075	 it was impossible for me to s	 it was impossible for me to m
+lewis_monk_4_g	31	0.967741935483871	30434	52420	 it was impossible for me to so	 it was impossible for me to jo
+radcliffe_udolpho_50_g	35	0.9714285714285714	25319	15914	 circumstances connected with the S	 circumstances, connected with the 
+radcliffe_udolpho_18_g	34	0.9705882352941176	25319	33090	 circumstances connected with the 	 circumstance, connected with the 
+stoker_dracula_2_g	30	0.9	19834	17775	d not know where to look, and 	d not know where to look in da
+doyle_adventures_5_d	33	0.9393939393939394	2329	972	 points in connection with it. Th	 points in connection with it whi
+doyle_adventures_5_d	32	0.90625	4124	25148	possible, however, that I may ha	possible, however, that a man sh
+doyle_adventures_5_d	33	0.9696969696969697	7077	24093	, with his finger-tips together a	, with his finger-tips together. 
+doyle_adventures_5_d	30	0.9	20643	24011	" Sherlock Holmes clapped his 	" Sherlock Holmes closed his e
+doyle_adventures_5_d	30	0.9333333333333333	26350	757	 which was so dear to him. "We	 which was so dear to him. The
+doyle_scarlet_2_d	31	0.9354838709677419	26315	1105	 spent his day in the chemical 	 spent his day at the chemical 
+doyle_scarlet_2_d	31	0.9032258064516129	29750	2156	 to which I have alluded are th	 to which I have alluded; and h
+collins_hauntedhotel_11_u	30	0.9	6957	10374	 know what has become of Mr. H	 know what has become of her h
+lewis_monk_10_g	31	0.9032258064516129	30434	23143	 it was impossible for me to so	 it was impossible for them to 
+collins_moonstone_84_d	33	0.9090909090909091	16746	11090	, that something had happened, an	, that something _had_ happened. 
+lewis_monk_7_g	30	0.9333333333333333	30434	2336	 it was impossible for me to s	 it was impossible for her to 
+doyle_adventures_2_d	30	0.9666666666666667	270	48761	e commonplaces of existence. I	e commonplaces of existence. T
+doyle_adventures_2_d	30	0.9	7083	939	 his finger-tips together and 	 his fingertips together, as w
+doyle_adventures_2_d	30	0.9	7560	22827	 came right away to you." "You	 came right away to you." "And
+doyle_adventures_2_d	30	0.9	17418	646	and I have no doubt that we sh	and I have no doubt that he wi
+doyle_adventures_2_d	31	0.9032258064516129	18967	47243	 stretched out in front of him,	 stretched out in front or behi
+doyle_adventures_2_d	39	0.9487179487179487	28359	31593	I have every reason to believe that I w	I have every reason to believe that we 
+doyle_adventures_2_d	33	0.9090909090909091	30946	4610	ed up in his chair, with his head	ed up in his chair, with his fore
+doyle_adventures_2_d	32	0.90625	30948	25644	 up in his chair, with his head 	 up in his chair, with his thin 
+doyle_adventures_2_d	34	0.9411764705882353	35845	45280	 obvious from the first that this 	 obvious from the first that the o
+radcliffe_udolpho_10_g	30	0.9	19512	17243	, and there was something of t	, and there was something part
+doyle_signoffour_5_d	30	0.9	19527	5998	 something of the sort at The 	 something of the sort on the 
+doyle_signoffour_5_d	33	0.9393939393939394	30964	11308	, with his head sunk upon his bre	, with his head sunk upon his lef
+lewis_monk_5_g	30	0.9	6954	20080	 to know what has become of Mr	 to know what was become of hi
+lewis_monk_5_g	30	0.9	33582	44694	 impression upon the young lad	 impression upon her young hea
+austen_northangerabbey_16_g	30	0.9	10969	8350	 shrugged his shoulders, and s	 shrugged her shoulders and sm
+collins_moonstone_62_d	33	0.9090909090909091	31115	8849	 his hands in his pockets, began 	 his hands in his pockets, and he
+doyle_adventures_9_d	30	0.9333333333333333	1381	23999	 I smiled and shook my head. "	 I smiled and shook my head, s
+doyle_adventures_9_d	35	0.9714285714285714	31059	7847	 on the corner of the mantelpiece a	 on the corner of the mantelpiece. 
+radcliffe_udolpho_12_g	30	0.9333333333333333	30429	21896	 that it was impossible for me	 that it was impossible for Ma
+doyle_baskervilles_4_u	32	0.90625	1330	2617	 there is nothing so unnatural a	 there is nothing supernatural a
+christie_secretadversary_4_d	30	0.9333333333333333	19159	7146	e leaned back in his chair, wi	e leaned back in his chair, cr
+christie_secretadversary_4_d	36	0.9166666666666666	28359	12368	I have every reason to believe that 	I have every reason to believe he is
+doyle_baskervilles_2_u	30	1.0	5034	9735	 his cigarette into the fire. 	 his cigarette into the fire. 
+doyle_baskervilles_2_u	31	0.967741935483871	7083	1924	 his finger-tips together and h	 his finger-tips together, and 
+doyle_baskervilles_2_u	33	0.9393939393939394	7083	16066	 his finger-tips together and his	 his finger-tips together, and as
+doyle_baskervilles_2_u	30	0.9	19160	1891	 leaned back in his chair, wit	 leaned back in his chair, pla
+doyle_baskervilles_2_u	38	0.9210526315789473	25319	11659	 circumstances connected with the Stud	 circumstances connected with the deat
+radcliffe_udolpho_54_g	31	0.9032258064516129	19512	20756	, and there was something of th	, and there was something in hi
+collins_moonstone_76_d	38	0.9210526315789473	30429	18488	 that it was impossible for me to solv	 that it was impossible for her to fol
+stoker_dracula_21_g	31	0.9032258064516129	17733	4156	 what has happened to him?" "Yo	 what has happened to him? Poor
+collins_moonstone_65_d	31	0.9032258064516129	29750	19924	 to which I have alluded are th	 to which I have alluded. I thi
+christie_styles_4_d	34	1.0	6478	22294	it is my business to know things. 	it is my business to know things. 

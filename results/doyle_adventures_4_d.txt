@@ -1,0 +1,60 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_9_u	32	0.90625	8210	28485	There is nothing more deceptive 	There is nothing so deceptive as
+doyle_scarlet_5_d	30	0.9	12688	6880	 in the direction of the Bosco	 in the direction of the door.
+christie_secretadversary_26_d	30	0.9333333333333333	19602	9749	 from one to the other of us, 	 from one to the other of his 
+doyle_baskervilles_7_u	32	0.90625	44676	9583	 I promise you that I shall not 	 I promise you that I will not m
+christie_styles_11_d	30	0.9333333333333333	29647	16215	Does it not strike you as a li	Does it not strike you as unli
+christie_styles_11_d	30	0.9	39019	13967	ly it could not have been mean	ly it could not have been Lawr
+christie_styles_5_d	30	0.9333333333333333	20536	217	 shrugged his shoulders. "I am	 shrugged his shoulders. “I ca
+christie_styles_5_d	30	0.9333333333333333	37598	217	 shrugged his shoulders. "I am	 shrugged his shoulders. “I ca
+lewis_monk_4_g	30	0.9	5827	20649	 was so frightened by their vi	 was so frightened by these mi
+collins_moonstone_74_d	30	0.9333333333333333	6688	1654	. Under these circumstances th	. Under these circumstances, M
+collins_moonstone_74_d	30	0.9333333333333333	10667	22823	 under the circumstances, and 	 under the circumstances, was 
+radcliffe_udolpho_50_g	30	0.9	6657	40106	 within a few paces of the bod	 within a few paces of the cha
+radcliffe_udolpho_50_g	30	0.9333333333333333	33894	45962	I thought there might be some 	I thought they might be some o
+radcliffe_udolpho_50_g	30	0.9	50800	32283	n the strength of a number of 	n the strength and number of h
+austen_northangerabbey_26_g	30	0.9666666666666667	7608	3192	 people in the neighbourhood, 	 people in the neighbourhood. 
+christie_styles_12_d	37	0.918918918918919	14682	9571	 that it has nothing to do with the s	 that it had nothing to do with that 
+christie_secretadversary_14_d	30	0.9	10665	6219	al under the circumstances, an	al under the circumstances. Se
+doyle_baskervilles_8_u	33	0.9090909090909091	40730	14666	 founded upon the observation of 	 founded upon my observations of 
+christie_styles_2_d	34	0.9117647058823529	14687	10273	 it has nothing to do with the sad	 it has nothing to do with that ma
+christie_secretadversary_23_d	31	0.9032258064516129	27495	9488	er. On the other hand, he had n	er. On the other hand, they don
+doyle_adventures_5_d	30	0.9	12962	26820	 idea that he was in front of 	 idea that he was in fear of s
+doyle_adventures_5_d	30	0.9	39350	26514	 a strong presumption that the	 a strong presumption that Col
+stoker_dracula_24_g	32	0.90625	50368	20407	 the thought of the peace which 	 the thought of the pain which h
+collins_hauntedhotel_19_u	30	0.9	14689	8429	t has nothing to do with the s	t has nothing to do with it, M
+collins_moonstone_73_d	30	0.9333333333333333	10667	219	 under the circumstances, and 	 under the circumstances, as L
+doyle_scarlet_2_d	32	0.90625	6688	3117	. Under these circumstances the 	. Under these circumstances, I e
+christie_secretadversary_1_d	30	0.9	14665	12210	 I can assure you that it has 	 I can assure you that that so
+austen_northangerabbey_4_g	34	0.9117647058823529	27701	4197	 that he had spent the last three 	 that he had spent the last week o
+christie_secretadversary_19_d	30	0.9	11651	7050	here are one or two points in 	here are one or two points tha
+doyle_adventures_2_d	30	0.9	12688	41685	 in the direction of the Bosco	 in the direction of the floor
+doyle_adventures_2_d	30	0.9	15538	47001	 I could think of nothing exce	 I could think of nothing save
+doyle_adventures_2_d	32	0.90625	18717	23004	 think that it is probable that 	 think that it is possible that 
+doyle_adventures_2_d	30	0.9	20535	48880	e shrugged his shoulders. "I a	e shrugged his shoulders. "Wel
+doyle_adventures_2_d	30	0.9	37597	48880	e shrugged his shoulders. "I a	e shrugged his shoulders. "Wel
+doyle_adventures_2_d	30	0.9666666666666667	38103	37921	ed expression upon his face, a	ed expression upon his face, w
+doyle_signoffour_5_d	31	0.9032258064516129	1174	6977	 was pacing up and down the pla	 was pacing up and down with a 
+doyle_signoffour_5_d	31	0.9354838709677419	30740	2660	," said Holmes, laughing. "But 	," said Holmes, laughing. "Our 
+lewis_monk_5_g	35	0.9142857142857143	44416	2812	able with his pen in his hand and a	able with a pen in his hand, and wa
+lewis_monk_6_g	30	0.9	17999	11976	 had no difficulty in recognis	 had no difficulty to recogniz
+doyle_adventures_9_d	30	0.9	30740	44234	," said Holmes, laughing. "But	," said Holmes, laughing. "Ind
+doyle_adventures_9_d	30	1.0	36157	7362	 cab, and I shall be with you 	 cab, and I shall be with you 
+doyle_adventures_9_d	30	0.9	37827	38715	t," said Holmes quietly. "I ha	t," said Holmes quietly. "Real
+doyle_adventures_9_d	30	0.9	43033	23327	e at a glance that he was in t	e at a glance that she was sic
+doyle_adventures_9_d	32	0.90625	44046	11354	. I understand that it was your 	. I understand that it was on a 
+doyle_adventures_9_d	30	0.9	44277	6590	 it is a question whether I sh	 it is a question whether just
+lewis_monk_1_g	34	0.9117647058823529	44677	27465	I promise you that I shall not use	I promise you that I shall do no s
+doyle_baskervilles_4_u	31	0.967741935483871	35378	15994	 a little cry of satisfaction. 	 a little cry of satisfaction, 
+stoker_dracula_9_g	30	0.9	34521	27406	 rather to himself than to us.	 rather to himself than to me:
+collins_moonstone_60_d	32	0.90625	6688	13459	. Under these circumstances the 	. Under those circumstances, it 
+doyle_scarlet_4_d	38	0.9210526315789473	40820	1461	 from the length of his stride. His bo	 from the length of his stride. It is 
+stoker_dracula_16_g	30	0.9666666666666667	19602	20316	 from one to the other of us, 	 from one to the other of us. 
+collins_moonstone_76_d	31	0.9354838709677419	6015	12159	 that they were going to fight.	 that they were going to Bright
+collins_moonstone_76_d	30	0.9666666666666667	10667	17319	 under the circumstances, and 	 under the circumstances; and 
+collins_moonstone_76_d	32	0.90625	14630	20327	ally impossible for me to tell y	ally impossible for you to tell 
+stoker_dracula_21_g	33	0.9696969696969697	19599	24685	ing from one to the other of us, 	ing from one to the other of us s
+doyle_baskervilles_15_u	30	0.9	19148	1828	 that there was nothing which 	 that there is anything which 
+collins_moonstone_65_d	30	0.9333333333333333	6688	8107	. Under these circumstances th	. Under these circumstances, a
+christie_styles_4_d	32	0.96875	5125	1374	 the tragedy that had occurred. 	 the tragedy that had occurred, 
+christie_styles_4_d	30	0.9	29497	14246	That is interesting," said Hol	That is interesting,” said Poi

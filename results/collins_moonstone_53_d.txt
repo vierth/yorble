@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_5_g	30	0.9	2281	39663	 with her handkerchief to her 	 with her handkerchief. After 
+collins_moonstone_62_d	30	0.9	1351	11186	ty different minds about the D	ty different minds about it, a
+collins_moonstone_62_d	30	0.9	7405	2968	ce at the Shivering Sand. Was 	ce at the Shivering Sand must 
+collins_moonstone_62_d	30	0.9	7405	12960	ce at the Shivering Sand. Was 	ce at the Shivering Sand. The 
+radcliffe_udolpho_12_g	33	0.9090909090909091	11992	33633	 one woman in the world who can r	 one woman in the world, who has 
+lewis_monk_1_g	30	0.9333333333333333	5413	33021	 had an opportunity of saying 	 had an opportunity of seeing 
+lewis_monk_1_g	31	0.9032258064516129	6565	49108	 the opposite side of the table	 the opposite side of the Stree
+collins_moonstone_50_d	45	0.9111111111111111	6898	15447	 the extract from the Colonel’s Will in her h	 the extract from the Colonel’s Will. I have 
+radcliffe_udolpho_14_g	31	0.9032258064516129	5413	4422	 had an opportunity of saying a	 had an opportunity of reading 
+doyle_scarlet_12_d	31	0.9354838709677419	4039	10365	 the clatter of horses’ hoofs o	 the clatter of horse’s hoofs, 
+collins_moonstone_66_d	36	0.9166666666666666	867	17762	 on the subject of the Moonstone—the	 on the subject of the Moonstone, wh
+collins_moonstone_60_d	38	0.9210526315789473	866	5179	e on the subject of the Moonstone—the 	e on the subject of the Moonstone out 
+collins_moonstone_60_d	30	0.9333333333333333	10209	12523	 if I had seen anything of his	 if I had seen anything of Ros
+radcliffe_udolpho_54_g	32	0.90625	13650	2598	 to administer the reproof which	 to administer the repose, which
+collins_moonstone_76_d	36	0.9166666666666666	867	995	 on the subject of the Moonstone—the	 on the subject of the Moonstone, wh
+collins_moonstone_49_d	34	0.9117647058823529	7223	273	 have something to say to you then	 have something to say to you.” Wh
+collins_moonstone_49_d	32	0.90625	7746	14509	 the Colonel’s birthday gift in 	 the Colonel’s birthday-gift to 
+collins_moonstone_52_d	30	0.9333333333333333	122	8083	e, in the servants’ hall, bega	e, in the servants’ hall, deba
+collins_moonstone_52_d	30	0.9	945	1907	 the bank at Frizinghall, and 	 the bank at Frizinghall, we s
+collins_moonstone_52_d	31	0.9032258064516129	5830	3044	 Miss Rachel that Mr. Franklin 	 Miss Rachel and Mr. Franklin h

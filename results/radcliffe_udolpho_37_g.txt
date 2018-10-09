@@ -1,0 +1,150 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_31_g	30	0.9	4703	8528	 whether the musician had yet 	 whether the musician and the 
+radcliffe_udolpho_8_g	39	0.9230769230769231	847	23140	 on the preceding evening, and was as m	 on the preceding evening, and, as she 
+radcliffe_udolpho_8_g	30	0.9	1230	13681	 the convent of St. Claire, to	 the convent of St. Clair, and
+radcliffe_udolpho_8_g	30	0.9333333333333333	1593	4964	. On the following morning, Em	. On the following morning, sh
+radcliffe_udolpho_8_g	34	0.9411764705882353	4090	9959	 this to be the chateau, which he 	 this to be the chateau, which La 
+radcliffe_udolpho_8_g	34	0.9117647058823529	11096	15506	 to remain a few days at the chate	 to remain a few days at the conve
+radcliffe_udolpho_8_g	44	0.9090909090909091	11604	36809	 she had now a melancholy pleasure in approa	 she had now a melancholy pleasure in repeat
+radcliffe_udolpho_8_g	31	0.9032258064516129	12581	19564	 La Voisin and his family, she 	 La Voisin and his family, and 
+radcliffe_udolpho_8_g	33	0.9090909090909091	12581	20939	 La Voisin and his family, she le	 La Voisin and his family; he see
+radcliffe_udolpho_45_g	42	0.9047619047619048	3066	5820	 When they returned to the chateau, Lady B	 When they returned to the chateau, Emily 
+radcliffe_udolpho_45_g	30	0.9	3981	24278	, soon after the death of Mons	, soon after the death of his 
+radcliffe_udolpho_45_g	33	0.9090909090909091	6963	14507	 had witnessed in a chamber of Ud	 had witnessed in the chamber of 
+radcliffe_udolpho_45_g	30	0.9333333333333333	13648	21216	 she had received from him; an	 she had received from him; pr
+radcliffe_udolpho_53_g	30	0.9	11798	3095	 recollections, which this sce	 recollections, which this top
+radcliffe_udolpho_53_g	30	0.9	14281	3084	 melancholy recollections, but	 melancholy recollections, whi
+radcliffe_udolpho_43_g	32	0.90625	3411	1422	 the castle of Udolpho, which we	 the castle of Udolpho, with the
+doyle_adventures_8_d	34	0.9117647058823529	16671	42466	 it was possible that she might re	 it was possible that we might spe
+austen_northangerabbey_10_g	34	0.9117647058823529	9564	12829	 to withdraw the attention of her 	 to withdraw the attention of my p
+radcliffe_udolpho_20_g	52	0.9038461538461539	9029	33201	if you knew as much as I do, you would not, for you 	if you knew as much as I do, you would not look so a
+radcliffe_udolpho_19_g	30	0.9	846	9212	, on the preceding evening, an	, on the preceding evening. Th
+radcliffe_udolpho_19_g	33	0.9090909090909091	847	32288	 on the preceding evening, and wa	 on the preceding evening had app
+radcliffe_udolpho_19_g	30	0.9	4263	23429	 for some time in silence, and	 for some time, in silence, wh
+radcliffe_udolpho_19_g	30	0.9	9552	69657	 endeavoured to withdraw the a	 endeavoured to withdraw him f
+radcliffe_udolpho_19_g	30	0.9	12302	33669	. 'Yes, ma'amselle,' said the 	. 'Yes, ma'amselle,' said Anne
+radcliffe_udolpho_19_g	31	0.9354838709677419	12302	38916	. 'Yes, ma'amselle,' said the o	. 'Yes, ma'amselle,' said she, 
+radcliffe_udolpho_11_g	32	0.9375	11686	5392	 for the loss of St. Aubert, tho	 for the loss of St. Aubert, pro
+collins_hauntedhotel_21_u	30	0.9	1046	4100	 a favourable impression of Em	 a favourable impression on Ag
+radcliffe_udolpho_42_g	33	0.9090909090909091	1409	12657	ed by a consideration of the Lady	ed by a consideration of the mela
+radcliffe_udolpho_42_g	30	0.9	6538	17638	 she had already betrayed hers	 she had already betrayed, tha
+radcliffe_udolpho_42_g	32	0.90625	8056	3837	 as if it was but yesterday. Man	 as if it was but yesterday sinc
+radcliffe_udolpho_30_g	30	0.9	12144	29313	e immediately recollected Emil	e immediately recollected it t
+radcliffe_udolpho_44_g	30	0.9	4263	19899	 for some time in silence, and	 for some time, in silence, re
+radcliffe_udolpho_44_g	30	0.9	4263	22829	 for some time in silence, and	 for some time, in silence, im
+doyle_adventures_6_d	30	0.9	3292	18586	 of these apartments, and the 	 of these garments, and there 
+doyle_adventures_6_d	30	0.9	14680	29260	e received a letter from her u	e received a letter from him t
+radcliffe_udolpho_56_g	32	0.9375	907	7369	 as it was possible he could be 	 as it was possible she could fe
+radcliffe_udolpho_56_g	30	0.9	3066	12704	 When they returned to the cha	 When they returned to the sup
+radcliffe_udolpho_38_g	30	0.9333333333333333	846	28941	, on the preceding evening, an	, on the preceding evening, wh
+radcliffe_udolpho_38_g	30	0.9666666666666667	955	26025	 on so short an acquaintance. 	 on so short an acquaintance, 
+radcliffe_udolpho_38_g	35	0.9428571428571428	2044	29073	he had not fortitude enough to atte	he had not fortitude enough to dare
+radcliffe_udolpho_38_g	40	0.925	4403	5102	 circumstances of his conduct, that now 	 circumstances of his conduct, that had 
+radcliffe_udolpho_38_g	30	1.0	7310	305	 The Lady Blanche, meanwhile, 	 The Lady Blanche, meanwhile, 
+radcliffe_udolpho_5_g	30	0.9333333333333333	1593	18317	. On the following morning, Em	. On the following morning, th
+radcliffe_udolpho_9_g	33	0.9090909090909091	14634	338	ome time after her return to the 	ome time after her return to La V
+radcliffe_udolpho_9_g	30	0.9333333333333333	14681	377	 received a letter from her un	 received letters from her aun
+radcliffe_udolpho_52_g	37	0.918918918918919	1594	71	 On the following morning, Emily was 	 On the following morning, as Emily s
+radcliffe_udolpho_52_g	34	0.9117647058823529	5417	11067	ver since the death of my lady, ma	ver since the death of the lady ma
+radcliffe_udolpho_52_g	30	0.9	10322	3074	 esteem and kindness were stro	 esteem and kindness were very
+lewis_monk_3_g	31	0.9032258064516129	679	42847	e to warn her of their danger, 	e to warn her of the danger. Bu
+radcliffe_udolpho_24_g	30	0.9	6208	12764	, and then endeavoured to chan	, and then endeavoured to re-c
+radcliffe_udolpho_24_g	30	0.9666666666666667	7561	5988	. 'Dear young lady,' said the 	. 'Dear young lady,' said he, 
+radcliffe_udolpho_24_g	30	0.9	14794	6378	 her enquiries, concerning suc	 her enquiries, concerning Mad
+radcliffe_udolpho_7_g	31	0.9032258064516129	250	13627	 the neighbouring convent, she 	 the neighbouring convent was b
+radcliffe_udolpho_7_g	30	0.9	5214	9531	, in spite of her efforts, she	, in spite of her efforts to s
+radcliffe_udolpho_23_g	38	0.9210526315789473	1594	105	 On the following morning, Emily was t	 On the following morning, Emily went 
+radcliffe_udolpho_23_g	31	0.9354838709677419	9552	22909	 endeavoured to withdraw the at	 endeavoured to withdraw her th
+doyle_signoffour_4_d	36	0.9166666666666666	1681	8393	 at the breakfast-table, when the Co	 at the breakfast-table when he open
+radcliffe_udolpho_55_g	33	0.9090909090909091	3411	4167	 the castle of Udolpho, which wer	 the castle of Udolpho, whither t
+radcliffe_udolpho_55_g	31	0.9032258064516129	6977	19678	 in a chamber of Udolpho, and, 	 in a chamber of Udolpho, hung 
+radcliffe_udolpho_55_g	53	0.9056603773584906	7135	10384	, in obedience to the command of her father; and she 	, in obedience to the command of her father, she had 
+radcliffe_udolpho_55_g	32	0.90625	11365	10646	 her arrival in France; and, as 	 her arrival in France, and had 
+radcliffe_udolpho_55_g	30	0.9	11365	16186	 her arrival in France; and, a	 her arrival in France, had ca
+lewis_monk_2_g	33	0.9090909090909091	13831	83801	 countenance so expressive of lov	 countenance was expressive of co
+radcliffe_udolpho_46_g	30	0.9	14681	202	 received a letter from her un	 received a letter from the ad
+radcliffe_udolpho_46_g	38	0.9210526315789473	14920	1515	 for which La Vallee had been let, whi	 for which La Vallee had been let bein
+radcliffe_udolpho_46_g	44	0.9090909090909091	15578	1507	he term, for which La Vallee had been engage	he term, for which La Vallee had been let be
+stoker_dracula_23_g	31	0.9032258064516129	10914	14523	s, with an appearance of such f	s, with an appearance of cheerf
+radcliffe_udolpho_26_g	37	0.918918918918919	907	11577	 as it was possible he could be with 	 as it was possible she could be, if 
+radcliffe_udolpho_26_g	33	0.9090909090909091	5265	24458	 her curiosity, on this subject; 	 her curiosity, on the subject of
+radcliffe_udolpho_1_g	30	0.9333333333333333	10453	36434	s from the consciousness of po	s from the consciousness of ha
+radcliffe_udolpho_6_g	54	0.9259259259259259	938	2793	 with any person, on so short an acquaintance. The men	 with any person, on so short an acquaintance. He brin
+radcliffe_udolpho_6_g	30	0.9	1230	39247	 the convent of St. Claire, to	 the convent of St. Clair stan
+radcliffe_udolpho_6_g	35	0.9142857142857143	16060	8219	 the chief of his personal property	 the chief of my personal property 
+lewis_monk_9_g	31	0.9032258064516129	3592	20340	 the objects around her, and wh	 the objects around her, as the
+lewis_monk_9_g	30	0.9	5668	29184	. But that is nothing to some 	. But that is nothing to the p
+doyle_adventures_12_d	34	0.9411764705882353	848	4269	on the preceding evening, and was 	on the preceding evening, and ran 
+radcliffe_udolpho_16_g	31	0.9354838709677419	847	17292	 on the preceding evening, and 	 on the preceding evening, was 
+radcliffe_udolpho_16_g	32	0.9375	850	55499	 the preceding evening, and was 	 the preceding evening, and at h
+radcliffe_udolpho_16_g	32	0.90625	910	2113	 it was possible he could be wit	 it was possible he could in bei
+radcliffe_udolpho_16_g	30	0.9333333333333333	4263	6541	 for some time in silence, and	 for some time in silence, sna
+radcliffe_udolpho_16_g	30	0.9	6465	69045	; and it was evident, that she	; and it was evident, that Mon
+radcliffe_udolpho_16_g	31	0.967741935483871	14145	54378	 she had formerly experienced, 	 she had formerly experienced s
+radcliffe_udolpho_16_g	30	0.9	14704	53549	 her uncle, Mons. Quesnel, in 	 her uncle, M. Quesnel, since 
+radcliffe_udolpho_16_g	35	0.9142857142857143	15576	54591	 the term, for which La Vallee had 	 the term, for which La Vallee migh
+radcliffe_udolpho_33_g	32	0.96875	4481	40397	, which she had formerly heard, 	, which she had formerly heard. 
+radcliffe_udolpho_33_g	30	0.9666666666666667	4488	43318	 she had formerly heard, and, 	 she had formerly heard, and w
+radcliffe_udolpho_33_g	30	0.9	4488	48035	 she had formerly heard, and, 	 she had formerly heard, was s
+radcliffe_udolpho_33_g	35	0.9428571428571428	8469	49695	, when she first came to the chatea	, when she first came to the castle
+radcliffe_udolpho_33_g	31	0.9032258064516129	14223	41326	. The well-known scenes of the 	. The well-known sounds of the 
+shelley_frankenstein_53_g	36	0.9166666666666666	11964	2406	ing at the door of his cottage, watc	ing at the door of her cottage, wait
+doyle_baskervilles_12_u	30	0.9333333333333333	10261	5968	 conversation with the lady ab	 conversation with the lady. S
+radcliffe_udolpho_15_g	31	0.967741935483871	9900	12446	 of her late father, and she fe	 of her late father, and she re
+stoker_dracula_20_g	33	0.9393939393939394	2811	1428	d not mean to confine herself to 	d not mean to confine himself to 
+doyle_baskervilles_9_u	32	0.90625	6466	3238	 and it was evident, that she wa	 and it was evident that he hail
+radcliffe_udolpho_36_g	30	0.9333333333333333	846	24149	, on the preceding evening, an	, on the preceding evening, fr
+radcliffe_udolpho_36_g	34	0.9411764705882353	7309	3216	. The Lady Blanche, meanwhile, una	. The Lady Blanche, meanwhile, has
+christie_styles_11_d	33	0.9090909090909091	16671	24017	 it was possible that she might r	 it was possible that that might 
+radcliffe_udolpho_50_g	34	0.9117647058823529	4388	21070	 and some other circumstances of h	 and some other circumstances, had
+radcliffe_udolpho_50_g	31	0.9354838709677419	10620	50757	, in which she had seen him. Be	, in which she had seen him ent
+radcliffe_udolpho_13_g	30	0.9666666666666667	6437	41502	 no entreaties could prevail; 	 no entreaties could prevail w
+radcliffe_udolpho_13_g	30	0.9	9519	42354	 forbore to urge the subject, 	 forbore to press the subject 
+doyle_baskervilles_8_u	30	0.9333333333333333	6470	5229	 it was evident, that she was 	 it was evident that he was ve
+doyle_adventures_5_d	30	0.9	4263	23270	 for some time in silence, and	 for some time in silence, wit
+radcliffe_udolpho_48_g	32	0.90625	1593	7442	. On the following morning, Emil	. On the following morning, seri
+radcliffe_udolpho_48_g	30	0.9	8940	11829	 the circumstances, which you 	 the circumstances, which had 
+radcliffe_udolpho_48_g	31	0.9354838709677419	11794	6505	 the recollections, which this 	 the recollections, which the v
+radcliffe_udolpho_48_g	30	0.9	14226	1137	he well-known scenes of the co	he well-known scenes of her ea
+radcliffe_udolpho_48_g	30	0.9	16619	2440	 concerning Valancourt, as the	 concerning Valancourt, and wh
+radcliffe_udolpho_22_g	34	0.9117647058823529	1596	16119	n the following morning, Emily was	n the following morning, as Emily 
+radcliffe_udolpho_22_g	30	0.9666666666666667	13647	448	s she had received from him; a	s she had received from him; w
+radcliffe_udolpho_4_g	30	0.9	958	3622	 so short an acquaintance. The	 so short an acquaintance. Val
+dickens_christmascarole_3_g	35	0.9142857142857143	906	13350	, as it was possible he could be wi	, as it was possible he could have 
+lewis_monk_7_g	30	0.9	12748	9577	 melancholy, which, at times, 	 melancholy which at times ove
+radcliffe_udolpho_10_g	30	0.9	846	24084	, on the preceding evening, an	, on the preceding evening. Sh
+radcliffe_udolpho_10_g	35	0.9142857142857143	954	12052	, on so short an acquaintance. The 	, on so short an acquaintance. For 
+radcliffe_udolpho_10_g	33	0.9090909090909091	4403	30481	 circumstances of his conduct, th	 circumstances of her conduct, wh
+radcliffe_udolpho_10_g	37	0.918918918918919	12501	166	 the chamber, where St. Aubert died; 	 the chamber, where St. Aubert used t
+shelley_frankenstein_51_g	30	0.9	14680	2603	e received a letter from her u	e received a letter from a per
+walpole_castleofotranto_5_g	31	0.9354838709677419	247	32964	 in the neighbouring convent, s	 in the neighbouring convents. 
+lewis_monk_8_g	30	0.9	12494	32149	self in the chamber, where St.	self in the chamber, where sle
+lewis_monk_5_g	30	0.9333333333333333	6218	15423	 endeavoured to change the top	 endeavoured to change the con
+lewis_monk_5_g	30	0.9333333333333333	10257	20961	 his conversation with the lad	 his conversation with the Mar
+lewis_monk_5_g	30	0.9	14681	30689	 received a letter from her un	 received a letter from the Ca
+radcliffe_udolpho_12_g	33	0.9090909090909091	846	46825	, on the preceding evening, and w	, on the preceding evening, what 
+radcliffe_udolpho_12_g	30	0.9333333333333333	1593	11838	. On the following morning, Em	. On the following morning, sh
+radcliffe_udolpho_12_g	38	0.9210526315789473	1593	45270	. On the following morning, Emily was 	. On the following morning, as Emily s
+radcliffe_udolpho_12_g	30	0.9	3076	11501	 returned to the chateau, Lady	 returned to the chateau. Mada
+radcliffe_udolpho_12_g	31	0.9032258064516129	4403	2520	 circumstances of his conduct, 	 circumstances of her conduct. 
+radcliffe_udolpho_12_g	31	0.9032258064516129	11794	7402	 the recollections, which this 	 the recollections, which had a
+radcliffe_udolpho_27_g	30	0.9	4488	11661	 she had formerly heard, and, 	 she had formerly heard, came 
+radcliffe_udolpho_27_g	31	0.9354838709677419	6206	273	ed, and then endeavoured to cha	ed, and then endeavoured to rec
+radcliffe_udolpho_27_g	30	0.9	6839	12964	 still inclined to believe mor	 still inclined to believe, th
+radcliffe_udolpho_27_g	30	0.9	8937	1250	 of the circumstances, which y	 of the circumstance to which 
+radcliffe_udolpho_49_g	33	1.0	1594	268	 On the following morning, Emily 	 On the following morning, Emily 
+radcliffe_udolpho_41_g	34	0.9705882352941176	4754	19173	, ma'amselle,' replied Dorothee, '	, ma'amselle,' replied Dorothee. '
+radcliffe_udolpho_41_g	30	0.9333333333333333	5447	18864	, madam,' replied Dorothee. 'W	, madam,' replied Dorothee, 'i
+radcliffe_udolpho_41_g	30	0.9	9613	11447	 some object in the gardens, w	 some objects in the garden be
+radcliffe_udolpho_47_g	36	0.9166666666666666	1817	11184	 to prolong his stay at the chateau;	 to prolong his visit at the chateau
+collins_moonstone_66_d	32	0.90625	15789	7420	 to remain, for the present, in 	 to remain for the present, at h
+radcliffe_udolpho_54_g	30	0.9	847	23860	 on the preceding evening, and	 on the preceding evening, imm
+radcliffe_udolpho_54_g	30	1.0	1591	23564	ed. On the following morning, 	ed. On the following morning, 
+radcliffe_udolpho_54_g	32	0.90625	2789	23802	 observed, that she did not mean	 observed, that he did not appea
+radcliffe_udolpho_54_g	33	0.9090909090909091	3411	16082	 the castle of Udolpho, which wer	 the castle of Udolpho, to which 
+radcliffe_udolpho_54_g	31	1.0	6963	16407	 had witnessed in a chamber of 	 had witnessed in a chamber of 
+radcliffe_udolpho_54_g	30	0.9	7152	15377	 the command of her father; an	 the command of her father. Il
+doyle_scarlet_1_d	30	0.9	1569	15254	 considerably interested. On t	 considerably interested in my
+radcliffe_udolpho_35_g	30	0.9	2371	20672	 the towers of the monastery, 	 the towers of a monastery, il
+radcliffe_udolpho_35_g	38	0.9210526315789473	4754	22496	, ma'amselle,' replied Dorothee, 'that	, ma'amselle,' replied Dorothee, hesit
+radcliffe_udolpho_35_g	33	0.9090909090909091	8999	22973	 my lady,' replied Dorothee; 'if 	 my lady,' replied Dorothee, 'so 

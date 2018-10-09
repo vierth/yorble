@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 
+radcliffe_udolpho_19_g	32	0.90625	1055	63469	 followed her into the room, and	 followed him into the room, end
+radcliffe_udolpho_19_g	30	0.9666666666666667	16433	3737	 to mention the circumstance w	 to mention the circumstance t
+radcliffe_udolpho_19_g	30	0.9666666666666667	16433	4420	 to mention the circumstance w	 to mention the circumstance o
+radcliffe_udolpho_19_g	30	0.9	16444	6079	 the circumstance which had pr	 the circumstance which made h
+radcliffe_udolpho_42_g	31	0.9032258064516129	1055	16420	 followed her into the room, an	 followed them into the rooms, 
+collins_moonstone_71_d	31	0.9354838709677419	5827	16582	 the breakfast-room, her first 	 the breakfast-room. The first 
+doyle_adventures_10_d	31	0.9032258064516129	12072	35609	 know what I was thinking of” (	 know what I was thinking, for 
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 
+radcliffe_udolpho_39_g	30	0.9	8563	16069	, and she was obliged to come 	, and she was obliged to recol
+austen_northangerabbey_15_g	30	0.9333333333333333	9451	299	 were by themselves in the bre	 were by themselves in the par
+austen_northangerabbey_21_g	31	0.9032258064516129	15843	14572	 Catherine, after a few moments	 Catherine, for a few moments, 
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 
+stoker_dracula_6_g	31	0.9032258064516129	894	4087	n when the clock struck five, w	n when the clock struck six, wh
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 
+radcliffe_udolpho_16_g	30	0.9	16436	30549	 mention the circumstance whic	 mention the circumstance. She
+austen_northangerabbey_14_g	33	1.0	2294	1371	 all Mrs. Radcliffe's works, and 	 all Mrs. Radcliffe's works, and 
+shelley_frankenstein_48_g	34	0.9117647058823529	9882	4737	d for a few minutes; and then spea	d for a few minutes, and then depa
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 
+radcliffe_udolpho_34_g	30	0.9	16444	14273	 the circumstance which had pr	 the circumstance, which has l
+lewis_monk_4_g	30	0.9666666666666667	1055	39323	 followed her into the room, a	 followed her into the room, c
+austen_northangerabbey_1_g	32	0.90625	3686	127	 the character of their father, 	 the character of her father and
+radcliffe_udolpho_48_g	32	0.90625	16444	11829	 the circumstance which had prod	 the circumstances, which had co
+radcliffe_udolpho_22_g	30	0.9	16444	6291	 the circumstance which had pr	 the circumstance, which has t
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 
+lewis_monk_7_g	40	0.925	15366	9016	 you feel a void in your heart which not	 you feel no void in your heart which yo
+christie_styles_1_d	30	0.9	16443	436	n the circumstance which had p	n the circumstances which led 
+austen_northangerabbey_19_g	30	0.9	12879	4790	 do not believe Isabella has a	 do not believe Isabella so ve
+radcliffe_udolpho_12_g	30	0.9333333333333333	3844	52039	 serious consideration, to be 	 serious consideration to the 
+radcliffe_udolpho_12_g	30	0.9666666666666667	5818	1733	e entered the breakfast-room, 	e entered the breakfast-room. 
+radcliffe_udolpho_14_g	30	0.9333333333333333	5819	1442	 entered the breakfast-room, h	 entered the breakfast room, s
+collins_moonstone_49_d	31	0.9354838709677419	16433	3637	 to mention the circumstance wh	 to mention the circumstances. 
+reeve_oldenglishbaron	32	0.9375	2969	3106	 the laws of the land, and the m	 the laws of the land, and have 

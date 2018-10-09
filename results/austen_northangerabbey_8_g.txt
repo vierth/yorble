@@ -1,0 +1,32 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_30_g	30	0.9	10854	29561	 entirely forgotten; and thoug	 entirely forgotten it; and th
+doyle_adventures_10_d	32	0.90625	5121	11932	 I have no doubt that he will. A	 I have no doubt that this will 
+radcliffe_udolpho_38_g	31	1.0	7480	27126	were introduced to each other, 	were introduced to each other, 
+stoker_dracula_14_g	32	0.90625	3688	18755	 therefore, instead of turning o	 therefore, instead of lunching 
+austen_northangerabbey_15_g	30	0.9	7161	12838	, Miss Morland,” said she, “fo	, Miss Morland,” said he, on f
+radcliffe_udolpho_23_g	31	0.9032258064516129	6322	7024	s of the friend whom he had jus	s of the friends, whom she had 
+austen_northangerabbey_29_g	33	0.9090909090909091	4561	7207	d the pleasure of seeing her. “We	d the pleasure of seeing her, lea
+lewis_monk_2_g	30	0.9	7670	61811	 satisfied with having so resp	 satisfied with having so near
+austen_northangerabbey_9_g	30	0.9	7250	15582	 Mrs. Thorpe said she was sure	 Mrs. Thorpe said; she was vas
+austen_northangerabbey_9_g	32	1.0	10847	12377	 seemed entirely forgotten; and 	 seemed entirely forgotten; and 
+radcliffe_udolpho_6_g	41	0.9024390243902439	618	2307	 minutes after they were seated; and Jame	 minutes after they were seated, and none
+lewis_monk_9_g	31	0.9032258064516129	610	58656	in a few minutes after they wer	in a few minutes after the same
+lewis_monk_9_g	33	0.9393939393939394	12369	2735	 an opportunity of repeating the 	 an opportunity of repeating his 
+christie_styles_11_d	30	0.9	3381	25185	 never entered her head that M	 never entered your head that 
+austen_northangerabbey_2_g	38	0.9736842105263158	12722	10500	, “I hope you have had an agreeable pa	, “I hope you have had an agreeable ba
+collins_hauntedhotel_6_u	30	0.9	14118	7824	I am much obliged to you, our 	I am much obliged to you, sir,
+christie_secretadversary_28_d	34	0.9117647058823529	8463	2947	e could think of anything to say, 	e could think of nothing to say. T
+radcliffe_udolpho_48_g	31	0.9032258064516129	1232	24273	es on the other side of her, tu	es on the other side of the hou
+christie_secretadversary_17_d	33	0.9090909090909091	4558	20097	 had the pleasure of seeing her. 	 had the pleasure of seeing his t
+christie_secretadversary_11_d	30	0.9	7141	1118	. “I beg your pardon, Miss Mor	. “I beg your pardon, Miss Tup
+austen_northangerabbey_4_g	30	0.9333333333333333	4558	1378	 had the pleasure of seeing he	 had the pleasure of seeing yo
+christie_styles_8_d	31	0.9354838709677419	14117	18516	 I am much obliged to you, our 	 I am much obliged to you for m
+doyle_adventures_2_d	33	0.9393939393939394	5121	649	 I have no doubt that he will. A 	 I have no doubt that he will be 
+lewis_monk_6_g	32	0.9375	1120	33923	 gratitude, and they continued a	 gratitude, and then continued. 
+radcliffe_udolpho_12_g	31	0.9032258064516129	12372	24975	 opportunity of repeating the a	 opportunity of repeating,--tha
+doyle_baskervilles_4_u	30	0.9	1234	16131	 on the other side of her, tur	 on the other side of the stre
+radcliffe_udolpho_14_g	33	0.9090909090909091	12369	4426	 an opportunity of repeating the 	 an opportunity of reading the le
+doyle_scarlet_1_d	41	0.926829268292683	7022	3144	 on the shoulder, and turning round, perc	 on the shoulder, and turning round I rec
+doyle_scarlet_1_d	31	0.9354838709677419	14117	14924	 I am much obliged to you, our 	 I am much obliged to you for b
+collins_moonstone_76_d	33	0.9090909090909091	3377	13575	 had never entered her head that 	 had never entered her head. The 
+austen_northangerabbey_3_g	30	0.9333333333333333	13343	3282	 a very agreeable young man.” 	 a very agreeable young man, i

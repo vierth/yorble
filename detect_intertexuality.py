@@ -527,7 +527,7 @@ if __name__ == "__main__":
     # per input text (they are aggregated into one file by align_quotes.py)
 
     # IMPORTANT!!!!! If DEBUG is set to True, this folder will be deleted if it exists!!!!!
-    result_directory = 'results/'
+    result_directory = 'results'
 
     #***************#
     # OTHER OPTIONS #

@@ -1,0 +1,6 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_41_g	32	0.90625	3719	21252	 the present state of her mind, 	 the present tone of her mind, d
+collins_hauntedhotel_10_u	30	0.9	13027	3047	 looked back again at the pass	 looked back again at the scre
+collins_moonstone_66_d	32	0.90625	7447	5333	 was not quite sure whether she 	 was not quite sure whether it w
+collins_moonstone_76_d	30	0.9	319	20580	Have you thought of what I sai	Have you thought of what he ma
+collins_moonstone_65_d	45	0.9111111111111111	13085	6378	considered with himself for a moment--and, sn	considered with himself for a moment, and wen

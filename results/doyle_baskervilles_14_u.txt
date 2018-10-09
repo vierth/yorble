@@ -1,0 +1,63 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_15_g	30	0.9333333333333333	17054	16715	 the woman whom he had loved. 	 the woman whom I had loved. A
+poe_ruemorgue_1_d	35	0.9142857142857143	13062	18853	 and hurried from room to room to t	 and hurried from room to room. Upo
+doyle_adventures_7_d	42	0.9047619047619048	12441	40656	 with his face buried in his hands. “We mu	 with his face buried in his hands. There 
+christie_secretadversary_2_d	30	0.9	3772	5474	 leaned back in his chair, puf	 leaned back in his chair, and
+christie_secretadversary_8_d	32	0.90625	14403	5268	e could not for the moment tell 	e could not for the moment put a
+doyle_adventures_1_d	32	0.90625	14568	11287	 the lower part of the face, and	 the lower part of the face he a
+doyle_adventures_11_d	31	0.9032258064516129	18747	46543	e that someone had passed that 	e that someone had passed out. 
+collins_hauntedhotel_13_u	30	0.9	15048	6659	 opened her eyes again. “Is he	 opened her eyes again. 'I spe
+collins_moonstone_78_d	33	0.9090909090909091	1119	1033	ed by the presence of the driver 	ed by the presence of the ladies 
+stoker_dracula_22_g	31	0.9032258064516129	16730	26885	 It was evident to us that all 	 It was evident to us that the 
+collins_hauntedhotel_21_u	30	0.9	3922	2714	 on the other side of the wall	 on the other side of the draw
+collins_hauntedhotel_21_u	30	0.9	3922	9469	 on the other side of the wall	 on the other side of the draw
+doyle_signoffour_12_d	30	0.9333333333333333	4709	22164	ing slowly in our direction an	ing slowly in our direction. "
+collins_hauntedhotel_12_u	30	0.9	10759	1049	he made a feeble effort to mov	he made a feeble effort to wit
+radcliffe_udolpho_30_g	30	0.9	1119	6542	ed by the presence of the driv	ed by the presence of the cond
+collins_hauntedhotel_2_u	36	0.9444444444444444	17041	6010	e truth about the woman whom he had 	e truth about the woman whom I had s
+radcliffe_udolpho_38_g	30	0.9333333333333333	5815	11542	 the dining-room where the two	 the dining-room, where the Co
+radcliffe_udolpho_5_g	30	0.9	3924	13857	n the other side of the wall u	n the other side of the valley
+doyle_adventures_3_d	30	0.9	3772	19160	 leaned back in his chair, puf	 leaned back in his chair, wit
+doyle_baskervilles_13_u	32	0.9375	3	8137	he Hound of the Baskervilles One	he Hound of the Baskervilles. We
+stoker_dracula_19_g	36	0.9166666666666666	6301	10557	ing round both corners of the house 	ing round the corner of the house. U
+stoker_dracula_19_g	33	0.9090909090909091	13154	9439	 the passage. There was no light 	 the passage. There was no sign o
+lewis_monk_3_g	30	0.9	1119	496	ed by the presence of the driv	ed by the presence of the Marq
+lewis_monk_3_g	31	0.9032258064516129	13650	54448	e rushed into the room. But the	e rushed into the room with the
+poe_marieroget_1_d	31	0.9032258064516129	1119	40632	ed by the presence of the drive	ed by the presence of the tide 
+doyle_scarlet_7_d	30	0.9	13814	89	 and so unexpected that we sto	 and so unexpected, that we we
+doyle_signoffour_1_d	33	0.9696969696969697	15251	516	 a long sigh of satisfaction. “Th	 a long sigh of satisfaction. Thr
+christie_secretadversary_6_d	35	0.9142857142857143	12639	2957	 a thousand to one against our find	 a thousand to one against your run
+doyle_signoffour_3_d	32	0.90625	2235	4533	 the end of our journey. I must 	 the end of our journey. It was 
+stoker_dracula_25_g	30	0.9	16129	31026	 he had made preparations so t	 he had made preparation for e
+christie_styles_13_d	34	0.9117647058823529	406	13471	ever to take any chances. The resu	ever to take any chances. The pape
+doyle_baskervilles_6_u	34	0.9117647058823529	1993	17354	 a very cheerful place,” said the 	 a very cheerful place,” said Sir 
+doyle_adventures_12_d	35	0.9714285714285714	6854	40929	 half a mile from the house, and st	 half a mile from the house, and th
+doyle_baskervilles_12_u	32	0.96875	8416	12652	 face downward upon the ground. 	 face downward upon the ground, 
+christie_styles_6_d	30	0.9	13671	501	m. But there was no sign withi	m. But there was no sign of hi
+doyle_baskervilles_11_u	31	0.9354838709677419	4642	23026	 the great Grimpen Mire there h	 the great Grimpen Mire. There 
+doyle_baskervilles_9_u	34	0.9117647058823529	3	26824	he Hound of the Baskervilles One o	he Hound of the Baskervilles.” He 
+doyle_baskervilles_9_u	30	0.9	20029	25826	 of the great Grimpen Mire, do	 of the great Grimpen Mire. It
+doyle_baskervilles_9_u	30	0.9	20029	27092	 of the great Grimpen Mire, do	 of the great Grimpen Mire?” “
+doyle_baskervilles_9_u	31	0.9032258064516129	21583	27679	 the darkness of the moor upon 	 the darkness of the moor and t
+doyle_baskervilles_7_u	30	0.9666666666666667	3	13742	he Hound of the Baskervilles O	he Hound of the Baskervilles c
+lewis_monk_4_g	30	0.9	1430	44356	 to the scene of action. We di	 to the scene of action. Theod
+lewis_monk_4_g	31	0.9032258064516129	3922	46011	 on the other side of the wall 	 on the other side of the Castl
+radcliffe_udolpho_18_g	31	0.9032258064516129	3922	26375	 on the other side of the wall 	 on the other side of the castl
+dickens_christmascarole_1_g	32	0.90625	7163	27807	on his knees and clapped his ear	on his knees, and clasped his ha
+doyle_scarlet_2_d	32	0.90625	7477	19059	 the man whom we were awaiting. 	 the man whom we were watching c
+doyle_scarlet_2_d	30	0.9	12639	13530	 a thousand to one against our	 a thousand to one against him
+doyle_scarlet_2_d	31	0.9032258064516129	13309	19059	 the man whom we were chasing. 	 the man whom we were watching 
+doyle_adventures_2_d	31	0.9032258064516129	8210	27269	 his eyes shining brightly in t	 his eyes shining brightly betw
+doyle_adventures_2_d	30	0.9	11630	29264	 said Holmes, sniffing at the 	 said Holmes, standing at the 
+lewis_monk_8_g	32	0.90625	1119	5507	ed by the presence of the driver	ed by the presence of the Revere
+collins_moonstone_53_d	30	0.9333333333333333	3922	12459	 on the other side of the wall	 on the other side of the holl
+doyle_signoffour_5_d	31	0.9032258064516129	6524	13629	s and stamped his feet in his i	s and stamped his feet in a kin
+doyle_adventures_9_d	30	0.9	4458	5961	 asked when I had finished my 	 asked when I had finished. "C
+christie_styles_3_d	31	0.9032258064516129	10644	1726	 that there was no sign of a wo	 that there was no sign of the 
+collins_moonstone_60_d	30	0.9	6301	13274	ing round both corners of the 	ing round the corner of the pa
+christie_secretadversary_24_d	30	0.9	13019	10155	.” The front door was open, so	.” The front door was opened b
+christie_secretadversary_4_d	30	0.9	3772	7147	 leaned back in his chair, puf	 leaned back in his chair, cro
+doyle_baskervilles_2_u	32	0.9375	3	2146	he Hound of the Baskervilles One	he Hound of the Baskervilles the
+doyle_baskervilles_2_u	30	0.9333333333333333	3772	1891	 leaned back in his chair, puf	 leaned back in his chair, pla
+doyle_baskervilles_2_u	30	0.9333333333333333	20565	18849	 where the animal had been con	 where the animal had been and
+doyle_baskervilles_15_u	35	0.9142857142857143	1	22369	 The Hound of the Baskervilles One 	 The Hound of the Baskervilles, by 

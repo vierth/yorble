@@ -1,0 +1,284 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_7_d	32	0.90625	78468	1319	 in the solution of this mystery	 in the solution of some mystery
+collins_moonstone_83_d	31	0.9032258064516129	63503	17099	, under the circumstances, has 	, under the circumstances—that 
+radcliffe_udolpho_31_g	30	0.9333333333333333	77922	6567	ration of the circumstances (w	ration of the circumstances sh
+collins_hauntedhotel_8_u	30	0.9333333333333333	37973	17288	ation on the subject of the mu	ation on the subject of the le
+radcliffe_udolpho_8_g	31	0.9354838709677419	50434	16278	 with the consideration that he	 with the consideration, that, 
+radcliffe_udolpho_8_g	32	0.90625	57206	28642	e would have formed something mo	e would have offered something o
+radcliffe_udolpho_45_g	35	0.9142857142857143	28429	10131	ed, with the key on the inside. A s	ed, with the key on the inside; it 
+radcliffe_udolpho_45_g	31	0.9032258064516129	37965	23034	 conversation on the subject of	 conversation on this subject, 
+stoker_dracula_8_g	30	0.9333333333333333	62903	20086	 in exact accordance with this	 in exact accordance with inst
+christie_secretadversary_8_d	32	0.90625	28311	10826	 door between the two rooms was 	 door between the two rooms, up 
+collins_moonstone_82_d	30	0.9	73617	2013	 o’clock in the morning. In pa	 o’clock in the morning. Is th
+collins_moonstone_88_d	30	0.9333333333333333	8265	91049	as deeply interested in the li	as deeply interested in them a
+collins_moonstone_88_d	33	0.9090909090909091	13519	81586	 to the conclusion that the mende	 to the conclusion that the dose 
+collins_moonstone_88_d	31	0.9032258064516129	22157	29323	 furniture in any part of the b	 furniture in that part of the 
+collins_moonstone_88_d	31	0.9032258064516129	67010	6321	 as the possessor of the beast.	 as the possessor of the stone.
+collins_moonstone_88_d	30	0.9	75259	99158	to the middle of the room. It 	to the middle of the room, wit
+collins_moonstone_88_d	30	0.9666666666666667	75259	101036	to the middle of the room. It 	to the middle of the room. I c
+doyle_adventures_1_d	32	0.9375	38138	19680	here was something in his manner	here was something in his master
+doyle_adventures_1_d	34	0.9411764705882353	45385	12492	t is not too much to say that neit	t is not too much to say that it i
+doyle_adventures_11_d	31	0.9032258064516129	6007	43789	 the true state of affairs. The	 the true state of affairs with
+doyle_adventures_11_d	36	0.9166666666666666	20748	20432	 of every portion of the house, with	 of every portion of the house where
+doyle_adventures_11_d	30	0.9	33577	8575	 it would be possible to trace	 it would be impossible to rep
+doyle_adventures_11_d	33	0.9090909090909091	51383	41035	 through the window which looked 	 through the window which leads i
+doyle_adventures_11_d	32	0.90625	66837	8575	 it would be impossible to prove	 it would be impossible to repla
+collins_hauntedhotel_18_u	31	0.9032258064516129	55459	3675	 the interior of the room. Let 	 the interior of the room with 
+collins_hauntedhotel_18_u	33	0.9090909090909091	74854	3675	 the interior of the room. At thi	 the interior of the room with th
+doyle_signoffour_2_d	32	0.9375	61640	6777	 out the paper upon the table be	 out the papers upon the table, 
+radcliffe_udolpho_43_g	30	0.9	66071	10461	ed by some circumstance into w	ed by some circumstance withou
+stoker_dracula_7_g	30	0.9	24666	16414	ould not make out what was sai	ould not make out what was wro
+stoker_dracula_17_g	30	0.9666666666666667	13519	23478	 to the conclusion that the me	 to the conclusion that the be
+doyle_adventures_8_d	32	0.90625	13519	49251	 to the conclusion that the mend	 to the conclusion that the doct
+doyle_adventures_8_d	35	0.9714285714285714	22262	51688	 that he has been in the habit of s	 that he had been in the habit of s
+doyle_adventures_8_d	32	0.90625	23877	42707	 little difficulty in getting it	 little difficulty in entering t
+stoker_dracula_27_g	40	0.925	36331	25470	It was late in the afternoon when we rea	It was late in the afternoon when the Pr
+collins_moonstone_87_d	30	0.9666666666666667	70013	30544	. He started to his feet and g	. He started to his feet, and 
+austen_northangerabbey_30_g	30	0.9333333333333333	34962	7555	 in the contemplation of the h	 in the contemplation of her o
+collins_hauntedhotel_13_u	30	0.9	63503	5503	, under the circumstances, has	, under the circumstances. Mrs
+collins_moonstone_45_d	32	0.90625	63504	2653	 under the circumstances, has be	 under the circumstances, I beg 
+collins_hauntedhotel_28_u	31	0.9354838709677419	23512	7048	, with the exception of the lar	, with the exception of the hea
+radcliffe_udolpho_20_g	30	0.9333333333333333	48843	43325	 circumstances attending the n	 circumstances attending that 
+radcliffe_udolpho_20_g	31	0.9032258064516129	64836	780	e, early in the morning of the-	e, early in the morning, for te
+stoker_dracula_4_g	30	0.9	73984	25527	 back against the wall, and, b	 back against the wall; and th
+stoker_dracula_22_g	31	0.9354838709677419	13519	27086	 to the conclusion that the men	 to the conclusion that the din
+stoker_dracula_22_g	30	0.9	51391	26476	 the window which looked upon 	 the window which looked out a
+radcliffe_udolpho_19_g	30	0.9	24386	75561	 distinguish some words of the	 distinguished some words of C
+radcliffe_udolpho_19_g	39	0.9230769230769231	27983	32529	 that the door of the chamber in which 	 that the door of the chamber, which co
+radcliffe_udolpho_19_g	32	0.9375	67609	77657	se had been left open, and the v	se had been left open, and that 
+radcliffe_udolpho_19_g	32	0.90625	73196	38566	h the door of the chamber, down 	h the door of the chamber, and, 
+collins_moonstone_48_d	30	0.9	63504	1828	 under the circumstances, has 	 under the circumstances, it s
+christie_secretadversary_27_d	30	0.9	58050	8363	t that there was something _ex	t that there was something wro
+poe_pitandpendulum_1_g	30	0.9	12479	18448	. In an instant afterward I re	. In an instant afterward the 
+poe_pitandpendulum_1_g	33	0.9090909090909091	52629	10112	 at right angles from the wall. I	 at right angles to the wall. In 
+radcliffe_udolpho_42_g	30	0.9333333333333333	26693	8828	 before her death, when she to	 before her death, when she ha
+collins_moonstone_55_d	30	0.9	23514	8734	with the exception of the larg	with the exception of the fron
+doyle_signoffour_12_d	30	0.9	8267	26488	 deeply interested in the litt	 deeply interested in the stor
+doyle_signoffour_12_d	31	0.9032258064516129	13519	37983	 to the conclusion that the men	 to the conclusion that this se
+doyle_baskervilles_5_u	32	0.90625	56948	11786	ed to know nothing of the theory	ed to know nothing of the matter
+shelley_frankenstein_38_g	30	0.9	23512	4795	, with the exception of the la	, with the exception of her ne
+radcliffe_udolpho_30_g	31	0.9032258064516129	27988	2774	 the door of the chamber in whi	 the door of the chamber being 
+radcliffe_udolpho_30_g	33	0.9393939393939394	63833	30830	 more than probable--that he was 	 more than probable, that he was 
+christie_styles_7_d	32	0.9375	23511	16072	d, with the exception of the lar	d, with the exception of the ser
+christie_styles_7_d	30	0.9333333333333333	32641	17219	 a murder has been committed a	 a murder had been committed. 
+christie_secretadversary_21_d	30	0.9	51938	495	 impossible for any one to rea	 impossible for anyone to get 
+lewis_monk_11_g	30	0.9333333333333333	37965	39701	 conversation on the subject o	 conversation to the subject w
+lewis_monk_11_g	30	0.9	38135	20102	. There was something in his m	. There was something in her l
+lewis_monk_11_g	30	0.9	48625	51881	t resisted all my efforts, as 	t resisted all my efforts. I s
+radcliffe_udolpho_44_g	32	0.9375	70364	21980	 I pledge you the honor of a gen	 I pledge you the honour of a kn
+doyle_scarlet_6_d	30	0.9333333333333333	31373	15822	n the pit of the stomach, prod	n the pit of the stomach, perh
+stoker_dracula_13_g	30	0.9333333333333333	45388	563	s not too much to say that nei	s not too much to say that she
+stoker_dracula_13_g	30	0.9	63506	925	nder the circumstances, has be	nder the circumstances, Van He
+collins_hauntedhotel_2_u	31	0.9032258064516129	63510	3221	 the circumstances, has been ju	 the circumstances had been tru
+austen_northangerabbey_23_g	31	0.9354838709677419	31712	9008	, as well as all the ribs of th	, as well as all the rest of th
+walpole_castleofotranto_2_g	32	0.96875	25381	7507	ould not distinguish the words, 	ould not distinguish the words. 
+walpole_castleofotranto_2_g	32	0.96875	26098	7507	ould not distinguish the words u	ould not distinguish the words. 
+walpole_castleofotranto_2_g	30	0.9	43016	30492	 been acquainted with the Span	 been acquainted with the Prin
+doyle_adventures_6_d	30	0.9	22394	13677	 in the neighborhood, and has 	 in the neighbourhood, and in 
+radcliffe_udolpho_56_g	30	0.9	73197	6299	 the door of the chamber, down	 the door of the chamber opene
+collins_hauntedhotel_4_u	31	0.9032258064516129	32145	6767	as entirely separated from the 	as entirely parted from the goo
+collins_hauntedhotel_4_u	31	0.9032258064516129	32145	14936	as entirely separated from the 	as entirely parted from the goo
+collins_hauntedhotel_4_u	34	1.0	34627	5949	here is such a thing as being too 	here is such a thing as being too 
+collins_hauntedhotel_4_u	30	0.9	38135	12764	. There was something in his m	. There was something in the w
+doyle_signoffour_9_d	33	0.9393939393939394	36330	20	 It was late in the afternoon whe	 It was late in the afternoon bef
+christie_secretadversary_18_d	30	0.9333333333333333	13519	18229	 to the conclusion that the me	 to the conclusion that the ho
+christie_secretadversary_18_d	30	0.9	36581	1460	 the opposite side of the way.	 the opposite side of the tabl
+christie_secretadversary_18_d	31	0.9032258064516129	39874	4246	 the solution of this mystery, 	 the solution of the mystery da
+christie_secretadversary_18_d	31	0.9032258064516129	78471	4246	 the solution of this mystery, 	 the solution of the mystery da
+collins_moonstone_68_d	30	0.9	42654	16011	 attempted to describe it, eac	 attempted to describe it; and
+doyle_baskervilles_13_u	31	0.9354838709677419	43996	6462	 that it might have been the vo	 that it might have been that o
+shelley_frankenstein_30_g	30	0.9	7330	2742	 became acquainted with a Mons	 became acquainted with him on
+lewis_monk_3_g	30	0.9333333333333333	78299	38822	t thought it necessary to repl	t thought it necessary to apol
+doyle_scarlet_14_d	30	0.9	13519	4875	 to the conclusion that the me	 to the conclusion that he had
+doyle_scarlet_14_d	30	0.9	16626	2065	ly expected that you would do 	ly expected that you would. Le
+doyle_scarlet_14_d	32	0.90625	51922	7910	 would have been impossible for 	 would have been impossible had 
+collins_moonstone_64_d	34	0.9117647058823529	14970	4519	 acknowledging that he had spoken 	 acknowledge that she had spoken o
+collins_moonstone_89_d	30	0.9	13522	46257	 the conclusion that the mende	 the conclusion that the India
+collins_moonstone_89_d	30	0.9	31527	41412	 by some person or persons unk	 by some person, or persons, p
+collins_moonstone_89_d	35	0.9428571428571428	31530	46391	 some person or persons unknown. Th	 some person, or persons, unknown. 
+collins_moonstone_89_d	30	0.9	33243	16172	ularly interested in the progr	ularly interested in the theor
+collins_moonstone_89_d	30	0.9	36581	23375	 the opposite side of the way.	 the opposite side of the road
+collins_moonstone_89_d	32	0.90625	36581	25290	 the opposite side of the way. I	 the opposite side of the road. 
+shelley_frankenstein_37_g	30	0.9	27017	5573	on the door being opened, Made	on the door being opened, I pe
+radcliffe_udolpho_7_g	30	0.9	23682	22798	 about three o’clock in the mo	 about three o'clock in the af
+poe_usher_1_g	30	0.9	4060	8528	 altogether inaccessible to th	 altogether inaccessible from 
+poe_usher_1_g	33	0.9696969696969697	5855	22486	 the order of their arrangement; 	 the order of their arrangement, 
+poe_usher_1_g	30	0.9333333333333333	12479	30212	. In an instant afterward I re	. In an instant afterward he r
+poe_usher_1_g	30	0.9	27988	36805	 the door of the chamber in wh	 the door of the chamber; and 
+poe_usher_1_g	30	0.9666666666666667	34962	1453	 in the contemplation of the h	 in the contemplation of the H
+poe_usher_1_g	34	0.9117647058823529	34962	18143	 in the contemplation of the heave	 in the contemplation of the certa
+poe_usher_1_g	32	0.90625	55356	18594	 to convey the idea that both we	 to convey the idea that this ex
+austen_northangerabbey_7_g	31	0.9032258064516129	66836	13880	, it would be impossible to pro	, it would be impossible for yo
+shelley_frankenstein_34_g	30	0.9	13000	10875	 had formed the subject of my 	 had formed on the subject of 
+christie_secretadversary_25_d	30	0.9	58051	13434	 that there was something _exc	 that there was something I _m
+christie_secretadversary_25_d	30	0.9	73617	16758	 o’clock in the morning. In pa	 o’clock in the morning. Then 
+austen_northangerabbey_15_g	33	0.9090909090909091	36094	10700	 no difficulty in obtaining the n	 no difficulty in gaining the con
+radcliffe_udolpho_23_g	30	0.9	36581	31518	 the opposite side of the way.	 the opposite side of the stai
+radcliffe_udolpho_23_g	30	0.9	59784	23872	t the possibility of the windo	t the possibility of her findi
+collins_moonstone_79_d	32	0.90625	26560	1	n the spring of the year--(eight	n the spring of the year eightee
+collins_moonstone_79_d	35	0.9142857142857143	65241	7810	s it possible,” I asked, “that you 	s it possible,” I asked, “that the 
+poe_marieroget_1_d	32	0.9375	0	45	THE MURDERS IN THE RUE MORGUE Wh	THE MURDERS IN THE RUE MORGUE.” 
+poe_marieroget_1_d	32	0.90625	12778	63226	 ascertain beyond a doubt whethe	 ascertain beyond a doubt the va
+poe_marieroget_1_d	41	0.9024390243902439	18228	2676	 Madame L’Espanaye, and her daughter Made	 Madame L’Espanaye and her daughter, the 
+poe_marieroget_1_d	41	0.9024390243902439	18228	31993	 Madame L’Espanaye, and her daughter Made	 Madame L’Espanaye and her daughter there
+poe_marieroget_1_d	33	0.9090909090909091	28970	71017	he time elapsing between the hear	he time elapsing between the firs
+poe_marieroget_1_d	30	0.9666666666666667	31206	14136	 impression of fingers. The fa	 impressions of fingers. The a
+poe_marieroget_1_d	30	0.9	32643	6928	 murder has been committed at 	 murder had been committed,) t
+poe_marieroget_1_d	30	0.9666666666666667	32643	25443	 murder has been committed at 	 murder had been committed at 
+poe_marieroget_1_d	31	0.9032258064516129	34962	109684	 in the contemplation of the he	 in the contemplation of whose 
+poe_marieroget_1_d	32	0.90625	36397	81631	s at a great distance from that 	s at a great distance from its s
+poe_marieroget_1_d	30	0.9	37769	9883	 one of the daily papers. I ha	 one of the daily papers. The 
+poe_marieroget_1_d	30	0.9	38109	113426	 the scene of the atrocity. Th	 the scene of the atrocity, an
+poe_marieroget_1_d	98	0.9081632653061225	39558	31284	 the plane of the ordinary, that reason feels its way, if at all, in its search for the true. In i	 the plane of the ordinary, that reason feels her way, if at all, in her search for the true, and 
+poe_marieroget_1_d	90	0.9111111111111111	39729	31444	 ‘what has occurred,’ as ‘what has occurred that has never occurred before.’ In fact, the 	 ‘what has occurred?’ as ‘what has occurred that has never occurred before?’ In the invest
+poe_marieroget_1_d	30	0.9333333333333333	44161	45696	 call your attention to three 	 call your attention to the di
+poe_marieroget_1_d	30	0.9333333333333333	44161	70977	 call your attention to three 	 call your attention to the fa
+poe_marieroget_1_d	30	0.9	44776	113318	 the investigation of the myst	 the investigation of the trut
+poe_marieroget_1_d	30	0.9	49258	65704	 the field of my investigation	 the field of investigation; b
+poe_marieroget_1_d	30	0.9	52442	75944	. In the present instance thes	. In the present instance, it 
+poe_marieroget_1_d	42	0.9047619047619048	55832	2676	 Madame L’Espanaye and her daughter lived 	 Madame L’Espanaye and her daughter, the C
+poe_marieroget_1_d	42	0.9047619047619048	55832	31993	 Madame L’Espanaye and her daughter lived 	 Madame L’Espanaye and her daughter there 
+poe_marieroget_1_d	30	0.9	57063	64608	 are indebted for the most glo	 are indebted for the most num
+poe_marieroget_1_d	32	0.90625	57113	75943	n. In the present instance, had 	n. In the present instance, it a
+poe_marieroget_1_d	31	0.9032258064516129	57279	106382	 corroborative of this idea of 	 corroborative of the idea. If 
+poe_marieroget_1_d	30	0.9	57321	77450	, under the real circumstances	, under the same circumstances
+poe_marieroget_1_d	30	0.9333333333333333	63503	53981	, under the circumstances, has	, under the circumstances, the
+poe_marieroget_1_d	30	0.9333333333333333	63829	59666	 far more than probable--that 	 far more than probable, that 
+poe_marieroget_1_d	34	0.9411764705882353	66612	113412	 distance from the scene of that b	 distance from the scene of the at
+poe_marieroget_1_d	30	0.9	69668	114361	urders in the Rue Morgue.” Dup	urders in the Rue Morgue.” (*1
+poe_marieroget_1_d	35	0.9142857142857143	70500	4222	 the atrocities in the Rue Morgue. 	 the atrocity in the Rue Morgue. Ma
+poe_marieroget_1_d	31	0.9032258064516129	73616	60425	e o’clock in the morning. In pa	e o’clock in the morning. Now a
+poe_marieroget_1_d	43	0.9069767441860465	75074	2676	 Madame L’Espanaye and her daughter, habite	 Madame L’Espanaye and her daughter, the Ch
+poe_marieroget_1_d	38	0.9736842105263158	75074	31993	 Madame L’Espanaye and her daughter, h	 Madame L’Espanaye and her daughter th
+poe_marieroget_1_d	32	0.9375	75341	90970	r. The victims must have been si	r. The victim must have been abs
+poe_marieroget_1_d	37	0.918918918918919	75424	71015	 the time elapsing between the ingres	 the time elapsing between the first 
+poe_marieroget_1_d	32	0.9375	75580	78912	 would naturally have been attri	 would naturally have been stric
+poe_marieroget_1_d	30	0.9333333333333333	75580	106130	 would naturally have been att	 would naturally have been the
+doyle_scarlet_7_d	39	0.9230769230769231	60353	3796	?” I felt a creeping of the flesh as Du	?” I felt a creeping of the flesh, and 
+austen_northangerabbey_21_g	31	0.9354838709677419	48843	8008	 circumstances attending the na	 circumstances attending her en
+doyle_signoffour_4_d	30	0.9333333333333333	56392	12453	. I wish you, therefore, to di	. I wish you, therefore, to ma
+doyle_signoffour_6_d	30	0.9333333333333333	28002	4299	he chamber in which was found 	he chamber in which we found o
+doyle_scarlet_3_d	31	0.9354838709677419	32643	11927	 murder has been committed at a	 murder has been committed. It 
+doyle_scarlet_3_d	30	0.9	48839	11971	 the circumstances attending t	 the circumstances attendant o
+doyle_scarlet_3_d	30	0.9333333333333333	63503	6943	, under the circumstances, has	, under the circumstances, see
+radcliffe_udolpho_55_g	30	0.9333333333333333	73196	22461	h the door of the chamber, dow	h the doors of the chamber, wh
+collins_moonstone_47_d	43	0.9069767441860465	37965	14745	 conversation on the subject of the murder,	 conversation on the subject of the juggler
+collins_moonstone_47_d	30	0.9666666666666667	43995	10431	y that it might have been the 	y that it might have been her 
+lewis_monk_2_g	30	0.9	14246	32260	rom the moment in which I spok	rom the moment in which I firs
+doyle_baskervilles_3_u	32	0.9375	32650	13054	 has been committed at all. The 	 has been committed at all; the 
+stoker_dracula_23_g	30	0.9	8775	19525	 arranged that we should live 	 arranged that we should sit u
+stoker_dracula_23_g	43	0.9069767441860465	28468	9914	 room in the front of the house, on the fou	 room in the front of the house. As the Cou
+stoker_dracula_23_g	33	0.9090909090909091	63502	1040	s, under the circumstances, has b	s, under the circumstances, of ab
+stoker_dracula_25_g	32	0.90625	40589	15344	 come, it will be necessary to d	 come, it would be necessary to 
+austen_northangerabbey_9_g	30	0.9	50439	12081	 the consideration that here, 	 the consideration that he wou
+radcliffe_udolpho_1_g	30	0.9	7431	1897	 of an illustrious family, but	 of an illustrious family, and
+radcliffe_udolpho_1_g	31	0.9354838709677419	73853	21531	 the building, it perceived the	 the building, but perceived he
+collins_moonstone_58_d	33	0.9090909090909091	63503	10636	, under the circumstances, has be	, under those circumstances, a de
+radcliffe_udolpho_6_g	33	0.9090909090909091	25135	43381	ing the lateness of the hour. The	ing the lateness of the hour, ret
+christie_styles_10_d	32	0.90625	63502	5595	s, under the circumstances, has 	s, under the circumstances. “Tha
+lewis_monk_9_g	30	0.9	6036	38684	he first two or three rounds h	he first two or three hours th
+lewis_monk_9_g	30	0.9333333333333333	37212	55930	into the chamber where the bod	into the chamber where the Gho
+christie_styles_13_d	30	0.9	13519	19139	 to the conclusion that the me	 to the conclusion that if he 
+doyle_baskervilles_6_u	30	0.9	46667	2484	 no one could have escaped wit	 no one could have escaped our
+collins_moonstone_70_d	33	0.9090909090909091	70013	14411	. He started to his feet and gras	. He started to his feet, and sta
+collins_moonstone_70_d	30	0.9333333333333333	77923	15963	ation of the circumstances (wi	ation of the circumstances was
+stoker_dracula_18_g	30	0.9	6090	28675	 in full possession of the con	 in full possession of their l
+collins_moonstone_85_d	31	0.9032258064516129	19308	7911	 into the middle of the floor. 	 into the middle of the room. I
+collins_moonstone_85_d	35	0.9428571428571428	75256	7911	 into the middle of the room. It wa	 into the middle of the room. I sea
+doyle_adventures_12_d	33	0.9090909090909091	10637	14178	s I could not help remarking and 	s I could not help remarking its 
+doyle_adventures_12_d	30	0.9	43996	33748	 that it might have been the v	 that it might have been faste
+radcliffe_udolpho_16_g	33	0.9090909090909091	37963	47536	ll conversation on the subject of	ll conversation on this subject, 
+radcliffe_udolpho_16_g	30	0.9	46126	19856	es could have escaped their vi	es could have escaped the disc
+radcliffe_udolpho_33_g	31	0.9032258064516129	50439	4163	 the consideration that here, a	 the consideration, that he was
+doyle_baskervilles_12_u	31	0.9032258064516129	12270	6349	.” “There can be no doubt of th	.” “There can be no doubt about
+collins_hauntedhotel_23_u	31	0.9032258064516129	66041	790	 suppose that I have been misle	 suppose that I have been sever
+christie_styles_6_d	32	1.0	31530	20679	 some person or persons unknown.	 some person or persons unknown.
+austen_northangerabbey_14_g	32	0.90625	52442	10427	. In the present instance these 	. In the present instance, she c
+austen_northangerabbey_14_g	31	0.9354838709677419	57114	10427	. In the present instance, had 	. In the present instance, she 
+collins_moonstone_56_d	32	0.96875	75254	24199	ed into the middle of the room. 	ed into the middle of the room, 
+stoker_dracula_20_g	30	0.9	19313	21545	 the middle of the floor. On a	 the middle of the floor on hi
+collins_moonstone_61_d	32	0.90625	38134	9633	y. There was something in his ma	y. There was something in the wa
+collins_moonstone_80_d	30	0.9	63504	1331	 under the circumstances, has 	 under the circumstances, to o
+doyle_adventures_4_d	33	0.9393939393939394	4613	9381	 of observations and inferences. 	 of observation and inference. Th
+doyle_adventures_4_d	32	0.90625	63504	10667	 under the circumstances, has be	 under the circumstances, and ye
+doyle_baskervilles_9_u	35	0.9142857142857143	23688	15679	 three o’clock in the morning, and 	 three o’clock in the morning, but 
+doyle_baskervilles_9_u	42	0.9047619047619048	73604	15672	 nearly three o’clock in the morning. In p	 nearly three o’clock in the morning, but 
+radcliffe_udolpho_36_g	32	0.90625	50661	22280	s. The rest of the shank was in 	s. The rest of the scene was in 
+collins_moonstone_67_d	30	0.9333333333333333	31527	1236	 by some person or persons unk	 by some person or persons utt
+doyle_scarlet_5_d	31	0.9354838709677419	67316	3885	 will answer the advertisement,	 will answer this advertisement
+christie_secretadversary_26_d	32	0.90625	56866	433	e great stumbling-blocks in the 	e great stumbling-block was the 
+doyle_baskervilles_7_u	30	0.9	66837	25479	 it would be impossible to pro	 it would be impossible to get
+christie_styles_11_d	30	0.9	13519	17646	 to the conclusion that the me	 to the conclusion that he was
+christie_styles_11_d	30	0.9666666666666667	37965	7523	 conversation on the subject o	 conversation on the subject. 
+stoker_dracula_12_g	34	0.9117647058823529	66612	26211	 distance from the scene of that b	 distance from the scene of their 
+christie_styles_5_d	30	0.9666666666666667	73712	40683	 attention was arrested by a l	 attention was arrested by a w
+lewis_monk_4_g	36	0.9722222222222222	25381	98834	ould not distinguish the words, but 	ould not distinguish her words, but 
+lewis_monk_4_g	35	0.9142857142857143	26098	98834	ould not distinguish the words utte	ould not distinguish her words, but
+lewis_monk_4_g	38	0.9473684210526315	29399	53313	 apprehensive of the consequences of a	 apprehension of the consequences of a
+lewis_monk_4_g	30	0.9333333333333333	36108	112560	 in obtaining the necessary pe	 in obtaining the necessary Bu
+lewis_monk_4_g	30	0.9	72062	67860	 at length succeeded in lodgin	 at length succeeded in rejoin
+austen_northangerabbey_28_g	31	0.9354838709677419	34959	14220	ied in the contemplation of the	ied in the contemplation of act
+collins_moonstone_74_d	31	0.9032258064516129	22274	5938	 been in the habit of selling s	 been in the habit of speaking 
+collins_moonstone_74_d	31	0.9354838709677419	37973	19097	ation on the subject of the mur	ation on the subject of her mar
+collins_moonstone_74_d	31	0.967741935483871	63503	22822	, under the circumstances, has 	, under the circumstances, was 
+radcliffe_udolpho_50_g	30	0.9	29529	46486	 distinguish what was said. Th	 distinguish what was said, fo
+radcliffe_udolpho_50_g	33	0.9393939393939394	33571	46428	 which it would be possible to tr	 which it would be impossible to 
+radcliffe_udolpho_50_g	30	0.9	66837	46434	 it would be impossible to pro	 it would be impossible to des
+radcliffe_udolpho_13_g	33	0.9090909090909091	14845	24416	. What, then, must have been my a	. What, then, must have been her 
+radcliffe_udolpho_13_g	30	0.9	77923	41558	ation of the circumstances (wi	ation of the circumstances he 
+doyle_baskervilles_8_u	30	0.9	58050	12237	t that there was something _ex	t that there was something sin
+doyle_baskervilles_8_u	30	0.9333333333333333	71035	794	n the other hand, you are boun	n the other hand, you are cons
+doyle_adventures_5_d	32	0.9375	22394	16605	 in the neighborhood, and has al	 in the neighbourhood, and was l
+doyle_adventures_5_d	30	0.9	49451	28314	 difference between the nails,	 difference between the mail-b
+doyle_adventures_5_d	30	0.9	61640	36295	 out the paper upon the table 	 out the pips upon the table. 
+shelley_frankenstein_40_g	32	0.96875	12620	7313	 I do not hesitate to say that I	 I do not hesitate to say that, 
+shelley_frankenstein_40_g	30	0.9	30127	5791	Several witnesses, recalled, h	Several witnesses were called 
+shelley_frankenstein_40_g	31	0.9032258064516129	32643	2199	 murder has been committed at a	 murder had been committed and 
+shelley_frankenstein_40_g	30	0.9666666666666667	32643	3855	 murder has been committed at 	 murder had been committed at 
+shelley_frankenstein_40_g	32	0.96875	44523	7313	 I do not hesitate to say that l	 I do not hesitate to say that, 
+radcliffe_udolpho_22_g	30	0.9	57337	9709	 circumstances of the case, if	 circumstances of the castle b
+shelley_frankenstein_54_g	33	0.9090909090909091	21797	5734	y affectionate towards each other	y affection towards each other wi
+collins_moonstone_73_d	31	0.967741935483871	63503	218	, under the circumstances, has 	, under the circumstances, as L
+doyle_scarlet_2_d	30	0.9	38146	6014	 something in his manner of em	 something in his manner showe
+radcliffe_udolpho_4_g	35	0.9428571428571428	77281	10123	dreading the consequences of the bu	dreading the consequence of the wou
+christie_secretadversary_17_d	32	0.90625	13519	12009	 to the conclusion that the mend	 to the conclusion that the room
+reeve_oldenglishbaron_	30	0.9333333333333333	15565	3076	 particularly attentive to wha	 particularly attentive to the
+lewis_monk_10_g	35	0.9142857142857143	39874	42839	 the solution of this mystery, is i	 the solution of this mystery, for 
+lewis_monk_10_g	31	0.9032258064516129	70621	21753	 what I have already said, you 	 what I have already said, I wi
+lewis_monk_10_g	30	1.0	73711	37076	s attention was arrested by a 	s attention was arrested by a 
+lewis_monk_10_g	35	0.9142857142857143	78471	42839	 the solution of this mystery, is b	 the solution of this mystery, for 
+christie_secretadversary_19_d	30	0.9333333333333333	22274	6900	 been in the habit of selling 	 been in the habit of calling 
+christie_secretadversary_19_d	31	0.9032258064516129	38135	4583	. There was something in his ma	. There was something in Sir Ja
+lewis_monk_7_g	30	0.9	53686	17280	ly against the wall, and sprin	ly against the walls, and indu
+doyle_adventures_2_d	30	0.9	13519	25836	 to the conclusion that the me	 to the conclusion that he had
+doyle_adventures_2_d	37	0.9459459459459459	45382	34347	. It is not too much to say that neit	. It is not too much to say that once
+doyle_adventures_2_d	31	0.9032258064516129	57114	3028	. In the present instance, had 	. In the present instance I am 
+doyle_adventures_2_d	30	0.9	67321	12791	 answer the advertisement, get	 answer the advertisement. Fle
+christie_secretadversary_3_d	31	0.9032258064516129	36581	7779	 the opposite side of the way. 	 the opposite side of the road 
+lewis_monk_8_g	32	0.90625	27986	34847	at the door of the chamber in wh	at the door of the chamber, and 
+lewis_monk_8_g	31	0.967741935483871	39874	21557	 the solution of this mystery, 	 the solution of this mystery. 
+lewis_monk_8_g	31	0.9032258064516129	73197	34849	 the door of the chamber, down 	 the door of the chamber, and r
+lewis_monk_8_g	31	0.967741935483871	78471	21557	 the solution of this mystery, 	 the solution of this mystery. 
+collins_moonstone_53_d	30	0.9	36581	6565	 the opposite side of the way.	 the opposite side of the tabl
+doyle_signoffour_5_d	31	0.9032258064516129	28059	8945	 was locked on the inside when 	 was locked on the inside, howe
+radcliffe_udolpho_12_g	31	0.967741935483871	32491	28634	 several other persons were exa	 several other persons were sea
+lewis_monk_1_g	33	0.9393939393939394	36409	40908	 distance from that in which we r	 distance from that in which the 
+lewis_monk_1_g	30	0.9	52445	25968	n the present instance these s	n the present instance the war
+lewis_monk_1_g	31	0.9032258064516129	55111	1719	d themselves upon the brink of 	d themselves upon the wings of 
+lewis_monk_1_g	30	0.9	66837	961	 it would be impossible to pro	 it would be impossible to fin
+lewis_monk_1_g	30	0.9333333333333333	78299	9699	t thought it necessary to repl	t thought it necessary to apol
+doyle_baskervilles_4_u	30	0.9	38138	561	here was something in his mann	here was something in his stea
+stoker_dracula_9_g	30	0.9	13519	17546	 to the conclusion that the me	 to the conclusion that it mus
+doyle_scarlet_12_d	30	0.9	76457	4085	 moment upon the head of the b	 moment upon the edge of the p
+christie_styles_3_d	30	0.9333333333333333	55459	1305	 the interior of the room. Let	 the interior of the room. Cle
+christie_styles_3_d	30	0.9	74854	1305	 the interior of the room. At 	 the interior of the room. Cle
+christie_secretadversary_4_d	30	0.9333333333333333	38134	4192	y. There was something in his 	y. There was something in the 
+christie_secretadversary_4_d	34	0.9117647058823529	71028	14663	ment. On the other hand, you are b	ment. On the other hand, they are 
+christie_secretadversary_4_d	30	0.9	74445	14667	. On the other hand, there was	. On the other hand, they are 
+doyle_baskervilles_2_u	30	1.0	23256	12691	 evidence to the same effect. 	 evidence to the same effect. 
+radcliffe_udolpho_54_g	30	0.9	38138	20763	here was something in his mann	here was something in his coun
+radcliffe_udolpho_54_g	32	0.90625	48842	3374	e circumstances attending the na	e circumstances attending his la
+radcliffe_udolpho_54_g	31	0.9032258064516129	75520	19880	as not immediately perceived. T	as not immediately to perceive 
+collins_moonstone_76_d	30	0.9	63504	17319	 under the circumstances, has 	 under the circumstances; and 
+radcliffe_udolpho_35_g	32	0.90625	22394	441	 in the neighborhood, and has al	 in the neighbourhood, and that 
+christie_styles_4_d	31	0.9032258064516129	73712	299	 attention was arrested by a li	 attention was arrested by the 

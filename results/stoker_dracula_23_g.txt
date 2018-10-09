@@ -1,0 +1,67 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_25_g	31	0.9354838709677419	4	2	 DR. SEWARD'S DIARY _3 October.	 DR. SEWARD'S DIARY _11 October
+stoker_dracula_25_g	47	0.9361702127659575	19841	8729	ed. _Jonathan Harker's Journal._ _3-4 October, 	ed. _Jonathan Harker's Journal._ _15 October, V
+stoker_dracula_6_g	33	0.9090909090909091	27008	12035	ed the conversation, and she said	ed the conversation as she said, 
+doyle_scarlet_11_d	35	0.9142857142857143	26726	8778	 for a few moments, and then, with 	 for a few moments, and then the lo
+collins_moonstone_58_d	31	0.9032258064516129	1041	10636	, under the circumstances, of a	, under those circumstances, a 
+christie_styles_10_d	30	0.9	1040	5595	s, under the circumstances, of	s, under the circumstances. “T
+stoker_dracula_18_g	35	0.9428571428571428	1458	20223	 my friend Arminus of Buda-Pesth, h	 my friend Arminius, of Buda-Pesth 
+stoker_dracula_18_g	30	0.9	3347	18694	 afterwards he can come when a	 afterwards he can come as he 
+stoker_dracula_18_g	31	0.9032258064516129	3786	34031	, when he found that this be al	, when he found that his appeal
+stoker_dracula_18_g	30	0.9	10877	33158	 that for a moment I feared fo	 that for the moment I feared 
+stoker_dracula_11_g	30	0.9	4991	16691	 to the door and opened it. Th	 to the door and opened it; a 
+doyle_adventures_12_d	30	0.9333333333333333	26276	31647	ing of a chain, and the loud t	ing of a chain, and the sound 
+radcliffe_udolpho_16_g	30	0.9	8837	26477	 had been accustomed to obey h	 had been accustomed to behold
+christie_styles_6_d	31	0.9354838709677419	13670	507	 there was no sign of him. Van 	 there was no sign of him, and 
+stoker_dracula_10_g	30	0.9	4801	6611	 a knock at the hall door, the	 a knock at the hall-door. Whe
+stoker_dracula_10_g	36	0.9166666666666666	18943	5993	 Van Helsing beckoned to us and we s	 Van Helsing beckoned to me, and we 
+stoker_dracula_10_g	31	0.9032258064516129	22290	25249	ith a sigh she sank back again 	ith a sigh, she sank back amid 
+stoker_dracula_20_g	30	0.9333333333333333	7116	21020	 Lord Godalming and Quincey Mo	 Lord Godalming and Quincey. V
+collins_moonstone_80_d	30	0.9333333333333333	1042	1331	 under the circumstances, of a	 under the circumstances, to o
+doyle_adventures_4_d	30	0.9	1042	10667	 under the circumstances, of a	 under the circumstances, and 
+walpole_castleofotranto_4_g	30	0.9	15580	3993	 seemed to threaten her husban	 seemed to threaten her house.
+stoker_dracula_12_g	31	0.9032258064516129	4801	5350	 a knock at the hall door, the 	 a knock at the hall door. One 
+stoker_dracula_12_g	30	0.9	6732	2685	 looked at each other, and tog	 looked at each other, and as 
+stoker_dracula_12_g	32	0.90625	7647	36730	d Van Helsing, who had been cons	d Van Helsing, who had been watc
+stoker_dracula_12_g	42	0.9285714285714286	24244	34673	radually her eyes closed, and she sat, sto	radually her eyes closed, and she sank to 
+stoker_dracula_12_g	31	0.9032258064516129	24252	36059	 her eyes closed, and she sat, 	 her eyes closed, and she breat
+dickens_christmascarole_2_g	31	0.9032258064516129	13736	10502	 at the back of the house; but 	 at the back of the house. It o
+christie_styles_5_d	31	0.9354838709677419	9888	38905	 the door leading into the room	 the door leading into his room
+christie_styles_5_d	30	0.9666666666666667	26040	18077	 We all looked at each other, 	 We all looked at each other. 
+collins_moonstone_74_d	31	0.9032258064516129	1041	22822	, under the circumstances, of a	, under the circumstances, was 
+radcliffe_udolpho_50_g	35	0.9714285714285714	11263	46436	t would be impossible to describe t	t would be impossible to describe, 
+christie_styles_12_d	32	0.90625	24769	4171	, closing the door behind them, 	, closing the door behind her. S
+stoker_dracula_2_g	30	0.9	21769	4891	, and crossing the room, gentl	, and crossing the room, opene
+austen_northangerabbey_1_g	30	0.9	13736	3573	 at the back of the house; but	 at the back of the house. Suc
+doyle_adventures_5_d	31	0.967741935483871	8715	29882	es in different parts of the wo	es in different parts of the co
+doyle_adventures_5_d	31	0.9354838709677419	24424	4091	, and I could see that his fore	, and I could see that his face
+stoker_dracula_24_g	33	0.9090909090909091	11481	25734	 the red scar on the forehead sho	 the red scar on her forehead. Sh
+stoker_dracula_24_g	31	0.967741935483871	16250	25734	 the red scar on her forehead, 	 the red scar on her forehead. 
+stoker_dracula_24_g	43	0.9534883720930233	19843	2010	. _Jonathan Harker's Journal._ _3-4 October	. _Jonathan Harker's Journal._ _4 October._
+stoker_dracula_24_g	45	0.9333333333333333	19843	23877	. _Jonathan Harker's Journal._ _3-4 October, 	. _Jonathan Harker's Journal._ _5 October, af
+stoker_dracula_24_g	32	0.90625	21430	31426	.... * * * * * _Later._--I must 	.... * * * * * _Later._--It is a
+stoker_dracula_24_g	37	0.9459459459459459	22391	26754	. * * * * * _4 October, morning._--On	. * * * * * _6 October, morning._--An
+stoker_dracula_24_g	30	0.9	23521	8849	, my dear Madam Mina, this is 	, my dear Madam Mina, it is th
+stoker_dracula_24_g	32	0.90625	25335	28998	. Van Helsing motioned me to pul	. Van Helsing motioned to me to 
+collins_moonstone_73_d	32	0.90625	1041	218	, under the circumstances, of ab	, under the circumstances, as La
+christie_secretadversary_17_d	30	0.9333333333333333	7450	13792	 nothing to do but to wait her	 nothing to do but to wait. He
+stoker_dracula_3_g	32	0.9375	21143	24112	. I thought at the time that it 	. I thought at the time that I m
+reeve_oldenglishbaron_	33	0.9393939393939394	1203	13190	 the papers relating to this mons	 the papers relating to his son’s
+collins_moonstone_84_d	30	0.9	1041	2942	, under the circumstances, of 	, under the circumstances—to o
+doyle_adventures_2_d	31	0.9354838709677419	7172	318	 and closed the door behind the	 and closed the door behind me.
+lewis_monk_8_g	30	0.9	5216	38767	 and hastened towards the Sout	 and hastened towards the Door
+stoker_dracula_1_g	30	0.9333333333333333	4756	20858	." Whilst he was speaking we w	." Whilst he was speaking the 
+stoker_dracula_1_g	32	0.90625	23652	20643	" Then turning to her, he said, 	" Then turning to me, he said in
+doyle_adventures_9_d	31	0.9354838709677419	23286	7622	room in his dressing-gown, and 	room in his dressing-gown, read
+doyle_baskervilles_4_u	32	0.96875	23285	15216	 room in his dressing-gown, and 	 room in his dressing-gown and w
+collins_moonstone_50_d	36	0.9444444444444444	6727	14183	y. We looked at each other, and toge	y. We looked at each other, and then
+radcliffe_udolpho_49_g	30	0.9	8837	756	 had been accustomed to obey h	 had been accustomed to see th
+radcliffe_udolpho_41_g	30	0.9	3777	8271	 and then, when he found that 	 and then, when she found it a
+radcliffe_udolpho_47_g	32	0.9375	26726	16117	 for a few moments, and then, wi	 for a few moments, and then sai
+doyle_scarlet_4_d	30	0.9	13670	9190	 there was no sign of him. Van	 there wasn’t no sign of him n
+stoker_dracula_16_g	30	0.9	5050	22333	he Professor closed the door a	he Professor locked the door h
+stoker_dracula_21_g	44	0.9090909090909091	3	1	I DR. SEWARD'S DIARY _3 October._--The time 	I DR. SEWARD'S DIARY _3 October._--Let me pu
+stoker_dracula_21_g	32	0.90625	11481	28451	 the red scar on the forehead sh	 the red scar on his forehead wh
+stoker_dracula_21_g	34	0.9117647058823529	13695	21075	. Van Helsing and I tried to make 	. Van Helsing and I tried to calm 
+stoker_dracula_21_g	31	0.9032258064516129	16250	28451	 the red scar on her forehead, 	 the red scar on his forehead w
+stoker_dracula_21_g	31	0.9032258064516129	25129	25517	 minutes there was silence. Min	 minutes there was silence, and

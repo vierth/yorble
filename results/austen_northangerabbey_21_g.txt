@@ -1,0 +1,35 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_3_d	31	0.9032258064516129	3958	12877	 entered the room, and to the r	 entered the room, and the stra
+stoker_dracula_6_g	30	0.9	6034	14885	 and the number of their atten	 and the number of the latter 
+austen_northangerabbey_9_g	30	0.9333333333333333	11812	6366	 with the consciousness of a c	 with the consciousness of saf
+radcliffe_udolpho_6_g	30	0.9	2819	22495	 recalled her to the sense of 	 recalled her to a sense of he
+radcliffe_udolpho_6_g	35	0.9142857142857143	7805	23144	 brought to her recollection a coun	 brought to her recollection the on
+lewis_monk_9_g	35	0.9428571428571428	7805	14074	 brought to her recollection a coun	 brought to her recollection a thou
+collins_hauntedhotel_26_u	33	0.9090909090909091	7709	17267	 for the first time that she was 	 for the first time that the man 
+doyle_adventures_12_d	30	0.9	2567	47257	 at the door of the room made 	 at the door of the room, a ve
+radcliffe_udolpho_33_g	30	0.9333333333333333	7362	40811	. The night was stormy; the wi	. The night was stormy; the ba
+austen_northangerabbey_22_g	30	0.9	11812	332	 with the consciousness of a c	 with the consciousness of exi
+collins_hauntedhotel_23_u	33	0.9393939393939394	14876	11869	e trembled from head to foot. In 	e trembled from head to foot. Hen
+doyle_adventures_4_d	31	0.9032258064516129	15443	27304	 be absolutely impossible. The 	 be absolutely impossible. It w
+doyle_baskervilles_9_u	30	0.9	7709	10940	 for the first time that she w	 for the first time that I saw
+doyle_baskervilles_7_u	38	0.9210526315789473	6398	22939	, however, “that she must have been us	, however, that there must have been s
+lewis_monk_4_g	32	0.90625	2567	25178	 at the door of the room made he	 at the door of the room at the 
+radcliffe_udolpho_18_g	30	0.9	8637	47838	he cheerful blaze of a wood fi	he cheerful blaze of the wood 
+radcliffe_udolpho_13_g	30	0.9	7708	27880	t for the first time that she 	t for the last time, that she 
+collins_moonstone_72_d	30	0.9	1329	8047	ost me what it may, I will loo	ost me what it may, I will be 
+doyle_adventures_5_d	30	0.9	950	2677	 one side of the fireplace. Th	 one side of the fireplace cro
+radcliffe_udolpho_4_g	30	0.9	1912	25443	 to distinguish anything with 	 to distinguish anything like 
+lewis_monk_7_g	30	0.9333333333333333	8072	3712	e had nothing to dread from mi	e had nothing to dread from he
+lewis_monk_7_g	32	0.90625	15860	37541	e that it should fall to her lot	e that it should fall on the out
+radcliffe_udolpho_10_g	30	0.9333333333333333	11811	4124	e with the consciousness of a 	e with the consciousness of ir
+lewis_monk_6_g	30	0.9	7805	39311	 brought to her recollection a	 brought to his recollection h
+radcliffe_udolpho_12_g	30	0.9	10314	7639	he was struck by the appearanc	he was struck by the apparent 
+radcliffe_udolpho_12_g	30	0.9	11812	12705	 with the consciousness of a c	 with the consciousness of des
+doyle_baskervilles_4_u	30	0.9	4464	10956	. The worst of it is that its 	. The worst of it is that I on
+radcliffe_udolpho_14_g	33	0.9090909090909091	7805	6207	 brought to her recollection a co	 brought to her recollection the 
+radcliffe_udolpho_54_g	33	0.9090909090909091	7805	3160	 brought to her recollection a co	 brought to her recollection the 
+radcliffe_udolpho_54_g	30	0.9	8008	3375	 circumstances attending her e	 circumstances attending his l
+doyle_baskervilles_15_u	33	0.9393939393939394	7709	19772	 for the first time that she was 	 for the first time that she had 
+collins_moonstone_52_d	30	0.9	16714	8579	 in the house before the tempe	 in the house before the summe
+radcliffe_udolpho_35_g	34	0.9117647058823529	7519	14110	e, as she crossed the hall, listen	e, as she crossed the hall, stoppe
+christie_styles_4_d	30	0.9	4388	26467	, because I thought it might s	, because I thought you might 

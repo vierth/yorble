@@ -1,0 +1,95 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_38_g	32	0.90625	183	13197	 the Count and his family, as a 	 the Count and his family. At a 
+radcliffe_udolpho_38_g	33	0.9090909090909091	1343	3378	, when she considered to what tha	, when she considered that it had
+radcliffe_udolpho_38_g	31	0.9032258064516129	7645	25403	d Emily, endeavouring to comman	d Emily, endeavouring to concea
+radcliffe_udolpho_51_g	35	0.9428571428571428	6698	15969	, that contended at her heart, and 	, that contended at her heart, as s
+radcliffe_udolpho_51_g	33	0.9090909090909091	8243	5336	he voice, in which he spoke this,	he voice, in which she spoke, has
+radcliffe_udolpho_51_g	31	0.9032258064516129	12381	21113	, that Valancourt had rendered 	, that Valancourt had received 
+radcliffe_udolpho_17_g	31	0.9032258064516129	1342	3589	d, when she considered to what 	d, when she considered, that sh
+radcliffe_udolpho_17_g	34	0.9411764705882353	8947	11319	informed of these circumstances, a	informed of the circumstances, tha
+radcliffe_udolpho_17_g	33	0.9090909090909091	12274	7560	, in a short conversation, when V	, in a short conversation, which 
+radcliffe_udolpho_52_g	32	0.90625	871	17187	 the inhabitants of the chateau 	 the inhabitants of the castle h
+radcliffe_udolpho_52_g	30	0.9	6953	14114	 arrived at the chateau, too a	 arrived at the chateau, he sa
+radcliffe_udolpho_52_g	30	0.9	12954	14113	t arrived at the chateau, thou	t arrived at the chateau, he s
+lewis_monk_3_g	32	0.90625	10085	57545	e pressed her hand to his lips, 	e pressed my hand to his lips, a
+radcliffe_udolpho_24_g	32	0.9375	1337	14814	r; and, when she considered to w	r; and, when she considered the 
+radcliffe_udolpho_24_g	31	0.967741935483871	6273	4783	, and, in the next moment, the 	, and, in the next moment, she 
+collins_moonstone_89_d	33	0.9090909090909091	8947	41249	informed of these circumstances, 	informed of this circumstance, co
+radcliffe_udolpho_39_g	32	0.90625	1343	3927	, when she considered to what th	, when she considered, that this
+austen_northangerabbey_7_g	30	0.9333333333333333	13345	14449	 passed between them, and roun	 passed between them, and cont
+radcliffe_udolpho_23_g	32	0.90625	871	21854	 the inhabitants of the chateau 	 the inhabitants of the castle s
+radcliffe_udolpho_23_g	33	0.9090909090909091	1339	14284	 and, when she considered to what	 and, when she considered the nat
+radcliffe_udolpho_23_g	30	0.9	1343	29267	, when she considered to what 	, when she considered, that An
+radcliffe_udolpho_23_g	34	0.9117647058823529	6298	36151	, the door of the chamber opened, 	, the door of a chamber opened, fr
+radcliffe_udolpho_23_g	38	0.9473684210526315	7247	35833	hen her recollection returned, she rep	hen her recollection returned, she spo
+austen_northangerabbey_21_g	30	0.9	10456	13994	 while she acknowledged this, 	 while she acknowledged with a
+lewis_monk_2_g	31	0.9032258064516129	7721	48920	 my esteem, you would not have 	 my esteem, She would not have 
+radcliffe_udolpho_46_g	30	0.9	12793	3532	 sincere congratulations; and 	 sincere congratulations, on t
+doyle_scarlet_11_d	30	0.9333333333333333	11941	18030	 experience had taught him to 	 experiences had taught him th
+radcliffe_udolpho_26_g	36	0.9166666666666666	7369	11577	 as it was possible she could feel i	 as it was possible she could be, if
+radcliffe_udolpho_1_g	33	0.9393939393939394	811	2745	 divided his attention with this 	 divided his attention with the t
+radcliffe_udolpho_1_g	30	0.9	10869	41821	 reached the chateau, whither 	 reached the chateau, where hi
+radcliffe_udolpho_1_g	33	0.9393939393939394	12714	34421	 returned to the supper-room, the	 returned to the supper-room, see
+radcliffe_udolpho_6_g	33	0.9090909090909091	2152	14299	, and the gloom of twilight draw 	, and the gloom of twilight sprea
+radcliffe_udolpho_16_g	30	0.9	1343	25522	, when she considered to what 	, when she considered that she
+radcliffe_udolpho_16_g	30	0.9	5595	22932	d to indulge her melancholy re	d to indulge the melancholy, w
+radcliffe_udolpho_16_g	46	0.9130434782608695	7190	32923	ed. It was a considerable time before she revi	ed. It was a considerable time before her mind
+radcliffe_udolpho_16_g	34	0.9117647058823529	8955	40083	 of these circumstances, and I am 	 of these circumstances, and that 
+radcliffe_udolpho_16_g	30	0.9	10092	39269	ed her hand to his lips, the t	ed her hand to his lips, and t
+radcliffe_udolpho_25_g	33	0.9090909090909091	1896	20866	, and the sullen murmur of the wi	, and the lulling murmur of the w
+radcliffe_udolpho_25_g	41	0.9512195121951219	7192	17604	. It was a considerable time before she r	. It was a considerable time, before the 
+radcliffe_udolpho_33_g	30	0.9666666666666667	6274	9569	 and, in the next moment, the 	 and, in the next moment, she 
+radcliffe_udolpho_2_g	32	0.90625	9783	6753	 it necessary that I should tell	 it necessary that he should del
+radcliffe_udolpho_2_g	30	0.9	9841	6753	 it necessary, that I should s	 it necessary that he should d
+radcliffe_udolpho_57_g	30	0.9333333333333333	13287	2674	 the sense of their present ha	 the sense of their present fe
+radcliffe_udolpho_36_g	31	0.9032258064516129	6273	1369	, and, in the next moment, the 	, and, in the next moment, was 
+radcliffe_udolpho_36_g	30	0.9	11589	28249	ation passed between them, in 	ation passed between them, aft
+radcliffe_udolpho_36_g	43	0.9069767441860465	13329	28239	 congratulations passed between them, and r	 congratulation passed between them, after 
+radcliffe_udolpho_36_g	30	0.9	13345	30150	 passed between them, and roun	 passed between them, and how 
+radcliffe_udolpho_34_g	30	0.9	5456	10117	 behind the mountains, and eve	 behind the mountains, and twi
+radcliffe_udolpho_34_g	30	0.9	6273	12468	, and, in the next moment, the	, and, in the next moment, sun
+radcliffe_udolpho_34_g	30	0.9	6273	19489	, and, in the next moment, the	, and, in the next moment, Lud
+radcliffe_udolpho_34_g	31	0.9032258064516129	8955	15776	 of these circumstances, and I 	 of these circumstances, for I 
+radcliffe_udolpho_50_g	30	0.9	183	12520	 the Count and his family, as 	 the Count and his family part
+radcliffe_udolpho_50_g	30	0.9	6383	3936	 the obscurity of twilight; bu	 the obscurity of twilight. Wh
+radcliffe_udolpho_50_g	33	0.9696969696969697	9052	49275	 confirmed this supposition; for 	 confirmed this supposition for a
+radcliffe_udolpho_50_g	30	0.9	13693	11929	 looked on the surrounding par	 looked on the surrounding glo
+radcliffe_udolpho_18_g	30	0.9333333333333333	7920	36720	 a moment, and then said, 'I h	 a moment, and then said, 'O, 
+radcliffe_udolpho_18_g	35	0.9142857142857143	12647	33899	 and affection, with which she had 	 and affection, to which she had be
+radcliffe_udolpho_13_g	30	0.9	6091	18156	, made her sensible to some de	, made her sensible in some me
+radcliffe_udolpho_13_g	31	0.9032258064516129	7645	47354	d Emily, endeavouring to comman	d Emily, endeavouring to concea
+radcliffe_udolpho_13_g	33	0.9090909090909091	10079	31252	, as he pressed her hand to his l	, as he pressed her hand in his. 
+christie_styles_12_d	32	0.90625	14553	3404	 she declared, that she had neve	 she declared that she had been 
+radcliffe_udolpho_3_g	35	0.9142857142857143	2871	9832	. The sun was now setting on that t	. The sun was now setting upon the 
+radcliffe_udolpho_48_g	32	0.96875	12661	4959	, with which she had formerly re	, with which he had formerly reg
+radcliffe_udolpho_48_g	31	0.9354838709677419	13989	1187	ered, that Valancourt was not u	ered, that Valancourt was lost 
+radcliffe_udolpho_22_g	32	0.90625	6273	24732	, and, in the next moment, the d	, and, in the next moment, told 
+radcliffe_udolpho_22_g	31	1.0	6273	36270	, and, in the next moment, the 	, and, in the next moment, the 
+radcliffe_udolpho_4_g	44	0.9318181818181818	13975	17302	 he had discovered, that Valancourt was not 	 he had discovered that Valancourt was of a 
+dickens_christmascarole_3_g	33	0.9090909090909091	7369	13351	 as it was possible she could fee	 as it was possible he could have
+radcliffe_udolpho_10_g	36	0.9444444444444444	10085	16280	e pressed her hand to his lips, the 	e pressed her hand to his lips, it w
+radcliffe_udolpho_10_g	30	0.9	14143	34384	 immediately withdrawn from Ch	 immediately withdrew from the
+walpole_castleofotranto_5_g	30	0.9	1192	19381	 had been occasioned by the de	 had been occasioned by her im
+lewis_monk_5_g	30	0.9333333333333333	465	47768	d with satisfaction for the pr	d with satisfaction to the pro
+lewis_monk_6_g	30	0.9	11941	20553	 experience had taught him to 	 experience has taught me to p
+doyle_adventures_9_d	32	1.0	10294	34394	, and then, for the first time, 	, and then, for the first time, 
+radcliffe_udolpho_12_g	30	0.9	5596	8788	 to indulge her melancholy rev	 to indulge, her melancholy. T
+radcliffe_udolpho_12_g	37	1.0	7195	49655	t was a considerable time before she 	t was a considerable time before she 
+radcliffe_udolpho_12_g	33	0.9090909090909091	10864	45215	 they reached the chateau, whithe	 they reached the chateau, they s
+radcliffe_udolpho_12_g	31	0.9032258064516129	12286	17992	 conversation, when Valancourt 	 conversation with Valancourt a
+radcliffe_udolpho_12_g	31	0.9032258064516129	12286	18871	 conversation, when Valancourt 	 conversation with Valancourt, 
+radcliffe_udolpho_12_g	31	0.9032258064516129	12286	22163	 conversation, when Valancourt 	 conversation with Valancourt, 
+radcliffe_udolpho_12_g	37	0.918918918918919	13982	50378	 discovered, that Valancourt was not 	 discovered that Valancourt was the n
+radcliffe_udolpho_27_g	35	0.9142857142857143	1338	6546	; and, when she considered to what 	; and, when she considered what cou
+radcliffe_udolpho_27_g	34	0.9117647058823529	7652	1660	, endeavouring to command her trem	, endeavouring to command the emot
+radcliffe_udolpho_49_g	30	0.9	1163	10137	 the fate of Valancourt, that 	 the fate of Valancourt, was n
+radcliffe_udolpho_49_g	30	0.9	8955	2287	 of these circumstances, and I	 of these circumstances made m
+radcliffe_udolpho_47_g	31	0.9032258064516129	13783	440	 the features of the Countess, 	 the features of the Count, who
+doyle_scarlet_4_d	30	0.9	1215	12458	 the description of his manner	 the description of this man t
+radcliffe_udolpho_54_g	31	0.9032258064516129	11258	32195	t his forgiveness of the injust	t his forgiveness of the uninte
+radcliffe_udolpho_54_g	35	0.9142857142857143	11943	29655	xperience had taught him to detest 	xperience had taught him to underst
+radcliffe_udolpho_54_g	30	0.9	12667	11448	 which she had formerly receiv	 which she had formerly seen i
+radcliffe_udolpho_54_g	32	0.9375	13982	26737	 discovered, that Valancourt was	 discovered, that Valancourt, so
+collins_moonstone_52_d	30	0.9	12047	21006	 to believe, that he would pas	 to believe that she would sho
+radcliffe_udolpho_35_g	31	1.0	9202	22058	s. For a moment, she continued 	s. For a moment, she continued 
+radcliffe_udolpho_35_g	31	0.9032258064516129	12494	207	tion of Count De Villefort perf	tion of Count De Villefort, the

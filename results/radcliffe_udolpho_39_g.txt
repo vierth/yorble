@@ -1,0 +1,94 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_23_g	30	0.9333333333333333	970	25156	 with her eyes fixed on the fl	 with her eyes fixed on the he
+radcliffe_udolpho_23_g	30	0.9333333333333333	3927	29267	, when she considered, that th	, when she considered, that An
+radcliffe_udolpho_23_g	30	0.9	6120	25886	 all the circumstances, of whi	 all the circumstances of her 
+poe_marieroget_1_d	30	0.9	14014	77466	 circumstances, with the stren	 circumstances, with the same 
+poe_marieroget_1_d	32	0.96875	14263	25029	 impossible, that he could have 	 impossible that she could have 
+poe_marieroget_1_d	31	0.9032258064516129	16495	25029	 impossible, that she could ren	 impossible that she could have
+radcliffe_udolpho_29_g	30	0.9666666666666667	661	1752	ed for a considerable time, un	ed for a considerable time, on
+radcliffe_udolpho_29_g	30	0.9	663	8260	 for a considerable time, unab	 for a considerable time, when
+radcliffe_udolpho_55_g	32	0.90625	1219	20603	 she would have perceived the vi	 she would have perceived, that 
+radcliffe_udolpho_55_g	30	0.9	6120	24120	 all the circumstances, of whi	 all the circumstances of her 
+lewis_monk_2_g	30	0.9	6057	53178	 with indifference, and, had s	 with indifference, and that v
+lewis_monk_2_g	30	0.9	15235	1082	ence of strong passion, and th	ence of strong passions and an
+radcliffe_udolpho_46_g	32	0.90625	3928	2362	 when she considered, that this 	 when she considered, that he, f
+radcliffe_udolpho_46_g	34	0.9411764705882353	5373	1958	 it would be necessary for me to s	 it would be necessary for her to 
+walpole_castleofotranto_3_g	31	0.9032258064516129	1029	30947	 heart, that she could not spea	 heart, that he could not bear 
+radcliffe_udolpho_26_g	30	0.9	5843	19410	 by a recollection of the past	 by a recollection of the terr
+radcliffe_udolpho_1_g	30	0.9	12995	32490	 recollecting, that she was a 	 recollecting that he was spea
+radcliffe_udolpho_6_g	32	0.90625	1510	8526	s I have just received from the 	s I have just received from M. Q
+radcliffe_udolpho_6_g	30	0.9	1843	9030	.' His last words faltered, an	.' His last words faltered; Em
+radcliffe_udolpho_6_g	30	0.9	11271	42949	 to the remembrance of those d	 to the remembrance of the ext
+radcliffe_udolpho_6_g	33	0.9696969696969697	15557	15892	 and increase the difficulty of h	 and increased the difficulty of 
+radcliffe_udolpho_6_g	30	0.9	15619	22278	 so entirely occupied by neare	 so entirely occupied by anxie
+radcliffe_udolpho_6_g	30	0.9333333333333333	15677	35166	 the old housekeeper and the p	 the old housekeeper, and her 
+doyle_signoffour_7_d	30	0.9	12448	17311	s utterly unable to leave the 	s utterly unable to reach the 
+radcliffe_udolpho_16_g	31	0.9032258064516129	329	32634	 that Valancourt was below, and	 that Valancourt was well, and 
+radcliffe_udolpho_16_g	30	0.9333333333333333	3927	25522	, when she considered, that th	, when she considered that she
+radcliffe_udolpho_16_g	30	0.9333333333333333	5149	28461	t, you will perceive, that my 	t, you will perceive, that I b
+radcliffe_udolpho_16_g	30	0.9333333333333333	6124	37150	 the circumstances, of which C	 the circumstances of which Si
+radcliffe_udolpho_16_g	31	0.9032258064516129	9897	27049	 I have been accustomed to love	 I have been accustomed to see 
+radcliffe_udolpho_16_g	31	0.9032258064516129	9897	30368	 I have been accustomed to love	 I have been accustomed to meet
+radcliffe_udolpho_16_g	31	0.9032258064516129	12865	40717	 was somewhat relieved by the r	 was somewhat relieved by obser
+radcliffe_udolpho_25_g	34	0.9705882352941176	5561	12614	' He was silent a moment, as if ov	' He was silent a moment, as if co
+radcliffe_udolpho_33_g	36	1.0	663	36282	 for a considerable time, unable to 	 for a considerable time, unable to 
+radcliffe_udolpho_33_g	31	0.9032258064516129	12457	37550	 unable to leave the room, or t	 unable to leave the room, she 
+radcliffe_udolpho_33_g	34	1.0	12907	39213	 she endeavoured to believe, that 	 she endeavoured to believe, that 
+radcliffe_udolpho_33_g	32	0.90625	13200	33863	 condition, that he would neithe	 condition, that he would permit
+radcliffe_udolpho_33_g	30	0.9	15144	33219	 of her present situation, tha	 of her present situation she 
+doyle_baskervilles_10_u	30	0.9	16495	1650	 impossible, that she could re	 impossible, that it should re
+radcliffe_udolpho_2_g	30	0.9	12995	17822	 recollecting, that she was a 	 recollecting that she was int
+stoker_dracula_20_g	30	0.9	4965	16314	 and walked about the room in 	 and walked about the room. By
+collins_moonstone_80_d	30	0.9	1365	108	 this evening, that I might, a	 this evening, that you might 
+doyle_scarlet_5_d	32	0.9375	14484	1141	 which had given rise to the rep	 which had given rise to the ide
+stoker_dracula_12_g	41	0.926829268292683	2271	33667	 He covered his face with his hand, as if	 He covered his face with his hands, and 
+stoker_dracula_12_g	35	0.9714285714285714	2274	37029	 covered his face with his hand, as	 covered his face with his hands, s
+stoker_dracula_12_g	30	0.9	12865	7508	 was somewhat relieved by the 	 was somewhat relieved by a lo
+radcliffe_udolpho_34_g	32	0.9375	2070	10421	 after our long--long separation	 after our long, long separation
+collins_moonstone_74_d	30	0.9333333333333333	970	12633	 with her eyes fixed on the fl	 with her eyes fixed on the se
+collins_moonstone_74_d	30	0.9	13426	16031	 withdrew to her own room, tha	 withdrew to her own room. She
+radcliffe_udolpho_50_g	31	0.9032258064516129	3933	16557	 she considered, that this was 	 she considered, that she was o
+radcliffe_udolpho_18_g	30	0.9	415	34176	 her spirits, she rose and lef	 her spirits, she rose and aga
+radcliffe_udolpho_18_g	30	0.9333333333333333	970	47907	 with her eyes fixed on the fl	 with her eyes fixed on the dy
+radcliffe_udolpho_18_g	54	0.9074074074074074	1293	21706	. At length, in a tremulous voice, he said, 'I have so	. At length, in a tremulous voice, she said, 'May I as
+radcliffe_udolpho_18_g	33	0.9696969696969697	3625	45941	 she struggled to overcome the pl	 she struggled to overcome the il
+radcliffe_udolpho_18_g	30	0.9	3717	5399	, which was necessary for her 	, which was necessary to the h
+radcliffe_udolpho_13_g	30	0.9	3935	46080	he considered, that this was p	he considered, that there was 
+radcliffe_udolpho_13_g	30	0.9333333333333333	7272	48057	 you!' exclaimed Valancourt--'	 you!' exclaimed Valancourt. '
+radcliffe_udolpho_13_g	37	0.9459459459459459	8030	49587	 'I will not prolong these moments,' 	 'I will not prolong these moments. M
+radcliffe_udolpho_13_g	35	0.9714285714285714	12665	49556	e,' said Valancourt at length; 'I c	e,' said Valancourt, at length; 'I 
+collins_moonstone_72_d	31	0.9032258064516129	12353	4845	is voice trembled, and he threw	is voice trembled, and he put h
+dickens_christmascarole_1_g	42	0.9047619047619048	5368	5327	 that it would be necessary for me to say 	 that it would be necessary for them to pa
+radcliffe_udolpho_48_g	32	0.90625	2452	3781	 and perceived that she was weep	 and perceived, that she was pas
+radcliffe_udolpho_48_g	30	0.9666666666666667	4169	763	er the power, or the will to e	er the power, or the will to a
+radcliffe_udolpho_48_g	35	0.9142857142857143	5834	1022	 overcome by a recollection of the 	 overcome by the recollection of he
+radcliffe_udolpho_48_g	30	0.9333333333333333	6100	5566	 to her recollection all the c	 to her recollection all she h
+radcliffe_udolpho_48_g	30	1.0	7714	11491	, while she was compelled to a	, while she was compelled to a
+radcliffe_udolpho_22_g	35	0.9428571428571428	970	35682	 with her eyes fixed on the floor, 	 with her eyes fixed on the door, i
+radcliffe_udolpho_22_g	32	0.90625	7303	32732	s it possible you can doubt my l	s it possible you can doubt it, 
+radcliffe_udolpho_4_g	31	0.9032258064516129	2452	10385	 and perceived that she was wee	 and perceived that he was alre
+radcliffe_udolpho_4_g	32	0.9375	12666	27874	,' said Valancourt at length; 'I	,' said Valancourt, at length, '
+stoker_dracula_3_g	30	0.9666666666666667	4963	3723	e, and walked about the room i	e, and walked about the room p
+collins_moonstone_84_d	37	0.918918918918919	14263	1836	 impossible, that he could have been 	 impossible that I could have been in
+lewis_monk_7_g	31	0.9032258064516129	5602	3253	ed by the consciousness of no l	ed by the consciousness of his 
+doyle_adventures_2_d	35	0.9714285714285714	12398	21130	 into the chair, from which he had 	 into the chair from which he had h
+christie_styles_1_d	33	0.9090909090909091	12323	6367	 As he spoke the last words, his 	 As he spoke the last words, we d
+radcliffe_udolpho_10_g	36	0.9166666666666666	4438	30480	e circumstances of your conduct, whi	e circumstances of her conduct, whil
+radcliffe_udolpho_10_g	32	0.96875	5996	6933	 and the distress he suffered co	 and the distress she suffered o
+radcliffe_udolpho_10_g	31	0.9032258064516129	6120	30473	 all the circumstances, of whic	 all the circumstances of her c
+lewis_monk_6_g	30	0.9	1109	39195	 threw himself into a chair be	 threw himself into a Chair wh
+lewis_monk_6_g	33	0.9090909090909091	6258	3455	 under the influence of passion, 	 under the influence of poison, a
+lewis_monk_6_g	30	0.9	15219	3455	 under the influence of strong	 under the influence of poison
+austen_northangerabbey_16_g	36	0.9444444444444444	12909	14821	he endeavoured to believe, that she 	he endeavoured to believe that the d
+radcliffe_udolpho_12_g	33	0.9090909090909091	970	8834	 with her eyes fixed on the floor	 with her eyes fixed on the far-d
+radcliffe_udolpho_12_g	30	0.9	3759	10078	, she perceived all the danger	, she perceived all the intere
+radcliffe_udolpho_12_g	30	0.9	4439	2520	 circumstances of your conduct	 circumstances of her conduct.
+radcliffe_udolpho_12_g	30	0.9	5602	5188	ed by the consciousness of no 	ed by the consciousness of Mad
+radcliffe_udolpho_27_g	30	0.9666666666666667	5799	4778	 to which it had reduced him, 	 to which it had reduced him. 
+radcliffe_udolpho_14_g	42	0.9285714285714286	13420	19787	 Emily withdrew to her own room, that she 	 Emily withdrew to her own room, when she 
+radcliffe_udolpho_41_g	37	0.9459459459459459	3538	20636	 Emily was too much affected by this 	 Emily was too much affected by the n
+radcliffe_udolpho_41_g	32	0.9375	4964	15542	, and walked about the room in g	, and walked about the room and 
+doyle_scarlet_8_d	30	0.9	15739	14109	 had excited her curiosity, bu	 had excited their curiosity. 
+radcliffe_udolpho_35_g	30	0.9	663	19751	 for a considerable time, unab	 for a considerable time, a da
+radcliffe_udolpho_35_g	30	0.9	8080	7349	 a conversation, which can ans	 a conversation, which was pas
+radcliffe_udolpho_35_g	31	0.9032258064516129	12907	3385	 she endeavoured to believe, th	 she endeavoured to relieve her

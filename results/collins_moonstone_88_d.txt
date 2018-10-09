@@ -1,0 +1,494 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_11_d	30	0.9333333333333333	4104	47584	, however, there was an except	, however, there was an excell
+doyle_adventures_11_d	33	0.9090909090909091	89050	26521	 capacity of self-restraint. His 	 capacity for self-restraint. Dis
+doyle_adventures_11_d	30	0.9	100590	19803	 what he had done with the Dia	 what he had done with the thr
+collins_hauntedhotel_18_u	37	0.918918918918919	15248	737	 in the presence of witnesses whose t	 in the presence of witnesses how he 
+collins_hauntedhotel_18_u	32	1.0	83951	4460	 him completely by surprise. He 	 him completely by surprise. He 
+radcliffe_udolpho_43_g	33	0.9090909090909091	73155	15405	ly silent on the subject of human	ly silent on the subject of her a
+stoker_dracula_7_g	31	0.9354838709677419	30399	12090	 It is needless to say that I e	 It is needless to say that the
+stoker_dracula_17_g	35	0.9142857142857143	81584	23476	me to the conclusion that the dose 	me to the conclusion that the best 
+doyle_adventures_8_d	30	0.9	42793	25617	 It was nearly one o’clock bef	 It was nearly one o'clock whe
+doyle_adventures_8_d	30	0.9	80232	12198	 communication between the two	 communication between them, b
+doyle_adventures_8_d	42	0.9285714285714286	80232	40643	 communication between the two rooms. Mr. 	 communication between the two rooms. It c
+doyle_adventures_8_d	36	0.9166666666666666	81584	49249	me to the conclusion that the dose o	me to the conclusion that the doctor
+shelley_frankenstein_44_g	32	0.90625	34448	4088	 to become acquainted with him, 	 to become acquainted with it. B
+collins_moonstone_86_d	32	0.90625	278	28950	 morally incapable of speaking t	 morally incapable of saying it.
+collins_moonstone_86_d	30	1.0	10714	12404	e of some assistance to me in 	e of some assistance to me in 
+collins_moonstone_86_d	34	0.9117647058823529	13309	22802	 of Miss Verinder’s birthday, in L	 of Miss Verinder’s birthday. And 
+collins_moonstone_86_d	31	0.9032258064516129	28362	15474	. Godfrey Ablewhite was away tr	. Godfrey Ablewhite was a third
+collins_moonstone_86_d	33	0.9696969696969697	30398	26086	” It is needless to say that I ea	” It is needless to say that I de
+collins_moonstone_86_d	30	1.0	42212	7118	 the necessary directions for 	 the necessary directions for 
+collins_moonstone_86_d	33	0.9090909090909091	44378	4470	. Under these circumstances, and 	. Under these circumstances, I pr
+collins_moonstone_86_d	33	0.9090909090909091	53881	4470	. Under these circumstances, she 	. Under these circumstances, I pr
+collins_moonstone_86_d	30	1.0	92898	22776	 the house, on the evening of 	 the house, on the evening of 
+dickens_christmascarole_5_g	30	0.9	80003	1463	to the sitting-room, and I wen	to the sitting-room, and was n
+collins_moonstone_87_d	30	0.9	6957	31888	room and took the Diamond, in 	room and took the Diamond. Giv
+collins_moonstone_87_d	30	1.0	20273	18667	 of the theft of the Diamond. 	 of the theft of the Diamond. 
+collins_moonstone_87_d	30	0.9	26540	2510	d Ezra Jennings, “that the inf	d Ezra Jennings, “that he live
+collins_moonstone_87_d	30	0.9	35284	2678	ed before he was taken ill. Th	ed before he was taken ill?” a
+collins_moonstone_87_d	31	0.9032258064516129	36152	16038	 my assertion to the proof. She	 my assertion to the proof—ther
+collins_moonstone_87_d	42	0.9047619047619048	103935	31875	 entered this room, and took the Diamond, 	 entered the room and took the Diamond. Gi
+collins_moonstone_87_d	30	0.9666666666666667	104160	30445	ithout a moment’s hesitation. 	ithout a moment’s hesitation I
+collins_moonstone_87_d	30	0.9	106318	19367	ne word about the Diamond,” he	ne word about the Diamond esca
+austen_northangerabbey_30_g	30	0.9	54545	12739	 a reconciliation between two 	 a reconciliation between Morl
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+austen_northangerabbey_10_g	30	0.9	23143	3651	 themselves from the state of 	 themselves from the rest of t
+collins_hauntedhotel_13_u	31	0.9032258064516129	92436	8101	 encouraged him to talk to me; 	 encourage him to talk to her a
+collins_moonstone_45_d	30	0.9333333333333333	8365	2652	k under the circumstances. I o	k under the circumstances, I b
+collins_moonstone_45_d	30	0.9	60791	42	 page one hundred and seventy-	 page one hundred and twenty-n
+collins_moonstone_45_d	32	0.90625	92675	1784	 the story of the Moonstone, whi	 the story of the Moonstone in t
+collins_moonstone_45_d	30	0.9	106158	3323	ing what Robinson Crusoe did, 	ing what Robinson Crusoe saw, 
+collins_hauntedhotel_28_u	30	0.9	11755	8521	 nerves are out of order, and 	 nerves are out of order, Henr
+radcliffe_udolpho_20_g	33	0.9090909090909091	6517	46628	 the subject of a conversation be	 the subject of our conversation 
+collins_moonstone_78_d	31	0.9032258064516129	13312	12470	 Miss Verinder’s birthday, in L	 Miss Verinder’s birthday; and 
+collins_moonstone_78_d	33	0.9090909090909091	26155	16024	ence to you,” he said, “and with 	ence to you,” he said; “and the c
+collins_moonstone_78_d	30	0.9	26955	18522	 in Mr. Luker’s possession the	 in Mr. Luker’s possession. Ha
+collins_moonstone_78_d	31	1.0	30398	4227	” It is needless to say that I 	” It is needless to say that I 
+collins_moonstone_78_d	30	0.9	44193	17733	ed that the Moonstone had been	ed that the Moonstone had foun
+collins_moonstone_78_d	38	0.9473684210526315	44195	20514	 that the Moonstone had been pledged t	 that the Moonstone has been pledged; 
+collins_moonstone_78_d	39	0.9230769230769231	44305	13648	 knowledge of the Indian character no o	 knowledge of the Indian character—and 
+collins_moonstone_78_d	31	0.967741935483871	55767	1747	 the subject of the Moonstone. 	 the subject of the Moonstone w
+collins_moonstone_78_d	30	1.0	92869	7766	 appearance of the Indians at 	 appearance of the Indians at 
+collins_moonstone_78_d	30	0.9	100597	11132	e had done with the Diamond, w	e had done with the Diamond—fo
+collins_moonstone_78_d	30	0.9333333333333333	107040	21367	 person who has pledged the Di	 person who has pledged the Mo
+stoker_dracula_22_g	30	0.9	8366	22713	 under the circumstances. I on	 under the circumstances it wo
+stoker_dracula_22_g	31	1.0	81584	27084	me to the conclusion that the d	me to the conclusion that the d
+collins_hauntedhotel_9_u	34	0.9117647058823529	52642	4515	, and walked out of the room. “Do 	, and walked out of the room. Mr. 
+collins_hauntedhotel_9_u	30	0.9	55436	3210	 acknowledges the receipt (thr	 acknowledge the receipt of th
+collins_hauntedhotel_9_u	30	0.9	58198	2997	 in a mysterious whisper. I co	 in a mysterious whisper. 'For
+radcliffe_udolpho_19_g	30	0.9	1298	48874	e room, which communicated by 	e room, which communicated wit
+radcliffe_udolpho_19_g	30	0.9	1894	16731	e furniture of the room. The b	e furniture of the room, she t
+radcliffe_udolpho_19_g	30	0.9	32578	15486	 in the morning, before I coul	 in the morning, before I rose
+radcliffe_udolpho_19_g	30	0.9333333333333333	77007	63469	 followed him into the room. A	 followed him into the room, e
+collins_hauntedhotel_21_u	33	0.9090909090909091	44378	12111	. Under these circumstances, and 	. Under these circumstances, but 
+collins_hauntedhotel_21_u	33	0.9090909090909091	53881	12111	. Under these circumstances, she 	. Under these circumstances, but 
+collins_moonstone_59_d	30	0.9	10714	314	e of some assistance to me in 	e of some assistance to me bef
+collins_moonstone_59_d	30	0.9	27623	1286	there was no denying that it w	there was no denying that. Sti
+collins_moonstone_59_d	30	0.9	30600	18221	 when you get back to the hote	 when you go back to the house
+collins_moonstone_59_d	31	0.9032258064516129	39153	28345	not find it in my heart to disa	not find it in my heart to leav
+collins_moonstone_59_d	30	0.9	44761	28213	 was at the bottom of all this	 was at the bottom of it this 
+collins_moonstone_59_d	30	0.9333333333333333	51388	18293	 with the greatest pleasure. B	 with the greatest pleasure,” 
+collins_moonstone_59_d	30	0.9666666666666667	58584	1914	 this extraordinary question t	 this extraordinary question u
+collins_moonstone_59_d	30	0.9	79176	8969	 you will please to observe, w	 you will please to observe—pu
+collins_moonstone_59_d	31	0.9032258064516129	90252	5677	 at a little distance, so that 	 at a little distance for what 
+collins_moonstone_59_d	31	0.9032258064516129	90549	7113	, where the glare of the light 	, where the last of the light s
+poe_pitandpendulum_1_g	36	0.9166666666666666	96171	21386	. There was another interval of sile	. There was another interval of utte
+radcliffe_udolpho_42_g	31	0.967741935483871	18948	17925	 recollected that he had left t	 recollected that she had left 
+radcliffe_udolpho_42_g	35	1.0	96769	12578	e sat down on the side of the bed. 	e sat down on the side of the bed. 
+collins_moonstone_55_d	30	0.9	23376	21754	 the drawers of the cabinet, u	 the drawer of the cabinet the
+collins_moonstone_55_d	31	0.9354838709677419	96707	21751	 in the drawer of her cabinet. 	 in the drawer of the cabinet t
+doyle_signoffour_12_d	30	0.9	1711	12470	 in the middle of the floor; a	 in the middle of the fort, an
+doyle_signoffour_12_d	34	0.9117647058823529	81584	37981	me to the conclusion that the dose	me to the conclusion that this sec
+doyle_signoffour_12_d	30	0.9	91051	26488	 deeply interested in them as 	 deeply interested in the stor
+shelley_frankenstein_38_g	31	0.9032258064516129	74677	13794	e of my fellow-creatures, that 	e of my fellow-creatures, and r
+collins_moonstone_54_d	35	0.9142857142857143	6555	17962	 Lady Verinder and her daughter——” 	 Lady Verinder and her daughter, to
+collins_moonstone_54_d	39	0.9230769230769231	11766	11988	 out of order, and that he ought to tak	 out of order and that he ought to go t
+collins_moonstone_54_d	54	0.9074074074074074	12066	12452	 heard of the blind leading the blind, and now I know 	 heard of the blind leading the blind, and now, for th
+collins_moonstone_54_d	30	0.9333333333333333	33963	18510	 of your life, Mr. Franklin, b	 of your life, Mr. Franklin Bl
+collins_moonstone_54_d	34	0.9705882352941176	62243	23903	n’t believe in _Robinson Crusoe_? 	n’t believe in _Robinson Crusoe_, 
+collins_moonstone_54_d	34	0.9411764705882353	76265	16382	 what you have just told me.” Her 	 what you have just told me.” Mr. 
+collins_moonstone_54_d	30	0.9333333333333333	85564	10183	e addressed himself to the law	e addressed himself to the wro
+collins_hauntedhotel_12_u	31	0.9032258064516129	41206	3659	e will only consent to it. Afte	e will only consent to it.' She
+collins_hauntedhotel_12_u	34	0.9117647058823529	91017	12195	 with every appearance of being as	 with every appearance of feeling 
+collins_hauntedhotel_12_u	36	0.9166666666666666	100892	9680	 the farther end of the room. There 	 the farther end of the room. Henry 
+christie_secretadversary_21_d	34	0.9117647058823529	71383	738	 beforehand that he is going to ta	 beforehand that she was going to 
+lewis_monk_11_g	31	0.9354838709677419	30399	78134	 It is needless to say that I e	 It is needless to say that The
+lewis_monk_11_g	30	0.9	43780	39202	without mentioning names) to a	without mentioning names or ci
+christie_secretadversary_12_d	30	0.9333333333333333	1711	17639	 in the middle of the floor; a	 in the middle of the floor. T
+doyle_scarlet_6_d	33	0.9696969696969697	28390	11100	 travelling on the Continent. It 	 travelling on the Continent. I n
+shelley_frankenstein_43_g	30	0.9	76768	7337	ted by the appearance of Bette	ted by the appearance of the h
+stoker_dracula_13_g	33	0.9090909090909091	44378	922	. Under these circumstances, and 	. Under the circumstances, Van He
+stoker_dracula_13_g	30	0.9	53881	922	. Under these circumstances, s	. Under the circumstances, Van
+collins_moonstone_63_d	34	0.9117647058823529	29758	7099	ed, and considered for a moment. “	ed, and considered for a minute. “
+collins_moonstone_63_d	34	0.9117647058823529	33578	8583	I have a word to say to you. You a	I have a word to say to you about 
+collins_moonstone_63_d	31	0.967741935483871	45564	8524	, and addressed himself to me o	, and addressed himself to me. 
+collins_moonstone_63_d	30	0.9	74355	8143	 recovered herself instantly, 	 recovered himself instantly. 
+collins_moonstone_71_d	30	0.9	44976	12995	 the slightest effect on his m	 the slightest effect on us, w
+collins_moonstone_71_d	32	0.90625	109429	15556	 a little while. I said I would 	 a little sleep. I said I would 
+doyle_adventures_10_d	34	0.9117647058823529	36276	28229	 the true solution of the mystery 	 the true solution of the matter. 
+doyle_adventures_10_d	30	0.9	82862	36546	 out of the window at the nigh	 out of the window at the othe
+collins_moonstone_57_d	35	0.9714285714285714	6932	2168	 Miss Verinder’s sitting-room and t	 Miss Verinder’s sitting-room, and 
+collins_moonstone_57_d	34	0.9411764705882353	24222	3592	 “That is the very point I was com	 “That is the very point I was abo
+collins_moonstone_57_d	31	1.0	24467	2168	 Miss Verinder’s sitting-room, 	 Miss Verinder’s sitting-room, 
+collins_moonstone_57_d	31	0.9032258064516129	24739	4060	 the Diamond, and that the plac	 the Diamond, and that the seco
+collins_moonstone_57_d	31	1.0	29162	2168	 Miss Verinder’s sitting-room, 	 Miss Verinder’s sitting-room, 
+collins_moonstone_57_d	30	0.9666666666666667	49071	2169	Miss Verinder’s sitting-room t	Miss Verinder’s sitting-room, 
+collins_moonstone_57_d	35	0.9142857142857143	50048	2168	 Miss Verinder’s sitting-room, to b	 Miss Verinder’s sitting-room, and 
+collins_moonstone_57_d	30	0.9666666666666667	52558	8415	 ring the bell and order them 	 ring the bell, and order the 
+collins_moonstone_57_d	31	0.967741935483871	73615	2168	 Miss Verinder’s sitting-room. 	 Miss Verinder’s sitting-room, 
+collins_moonstone_57_d	31	0.967741935483871	83894	2168	 Miss Verinder’s sitting-room. 	 Miss Verinder’s sitting-room, 
+collins_moonstone_57_d	30	0.9	96710	2541	 the drawer of her cabinet. An	 the drawer in the cabinet. An
+collins_hauntedhotel_2_u	30	0.9	26331	2056	 me for reminding you, that yo	 me for reminding you that I h
+doyle_adventures_6_d	31	0.9032258064516129	83226	29431	 a little slip of paper into my	 a little slip of paper in the 
+doyle_adventures_6_d	30	0.9	101831	12193	 his head sank on his breast. 	 his head sunk upon his breast
+doyle_adventures_6_d	30	0.9	102062	35718	 twenty-five minutes past one 	 twenty-five minutes past four
+radcliffe_udolpho_56_g	30	0.9	90252	5648	 at a little distance, so that	 at a little distance, startle
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+radcliffe_udolpho_38_g	31	0.9032258064516129	96574	14447	, and walked slowly to the othe	, and walked slowly into the wo
+collins_moonstone_75_d	31	0.9354838709677419	25244	17055	 started, and looked at me in g	 started, and looked at him in 
+collins_moonstone_75_d	34	1.0	52638	23540	 bow, and walked out of the room. 	 bow, and walked out of the room. 
+collins_moonstone_75_d	31	1.0	85530	28894	?” Before I could answer, Mr. B	?” Before I could answer, Mr. B
+collins_moonstone_75_d	36	0.9166666666666666	99160	10884	 the middle of the room, with the ca	 the middle of the room, with his ba
+collins_moonstone_75_d	33	0.9090909090909091	99826	10881	 in the middle of the room, he mo	 in the middle of the room, with 
+collins_moonstone_75_d	33	0.9090909090909091	103619	10881	 in the middle of the room, on wh	 in the middle of the room, with 
+collins_moonstone_46_d	30	0.9333333333333333	45668	6894	n fifty years in the service o	n fifty years in her service, 
+collins_moonstone_46_d	43	0.9534883720930233	45744	837	 the service of the old lord, her father. I	 the service of the old lord, their father 
+collins_moonstone_46_d	34	0.9117647058823529	45744	1071	 the service of the old lord, her 	 the service of the old lord, as p
+collins_hauntedhotel_17_u	30	0.9333333333333333	16617	5191	 a repetition of the result. T	 a repetition of the result of
+christie_secretadversary_18_d	34	0.9411764705882353	81586	18229	 to the conclusion that the dose o	 to the conclusion that the house 
+christie_secretadversary_18_d	30	0.9666666666666667	84652	16339	, and knocked at the door of c	, and knocked at the door of t
+radcliffe_udolpho_9_g	37	0.9459459459459459	56309	9490	 of all that had happened since the i	 of all that had happened, since she 
+collins_moonstone_68_d	34	0.9411764705882353	27335	20093	t of a valuable of great price. Th	t of a valuable of great price whi
+collins_moonstone_68_d	31	0.9032258064516129	37381	1315	 to Mr. Franklin Blake. I am au	 to Mr. Franklin Blake. I have 
+doyle_adventures_3_d	30	0.9	101831	30970	 his head sank on his breast. 	 his head sunk upon his breast
+stoker_dracula_19_g	30	0.9	82855	23917	 looked out of the window at t	 looked out of the window agai
+stoker_dracula_19_g	31	0.9354838709677419	99497	15271	e suspected that there was a li	e suspected that there was any 
+lewis_monk_3_g	33	0.9090909090909091	1013	41491	, I made the best of my way out o	, I made the best of my way towar
+lewis_monk_3_g	30	0.9	45569	52610	 addressed himself to me once 	 addressed himself to me, and 
+lewis_monk_3_g	30	0.9	65931	33434	 as it is possible for me to j	 as it is possible for you to 
+lewis_monk_3_g	31	0.9354838709677419	82853	10602	 I looked out of the window at 	 I looked out of the window, I 
+lewis_monk_3_g	31	0.967741935483871	96593	24990	 to the other end of the room. 	 to the other end of the room, 
+collins_moonstone_69_d	31	0.9032258064516129	27250	11349	 heard of the Moonstone; and hi	 heard of the Moonstone. And th
+collins_moonstone_69_d	32	0.9375	30398	22462	” It is needless to say that I e	” It is needless to say that my 
+collins_moonstone_69_d	39	0.9230769230769231	44967	10125	 produced the slightest effect on his m	 produced the slightest effect on her. 
+collins_moonstone_69_d	30	0.9333333333333333	96596	14656	 the other end of the room. He	 the other end of the room. “I
+collins_moonstone_69_d	30	0.9	106435	13508	 that the Moonstone is in the 	 that the Moonstone is in pled
+doyle_scarlet_14_d	32	0.9375	81584	4873	me to the conclusion that the do	me to the conclusion that he had
+doyle_scarlet_14_d	32	0.90625	107147	1437	 able to lay my hand on the pers	 able to lay my hand upon the cr
+collins_moonstone_89_d	38	0.9210526315789473	4074	51404	. On the night of the birthday, howeve	. On the night of the birthday, theref
+collins_moonstone_89_d	30	0.9333333333333333	5040	51810	e subject of his profession?” 	e subject of his profession; a
+collins_moonstone_89_d	35	0.9714285714285714	6932	55379	 Miss Verinder’s sitting-room and t	 Miss Verinder’s sitting-room, and 
+collins_moonstone_89_d	32	0.90625	13233	250	 under the influence of the laud	 under the influence of the opiu
+collins_moonstone_89_d	33	0.9696969696969697	13309	50443	 of Miss Verinder’s birthday, in 	 of Miss Verinder’s birthday (in 
+collins_moonstone_89_d	33	0.9393939393939394	15226	79102	, for the second time, in the pre	, for the second time, in these r
+collins_moonstone_89_d	30	0.9	16313	39878	 questions concerning the Diam	 questions, concerning the lat
+collins_moonstone_89_d	44	0.9090909090909091	23777	56957	 absolutely ignorant of what you had done in	 absolutely ignorant of what you had said an
+collins_moonstone_89_d	31	1.0	24467	55379	 Miss Verinder’s sitting-room, 	 Miss Verinder’s sitting-room, 
+collins_moonstone_89_d	32	0.90625	24902	250	 under the influence of the seco	 under the influence of the opiu
+collins_moonstone_89_d	31	0.9354838709677419	24990	250	 under the influence of the fir	 under the influence of the opi
+collins_moonstone_89_d	34	0.9117647058823529	26562	256	 the influence of the opium—after 	 the influence of the opium—from t
+collins_moonstone_89_d	30	0.9	27033	58052	 that the Moonstone was taken 	 that the Moonstone was to be 
+collins_moonstone_89_d	32	1.0	27339	36552	 a valuable of great price. The 	 a valuable of great price. The 
+collins_moonstone_89_d	30	0.9	27968	15971	 experiment with the opium. We	 experiment with the opium, an
+collins_moonstone_89_d	31	1.0	29162	55379	 Miss Verinder’s sitting-room, 	 Miss Verinder’s sitting-room, 
+collins_moonstone_89_d	30	0.9333333333333333	30399	58618	 It is needless to say that I 	 It is needless to say, that M
+collins_moonstone_89_d	31	0.9354838709677419	30399	79672	 It is needless to say that I e	 It is needless to say that my 
+collins_moonstone_89_d	32	0.96875	31524	90	 the Journal of Ezra Jennings._ 	 the Journal of Ezra Jennings. O
+collins_moonstone_89_d	33	0.9090909090909091	33579	46690	 have a word to say to you. You a	 have a word to say to you on tha
+collins_moonstone_89_d	33	0.9090909090909091	33649	15971	 experiment with the opium was no	 experiment with the opium, and o
+collins_moonstone_89_d	30	0.9333333333333333	35549	15959	d him of the experiment which 	d him of the experiment with t
+collins_moonstone_89_d	30	0.9666666666666667	44377	29397	o. Under these circumstances, 	o. Under those circumstances, 
+collins_moonstone_89_d	32	0.90625	44378	51710	. Under these circumstances, and	. Under those circumstances, wha
+collins_moonstone_89_d	30	0.9666666666666667	49071	55380	Miss Verinder’s sitting-room t	Miss Verinder’s sitting-room, 
+collins_moonstone_89_d	38	0.9210526315789473	50045	55376	 to Miss Verinder’s sitting-room, to b	 to Miss Verinder’s sitting-room, and 
+collins_moonstone_89_d	33	0.9393939393939394	53881	29398	. Under these circumstances, she 	. Under those circumstances, the 
+collins_moonstone_89_d	31	0.9354838709677419	53881	51710	. Under these circumstances, sh	. Under those circumstances, wh
+collins_moonstone_89_d	35	0.9142857142857143	62246	72047	 believe in _Robinson Crusoe_? Mr. 	 believe in _Robinson Crusoe_?” I a
+collins_moonstone_89_d	32	0.9375	65874	57685	t question, is the question of M	t question, was the question of 
+collins_moonstone_89_d	30	0.9	69638	24234	 of the Indian conspiracy to s	 of the Indian conspiracy. Was
+collins_moonstone_89_d	34	0.9705882352941176	73612	55376	 to Miss Verinder’s sitting-room. 	 to Miss Verinder’s sitting-room, 
+collins_moonstone_89_d	37	0.9459459459459459	80224	54317	 door of communication between the tw	 door of communication between them. 
+collins_moonstone_89_d	30	0.9666666666666667	80970	11167	er had gone back to his own ro	er had gone back to his own ho
+collins_moonstone_89_d	31	0.9354838709677419	82946	51408	 the night of the birthday—the 	 the night of the birthday, the
+collins_moonstone_89_d	33	0.9696969696969697	83892	55377	to Miss Verinder’s sitting-room. 	to Miss Verinder’s sitting-room, 
+collins_moonstone_89_d	30	0.9	84668	54658	 the door of communication. Mr	 the door of communication, fo
+collins_moonstone_89_d	32	0.90625	84668	56110	 the door of communication. Mr. 	 the door of communication. At a
+collins_moonstone_89_d	31	0.9032258064516129	92909	63934	 on the evening of the birthday	 on the events of the birthday,
+collins_moonstone_89_d	47	0.9361702127659575	96523	54949	The Indians may be hidden in the house.” He sto	The Indians may be hidden in the house.” Up to 
+collins_moonstone_89_d	30	0.9	96596	37995	 the other end of the room. He	 the other end of the room, wa
+collins_moonstone_89_d	65	0.9230769230769231	96895	54932	 “How do I know? The Indians may be hidden in the house.” He wait	 “How do I know? The Indians may be hidden in the house.” Up to t
+collins_moonstone_89_d	32	0.96875	98818	55497	 between the door and the post. 	 between the door and the post, 
+collins_moonstone_89_d	32	0.90625	100598	16240	 had done with the Diamond, when	 had done with the Diamond, afte
+collins_moonstone_89_d	45	0.9111111111111111	100771	250	 under the influence of the opium for the fir	 under the influence of the opium—from the ti
+collins_moonstone_89_d	30	0.9	104250	16249	 with the Diamond, after he wa	 with the Diamond, after I had
+collins_moonstone_89_d	32	0.9375	106722	8455	 case,” rejoined Mr. Bruff, “is 	 case,” rejoined Mr. Bruff, “I w
+collins_moonstone_81_d	32	0.90625	96770	10949	 sat down on the side of the bed	 sat down on the slope of the be
+christie_secretadversary_25_d	30	0.9333333333333333	8366	14724	 under the circumstances. I on	 under the circumstances. It w
+christie_secretadversary_25_d	30	0.9	96770	15570	 sat down on the side of the b	 sat down on the edge of the t
+radcliffe_udolpho_23_g	33	0.9090909090909091	90526	2546	 at the head of the bed, where th	 at the head of the table, where 
+collins_moonstone_79_d	30	0.9	44461	6515	 decline entering into any dis	 decline entering into any cor
+collins_moonstone_79_d	31	0.9032258064516129	53884	2392	nder these circumstances, she v	nder these circumstances; they 
+collins_moonstone_79_d	30	0.9	54760	5589	 to Mrs. Merridew, and regrets	 to Mrs. Merridew, and request
+collins_moonstone_79_d	33	0.9090909090909091	56308	3266	, of all that had happened since 	, of all that had happened in my 
+poe_marieroget_1_d	37	0.918918918918919	722	72838	s three o’clock in the afternoon. I r	s three o’clock in the afternoon, is 
+poe_marieroget_1_d	30	0.9666666666666667	13233	44613	 under the influence of the la	 under the influence of the ga
+poe_marieroget_1_d	32	0.9375	16223	65513	 circumstances which surrounded 	 circumstances which surround it
+poe_marieroget_1_d	30	0.9	22353	44252	he effect produced by the opiu	he effect produced by the firi
+poe_marieroget_1_d	31	0.9354838709677419	24902	44613	 under the influence of the sec	 under the influence of the gas
+poe_marieroget_1_d	34	0.9117647058823529	24988	44611	nd under the influence of the firs	nd under the influence of the gas.
+poe_marieroget_1_d	32	0.9375	28180	65513	 circumstances which surrounded 	 circumstances which surround it
+poe_marieroget_1_d	30	0.9	53880	100574	e. Under these circumstances, 	e. Under the circumstances of 
+poe_marieroget_1_d	31	0.9032258064516129	65790	72844	e o’clock in the afternoon. We 	e o’clock in the afternoon, is 
+poe_marieroget_1_d	30	0.9333333333333333	100771	44613	 under the influence of the op	 under the influence of the ga
+doyle_scarlet_7_d	33	0.9696969696969697	104126	2263	 answered me in the affirmative, 	 answered me in the affirmative. 
+doyle_signoffour_4_d	30	0.9	27227	20282	 declares that he never heard 	 declares that he overheard me
+doyle_signoffour_4_d	30	0.9333333333333333	81584	18442	me to the conclusion that the 	me to the conclusion that it w
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+collins_hauntedhotel_20_u	33	0.9090909090909091	26235	12943	 the opinion which I expressed ju	 the opinion which you expressed 
+radcliffe_udolpho_55_g	35	0.9142857142857143	54343	3339	 of the opinion of the world. She h	 of the opinion of the world, when 
+doyle_baskervilles_3_u	30	0.9	27792	11244	” “On the contrary, I shall be	” “On the contrary, I have bee
+doyle_baskervilles_3_u	30	0.9	42792	9773	. It was nearly one o’clock be	. It was nearly nine o’clock w
+doyle_signoffour_3_d	32	0.90625	2024	8833	e garden, and the faint intermit	e garden, and then again intermi
+stoker_dracula_23_g	31	0.9032258064516129	110365	829	 again to the realities of my f	 again to the realities of life
+stoker_dracula_25_g	31	0.967741935483871	54893	16064	 this morning, was the same as 	 this morning was the same as u
+stoker_dracula_6_g	30	0.9333333333333333	107749	28591	 shook hands with me, and left	 shook hands with me, and bles
+austen_northangerabbey_9_g	32	0.96875	75305	4324	 thousand things to say to you, 	 thousand things to say to you; 
+radcliffe_udolpho_26_g	30	0.9	28686	11117	 that it would be vain to expe	 that it would be vain to atte
+collins_moonstone_58_d	30	0.9	40081	14552	. I told him exactly what I wa	. I told him exactly what had 
+collins_moonstone_58_d	31	0.9354838709677419	69084	250	’s favourite walk when he was h	’s favourite walk. When he was 
+christie_styles_10_d	34	0.9705882352941176	61474	3100	 “Not the least in the world.” Bet	 “Not the least in the world.” But
+lewis_monk_9_g	32	0.90625	45366	58209	 and seated himself at the table	 and seated himself by the Table
+lewis_monk_9_g	32	0.90625	62027	30616	 tell me what has happened,” he 	 tell me what has happened, and 
+lewis_monk_9_g	34	0.9117647058823529	99160	21905	 the middle of the room, with the 	 the middle of the room when the L
+lewis_monk_9_g	30	0.9	99829	21905	 the middle of the room, he mo	 the middle of the room when t
+christie_styles_13_d	32	0.90625	81584	19137	me to the conclusion that the do	me to the conclusion that if he 
+collins_moonstone_77_d	51	0.9019607843137255	25792	9678	 had put precisely the same question to Mr. Bruff w	 had put precisely the same question to Mr. Luker, 
+collins_moonstone_77_d	30	0.9	29641	82	s on the subject of the lost D	s on the subject of the Moonst
+collins_moonstone_77_d	34	0.9705882352941176	55764	83	 on the subject of the Moonstone. 	 on the subject of the Moonstone, 
+collins_moonstone_77_d	34	1.0	104156	4095	e, without a moment’s hesitation. 	e, without a moment’s hesitation. 
+doyle_baskervilles_6_u	34	0.9705882352941176	89611	18228	ing restlessly from side to side o	ing restlessly from side to side, 
+doyle_baskervilles_6_u	32	0.9375	96371	7270	 gleamed in the light of the can	 gleamed in the light of the sin
+collins_moonstone_70_d	32	0.9375	6091	2770	 anxiety about the Diamond, at t	 anxiety about the Diamond, and 
+collins_moonstone_70_d	30	0.9	6184	2770	 anxiety about the Diamond. I 	 anxiety about the Diamond, an
+collins_moonstone_70_d	30	0.9	8531	439	, without my knowing it myself	, without knowing it myself.” 
+collins_moonstone_70_d	30	0.9	27340	10988	a valuable of great price. The	a valuable of great price,’ wh
+collins_moonstone_70_d	30	0.9	45741	7161	 in the service of the old lor	 in the service of the world. 
+collins_moonstone_70_d	31	0.9032258064516129	106210	15251	n.” With those words he signed 	n.” With those words he turned 
+stoker_dracula_18_g	30	0.9	5429	31625	 I thought of it afterwards—en	 I thought of it afterwards--f
+stoker_dracula_18_g	30	0.9	85564	4396	e addressed himself to the law	e addressed himself to the que
+stoker_dracula_18_g	34	1.0	96770	35652	 sat down on the side of the bed. 	 sat down on the side of the bed. 
+collins_hauntedhotel_26_u	32	0.96875	13229	21072	ting under the influence of the 	ting under the influence of her 
+collins_hauntedhotel_26_u	30	0.9	24902	21076	 under the influence of the se	 under the influence of her ow
+collins_hauntedhotel_26_u	30	0.9	24990	21076	 under the influence of the fi	 under the influence of her ow
+collins_hauntedhotel_26_u	30	0.9	97345	7870	. Was it possible that the sed	. Was it possible that the Cou
+collins_hauntedhotel_26_u	30	0.9333333333333333	100771	21076	 under the influence of the op	 under the influence of her ow
+stoker_dracula_11_g	31	1.0	43054	22133	 to the window and looked out, 	 to the window and looked out, 
+collins_moonstone_85_d	30	0.9	14729	944	e suspicion that rests on me n	e suspicion that rested on my 
+collins_moonstone_85_d	36	0.9166666666666666	24347	8901	 means of vindicating your innocence	 means of vindicating my innocence i
+collins_moonstone_85_d	32	0.9375	32418	15351	in, at the usual time in the ear	in, at the usual time in the mor
+collins_moonstone_85_d	30	0.9333333333333333	34855	12973	 useless to ask these question	 useless to ask the question. 
+collins_moonstone_85_d	35	0.9428571428571428	94691	4680	. In the breathless interest of wat	. In the breathless interest of try
+collins_moonstone_85_d	30	0.9333333333333333	99157	13428	 to the middle of the room, wi	 to the middle of the room, an
+collins_moonstone_85_d	38	0.9473684210526315	99862	13515	 to the corner near the window, where 	 to the corner near the window—where m
+collins_moonstone_85_d	132	0.9015151515151515	99936	13908	 candle on the top of the cabinet. He opened, and shut, one drawer after another, until he came to the drawer in which the mock Diam	 candle on the top of the cabinet. You opened, and shut, one drawer after another, until you came to the drawer in which I had put m
+collins_moonstone_85_d	50	0.92	100199	14445	 took the candle from the top of the cabinet. He w	 took the candle from the top of the cabinet with 
+collins_moonstone_85_d	32	0.90625	100278	12641	s the middle of the room, and st	s the middle of the room—and the
+collins_moonstone_85_d	30	0.9666666666666667	100279	13431	 the middle of the room, and s	 the middle of the room, and h
+collins_moonstone_85_d	30	0.9	101035	13428	 to the middle of the room. I 	 to the middle of the room, an
+collins_moonstone_85_d	30	0.9333333333333333	103622	13431	 the middle of the room, on wh	 the middle of the room, and h
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+doyle_adventures_12_d	30	0.9	83443	35568	 of this part of the house unt	 of this part of the house. Th
+doyle_scarlet_13_d	30	0.9	95817	16966	he pulses at my temples beat f	he pulses in my temples beat l
+radcliffe_udolpho_16_g	30	0.9	16614	7745	 to a repetition of the result	 to a repetition of the first;
+radcliffe_udolpho_16_g	35	0.9142857142857143	44385	40086	 these circumstances, and with the 	 these circumstances, and that he w
+radcliffe_udolpho_16_g	31	0.9032258064516129	53188	57512	 not pretend to understand the 	 not pretend to understand any 
+radcliffe_udolpho_16_g	31	0.9032258064516129	53188	58123	 not pretend to understand the 	 not pretend to understand all 
+radcliffe_udolpho_16_g	31	0.9032258064516129	90252	71137	 at a little distance, so that 	 at a little distance, on the r
+radcliffe_udolpho_16_g	31	0.9032258064516129	97105	40869	. There was a pause of some sor	. There was a pause for some mo
+radcliffe_udolpho_25_g	33	0.9090909090909091	22229	2248	 about from place to place under 	 about from place to place, ever 
+radcliffe_udolpho_33_g	30	0.9333333333333333	96591	26660	ly to the other end of the roo	ly to the other end of the cor
+doyle_baskervilles_12_u	31	0.9032258064516129	41365	20037	 suggested that she should so t	 suggested that he should come 
+doyle_baskervilles_12_u	34	0.9117647058823529	44391	8322	 circumstances, and with the many 	 circumstances, and that the man w
+doyle_baskervilles_12_u	30	0.9	81649	3882	 could not possibly have been 	 could not possibly have done 
+doyle_baskervilles_12_u	30	0.9333333333333333	96379	16779	 in the light of the candle as	 in the light of the candle fr
+dickens_christmascarole_4_g	30	0.9	6669	21840	 the table, and placed them in	 the table, and praised the in
+dickens_christmascarole_4_g	30	0.9	80018	22434	room, and I went upstairs to M	room, and went up-stairs into 
+dickens_christmascarole_4_g	31	0.9032258064516129	106087	18867	 turns out to have been in the 	 turns out to have been quite t
+austen_northangerabbey_22_g	38	0.9473684210526315	16402	2946	 as nearly as possible in the same pos	 as nearly as possible in the same sha
+collins_hauntedhotel_23_u	32	0.90625	11755	633	 nerves are out of order, and th	 nerves are out of order--and sh
+austen_northangerabbey_14_g	31	0.9032258064516129	48746	1168	” “Why not?” “Because the man w	” “Why not?” “Because they are 
+stoker_dracula_10_g	34	0.9411764705882353	23663	10122	ll into a deep sleep. When the mor	ll into a deep sleep. When the Pro
+collins_moonstone_56_d	30	0.9	3737	13424	,” he said, “that you have nev	,” he said, “that you have put
+collins_moonstone_56_d	34	0.9117647058823529	6932	8648	 Miss Verinder’s sitting-room and 	 Miss Verinder’s sitting-room,” sa
+collins_moonstone_56_d	30	0.9333333333333333	20172	662	 on the birthday night, as to 	 on the birthday night, and to
+collins_moonstone_56_d	32	0.96875	24467	8648	 Miss Verinder’s sitting-room, w	 Miss Verinder’s sitting-room,” 
+collins_moonstone_56_d	34	0.9117647058823529	29066	662	 on the birthday night, and it mus	 on the birthday night, and told m
+collins_moonstone_56_d	34	0.9411764705882353	29162	8648	 Miss Verinder’s sitting-room, mus	 Miss Verinder’s sitting-room,” sa
+collins_moonstone_56_d	31	0.9354838709677419	49071	8649	Miss Verinder’s sitting-room to	Miss Verinder’s sitting-room,” 
+collins_moonstone_56_d	32	0.96875	50048	8648	 Miss Verinder’s sitting-room, t	 Miss Verinder’s sitting-room,” 
+collins_moonstone_56_d	30	0.9666666666666667	55384	19336	 Sergeant Cuff. The Sergeant w	 Sergeant Cuff. The Sergeant s
+collins_moonstone_56_d	32	0.9375	73615	8648	 Miss Verinder’s sitting-room. T	 Miss Verinder’s sitting-room,” 
+collins_moonstone_56_d	32	0.9375	83894	8648	 Miss Verinder’s sitting-room. T	 Miss Verinder’s sitting-room,” 
+collins_moonstone_56_d	30	0.9	99158	24204	to the middle of the room, wit	to the middle of the room, and
+collins_moonstone_56_d	38	0.9210526315789473	100279	24206	 the middle of the room, and stood sti	 the middle of the room, and stopped t
+collins_moonstone_56_d	30	0.9	103622	24206	 the middle of the room, on wh	 the middle of the room, and s
+doyle_signoffour_11_d	30	0.9	101831	721	 his head sank on his breast. 	 his head sunk upon his breast
+christie_secretadversary_22_d	30	0.9	100590	6031	 what he had done with the Dia	 what he had done with the pho
+doyle_baskervilles_11_u	30	0.9	7210	21620	 with the papers in my hand co	 with the paper in my hands th
+doyle_baskervilles_11_u	31	0.9032258064516129	19555	13448	 interest in this matter. I am 	 interest in the matter. I act 
+doyle_baskervilles_11_u	30	0.9333333333333333	75467	18128	I venture to think that I thor	I venture to think that a thri
+stoker_dracula_20_g	34	0.9117647058823529	1710	21541	t in the middle of the floor; a si	t in the middle of the floor on hi
+stoker_dracula_20_g	32	0.90625	70094	4901	 moment, and told him what I wan	 moment, and told him where I wa
+stoker_dracula_20_g	31	0.9032258064516129	103619	21542	 in the middle of the room, on 	 in the middle of the floor on 
+collins_moonstone_61_d	33	0.9090909090909091	44378	1349	. Under these circumstances, and 	. Under these circumstances, is i
+collins_moonstone_61_d	34	0.9411764705882353	53880	1348	e. Under these circumstances, she 	e. Under these circumstances, is i
+collins_moonstone_80_d	30	0.9	8366	1331	 under the circumstances. I on	 under the circumstances, to o
+collins_moonstone_80_d	35	0.9142857142857143	25736	12046	 know that the Diamond is, at this 	 know that the Diamond is at the bo
+collins_moonstone_80_d	32	0.9375	51388	6521	 with the greatest pleasure. Bet	 with the greatest pleasure.” We
+collins_moonstone_80_d	35	0.9428571428571428	61367	12736	nothing more.” “You don’t feel at a	nothing more.” “You don’t feel any 
+collins_hauntedhotel_5_u	30	0.9	3559	6940	 one or two more questions?” “	 one or two more questions (qu
+collins_hauntedhotel_5_u	37	0.918918918918919	74709	9566	 was at a loss how to answer her. Not	 was at a loss how to answer her; it 
+doyle_adventures_4_d	30	0.9333333333333333	44378	6688	. Under these circumstances, a	. Under these circumstances th
+doyle_adventures_4_d	33	0.9393939393939394	53881	6688	. Under these circumstances, she 	. Under these circumstances the y
+doyle_baskervilles_9_u	37	0.918918918918919	81973	17182	 had taken the precaution of looking 	 had taken the precaution of leaving 
+doyle_baskervilles_9_u	30	0.9	82855	23526	 looked out of the window at t	 looked out of the window agai
+doyle_baskervilles_9_u	30	0.9	96382	16960	 the light of the candle as he	 the light of the candle frame
+doyle_baskervilles_9_u	30	0.9	97345	21542	. Was it possible that the sed	. Was it possible that this st
+doyle_baskervilles_9_u	30	0.9333333333333333	99160	29147	 the middle of the room, with 	 the middle of the moor, with 
+doyle_baskervilles_9_u	30	0.9	100199	19094	 took the candle from the top 	 took the candle from the trem
+doyle_baskervilles_9_u	30	0.9	103618	29143	e in the middle of the room, o	e in the middle of the moor, w
+collins_moonstone_67_d	30	0.9	26955	22807	 in Mr. Luker’s possession the	 in Mr. Luker’s possession, Mr
+collins_moonstone_67_d	40	0.925	27755	14083	, and telling him what you have said?” “	, and tell him what you have said?” “Tel
+collins_moonstone_67_d	30	0.9	37381	14899	 to Mr. Franklin Blake. I am a	 to Mr. Franklin Blake. I leav
+collins_moonstone_67_d	37	0.918918918918919	52920	20525	e. The morning’s post brought me two 	e. The morning’s post brought me a su
+collins_moonstone_67_d	31	0.967741935483871	55767	1549	 the subject of the Moonstone. 	 the subject of the Moonstone a
+collins_moonstone_67_d	33	0.9090909090909091	56312	4121	 all that had happened since the 	 all that had happened in the hou
+collins_moonstone_67_d	31	0.9032258064516129	98499	3947	 followed him down the stairs. 	 followed him down the steps. I
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+shelley_frankenstein_32_g	31	0.9354838709677419	16401	14428	, as nearly as possible in the 	, as nearly as possible in his 
+christie_styles_11_d	31	0.9032258064516129	81586	17646	 to the conclusion that the dos	 to the conclusion that he was 
+stoker_dracula_12_g	34	0.9117647058823529	76239	8692	 you have only to tell him what yo	 you have only to tell me what to 
+stoker_dracula_12_g	32	0.90625	91160	6250	 that the Law was beginning to l	 that the heat was beginning to 
+stoker_dracula_12_g	38	0.9210526315789473	98616	7129	e opened the sitting-room door, and we	e opened the dining-room door, and we 
+radcliffe_udolpho_34_g	31	0.9032258064516129	21793	45089	 the passage which I have marke	 the passage, which I have ment
+radcliffe_udolpho_34_g	30	0.9	90252	32374	 at a little distance, so that	 at a little distance, upon th
+radcliffe_udolpho_34_g	30	0.9333333333333333	96591	13479	ly to the other end of the roo	ly to the other end of the cor
+christie_styles_5_d	30	0.9	44378	5791	. Under these circumstances, a	. Under the circumstances, we 
+christie_styles_5_d	30	0.9	53881	5791	. Under these circumstances, s	. Under the circumstances, we 
+christie_styles_5_d	31	0.9032258064516129	85854	8638	 followed me out of the room, s	 followed him out of the room. 
+collins_hauntedhotel_6_u	30	0.9	13122	5342	 the conclusion at which my ow	 the conclusion at which you h
+lewis_monk_4_g	30	0.9	45569	79720	 addressed himself to me once 	 addressed himself to me, who 
+lewis_monk_4_g	35	0.9142857142857143	70642	48770	 had taken care to provide myself, 	 had taken care to provide herself 
+lewis_monk_4_g	30	0.9	96596	28115	 the other end of the room. He	 the other end of the room, an
+lewis_monk_4_g	30	0.9	99826	76678	 in the middle of the room, he	 in the middle of the room. Ro
+lewis_monk_4_g	30	0.9	101038	76681	 the middle of the room. I cou	 the middle of the room. Round
+lewis_monk_4_g	34	0.9117647058823529	103617	76676	le in the middle of the room, on w	le in the middle of the room. Roun
+collins_moonstone_74_d	30	0.9	8366	19863	 under the circumstances. I on	 under the circumstances. She 
+collins_moonstone_74_d	33	0.9393939393939394	21366	251	 my own personal experience. I an	 my own personal experience, I ha
+collins_moonstone_74_d	34	0.9117647058823529	36922	3336	 to be the means of bringing these	 to be the means of bringing Rache
+collins_moonstone_74_d	33	0.9090909090909091	44378	1654	. Under these circumstances, and 	. Under these circumstances, Mr. 
+collins_moonstone_74_d	30	0.9	51390	14806	ith the greatest pleasure. Bet	ith the greatest pleasure. A w
+collins_moonstone_74_d	30	0.9	52103	17478	 I am deeply indebted to you. 	 I am deeply indebted to Mr. B
+collins_moonstone_74_d	34	0.9117647058823529	53880	1653	e. Under these circumstances, she 	e. Under these circumstances, Mr. 
+collins_moonstone_74_d	30	0.9333333333333333	90889	10905	 preparations were completed, 	 preparations were complete. S
+radcliffe_udolpho_50_g	30	0.9333333333333333	36928	28487	 the means of bringing these t	 the means of bringing the tra
+radcliffe_udolpho_50_g	30	0.9333333333333333	97106	42344	 There was a pause of some sor	 There was a pause of some mom
+radcliffe_udolpho_18_g	30	0.9333333333333333	76265	41799	 what you have just told me.” 	 what you have just told me to
+radcliffe_udolpho_13_g	30	0.9	56094	12207	 permission to remain in his r	 permission to remain in her o
+christie_styles_12_d	30	0.9	59175	14816	 exhaled a strong odour of sta	 exhaled a strong odour of cof
+christie_styles_12_d	30	0.9	81668	15697	 have been administered before	 have been administered betwee
+christie_secretadversary_14_d	30	0.9	78905	11056	. “I beg your pardon, Mr. Jenn	. “I beg your pardon, Mr. Hers
+stoker_dracula_2_g	30	0.9	94955	9172	 towards them now, I saw the L	 towards the window I saw the 
+austen_northangerabbey_6_g	31	0.9032258064516129	75313	871	d things to say to you, and the	d things to say to you. In the 
+austen_northangerabbey_6_g	30	0.9	96596	806	 the other end of the room. He	 the other end of the room, an
+walpole_castleofotranto_1_g	41	0.926829268292683	7818	31336	 the reach of my resentment,” I said angr	 the reach of my resentment,” said Manfre
+dickens_christmascarole_1_g	32	0.9375	29613	33412	er what has passed between us on	er what has passed between us!" 
+christie_secretadversary_23_d	30	0.9	97345	2061	. Was it possible that the sed	. Was it possible that this ge
+doyle_adventures_5_d	36	0.9166666666666666	42791	35600	t. It was nearly one o’clock before 	t. It was nearly ten o'clock before 
+doyle_adventures_5_d	30	0.9333333333333333	107467	1834	 of the greatest importance th	 of the greatest importance in
+radcliffe_udolpho_48_g	30	0.9	37093	25629	 happiness of others, which is	 happiness in others, which sh
+radcliffe_udolpho_48_g	30	0.9	72222	26502	 should be informed of the law	 should be informed of her arr
+radcliffe_udolpho_22_g	30	0.9	67773	31864	, in consideration of her age 	, in consideration of her extr
+shelley_frankenstein_54_g	33	0.9090909090909091	6517	3251	 the subject of a conversation be	 the subject of our conversation 
+stoker_dracula_24_g	32	0.90625	19603	31720	 that there is something to be s	 that there is something on her 
+stoker_dracula_24_g	30	0.9	44378	21454	. Under these circumstances, a	. Under the circumstances we a
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+collins_moonstone_73_d	30	0.9	15227	1359	 for the second time, in the p	 for the second time. In the m
+collins_moonstone_73_d	30	0.9	29641	2223	s on the subject of the lost D	s on the subject of the Moonst
+collins_moonstone_73_d	30	0.9	39379	3681	 to Mr. Franklin Blake. Two o’	 to Mr. Franklin Blake.” [To t
+collins_moonstone_73_d	34	0.9117647058823529	54735	16	 presents his compliments to Mrs. 	 presents her compliments to Mr. F
+collins_moonstone_73_d	34	0.9411764705882353	54735	592	 presents his compliments to Mrs. 	 presents his compliments to Miss 
+collins_moonstone_73_d	37	0.918918918918919	55764	2224	 on the subject of the Moonstone. If 	 on the subject of the Moonstone has 
+doyle_scarlet_2_d	33	0.9090909090909091	44378	3117	. Under these circumstances, and 	. Under these circumstances, I ea
+doyle_scarlet_2_d	33	0.9393939393939394	53880	3116	e. Under these circumstances, she	e. Under these circumstances, I e
+christie_secretadversary_17_d	30	0.9	13937	22094	 the experience of the mass of	 the experiences of the last f
+christie_secretadversary_17_d	35	0.9142857142857143	81584	12007	me to the conclusion that the dose 	me to the conclusion that the room 
+christie_secretadversary_17_d	30	0.9	97345	10748	. Was it possible that the sed	. Was it possible that she had
+stoker_dracula_3_g	31	0.9032258064516129	8366	13227	 under the circumstances. I onl	 under the circumstances I felt
+stoker_dracula_3_g	30	0.9333333333333333	56312	21342	 all that had happened since t	 all that has happened since I
+stoker_dracula_3_g	30	0.9	108274	24259	 came close to me, and took my	 came close to me, and looked 
+christie_secretadversary_11_d	45	0.9333333333333333	72001	177	 to make quite sure that nothing had been for	 to make quite sure that nothing had come for
+christie_secretadversary_11_d	32	0.90625	99826	6996	 in the middle of the room, he m	 in the middle of the room, and 
+christie_secretadversary_11_d	32	0.96875	100279	6999	 the middle of the room, and sto	 the middle of the room, and sit
+christie_secretadversary_11_d	34	0.9117647058823529	103619	6996	 in the middle of the room, on whi	 in the middle of the room, and si
+lewis_monk_10_g	31	0.9032258064516129	36285	39167	 solution of the mystery might 	 solution of the mystery quite 
+lewis_monk_10_g	30	0.9666666666666667	81973	25694	 had taken the precaution of l	 had taken the precaution of f
+collins_moonstone_84_d	32	0.9375	4173	3603	 right, so far?” “Quite right!” 	 right, so far?” “Quite right. G
+collins_moonstone_84_d	42	0.9047619047619048	5335	11134	th chapter of Betteredge’s Narrative. The 	th chapter of Betteredge’s Narrative, an a
+collins_moonstone_84_d	30	0.9	8366	2943	 under the circumstances. I on	 under the circumstances—to on
+collins_moonstone_84_d	31	0.9032258064516129	29765	1210	 considered for a moment. “May 	 considered for a moment. “You 
+collins_moonstone_84_d	30	0.9333333333333333	44218	3930	 been pledged to Mr. Luker. Hi	 been pledged to Mr. Luker, si
+christie_styles_8_d	30	0.9666666666666667	76170	27263	 looked at me very earnestly. 	 looked at me very earnestly, 
+lewis_monk_7_g	30	0.9	13233	17367	 under the influence of the la	 under the influence of this s
+lewis_monk_7_g	32	0.90625	24902	17367	 under the influence of the seco	 under the influence of this sto
+lewis_monk_7_g	30	0.9	24990	17367	 under the influence of the fi	 under the influence of this s
+lewis_monk_7_g	30	0.9	100771	17367	 under the influence of the op	 under the influence of this s
+lewis_monk_7_g	32	0.96875	104158	8935	 without a moment’s hesitation. 	 without a moment's hesitation. 
+doyle_adventures_2_d	32	0.9375	81584	25834	me to the conclusion that the do	me to the conclusion that he had
+doyle_adventures_2_d	31	0.9032258064516129	81649	354	 could not possibly have been a	 could not possibly have come a
+doyle_adventures_2_d	30	0.9	95971	37703	 the whole success of the expe	 the whole success of our expe
+christie_styles_1_d	30	0.9	61990	16932	 returning to the house. “You 	 returning to the house about 
+shelley_frankenstein_51_g	30	0.9	81712	3165	 accordingly determined not to	 accordingly determined to com
+walpole_castleofotranto_5_g	30	0.9	34451	5322	 become acquainted with him, a	 become acquainted with this T
+collins_moonstone_53_d	32	1.0	55764	867	 on the subject of the Moonstone	 on the subject of the Moonstone
+collins_moonstone_53_d	47	0.9787234042553191	92805	928	 removing it from the bank at Frizinghall; and 	 removing it from the bank at Frizinghall, and 
+doyle_signoffour_5_d	31	0.9032258064516129	2695	4630	 is the only room in the house,	 is the only woman in the house
+lewis_monk_6_g	46	0.9130434782608695	44959	9158	 had not produced the slightest effect on his 	 had not produced the slightest effect, and th
+collins_moonstone_62_d	36	0.9166666666666666	29611	99	fter what has passed between us on t	fter what had passed between us, to 
+collins_moonstone_62_d	30	0.9	48687	3120	orry to disappoint you, sir. B	orry to disappoint you,” said 
+doyle_adventures_9_d	30	0.9	28808	17791	es. On the other hand, he cons	es. On the other hand, the fac
+doyle_adventures_9_d	30	0.9	43057	32988	 the window and looked out, wh	 the window, and looked out. H
+doyle_adventures_9_d	32	0.90625	81859	20048	he conversation soon flagged—the	he conversation soon flagged. At
+doyle_adventures_9_d	32	0.90625	105992	6740	 strongly recommend you to do), 	 strongly recommend you to come 
+collins_hauntedhotel_25_u	32	0.90625	13230	10117	ing under the influence of the l	ing under the influence of some 
+collins_hauntedhotel_25_u	30	0.9	24990	10120	 under the influence of the fi	 under the influence of some i
+shelley_frankenstein_47_g	30	0.9	34451	7025	 become acquainted with him, a	 become acquainted with my adm
+lewis_monk_1_g	30	0.9333333333333333	18886	17939	 could give no account of it. 	 could give no account of his 
+radcliffe_udolpho_27_g	31	0.9032258064516129	90252	10008	 at a little distance, so that 	 at a little distance, on the r
+collins_moonstone_50_d	35	0.9142857142857143	36923	12564	to be the means of bringing these t	to be the means of bringing it here
+collins_moonstone_50_d	33	0.9090909090909091	92675	12514	 the story of the Moonstone, whic	 the story of the Moonstone,” sai
+stoker_dracula_9_g	32	0.90625	20737	26052	 understand the effect of the la	 understand the effect, for the 
+stoker_dracula_9_g	33	0.9090909090909091	56312	123	 all that had happened since the 	 all that has happened since we p
+stoker_dracula_9_g	31	0.9032258064516129	80981	26803	 back to his own room, and had 	 back to his own room and to ha
+stoker_dracula_9_g	30	0.9333333333333333	81584	17544	me to the conclusion that the 	me to the conclusion that it m
+radcliffe_udolpho_41_g	34	0.9117647058823529	7721	13853	 would have been discovered in a d	 would have been discovered long a
+christie_styles_3_d	31	0.9032258064516129	8366	9426	 under the circumstances. I onl	 under the circumstances.” John
+christie_styles_3_d	30	0.9333333333333333	93523	11782	 I looked at my watch. It want	 I looked at my watch. It was 
+collins_hauntedhotel_15_u	30	0.9	17409	2621	 by no less a person than Dr. 	 by no less a person than my d
+collins_hauntedhotel_10_u	30	0.9	55436	3444	 acknowledges the receipt (thr	 acknowledge the receipt of th
+collins_hauntedhotel_10_u	31	0.9032258064516129	84648	961	room, and knocked at the door o	room, and knocked at a door ope
+collins_hauntedhotel_10_u	33	0.9393939393939394	100892	4122	 the farther end of the room. The	 the farther end of the room. 'Be
+collins_moonstone_66_d	35	0.9142857142857143	29610	11080	After what has passed between us on	After what has passed between the o
+collins_moonstone_66_d	34	0.9705882352941176	55764	17762	 on the subject of the Moonstone. 	 on the subject of the Moonstone, 
+collins_moonstone_60_d	32	0.96875	29608	15810	. After what has passed between 	. After what had passed between 
+collins_moonstone_60_d	30	0.9333333333333333	44378	13459	. Under these circumstances, a	. Under those circumstances, i
+collins_moonstone_60_d	30	0.9333333333333333	53881	13459	. Under these circumstances, s	. Under those circumstances, i
+collins_moonstone_60_d	37	0.918918918918919	55764	5180	 on the subject of the Moonstone. If 	 on the subject of the Moonstone out 
+collins_moonstone_60_d	45	0.9333333333333333	84890	5035	 request you to be present, and to see what I	 request you to be present, and to hear what 
+doyle_scarlet_4_d	30	0.9	80123	6828	 a little irritated at being l	 a little irritable at being d
+doyle_scarlet_4_d	30	0.9	81584	4729	me to the conclusion that the 	me to the conclusion that I am
+doyle_baskervilles_2_u	32	0.9375	11907	4952	 before all the company at the d	 before all the company that he 
+doyle_baskervilles_2_u	30	0.9	58851	18585	t me with an expression of com	t me with an expression of the
+collins_moonstone_76_d	38	0.9473684210526315	29608	19219	. After what has passed between us on 	. After what has passed between us, I 
+collins_moonstone_76_d	32	0.96875	30399	23118	 It is needless to say that I ea	 It is needless to say that I wa
+collins_moonstone_76_d	34	0.9705882352941176	55764	995	 on the subject of the Moonstone. 	 on the subject of the Moonstone, 
+collins_moonstone_76_d	34	0.9411764705882353	70783	20455	 I have thought it over, and have 	 I have thought it over, and that 
+collins_moonstone_76_d	46	0.9130434782608695	104152	9413	ative, without a moment’s hesitation. “The sec	ative, without a moment’s hesitation. He smile
+collins_moonstone_76_d	30	0.9	106186	8214	, on the present occasion.” Wi	, on the present occasion. The
+christie_secretadversary_15_d	31	0.9354838709677419	64029	2392	 there is nothing to be done bu	 there is nothing to be done.” 
+stoker_dracula_21_g	34	0.9117647058823529	96770	4353	 sat down on the side of the bed. 	 sat down on the edge of the bed, 
+collins_moonstone_49_d	34	0.9117647058823529	6227	14840	 the object of a conspiracy; and I	 the object of a conspiracy in Ind
+reeve_oldenglishbaron	31	0.9032258064516129	67773	18444	, in consideration of her age a	, in consideration of the arrea
+doyle_baskervilles_15_u	31	0.9032258064516129	20654	13651	 one point, which you have not 	 one point which you have left 
+doyle_scarlet_8_d	32	0.90625	81584	11315	me to the conclusion that the do	me to the conclusion that one of
+doyle_scarlet_8_d	30	0.9	98374	14160	 and noiseless, with the candl	 and noiselessly, with the con
+collins_moonstone_65_d	30	0.9	22494	15333	 in the majority of cases, in 	 in the majority of cases to b
+collins_moonstone_65_d	30	0.9	27033	15893	 that the Moonstone was taken 	 that the Moonstone was stolen
+collins_moonstone_65_d	32	0.9375	29975	13210	 interest in Miss Verinder, in f	 interest in Miss Verinder, any 
+collins_moonstone_65_d	31	0.9032258064516129	36816	16114	s it possible (I ask myself, in	s it possible (I asked myself) 
+collins_moonstone_65_d	36	0.9166666666666666	44193	7430	ed that the Moonstone had been pledg	ed that the Moonstone had been stole
+collins_moonstone_65_d	46	0.9130434782608695	44378	8107	. Under these circumstances, and with the many	. Under these circumstances, and with that cha
+collins_moonstone_65_d	33	0.9090909090909091	53881	8107	. Under these circumstances, she 	. Under these circumstances, and 
+collins_moonstone_52_d	30	0.9	5898	20353	e as good friends as ever, bef	e as good friends as ever. If 
+collins_moonstone_52_d	30	1.0	81649	19397	 could not possibly have been 	 could not possibly have been 
+christie_styles_4_d	34	0.9117647058823529	6396	1932	 of conversation between you and a	 of conversation between Mary and 

@@ -1,0 +1,77 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_48_d	30	0.9333333333333333	22713	1828	 under the circumstances it wo	 under the circumstances, it s
+collins_hauntedhotel_3_u	30	0.9666666666666667	15982	12074	 looking at him through her te	 looking at him through her ve
+radcliffe_udolpho_42_g	30	0.9	26184	17669	 the Count might not be in the	 the Count might not be distre
+doyle_signoffour_12_d	31	0.9354838709677419	27084	37981	me to the conclusion that the d	me to the conclusion that this 
+stoker_dracula_13_g	34	0.9411764705882353	18298	12239	t I could not help feeling that he	t I could not help seeing that the
+stoker_dracula_13_g	30	0.9	19399	14323	 and bent over and kissed it. 	 and bent over and kissed her 
+stoker_dracula_13_g	32	1.0	21126	1478	." As he spoke he took from his 	." As he spoke he took from his 
+stoker_dracula_13_g	30	0.9	22713	25850	 under the circumstances it wo	 under the circumstances; but 
+stoker_dracula_13_g	31	0.967741935483871	22826	19281	 the Incorporated Law Society m	 the Incorporated Law Society. 
+lewis_monk_12_g	31	0.9032258064516129	18301	9941	 could not help feeling that he	 could not help feeling the exi
+christie_secretadversary_18_d	30	0.9333333333333333	27086	18229	 to the conclusion that the di	 to the conclusion that the ho
+radcliffe_udolpho_9_g	30	0.9	22250	2858	ow that she understood. The la	ow that she understood the ful
+stoker_dracula_5_g	31	0.9032258064516129	8736	10593	o I said, as quietly as I could	o I said, as lightly as I could
+stoker_dracula_19_g	37	0.972972972972973	3	2	 JONATHAN HARKER'S JOURNAL _3 October	 JONATHAN HARKER'S JOURNAL _1 October
+stoker_dracula_19_g	32	0.90625	199	27409	 Dr. Van Helsing and Dr. Seward 	 Dr. Van Helsing or Dr. Seward t
+stoker_dracula_19_g	32	0.90625	880	27409	 Dr. Van Helsing and Dr. Seward 	 Dr. Van Helsing or Dr. Seward t
+stoker_dracula_19_g	30	0.9333333333333333	14343	5602	 experience in Transylvania; a	 experience in Transylvania. I
+stoker_dracula_19_g	34	0.9117647058823529	21703	4952	e closed the door behind us, the P	e closed the door behind us, lest 
+stoker_dracula_14_g	30	1.0	15677	11053	. "Oh, Madam Mina," he said, "	. "Oh, Madam Mina," he said, "
+lewis_monk_3_g	33	0.9090909090909091	25677	13912	 knocked at the door. It was imme	 knocked at the door: It was some
+stoker_dracula_26_g	31	0.9354838709677419	15678	6596	 "Oh, Madam Mina," he said, "de	 "Oh, Madam Mina," he said, sad
+doyle_scarlet_14_d	35	0.9428571428571428	27081	4870	 came to the conclusion that the di	 came to the conclusion that he had
+collins_moonstone_89_d	31	0.9032258064516129	27089	46257	 the conclusion that the dining	 the conclusion that the Indian
+christie_secretadversary_25_d	30	0.9333333333333333	22713	14724	 under the circumstances it wo	 under the circumstances. It w
+doyle_signoffour_4_d	30	0.9	14661	9919	 have been as bad as they can 	 have been as bad as this and 
+doyle_signoffour_4_d	30	0.9333333333333333	27084	18442	me to the conclusion that the 	me to the conclusion that it w
+collins_hauntedhotel_20_u	30	0.9	5182	34	, as she held out her hand:-- 	, as she held out her hand to 
+doyle_scarlet_3_d	30	0.9	26224	9223	 the dining-room, which lay at	 the dining-room, which was th
+stoker_dracula_23_g	30	0.9666666666666667	13644	7116	 Lord Godalming and Quincey fo	 Lord Godalming and Quincey Mo
+stoker_dracula_23_g	41	0.9024390243902439	15022	4926	d Van Helsing, holding up his hand. "But 	d Van Helsing, holding up his hand to us 
+stoker_dracula_23_g	31	0.9032258064516129	18066	18870	, and putting my arms around he	, and putting his arms round he
+stoker_dracula_23_g	36	0.9722222222222222	27827	7116	 Lord Godalming and Quincey Morris t	 Lord Godalming and Quincey Morris. 
+stoker_dracula_6_g	32	0.90625	26699	5515	 did not lose any time in examin	 did not lose any time in coming
+radcliffe_udolpho_6_g	30	0.9333333333333333	15993	9084	 him through her tears, said h	 him through her tears, and th
+christie_styles_10_d	30	0.9	12897	15581	 there was no sign of the teet	 there was no sign of the Scot
+lewis_monk_9_g	33	0.9090909090909091	6144	10383	 would doubtless have taken measu	 would doubtless have taken such 
+christie_styles_13_d	36	0.9166666666666666	27080	19133	e came to the conclusion that the di	e came to the conclusion that if he 
+stoker_dracula_18_g	31	0.9032258064516129	649	34260	, with the tears running down h	, with the tears rolling down h
+stoker_dracula_18_g	33	0.9090909090909091	12222	26017	" said the Professor. "His head i	" said the Professor. "His case i
+stoker_dracula_11_g	31	0.9032258064516129	12160	24626	 the neighbourhood we are going	 the neighbourhood were howling
+stoker_dracula_11_g	32	0.90625	21126	5032	." As he spoke he took from his 	." As he spoke he took off his c
+doyle_baskervilles_10_u	32	0.90625	26884	10487	. It was evident to us that the 	. It was evident to me that he h
+doyle_signoffour_11_d	30	0.9	21986	5999	 on our way to the station to 	 on our way to the station." T
+stoker_dracula_20_g	37	0.972972972972973	3	1	 JONATHAN HARKER'S JOURNAL _3 October	 JONATHAN HARKER'S JOURNAL _1 October
+stoker_dracula_20_g	30	0.9	6537	7286	 the house in Piccadilly, we m	 the house in Piccadilly, to w
+stoker_dracula_20_g	37	0.9459459459459459	8499	8144	 get into that house in Piccadilly?" 	 get into the house in Piccadilly?" I
+stoker_dracula_20_g	32	0.90625	13644	21020	 Lord Godalming and Quincey foun	 Lord Godalming and Quincey. Van
+stoker_dracula_20_g	30	0.9333333333333333	27827	21020	 Lord Godalming and Quincey Mo	 Lord Godalming and Quincey. V
+collins_moonstone_80_d	30	0.9333333333333333	22713	1331	 under the circumstances it wo	 under the circumstances, to o
+doyle_baskervilles_9_u	30	0.9	22879	11903	 should have known better." I 	 should have known better how 
+doyle_baskervilles_7_u	31	0.9354838709677419	9049	18435	, and it seems to me that the s	, and it seemed to me that the 
+christie_styles_11_d	30	0.9	27086	17646	 to the conclusion that the di	 to the conclusion that he was
+stoker_dracula_12_g	30	0.9	13827	29601	 during the day, and that if s	 during the day, and that we m
+christie_styles_5_d	30	0.9333333333333333	21703	9319	e closed the door behind us, t	e closed the door behind us. M
+collins_hauntedhotel_6_u	30	0.9	22713	1347	 under the circumstances it wo	 under the circumstances. Litt
+christie_styles_12_d	30	0.9666666666666667	27081	6638	 came to the conclusion that t	 came to the conclusion that M
+stoker_dracula_2_g	30	0.9333333333333333	2	0	I JONATHAN HARKER'S JOURNAL _3	I JONATHAN HARKER'S JOURNAL--_
+stoker_dracula_24_g	31	0.9032258064516129	146	17122	 study in half an hour and take	 study in half an hour and deci
+christie_secretadversary_17_d	34	1.0	27080	12003	e came to the conclusion that the 	e came to the conclusion that the 
+stoker_dracula_3_g	31	0.9354838709677419	1	0	II JONATHAN HARKER'S JOURNAL _3	II JONATHAN HARKER'S JOURNAL--_
+stoker_dracula_3_g	32	0.9375	22709	13223	 for under the circumstances it 	 for under the circumstances I f
+lewis_monk_10_g	30	0.9	14513	16473	 resolution was fixed; she sai	 resolution was fixed, the sam
+collins_moonstone_84_d	30	0.9	22713	2943	 under the circumstances it wo	 under the circumstances—to on
+doyle_adventures_2_d	32	0.9375	27084	25834	me to the conclusion that the di	me to the conclusion that he had
+stoker_dracula_1_g	30	0.9	4	0	JONATHAN HARKER'S JOURNAL _3 O	JONATHAN HARKER'S JOURNAL (_Ke
+stoker_dracula_9_g	30	0.9333333333333333	27084	17544	me to the conclusion that the 	me to the conclusion that it m
+christie_styles_3_d	30	0.9	12896	1730	t there was no sign of the tee	t there was no sign of the roo
+doyle_scarlet_4_d	30	0.9	27084	4729	me to the conclusion that the 	me to the conclusion that I am
+christie_secretadversary_4_d	30	1.0	27080	10181	e came to the conclusion that 	e came to the conclusion that 
+christie_secretadversary_15_d	30	0.9	25673	11530	 and knocked at the door. It w	 and knocked at the door. As s
+stoker_dracula_21_g	31	0.967741935483871	1564	258	 found him lying on the floor, 	 found him lying on the floor o
+stoker_dracula_21_g	53	0.9056603773584906	15367	19828	 her hands before her face, and shuddered whilst she 	 her hands before her face, and shuddered till the be
+doyle_baskervilles_15_u	32	0.96875	22193	9889	 was successfully accomplished. 	 was successfully accomplished b
+doyle_scarlet_8_d	30	0.9333333333333333	27084	11315	me to the conclusion that the 	me to the conclusion that one 
+collins_moonstone_65_d	30	0.9	25947	5054	 it was plain to us that the C	 it was plain to see that she 
+christie_styles_4_d	38	0.9210526315789473	9574	5249	e looked at me as keenly as he spoke, 	e looked at me keenly as he spoke, and

@@ -1,0 +1,82 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_7_d	37	0.9459459459459459	9409	15447	ook at it from his point of view. I h	ook at it from his point of view. He 
+doyle_scarlet_13_d	34	0.9411764705882353	3747	7162	 determined that he should not be 	 determined that they should not e
+doyle_scarlet_13_d	30	0.9	3747	13333	 determined that he should not	 determined that he should hav
+doyle_scarlet_13_d	30	0.9333333333333333	18756	7162	 determined that there should 	 determined that they should n
+doyle_scarlet_13_d	30	0.9	18756	13333	 determined that there should 	 determined that he should hav
+radcliffe_udolpho_16_g	30	0.9	2780	42512	 I was inclined to believe tha	 I was inclined to believe you
+radcliffe_udolpho_25_g	30	0.9333333333333333	2786	18263	 inclined to believe that he h	 inclined to believe, that the
+radcliffe_udolpho_33_g	30	0.9	9448	21721	e discovered that there were o	e discovered, that they were d
+christie_styles_6_d	30	0.9	1918	10631	.” “Do you mean to say you sus	.” “Do you mean to say you did
+shelley_frankenstein_48_g	30	0.9	16768	3654	 did not understand that he be	 did not understand what they 
+radcliffe_udolpho_57_g	45	0.9333333333333333	23173	5730	 End of Project Gutenberg's The Mysterious Af	 End of Project Gutenberg's The Mysteries of 
+christie_styles_11_d	41	1.0	1247	1395	 think you might have given me a hint.” “	 think you might have given me a hint.” “
+christie_styles_11_d	43	0.9069767441860465	2400	9648	 that it was Mrs. Inglethorp who had burnt 	 that it was Mr. Inglethorp who had been in
+christie_styles_11_d	31	0.9032258064516129	2416	22516	. Inglethorp who had burnt the 	. Inglethorp, who had been the 
+christie_styles_11_d	30	1.0	3200	6202	 carrying on an intrigue with 	 carrying on an intrigue with 
+christie_styles_11_d	38	0.9736842105263158	6446	6483	 strychnine at the village chemist’s, 	 strychnine at the village chemist’s s
+christie_styles_11_d	33	0.9393939393939394	7019	26638	 the name of Alfred Inglethorp in	 the name of Alfred Inglethorp?” 
+christie_styles_11_d	33	0.9393939393939394	8987	29077	 the lock of the despatch-case?” 	 the lock of the despatch-case in
+christie_styles_11_d	37	0.918918918918919	11241	29104	ase in Mrs. Inglethorp’s bedroom, und	ase in Mrs. Inglethorp’s bedroom had 
+christie_styles_11_d	30	0.9	19139	17646	 to the conclusion that if he 	 to the conclusion that he was
+christie_styles_11_d	31	0.9354838709677419	22643	1313	ed Poirot philosophically. “But	ed Poirot philosophically. “You
+radcliffe_udolpho_34_g	30	0.9	3747	35164	 determined that he should not	 determined, that they should 
+radcliffe_udolpho_34_g	30	0.9333333333333333	18756	35164	 determined that there should 	 determined, that they should 
+christie_styles_5_d	30	0.9333333333333333	277	29508	 Inglethorp and Miss Howard we	 Inglethorp and Miss Howard.” 
+christie_styles_5_d	30	0.9333333333333333	2031	11547	 Mrs. Inglethorp’s death, her 	 Mrs. Inglethorp’s death, who 
+christie_styles_5_d	43	0.9069767441860465	8987	36844	 the lock of the despatch-case?” “Yes, and 	 the lock of the despatch-case.” “Yes,” I s
+christie_styles_5_d	32	0.90625	11243	14896	e in Mrs. Inglethorp’s bedroom, 	e in Mrs. Inglethorp’s room, and
+christie_styles_5_d	30	0.9666666666666667	11916	33068	o that is the explanation of y	o that is the explanation of t
+christie_styles_5_d	31	0.9354838709677419	14057	10911	 that Mrs. Inglethorp wrote a v	 that Mrs. Inglethorp wrote to 
+lewis_monk_4_g	30	0.9	18731	53595	 the night before, and he dete	 the night before, and had bee
+radcliffe_udolpho_13_g	30	0.9	2786	43715	 inclined to believe that he h	 inclined to believe, that it 
+christie_styles_12_d	35	0.9142857142857143	5288	17598	 Mademoiselle Cynthia was studying 	 Mademoiselle Cynthia was spending 
+christie_styles_12_d	31	0.9354838709677419	6910	1171	 Alfred Inglethorp, enters the 	 Alfred Inglethorp entered the 
+christie_styles_12_d	30	0.9	10696	6162	re no means of destroying it; 	re no means of destroying a th
+christie_styles_12_d	31	0.9032258064516129	11244	6263	 in Mrs. Inglethorp’s bedroom, 	 in Mrs. Inglethorp’s room, I l
+christie_styles_12_d	30	0.9	13801	11595	hen I discovered that she had 	hen I discovered that I had be
+christie_styles_12_d	32	0.90625	14774	14661	. You will remember my saying th	. You will remember my speaking 
+christie_styles_12_d	38	0.9210526315789473	17462	10290	 into Mademoiselle Cynthia’s room was 	 into Mademoiselle Cynthia’s room. Pos
+christie_styles_12_d	30	0.9666666666666667	17467	10660	 Mademoiselle Cynthia’s room w	 Mademoiselle Cynthia’s room i
+christie_styles_12_d	30	0.9	18383	17598	 Mademoiselle Cynthia was in l	 Mademoiselle Cynthia was spen
+christie_styles_12_d	30	0.9	18510	6296	ped to the conclusion that Mad	ped to the conclusion that it 
+christie_styles_12_d	30	0.9333333333333333	18731	15234	 the night before, and he dete	 the night before, and the tre
+christie_styles_12_d	36	1.0	18989	11261	 that it was Mrs. Cavendish who had 	 that it was Mrs. Cavendish who had 
+christie_styles_12_d	30	0.9666666666666667	19134	6638	 came to the conclusion that i	 came to the conclusion that M
+stoker_dracula_2_g	31	0.9354838709677419	9132	11830	here was absolutely nothing to 	here was absolutely nothing in 
+doyle_adventures_5_d	34	0.9117647058823529	5028	20307	 I am inclined to think that Miss 	 I am inclined to think that it ma
+doyle_adventures_5_d	30	0.9333333333333333	22386	14994	hat on earth does this mean?” 	hat on earth does this mean, J
+radcliffe_udolpho_22_g	35	0.9714285714285714	13862	437	 the letter she had received from M	 the letters she had received from 
+christie_secretadversary_17_d	41	0.9024390243902439	19130	12000	, he came to the conclusion that if he co	, he came to the conclusion that the room
+collins_moonstone_84_d	30	0.9666666666666667	9444	13571	 have discovered that there we	 have discovered that there _w
+christie_styles_8_d	31	0.9032258064516129	1748	6346	,” continued Poirot, “at the be	,” continued Poirot, “I have be
+christie_styles_8_d	31	0.9032258064516129	2207	23613	 crime had been committed, but 	 crime had been committed, and 
+christie_styles_8_d	33	0.9696969696969697	23201	15129	The Mysterious Affair at Styles, 	The Mysterious Affair at Styles” 
+lewis_monk_7_g	30	0.9	11008	12512	 uttered an exclamation. “No o	 uttered an exclamation of joy
+doyle_adventures_2_d	32	0.90625	19137	25834	me to the conclusion that if he 	me to the conclusion that he had
+doyle_adventures_2_d	36	0.9166666666666666	22385	7012	What on earth does this mean?” I ask	What on earth does this mean?" I eja
+christie_styles_1_d	30	0.9333333333333333	8174	15040	, and that Mrs. Inglethorp mig	, and that Mrs. Inglethorp, ki
+radcliffe_udolpho_10_g	31	0.9032258064516129	2786	5623	 inclined to believe that he ha	 inclined to believe that this 
+radcliffe_udolpho_10_g	36	0.9166666666666666	16402	19417	t would have been much easier for th	t would have been much happier for h
+austen_northangerabbey_16_g	30	0.9	14526	2417	” “That is exactly what I aske	” “That is exactly what I say;
+stoker_dracula_1_g	30	0.9	11632	17386	 earlier in the morning, when 	 earlier in the evening, when 
+radcliffe_udolpho_27_g	31	0.967741935483871	2782	12166	 was inclined to believe that h	 was inclined to believe, that 
+radcliffe_udolpho_27_g	31	0.9354838709677419	2786	12970	 inclined to believe that he ha	 inclined to believe, that the 
+stoker_dracula_9_g	30	0.9333333333333333	19137	17544	me to the conclusion that if h	me to the conclusion that it m
+christie_styles_3_d	32	0.90625	3658	1470	 that Alfred Inglethorp wanted t	 that Alfred Inglethorp was not 
+christie_styles_3_d	32	0.9375	11518	4044	 ornaments on the mantelpiece?” 	 ornaments on the mantelpiece, w
+doyle_scarlet_4_d	30	0.9	19137	4729	me to the conclusion that if h	me to the conclusion that I am
+christie_secretadversary_4_d	30	0.9	8375	15039	 incriminating document. “But 	 incriminating document, but c
+christie_secretadversary_4_d	30	1.0	19133	10181	e came to the conclusion that 	e came to the conclusion that 
+radcliffe_udolpho_54_g	30	0.9	4768	11748	 resemblance between them, esp	 resemblance between them, whi
+collins_moonstone_76_d	32	0.90625	9132	6484	here was absolutely nothing to c	here was absolutely nothing whic
+collins_moonstone_76_d	30	0.9	11783	11757	, there would be no need to st	, there would be no need for m
+austen_northangerabbey_3_g	30	0.9	14526	5625	” “That is exactly what I aske	” “That is exactly what I shou
+doyle_baskervilles_15_u	30	0.9666666666666667	5028	12596	 I am inclined to think that M	 I am inclined to think that S
+doyle_baskervilles_15_u	32	0.96875	23173	22342	 End of Project Gutenberg's The 	 End of Project Gutenberg’s The 
+doyle_scarlet_8_d	30	0.9	19137	11315	me to the conclusion that if h	me to the conclusion that one 
+collins_moonstone_65_d	30	0.9	3258	6907	 perfectly comprehensible. But	 perfectly incomprehensible ru
+christie_styles_4_d	30	0.9333333333333333	1588	18926	ing the murderer to justice? W	ing the murderer to justice.” 
+christie_styles_4_d	30	0.9333333333333333	4013	32662	edly, he is a man of method. S	edly, he is a man of method, t
+christie_styles_4_d	33	0.9393939393939394	8987	22412	 the lock of the despatch-case?” 	 the lock of the despatch-case up
+christie_styles_4_d	31	0.967741935483871	11244	25347	 in Mrs. Inglethorp’s bedroom, 	 in Mrs. Inglethorp’s bedroom. 

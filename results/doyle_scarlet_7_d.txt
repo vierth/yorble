@@ -1,0 +1,61 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_29_g	30	0.9333333333333333	14378	4184	, and vanish in an instant amo	, and vanish in an instant. Em
+doyle_signoffour_6_d	31	0.9032258064516129	947	13448	 concerned in the death of Dreb	 concerned in the death of your
+collins_hauntedhotel_20_u	30	0.9666666666666667	8575	10691	 has everything to do with it.	 has everything to do with it-
+shelley_frankenstein_55_g	30	0.9	3266	3904	. The window of the room was o	. The windows of the room had 
+doyle_scarlet_3_d	30	0.9	3583	14088	 name of Joseph Stangerson. Th	 name of Joseph Stangerson upo
+doyle_scarlet_3_d	30	0.9	8585	17202	thing to do with it. I shall n	thing to do with it. It’s all 
+stoker_dracula_23_g	30	0.9	4050	9673	. There was something so metho	. There was something so panth
+doyle_scarlet_11_d	37	0.918918918918919	6419	2554	s stared at him in amazement. “I have	s stared at him in amazement. In thei
+doyle_scarlet_11_d	47	0.9361702127659575	10489	3657	 the perspiration from his forehead. “I should 	 the perspiration from his forehead; “I would s
+christie_styles_13_d	39	0.9230769230769231	15198	22040	 there was a tap at the door, and the s	 there was a tap at the door, and Cynth
+doyle_baskervilles_6_u	30	0.9	6312	7579	 an exclamation of delight. “T	 an exclamation of delight, lo
+doyle_adventures_12_d	30	0.9	9289	41947	 an expression of the utmost c	 an expression of the most pro
+doyle_scarlet_13_d	30	0.9	2136	9702	 Halliday’s Private Hotel, in 	 Halliday’s Private Hotel; to 
+doyle_scarlet_13_d	31	0.9032258064516129	2136	12487	 Halliday’s Private Hotel, in L	 Halliday’s Private Hotel,’ sai
+doyle_scarlet_13_d	31	0.9354838709677419	2136	20283	 Halliday’s Private Hotel, in L	 Halliday’s Private Hotel, and 
+radcliffe_udolpho_16_g	30	0.9	12264	46618	, who had listened to this add	, who had listened to this con
+shelley_frankenstein_53_g	30	0.9	6718	2512	 the discovery of the body of 	 the discovery of the body, wh
+doyle_baskervilles_10_u	37	0.918918918918919	4771	8905	 took no particular notice of him, be	 took no particular notice of his let
+doyle_baskervilles_10_u	31	0.9354838709677419	9760	1650	 impossible that it should be a	 impossible, that it should rea
+collins_hauntedhotel_23_u	30	0.9	2707	6572	 the second floor, and there w	 the second floor, and, after 
+christie_styles_6_d	30	0.9	908	12227	 was of the opinion that Stang	 was of the opinion that it wa
+christie_styles_6_d	30	0.9	1199	12664	 on the evening of the third. 	 on the evening of the 17th. P
+doyle_signoffour_11_d	30	0.9	11093	852	. It seemed to me that the mis	. It seemed to me that there w
+doyle_adventures_4_d	30	0.9	12214	965	 had the effect of making it l	 had the effect of making me a
+doyle_baskervilles_9_u	30	0.9	13189	4943	 since I have been in the room	 since I have been on the moor
+walpole_castleofotranto_4_g	35	0.9142857142857143	1198	2287	t on the evening of the third. At t	t on the evening of the third they 
+doyle_scarlet_5_d	30	0.9	6049	13547	 which he had read himself to 	 which he had set himself to u
+doyle_scarlet_5_d	33	0.9090909090909091	6269	9541	 Sherlock Holmes sprang from his 	 Sherlock Holmes sprang to his fe
+doyle_scarlet_5_d	36	1.0	16417	9541	 Sherlock Holmes sprang to his feet 	 Sherlock Holmes sprang to his feet 
+doyle_baskervilles_7_u	30	0.9	11093	1365	. It seemed to me that the mis	. It seemed to me that the pal
+radcliffe_udolpho_34_g	30	1.0	14932	30251	 satisfied by this assurance, 	 satisfied by this assurance, 
+radcliffe_udolpho_50_g	30	0.9	12264	46375	, who had listened to this add	, who had listened to this con
+christie_styles_12_d	30	0.9	3185	2381	 door was locked on the inside	 door was bolted on the inside
+christie_styles_12_d	31	0.9032258064516129	16501	19421	, “let me introduce you to Mr. 	, “let me introduce you to the 
+stoker_dracula_2_g	41	0.9512195121951219	10953	26789	 that I could hardly believe that he was 	 that I could hardly believe that it was 
+doyle_baskervilles_8_u	30	0.9333333333333333	7424	1501	ould imagine that they are sol	ould imagine that they were so
+walpole_castleofotranto_1_g	31	0.9032258064516129	8453	1527	 what it has to do with the dea	 what it had to do with the mar
+dickens_christmascarole_1_g	41	0.9512195121951219	10478	32422	, and wiped the perspiration from his for	, and wiped the perspiration from his bro
+collins_hauntedhotel_19_u	32	0.90625	8574	12518	t has everything to do with it. 	t has everything to do with my n
+doyle_scarlet_2_d	35	0.9428571428571428	12373	19250	 Mr. Sherlock Holmes,” he said, “we	 Mr. Sherlock Holmes,” he said, ste
+christie_secretadversary_17_d	30	0.9	1202	8221	 the evening of the third. At 	 the evening of the third day 
+lewis_monk_10_g	31	0.9032258064516129	6776	32081	 them with my own eyes. I will 	 them with my own eyes. I flew 
+doyle_adventures_2_d	30	0.9333333333333333	2729	36913	 there was a small corridor le	 there was a small corridor, w
+doyle_adventures_2_d	33	0.9090909090909091	15041	20983	 up to the roots of his flaxen ha	 up to the roots of his flaming h
+doyle_adventures_2_d	30	0.9333333333333333	16505	33689	et me introduce you to Mr. Jef	et me introduce you to Mr. Mer
+doyle_signoffour_5_d	30	0.9	3190	8945	 was locked on the inside, but	 was locked on the inside, how
+doyle_signoffour_5_d	31	0.9032258064516129	13524	11309	 with his head sunk on his ches	 with his head sunk upon his le
+lewis_monk_5_g	30	0.9	12422	24164	 to acknowledge that you are a	 to acknowledge, that your hea
+doyle_adventures_9_d	41	0.9512195121951219	10957	31311	t I could hardly believe that he was in h	t I could hardly believe that here was in
+lewis_monk_1_g	31	0.9354838709677419	11409	17064	 had the good fortune to seize 	 had the good fortune to see Ma
+doyle_baskervilles_4_u	30	0.9333333333333333	11407	19914	 I had the good fortune to sei	 I had the good fortune to hel
+doyle_baskervilles_4_u	34	0.9411764705882353	17956	3004	,” said Sherlock Holmes. “It will 	,” said Sherlock Holmes. “We will 
+doyle_baskervilles_4_u	30	0.9333333333333333	17956	11701	,” said Sherlock Holmes. “It w	,” said Sherlock Holmes. “I co
+collins_moonstone_50_d	32	0.90625	11924	10982	 would have been infinitely more	 would have been infinitely easi
+doyle_scarlet_12_d	31	0.9032258064516129	15181	2413	, however, before there was a t	, however, for there was game t
+doyle_baskervilles_2_u	30	0.9	9289	18594	 an expression of the utmost c	 an expression of the most dre
+doyle_scarlet_1_d	33	0.9090909090909091	8219	10028	 of water. You perceive that our 	 of water. You perceive that the 
+doyle_scarlet_1_d	31	0.9032258064516129	12372	9063	, Mr. Sherlock Holmes,” he said	, Mr. Sherlock Holmes,” said St
+collins_moonstone_52_d	30	0.9	14146	21326	 I have had occasion to prove,	 I have had occasion to presen
+christie_styles_4_d	30	0.9333333333333333	10772	29398	 of the most deadly poison, an	 of the most deadly poisons kn

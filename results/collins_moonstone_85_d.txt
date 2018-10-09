@@ -1,0 +1,47 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+dickens_christmascarole_4_g	31	0.9032258064516129	8351	1097	. That was her only answer. Her	. That was the only answer he r
+collins_hauntedhotel_23_u	30	0.9333333333333333	26762	7785	 her hands, and wrung them fra	 her hands, and wrung them abo
+collins_moonstone_56_d	30	0.9666666666666667	7911	24201	 into the middle of the room. 	 into the middle of the room, 
+collins_moonstone_56_d	31	0.9032258064516129	12642	24206	 the middle of the room—and the	 the middle of the room, and st
+collins_moonstone_56_d	31	1.0	13429	24204	to the middle of the room, and 	to the middle of the room, and 
+collins_moonstone_56_d	30	0.9666666666666667	22051	15940	 about the loss of the Diamond	 about the loss of her Diamond
+doyle_baskervilles_11_u	30	0.9	1108	23740	 coming nearer and nearer to m	 coming nearer and nearer. I s
+collins_moonstone_80_d	31	0.9032258064516129	15149	11982	 knew that the Diamond was lost	 knew that the Diamond was at t
+collins_moonstone_80_d	30	0.9666666666666667	22954	10677	 suggested to me that she was 	 suggested to me that he was p
+doyle_baskervilles_9_u	30	0.9	14445	19094	 took the candle from the top 	 took the candle from the trem
+doyle_baskervilles_9_u	30	0.9	25490	15300	, and tell me that I have wron	, and tell me that I have not 
+doyle_baskervilles_7_u	31	0.9032258064516129	11316	16627	 and I remembered that she had 	 and I remembered that I had he
+christie_styles_11_d	32	0.90625	11322	12887	 remembered that she had tried h	 remembered that she had bolted 
+stoker_dracula_12_g	31	0.9032258064516129	1228	37024	, and covered her face with kis	, and covered his face with his
+stoker_dracula_12_g	30	0.9	3667	37024	, and covered her face with he	, and covered his face with hi
+christie_styles_5_d	35	0.9142857142857143	9090	23554	 “I want to ask you something,” I s	 “I want to ask you something.” “As
+lewis_monk_4_g	34	0.9117647058823529	1205	15180	I caught her in my arms, and cover	I caught her in my arms, and place
+lewis_monk_4_g	34	0.9411764705882353	1213	49243	 her in my arms, and covered her f	 her in my arms, and conveyed her 
+lewis_monk_4_g	38	0.9210526315789473	3664	10561	 me, and covered her face with her han	 me, and covered her face with the oth
+lewis_monk_4_g	31	0.967741935483871	15389	12072	 I dropped her hand, and rose, 	 I dropped her hand, and rose f
+austen_northangerabbey_26_g	30	0.9333333333333333	1014	7704	 past, present, and future, wh	 past, present, and future wer
+collins_moonstone_72_d	30	0.9	6751	1262	?” she asked. “Why did you com	?” she asked. “Why didn’t you 
+radcliffe_udolpho_48_g	31	0.9032258064516129	8450	2250	, at the moment when she asked 	, at the moment, when she bade 
+collins_hauntedhotel_19_u	31	0.9032258064516129	8450	1342	, at the moment when she asked 	, at the moment when he looked 
+collins_moonstone_73_d	30	0.9	25705	1359	 for the second time. For the 	 for the second time. In the m
+christie_secretadversary_11_d	30	0.9	12642	6999	 the middle of the room—and th	 the middle of the room, and s
+christie_secretadversary_11_d	30	0.9666666666666667	13431	6999	 the middle of the room, and h	 the middle of the room, and s
+collins_hauntedhotel_11_u	33	0.9393939393939394	4790	371	I have a question to ask you,” I 	I have a question to ask you, in 
+collins_hauntedhotel_11_u	32	0.9375	4938	4129	 She started to her feet; and wa	 She started to her feet, and ad
+reeve_oldenglishbaron_	30	0.9	9154	4051	verything that happened, from 	verything that happened to me 
+collins_moonstone_84_d	31	0.9032258064516129	23258	10256	 vindication of my innocence, h	 vindication of your innocence 
+collins_moonstone_84_d	30	0.9	24991	6104	 Rosanna Spearman’s letter, I 	 Rosanna Spearman’s letter. Th
+christie_styles_8_d	34	0.9117647058823529	25794	1778	he caught me by the arm, and barre	he caught me by the arm, and drew 
+doyle_adventures_2_d	30	0.9333333333333333	80	322	 closed the door behind me. We	 closed the door behind me. "Y
+collins_moonstone_53_d	30	1.0	6805	12833	 She went on a few steps, and 	 She went on a few steps, and 
+collins_moonstone_53_d	35	0.9428571428571428	14264	8383	 between your finger and thumb, whe	 between your finger and thumb, see
+radcliffe_udolpho_12_g	30	0.9666666666666667	11208	19196	 heard footsteps approaching i	 heard footsteps approaching, 
+collins_hauntedhotel_25_u	31	0.9354838709677419	4790	6424	I have a question to ask you,” 	I have a question to ask you ab
+collins_moonstone_50_d	30	0.9	15812	20768	 what was to be done next? The	 what was to be done next. He 
+collins_hauntedhotel_10_u	35	0.9142857142857143	1769	2446	e looked at a stranger who had insu	e looked at the stranger who had in
+collins_moonstone_60_d	30	0.9	945	16050	 suspicion that rested on my g	 suspicion that rested on her 
+collins_moonstone_60_d	30	0.9	16068	19337	 of Rosanna Spearman’s secret 	 of Rosanna Spearman’s return 
+collins_moonstone_76_d	36	0.9722222222222222	5017	14207	 looked me searchingly in the face, 	 looked me searchingly in the face. 
+collins_moonstone_76_d	31	0.9032258064516129	5112	2587	. “Are you mad?” she asked. I s	. “Are you ready?” he asked. I 
+collins_moonstone_76_d	31	0.9032258064516129	25872	20505	t will be better for both of us	t will be best for both of us i
+stoker_dracula_21_g	31	0.9032258064516129	3198	31306	hat have I done?” “What have yo	hat have I done? What have I do

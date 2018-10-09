@@ -1,0 +1,56 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_6_g	32	0.96875	25385	15516	s between his finger and thumb h	s between his finger and thumb, 
+stoker_dracula_18_g	30	0.9	5954	32616	Dr. Van Helsing, I have not fo	Dr. Van Helsing, I have nothin
+stoker_dracula_18_g	30	0.9	6968	13805	; there was no need to speak:-	; there was no need for speaki
+stoker_dracula_18_g	34	0.9411764705882353	14077	25281	 _Dr. Seward's Diary._ _25 October	 _Dr. Seward's Diary._ _1 October,
+stoker_dracula_18_g	34	0.9411764705882353	18864	25281	 _Dr. Seward's Diary._ _28 October	 _Dr. Seward's Diary._ _1 October,
+stoker_dracula_18_g	45	0.9333333333333333	22257	6183	 self than she had been for many a long day, 	 self than he has been for many a long day. V
+stoker_dracula_11_g	30	0.9	14075	20450	." _Dr. Seward's Diary._ _25 O	." _Dr. Seward's Diary._ _18 S
+stoker_dracula_11_g	30	0.9333333333333333	18862	20450	." _Dr. Seward's Diary._ _28 O	." _Dr. Seward's Diary._ _18 S
+stoker_dracula_11_g	37	0.918918918918919	19698	3281	 raised his hand over his head for a 	 raised his hands over his head in a 
+radcliffe_udolpho_16_g	32	0.90625	4095	47892	hen you shall be convinced that 	hen you shall be convinced of th
+doyle_baskervilles_12_u	32	0.90625	30081	3407	t you will forgive me if I seem 	t you will forgive me if I have 
+christie_styles_6_d	30	0.9	5521	6672	that there have been times whe	that there have been cases whe
+austen_northangerabbey_14_g	30	0.9	4237	17022	 without a moment's delay, dri	 without a moment's delay, wal
+stoker_dracula_10_g	30	0.9333333333333333	4236	21612	, without a moment's delay, dr	, without a moment's delay, we
+stoker_dracula_10_g	30	0.9	14075	942	." _Dr. Seward's Diary._ _25 O	." _Dr. Seward's Diary._ _7 Se
+stoker_dracula_10_g	30	0.9	18862	942	." _Dr. Seward's Diary._ _28 O	." _Dr. Seward's Diary._ _7 Se
+stoker_dracula_10_g	30	0.9	30836	13722	." The Professor stood up:-- "	." The Professor stood up. "I 
+doyle_baskervilles_11_u	31	0.9354838709677419	15353	9393	 would be necessary to take ste	 would be necessary to take her
+doyle_baskervilles_11_u	30	0.9333333333333333	23167	23886	 an opportunity of seeing me a	 an opportunity of seeing some
+stoker_dracula_20_g	33	0.9090909090909091	10988	29942	 between sunrise and sunset. The 	 between sunrise and sunset; we s
+stoker_dracula_20_g	44	0.9090909090909091	14075	28535	." _Dr. Seward's Diary._ _25 October._--How 	." _Dr. Seward's Diary._ _2 October._--I pla
+stoker_dracula_20_g	40	0.975	18862	28535	." _Dr. Seward's Diary._ _28 October._--	." _Dr. Seward's Diary._ _2 October._--I
+stoker_dracula_12_g	30	0.9333333333333333	14075	28988	." _Dr. Seward's Diary._ _25 O	." _Dr. Seward's Diary._ _20 S
+stoker_dracula_12_g	30	0.9333333333333333	18862	28988	." _Dr. Seward's Diary._ _28 O	." _Dr. Seward's Diary._ _20 S
+radcliffe_udolpho_50_g	30	0.9	15350	52603	 it would be necessary to take	 it would be necessary to remo
+doyle_baskervilles_8_u	30	0.9333333333333333	17115	8700	 that it is no wonder that sle	 that it is no wonder that he 
+dickens_christmascarole_1_g	30	0.9	15350	5332	 it would be necessary to take	 it would be necessary for the
+stoker_dracula_24_g	42	0.9523809523809523	8731	2010	. _Jonathan Harker's Journal._ _15 October	. _Jonathan Harker's Journal._ _4 October.
+stoker_dracula_24_g	49	0.9387755102040817	8731	23877	. _Jonathan Harker's Journal._ _15 October, Varna	. _Jonathan Harker's Journal._ _5 October, aftern
+stoker_dracula_24_g	30	0.9	9223	4714	 the _Czarina Catherine_ comes	 the _Czarina Catherine_. He s
+stoker_dracula_24_g	30	1.0	10224	7397	 that the _Czarina Catherine_ 	 that the _Czarina Catherine_ 
+stoker_dracula_24_g	30	1.0	10417	7397	 that the _Czarina Catherine_ 	 that the _Czarina Catherine_ 
+stoker_dracula_24_g	30	0.9333333333333333	10988	9164	 between sunrise and sunset. T	 between sunrise and sunset; f
+stoker_dracula_24_g	33	0.9393939393939394	11997	4711	 of the _Czarina Catherine_ we sh	 of the _Czarina Catherine_. He s
+stoker_dracula_24_g	30	0.9	13591	4714	 the _Czarina Catherine_ is se	 the _Czarina Catherine_. He s
+stoker_dracula_24_g	42	0.9047619047619048	14077	16107	 _Dr. Seward's Diary._ _25 October._--How 	 _Dr. Seward's Diary._ _5 October._--We al
+stoker_dracula_24_g	30	0.9	15736	4370	 the _Czarina Catherine_ has c	 the _Czarina Catherine_, and 
+stoker_dracula_24_g	37	0.9459459459459459	17555	4707	ings of the _Czarina Catherine_. She 	ings of the _Czarina Catherine_. He s
+stoker_dracula_24_g	43	0.9069767441860465	18864	16107	 _Dr. Seward's Diary._ _28 October._--When 	 _Dr. Seward's Diary._ _5 October._--We all
+stoker_dracula_24_g	35	0.9142857142857143	26257	13885	me again, and again, and again, tho	me again, and again, and again. Loo
+stoker_dracula_3_g	361	0.9033333333333333	26107	6113	hat other of his race who, in a later age, again and again, brought his forces over The Great River into Turkey Land; who, when he was beaten back, came again, and again, and again, though he had to come alone from the bloody field where his troops were being slaughtered, since he knew that he alone could ultimately triumph." "What does this tell us? Not much	hat other of his race who in a later age again and again brought his forces over the great river into Turkey-land; who, when he was beaten back, came again, and again, and again, though he had to come alone from the bloody field where his troops were being slaughtered, since he knew that he alone could ultimately triumph! They said that he thought only of him
+doyle_signoffour_5_d	32	0.90625	20400	5481	 hands instinctively sought the 	 hands instinctively sought for 
+lewis_monk_1_g	30	0.9333333333333333	23167	33025	 an opportunity of seeing me a	 an opportunity of seeing my S
+radcliffe_udolpho_14_g	30	0.9	30691	5646	 than it has been since that a	 than it had been since the ma
+stoker_dracula_9_g	30	0.9333333333333333	14075	7890	." _Dr. Seward's Diary._ _25 O	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	30	0.9	14075	25256	." _Dr. Seward's Diary._ _25 O	." _Dr. Seward's Diary._ _4 Se
+stoker_dracula_9_g	30	0.9333333333333333	18862	7890	." _Dr. Seward's Diary._ _28 O	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	30	0.9	18862	25256	." _Dr. Seward's Diary._ _28 O	." _Dr. Seward's Diary._ _4 Se
+christie_secretadversary_10_d	30	1.0	10496	2545	e had arranged before leaving 	e had arranged before leaving 
+stoker_dracula_16_g	46	0.9347826086956522	4579	1967	I swear to you by all that I hold sacred and d	I swear to you by all that I hold sacred that 
+stoker_dracula_16_g	36	0.9166666666666666	5917	17226	 the hand of him that loves me best.	 the hand of him that loved her best
+stoker_dracula_16_g	30	0.9	19685	7417	. Van Helsing raised his hand 	. Van Helsing raised his lante
+stoker_dracula_21_g	31	0.9354838709677419	2	2	 DR. SEWARD'S DIARY _11 October	 DR. SEWARD'S DIARY _3 October.
+collins_moonstone_65_d	36	0.9444444444444444	2089	3127	, you know as well as I do, that my 	, you know as well as I do that you 
+collins_moonstone_52_d	35	0.9142857142857143	11489	14422	e shall not have much trouble with 	e shall not be much troubled with t

@@ -1,0 +1,127 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_30_g	30	0.9333333333333333	2134	13042	 of their circumstances made h	 of their circumstances and ch
+collins_hauntedhotel_28_u	30	0.9	11743	13998	 she had seen an apparition, t	 she had seen the apparition, 
+radcliffe_udolpho_20_g	31	0.9032258064516129	587	30803	 the north side of the castle b	 the north end of the castle, b
+radcliffe_udolpho_20_g	30	0.9	8378	27788	, when she considered her remo	, when she considered the pres
+austen_northangerabbey_13_g	30	0.9333333333333333	11212	11496	 the door of the apartment, th	 the door of the apartment her
+radcliffe_udolpho_19_g	33	0.9090909090909091	317	20724	 to be silent on the subject of h	 to be silent on the subject, tha
+radcliffe_udolpho_19_g	32	0.90625	1419	55024	 in the castle of Udolpho, with 	 in the castle of Udolpho, she w
+radcliffe_udolpho_19_g	31	0.9032258064516129	8660	41193	, for some time, and then cease	, for some time, and then her a
+radcliffe_udolpho_19_g	30	0.9666666666666667	10177	50686	 deprived her of the power to 	 deprived her of the power of 
+radcliffe_udolpho_19_g	30	0.9333333333333333	10847	3390	 she had seen an apparition on	 she had seen an apparition. T
+radcliffe_udolpho_19_g	30	0.9333333333333333	11743	3390	 she had seen an apparition, t	 she had seen an apparition. T
+radcliffe_udolpho_19_g	30	0.9	12763	27565	n the subject of their alarm, 	n the subject of her alarm. Mo
+radcliffe_udolpho_19_g	32	0.96875	14987	31654	hat she had witnessed in the nor	hat she had witnessed in the mor
+radcliffe_udolpho_11_g	30	0.9	10244	8736	 in a remote part of the galle	 in a remote part of the chate
+christie_secretadversary_27_d	30	0.9333333333333333	11212	1055	 the door of the apartment, th	 the door of the apartment she
+radcliffe_udolpho_42_g	30	0.9	587	350	 the north side of the castle 	 the north side of the chateau
+radcliffe_udolpho_42_g	30	0.9	8506	18901	 seemed to come from the way s	 seemed to come from the hall 
+radcliffe_udolpho_42_g	30	0.9333333333333333	9821	18901	 seemed to come from the galle	 seemed to come from the hall 
+radcliffe_udolpho_42_g	32	0.90625	10382	19000	 distinguished the voices of sev	 distinguished the voice of Anne
+radcliffe_udolpho_42_g	31	0.9032258064516129	10799	18178	 the back stair-case, in the wa	 the back stair-case, and to wa
+radcliffe_udolpho_32_g	32	0.90625	9101	10311	 she heard voices calling her fr	 she heard a voice calling her. 
+radcliffe_udolpho_32_g	31	0.967741935483871	9470	4077	 she withdrew to her own room, 	 she withdrew to her own room. 
+radcliffe_udolpho_30_g	41	0.926829268292683	8274	27449	 she had formerly heard at midnight, and 	 she had formerly heard at midnight, she 
+radcliffe_udolpho_30_g	30	0.9666666666666667	11212	22756	 the door of the apartment, th	 the door of the apartment, wh
+lewis_monk_11_g	30	0.9	12460	25946	 listened attentively to all t	 listened attentively to Matil
+radcliffe_udolpho_44_g	30	0.9	9282	1201	 the supper-room, where he sat	 the supper-room, where the Co
+radcliffe_udolpho_44_g	32	0.90625	14433	8030	.' 'Well,' said the Count, 'you 	.' 'Well,' said the Count, 'I ho
+radcliffe_udolpho_44_g	31	0.9032258064516129	14990	12811	 she had witnessed in the north	 she had witnessed in the apart
+doyle_adventures_10_d	30	1.0	1463	11248	 the strange disappearance of 	 the strange disappearance of 
+austen_northangerabbey_23_g	34	0.9117647058823529	9836	6074	 from the gallery, into which her 	 from the gallery in which her roo
+austen_northangerabbey_23_g	32	0.90625	12096	13962	, according to her belief, she h	, according to her belief, just 
+radcliffe_udolpho_38_g	30	0.9	10177	5204	 deprived her of the power to 	 deprived her of all power to 
+radcliffe_udolpho_38_g	31	0.9032258064516129	12515	40772	, which occasioned her much tho	, which occasioned her so much 
+lewis_monk_12_g	30	0.9	10632	3662	 immediately desired them to b	 immediately guessed them to b
+radcliffe_udolpho_5_g	43	0.9302325581395349	4529	14657	 standing on a point of rock, near the sea,	 standing on a point of rock near the entra
+radcliffe_udolpho_5_g	30	0.9666666666666667	5332	13417	 waters of the Mediterranean a	 waters of the Mediterranean; 
+radcliffe_udolpho_5_g	31	0.967741935483871	5336	17863	ers of the Mediterranean and th	ers of the Mediterranean, and t
+radcliffe_udolpho_17_g	30	0.9666666666666667	10382	4131	 distinguished the voices of s	 distinguished the voices of M
+radcliffe_udolpho_9_g	31	0.9032258064516129	4441	8703	 the Mediterranean, and, to the	 the Mediterranean, and had the
+radcliffe_udolpho_9_g	32	0.90625	5338	8699	s of the Mediterranean and the m	s of the Mediterranean, and had 
+doyle_adventures_3_d	30	0.9333333333333333	8501	12862	 they seemed to come from the 	 they seemed to come from me, 
+radcliffe_udolpho_52_g	38	0.9210526315789473	425	17703	d such alarm among the servants, who n	d such alarm among the servants, they 
+radcliffe_udolpho_52_g	30	0.9333333333333333	1418	4261	, in the castle of Udolpho, wi	, in the castle of Udolpho, an
+radcliffe_udolpho_52_g	30	0.9	15240	18690	 had entrusted her, and which 	 had entrusted her, and, when 
+lewis_monk_3_g	30	0.9	2080	58465	 had long entertained for his 	 had long entertained for me t
+lewis_monk_3_g	30	0.9	8638	51256	 continued to approach, for so	 continued to approach. No soo
+shelley_frankenstein_37_g	41	0.9512195121951219	381	7743	 the occurrence of the preceding night sp	 the occurrences of the preceding night. 
+collins_moonstone_81_d	31	0.9354838709677419	8821	7965	k, at some little distance befo	k, at some little distance from
+radcliffe_udolpho_39_g	30	0.9	9433	14114	 deeply impressed her mind, an	 deeply impressed her, and, in
+radcliffe_udolpho_39_g	32	0.90625	9474	13426	 withdrew to her own room, it re	 withdrew to her own room, that 
+radcliffe_udolpho_23_g	30	0.9333333333333333	9687	35480	 her fears, she, at length, su	 her fears, she, at length, la
+radcliffe_udolpho_23_g	31	0.9354838709677419	12277	34781	 she was going to ascend the st	 she was going to descend the t
+radcliffe_udolpho_23_g	30	0.9	14878	22405	 Emily was surprised and conce	 Emily was surprised, and some
+radcliffe_udolpho_55_g	30	0.9	1419	19357	 in the castle of Udolpho, wit	 in the castle of Udolpho, Lau
+christie_secretadversary_6_d	30	0.9	11449	10909	 down the stairs and passing u	 down the stairs and passed ou
+radcliffe_udolpho_46_g	41	0.9024390243902439	13577	4593	 to dissuade him from his purpose. 'You a	 to dissuade him from his purpose. 'What 
+radcliffe_udolpho_6_g	32	0.96875	5338	14277	s of the Mediterranean and the m	s of the Mediterranean, and the 
+stoker_dracula_11_g	30	0.9	8506	3501	 seemed to come from the way s	 seemed to come from the very 
+stoker_dracula_11_g	30	1.0	9816	3496	 that seemed to come from the 	 that seemed to come from the 
+radcliffe_udolpho_16_g	32	0.90625	3153	71137	 at a little distance among the 	 at a little distance, on the ri
+radcliffe_udolpho_16_g	30	0.9	8880	8345	 her spirits were so overcome 	 her spirits were overcome, he
+radcliffe_udolpho_25_g	30	0.9	393	541	nce of the preceding night spr	nce of the preceding night. 'Y
+radcliffe_udolpho_25_g	43	0.9069767441860465	9587	20390	 she had scarcely courage to remain alone. 	 she had scarcely courage to remain at the 
+radcliffe_udolpho_33_g	30	0.9	8273	43317	e she had formerly heard at mi	e she had formerly heard, and 
+radcliffe_udolpho_33_g	32	0.90625	10243	20590	s in a remote part of the galler	s in a remote part of the castle
+radcliffe_udolpho_33_g	30	0.9	11549	20873	 the gallery, where she fell, 	 the gallery, where she still 
+radcliffe_udolpho_15_g	33	0.9090909090909091	3102	18410	 horns and other instruments, som	 horns and other instruments ming
+radcliffe_udolpho_15_g	33	0.9090909090909091	10820	20161	 in the way to her chamber, she h	 in the way to her chamber, whith
+collins_hauntedhotel_5_u	31	0.9032258064516129	10244	8365	 in a remote part of the galler	 in a remote part of the palace
+radcliffe_udolpho_57_g	30	0.9333333333333333	2931	215	 the Lady Blanche and Emily, w	 the Lady Blanche and Emily St
+radcliffe_udolpho_36_g	32	0.90625	3164	12024	e distance among the woods, spok	e distance, among these woods, s
+radcliffe_udolpho_36_g	35	0.9142857142857143	3799	4187	 of the Mediterranean, with its win	 of the Mediterranean, with the whi
+radcliffe_udolpho_36_g	32	0.90625	3941	13318	 overgrown with vegetation, but 	 overgrown with vegetation. At a
+radcliffe_udolpho_36_g	30	0.9666666666666667	5332	4180	 waters of the Mediterranean a	 waters of the Mediterranean, 
+radcliffe_udolpho_36_g	30	0.9	9203	23774	 of the Count's servants, who 	 of the Count's servants, havi
+radcliffe_udolpho_36_g	31	0.9032258064516129	9282	24470	 the supper-room, where he sat 	 the supper-room, where they ha
+radcliffe_udolpho_36_g	34	1.0	9696	30715	s, she, at length, sunk to repose.	s, she, at length, sunk to repose.
+radcliffe_udolpho_36_g	33	0.9090909090909091	11477	7561	 up the great stair-case, had run	 up the great stair-case, and thr
+radcliffe_udolpho_34_g	32	0.90625	3153	32374	 at a little distance among the 	 at a little distance, upon the 
+radcliffe_udolpho_34_g	33	0.9090909090909091	5332	36447	 waters of the Mediterranean and 	 waters of the Mediterranean, so 
+radcliffe_udolpho_34_g	30	0.9333333333333333	8264	11865	 the voice she had formerly he	 the voice, she had formerly l
+radcliffe_udolpho_34_g	32	0.96875	8601	2154	 in trembling expectation. The s	 in trembling expectation. 'The 
+radcliffe_udolpho_34_g	31	1.0	9815	20984	, that seemed to come from the 	, that seemed to come from the 
+radcliffe_udolpho_34_g	31	0.9032258064516129	10280	21251	d, as they approached, she call	d, as they approached the small
+radcliffe_udolpho_34_g	33	0.9090909090909091	11212	12409	 the door of the apartment, that 	 the door of the apartment, she a
+radcliffe_udolpho_34_g	31	1.0	12943	40874	 had nothing to apprehend from 	 had nothing to apprehend from 
+lewis_monk_4_g	33	0.9090909090909091	316	94007	e to be silent on the subject of 	e to be silent upon the subject. 
+radcliffe_udolpho_50_g	30	0.9	677	29555	, perceiving, that it was prod	, perceiving, that it was gone
+radcliffe_udolpho_50_g	30	0.9	3065	25392	 of the Count's servants perfo	 of the Count's servants retur
+radcliffe_udolpho_50_g	30	0.9	3065	54578	 of the Count's servants perfo	 of the Count's servants were 
+radcliffe_udolpho_50_g	30	0.9	9203	54578	 of the Count's servants, who 	 of the Count's servants were 
+radcliffe_udolpho_18_g	30	0.9	677	34317	, perceiving, that it was prod	, perceiving, that it was not 
+radcliffe_udolpho_18_g	36	0.9444444444444444	3618	40194	 fond of walking in the woods, that 	 fond of walking in the woods, at ev
+radcliffe_udolpho_18_g	31	0.9354838709677419	4408	13266	 over the tops of other woods, 	 over the tops of the woods, be
+radcliffe_udolpho_18_g	31	0.9032258064516129	5235	4372	 in tranquil melancholy, the gr	 in tranquil melancholy, watche
+radcliffe_udolpho_18_g	30	0.9	9580	1783	e, that she had scarcely coura	e, that she had scarcely breat
+radcliffe_udolpho_18_g	32	0.90625	10243	31473	s in a remote part of the galler	s in a remote part of the castle
+radcliffe_udolpho_18_g	31	0.9354838709677419	11477	44617	 up the great stair-case, had r	 up the great stair-case, that 
+radcliffe_udolpho_13_g	30	0.9	8377	11635	r, when she considered her rem	r, when she considered the tum
+radcliffe_udolpho_13_g	30	0.9333333333333333	13681	45218	 you are going to encounter, b	 you are going to encounter wi
+radcliffe_udolpho_48_g	30	0.9	1805	26393	 at the chateau was the Baron 	 at the chateau of the Baron S
+radcliffe_udolpho_48_g	33	0.9090909090909091	12222	28402	as the remembrance of it, that ha	as the remembrance of what that h
+radcliffe_udolpho_48_g	32	0.90625	12763	22397	n the subject of their alarm, th	n the subject of her alarm, she 
+radcliffe_udolpho_22_g	30	0.9333333333333333	10012	10076	 burst it open. She called lou	 burst it open. She called to 
+radcliffe_udolpho_22_g	34	0.9117647058823529	10045	10102	 to know who was there, but receiv	 to know who was there, and receiv
+radcliffe_udolpho_22_g	32	0.90625	10847	13340	 she had seen an apparition on t	 she had seen an apparition, as 
+radcliffe_udolpho_22_g	35	1.0	11737	13334	, that she had seen an apparition, 	, that she had seen an apparition, 
+radcliffe_udolpho_4_g	53	0.9056603773584906	9841	31862	 the gallery, into which her chamber opened. Groans w	 the gallery, into which her chamber opened. She was 
+lewis_monk_7_g	30	0.9666666666666667	10177	11820	 deprived her of the power to 	 deprived her of the power of 
+walpole_castleofotranto_5_g	31	0.9032258064516129	1248	32799	 part of the castle. On these o	 part of the castle. In the mor
+lewis_monk_5_g	31	0.9032258064516129	1122	19862	red to look round the room; sta	red to look round the room, and
+radcliffe_udolpho_21_g	32	0.90625	2864	6034	 scientific performers, and the 	 scientific performer, and had f
+radcliffe_udolpho_12_g	30	0.9	14549	4505	 have courage enough to remain	 have courage enough to practi
+radcliffe_udolpho_27_g	32	0.90625	3153	10008	 at a little distance among the 	 at a little distance, on the ra
+radcliffe_udolpho_14_g	30	0.9	9474	19793	 withdrew to her own room, it 	 withdrew to her own room, whe
+radcliffe_udolpho_41_g	30	0.9	1419	1933	 in the castle of Udolpho, wit	 in the castle of Udolpho. Thi
+radcliffe_udolpho_41_g	41	0.9024390243902439	2987	4686	 compensated for the want of more skilful	 compensated for the want of more brillia
+radcliffe_udolpho_41_g	30	0.9333333333333333	8273	10659	e she had formerly heard at mi	e she had formerly heard at th
+radcliffe_udolpho_54_g	30	0.9	1419	14674	 in the castle of Udolpho, wit	 in the castle of Udolpho,' co
+radcliffe_udolpho_54_g	32	0.90625	1419	16079	 in the castle of Udolpho, with 	 in the castle of Udolpho, to wh
+radcliffe_udolpho_54_g	31	0.9032258064516129	8554	18907	 towards the chateau, and she a	 towards the chateau, on the wa
+radcliffe_udolpho_54_g	32	0.90625	10382	19696	 distinguished the voices of sev	 distinguished the voice of Mons
+doyle_scarlet_8_d	30	0.9	12460	18806	 listened attentively to all t	 listened attentively to an ac
+radcliffe_udolpho_35_g	30	0.9666666666666667	5332	8945	 waters of the Mediterranean a	 waters of the Mediterranean, 
+radcliffe_udolpho_35_g	30	0.9666666666666667	5332	13733	 waters of the Mediterranean a	 waters of the Mediterranean, 
+radcliffe_udolpho_35_g	32	0.90625	12721	16611	e of the Count, who, if he had a	e of the Count, who said he had 

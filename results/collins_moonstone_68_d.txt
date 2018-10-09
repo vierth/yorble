@@ -1,0 +1,98 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_3_d	32	0.90625	4514	25369	, I felt that it would be an act	, I felt that it would be a stra
+doyle_adventures_3_d	32	0.9375	18234	8040	 Tottenham Court Road; and he de	 Tottenham Court Road, and he le
+stoker_dracula_14_g	37	0.9459459459459459	25875	6983	 opened the door, and announced Mr. G	 opened the door, and announced "Dr. 
+lewis_monk_3_g	32	0.9375	11723	912	 immediately conducted him into 	 immediately conducted him to hi
+collins_moonstone_69_d	56	0.9285714285714286	1040	3309	 the fallen nature which we all inherit from Adam—has un	 the fallen nature which we all inherit from Adam—it is 
+collins_moonstone_69_d	31	0.9032258064516129	3115	5805	 sacred regard for truth is (th	 sacred regard for truth on the
+collins_moonstone_69_d	31	0.9032258064516129	6518	1959	 the Mothers’-Small-Clothes-Con	 the Mothers’-Small-Clothes nex
+collins_moonstone_69_d	30	0.9	10795	4806	e in Northumberland Street, St	e in Northumberland Street; an
+collins_moonstone_69_d	31	0.9032258064516129	10969	1959	 the Mothers’-Small-Clothes-Con	 the Mothers’-Small-Clothes nex
+collins_moonstone_69_d	30	0.9	11592	4806	e in Northumberland Street. A 	e in Northumberland Street; an
+collins_moonstone_69_d	34	0.9117647058823529	17559	4807	 in Northumberland Street, and mus	 in Northumberland Street; and I m
+collins_moonstone_69_d	31	0.9032258064516129	18680	4807	 in Northumberland Street now h	 in Northumberland Street; and 
+collins_moonstone_69_d	31	0.9354838709677419	19482	4807	 in Northumberland Street had g	 in Northumberland Street; and 
+collins_moonstone_69_d	38	0.9473684210526315	22909	4797	 adventure in Northumberland Street.” 	 adventure in Northumberland Street; a
+collins_moonstone_69_d	31	0.967741935483871	23685	4807	 in Northumberland Street and A	 in Northumberland Street; and 
+collins_moonstone_64_d	30	0.9	1318	6515	 Mr. Franklin Blake. I have be	 Mr. Franklin Blake. In the me
+collins_moonstone_89_d	30	0.9	6970	49011	 Mr. Godfrey Ablewhite, was as	 Mr. Godfrey Ablewhite was ent
+collins_moonstone_89_d	30	0.9	6970	57492	 Mr. Godfrey Ablewhite, was as	 Mr. Godfrey Ablewhite was too
+collins_moonstone_89_d	30	0.9333333333333333	20097	36552	 a valuable of great price whi	 a valuable of great price. Th
+collins_moonstone_89_d	36	0.9166666666666666	20305	36647	 on the personal application of the 	 on the personal application of Mr. 
+collins_moonstone_89_d	32	0.96875	23632	40473	 Lady Verinder’s country house, 	 Lady Verinder’s country house. 
+collins_moonstone_81_d	30	0.9	23427	9146	 the loss of the Moonstone, an	 the loss of the Moonstone wer
+christie_secretadversary_16_d	30	0.9	4517	781	 felt that it would be an act 	 felt that it would be a pity 
+collins_moonstone_79_d	44	0.9090909090909091	10496	6407	 instructions to wait for an answer. Such in	 instructions to wait for an answer. The ans
+collins_moonstone_79_d	30	0.9	25656	7756	 her secret with discovery?” “	 her secret with discovery thr
+poe_marieroget_1_d	32	0.90625	24340	53982	 under the circumstances. Here s	 under the circumstances, there 
+doyle_signoffour_6_d	30	0.9	12178	13000	 communicating with the front 	 communicating with the roof, 
+collins_hauntedhotel_20_u	48	0.9166666666666666	17778	13479	ence, he found a letter waiting for him, which w	ence, he found a letter waiting for him when he 
+doyle_scarlet_3_d	30	0.9	24340	6944	 under the circumstances. Here	 under the circumstances, seem
+lewis_monk_2_g	31	0.9032258064516129	20476	1928	ly present themselves with the 	ly present themselves at the Ab
+walpole_castleofotranto_3_g	30	0.9	15400	22057	 to the knowledge of the landl	 to the knowledge of the stran
+radcliffe_udolpho_6_g	30	0.9333333333333333	14476	15407	e in the neighbourhood), that 	e in the neighbourhood that ac
+christie_styles_10_d	32	0.90625	21886	25168	 that something was wrong. Certa	 that something was wrong. Dorca
+collins_moonstone_77_d	30	0.9	10950	82	s on the subject of the Mother	s on the subject of the Moonst
+collins_moonstone_70_d	38	0.9210526315789473	5724	9001	 passed over the manner in which she g	 passed over the manner in which this 
+collins_moonstone_70_d	30	0.9	6970	14008	 Mr. Godfrey Ablewhite, was as	 Mr. Godfrey Ablewhite was in 
+collins_moonstone_70_d	30	0.9	12901	9322	nce of my admirable friend at 	nce of my admirable friend, wh
+collins_moonstone_70_d	31	0.9032258064516129	17559	8887	 in Northumberland Street, and 	 in Northumberland Street? Egad
+collins_moonstone_70_d	31	0.9032258064516129	19482	8887	 in Northumberland Street had g	 in Northumberland Street? Egad
+collins_moonstone_70_d	34	0.9411764705882353	20098	10988	a valuable of great price which Mr	a valuable of great price,’ which 
+collins_moonstone_70_d	31	0.9032258064516129	21255	11604	 accidentally speaking to him. 	 accidentally speaking to Mr. L
+collins_moonstone_70_d	31	0.9032258064516129	23685	8887	 in Northumberland Street and A	 in Northumberland Street? Egad
+radcliffe_udolpho_16_g	30	0.9	13615	39419	d, and concluded that he was a	d, and concluded that he had s
+radcliffe_udolpho_33_g	30	0.9	13621	19531	 concluded that he was alone a	 concluded, that she was gone 
+radcliffe_udolpho_33_g	30	0.9	19777	4659	 difference between the two ca	 difference between the warm c
+austen_northangerabbey_22_g	30	0.9	9301	2352	 should be the first to pass t	 should be the first to posses
+collins_hauntedhotel_27_u	30	0.9	12218	3694	, without the slightest previo	, without the slightest reserv
+collins_moonstone_56_d	32	0.90625	25802	13479	” As the word passed her lips, a	” As the words passed his lips, 
+collins_moonstone_80_d	32	0.90625	23427	12284	 the loss of the Moonstone, and 	 the loss of the Moonstone, is t
+doyle_baskervilles_9_u	30	0.9	24340	4111	 under the circumstances. Here	 under the circumstances expec
+collins_moonstone_67_d	32	0.9375	1315	14899	 to Mr. Franklin Blake. I have b	 to Mr. Franklin Blake. I leave 
+collins_moonstone_67_d	35	0.9142857142857143	20846	22932	 communicated to the police, and th	 communicate with the police, and t
+collins_moonstone_67_d	30	0.9	25656	2528	 her secret with discovery?” “	 her secret with discovery, th
+stoker_dracula_12_g	31	0.9032258064516129	13339	5922	 did not understand, but in ton	 did not understand, but with t
+christie_styles_5_d	31	0.9032258064516129	16047	33077	 the explanation of the landlor	 the explanation of the blank l
+collins_hauntedhotel_6_u	30	0.9333333333333333	24338	1345	en under the circumstances. He	en under the circumstances. Li
+collins_moonstone_74_d	34	0.9117647058823529	5736	22132	 the manner in which she gave her 	 the manner in which he gave his a
+collins_moonstone_74_d	30	0.9	6970	20622	 Mr. Godfrey Ablewhite, was as	 Mr. Godfrey Ablewhite was exp
+collins_moonstone_74_d	33	0.9090909090909091	7877	7229	 Mr. Godfrey Ablewhite. Living in	 Mr. Godfrey Ablewhite. Having fi
+collins_moonstone_74_d	30	0.9	15362	13416	othing out of the common had h	othing out of the common to he
+collins_moonstone_74_d	31	0.9032258064516129	24340	19863	 under the circumstances. Here 	 under the circumstances. She w
+collins_moonstone_74_d	33	0.9696969696969697	25713	18376	t. “What can you possibly mean? D	t. “What can you possibly mean?” 
+radcliffe_udolpho_13_g	30	0.9	23468	41563	 of the circumstances had actu	 of the circumstances he had a
+christie_secretadversary_14_d	34	0.9117647058823529	24340	6221	 under the circumstances. Here sur	 under the circumstances. Severe s
+stoker_dracula_2_g	33	0.9393939393939394	12057	12689	 was looking at the book, the pos	 was looking at the books, the do
+collins_moonstone_72_d	30	1.0	6515	5765	 of the Mothers’-Small-Clothes	 of the Mothers’-Small-Clothes
+collins_moonstone_72_d	31	1.0	10965	5764	t of the Mothers’-Small-Clothes	t of the Mothers’-Small-Clothes
+collins_moonstone_72_d	37	0.918918918918919	23424	7603	 of the loss of the Moonstone, and wh	 of the loss of the Moonstone, let wh
+doyle_adventures_5_d	31	0.9032258064516129	7741	34282	had been the victims of an outr	had been the victim of an unfor
+doyle_adventures_5_d	30	0.9	21391	34379	tion of the authorities, at wh	tion of the authorities to the
+collins_moonstone_73_d	30	0.9	4103	2581	 in Miss Clack’s narrative, is	 in Miss Clack’s narrative? So
+collins_moonstone_73_d	30	0.9	10950	2223	s on the subject of the Mother	s on the subject of the Moonst
+stoker_dracula_3_g	31	0.9032258064516129	8272	2407	 which I have been taught from 	 which I have been taught to re
+collins_moonstone_84_d	30	0.9	7556	14984	d, for the first time, of an e	d, for the first time, into a 
+collins_moonstone_84_d	31	0.9032258064516129	8915	1795	 in a matter of this kind. Fort	 in a matter of this kind. It w
+lewis_monk_7_g	32	0.90625	23334	6941	he would have preferred keeping 	he would have preferred putting 
+lewis_monk_8_g	30	0.9333333333333333	20346	23336	. As soon as he recovered hims	. As soon as He recovered his 
+collins_moonstone_53_d	30	0.9	6970	12030	 Mr. Godfrey Ablewhite, was as	 Mr. Godfrey Ablewhite, at any
+collins_moonstone_62_d	30	0.9333333333333333	22568	3013	 the true state of the case ha	 the true state of the case wi
+collins_moonstone_50_d	35	0.9142857142857143	2021	1804	ing that he wants something of me. 	ing that he wanted something of my 
+collins_moonstone_50_d	30	0.9	15205	11020	 it had passed through the Cus	 it had passed through the han
+radcliffe_udolpho_49_g	33	0.9090909090909091	23463	1507	 some of the circumstances had ac	 some of the circumstances, that 
+radcliffe_udolpho_41_g	30	0.9	5736	17199	 the manner in which she gave 	 the manner, in which she had 
+radcliffe_udolpho_41_g	30	0.9	24740	4070	 as much as possible from dwel	 as much as possible, from the
+collins_hauntedhotel_10_u	32	0.90625	20069	3444	 acknowledged the receipt of a v	 acknowledge the receipt of the 
+collins_moonstone_66_d	34	0.9117647058823529	23427	4314	 the loss of the Moonstone, and wh	 the loss of the Moonstone, on Thu
+collins_moonstone_66_d	32	0.90625	23471	14186	 the circumstances had actually 	 the circumstances have fatally 
+collins_moonstone_76_d	30	0.9	4868	23027	 to know whether I could be of	 to know whether I could give 
+collins_moonstone_76_d	30	0.9	7122	625	 of which I am now writing, an	 of which I am now writing—in 
+collins_moonstone_76_d	35	0.9142857142857143	23424	21340	 of the loss of the Moonstone, and 	 of the loss of the Moonstone, out 
+collins_moonstone_49_d	34	0.9705882352941176	7122	10302	 of which I am now writing, and ha	 of which I am now writing, and ab
+doyle_baskervilles_15_u	31	0.9032258064516129	11257	7832	 prevented her from giving any 	 prevented her from going, and 
+collins_moonstone_65_d	34	0.9117647058823529	23427	6570	 the loss of the Moonstone, and wh	 the loss of the Moonstone,” said 
+collins_moonstone_65_d	32	0.90625	23471	4467	 the circumstances had actually 	 the circumstances have fatally 
+collins_moonstone_52_d	31	0.9032258064516129	7122	21551	 of which I am now writing, and	 of which I am now writing. Pen
+collins_moonstone_52_d	30	0.9333333333333333	7873	13295	 was Mr. Godfrey Ablewhite. Li	 was Mr. Godfrey Ablewhite. My
+radcliffe_udolpho_35_g	32	0.90625	14477	12167	 in the neighbourhood), that the	 in the neighbourhood, with the 

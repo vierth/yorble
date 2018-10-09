@@ -1,0 +1,61 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_27_g	30	0.9333333333333333	4597	6464	ed by the disappointment of th	ed by the disappointment of Mi
+radcliffe_udolpho_20_g	31	0.9354838709677419	2571	20526	 I am sure it would never have 	 I am sure I would never have m
+austen_northangerabbey_13_g	30	0.9666666666666667	20115	13837	 with Miss Tilney before the e	 with Miss Tilney before they 
+austen_northangerabbey_13_g	35	0.9142857142857143	20779	12404	 Catherine was sure it would not. A	 Catherine was sure they would not 
+radcliffe_udolpho_19_g	31	0.9032258064516129	12829	7366	 to withdraw the attention of m	 to withdraw her attention from
+collins_hauntedhotel_3_u	38	1.0	9789	2806	e had neither time nor inclination to 	e had neither time nor inclination to 
+poe_pitandpendulum_1_g	30	0.9	4541	14007	 might have had courage to com	 might have had courage to end
+radcliffe_udolpho_42_g	30	0.9	4300	9539	 disengage herself from her fr	 disengaged herself from the v
+austen_northangerabbey_8_g	30	0.9333333333333333	5714	4558	 had the pleasure of seeing yo	 had the pleasure of seeing he
+austen_northangerabbey_8_g	30	0.9	5998	3999	, an acquaintance of Mrs. Hugh	, an acquaintance of Mrs. Thor
+austen_northangerabbey_8_g	30	0.9	9753	1460	 will be back in a moment.” Ca	 will be back in a moment, and
+doyle_baskervilles_5_u	33	0.9090909090909091	16005	9761	, it is impossible for me to talk	, it is impossible for me to be a
+christie_styles_7_d	30	0.9	15129	11959	 I never thought of that.” “Th	 I never thought of that.” I w
+lewis_monk_11_g	35	0.9142857142857143	4295	11578	ed to disengage herself from her fr	ed to disengage herself from his ar
+collins_hauntedhotel_4_u	30	0.9333333333333333	16006	12347	 it is impossible for me to ta	 it is impossible for me to co
+collins_moonstone_75_d	30	0.9	16008	20872	t is impossible for me to talk	t is impossible for me to writ
+collins_moonstone_75_d	32	0.90625	16216	2708	 I had the honour of making the 	 I had the honour of stating the
+radcliffe_udolpho_51_g	34	0.9117647058823529	20134	25053	efore the evening concluded, a new	efore the evening concluded, he re
+collins_hauntedhotel_24_u	30	0.9	10178	10224	 passed through her mind, when	 passed through his mind, he n
+stoker_dracula_19_g	33	0.9090909090909091	4793	26383	 in the room; and though in all p	 in the room, and through it all 
+collins_moonstone_89_d	30	0.9	3461	10042	 than a quarter of an hour, an	 than a quarter of an hour. “W
+radcliffe_udolpho_39_g	33	0.9090909090909091	4575	15028	, had she not been urged by the d	, had she not been guided by the 
+radcliffe_udolpho_39_g	30	0.9333333333333333	10340	13168	 she granted his request, and 	 she granted his request, on t
+christie_secretadversary_16_d	30	0.9333333333333333	5718	3924	 the pleasure of seeing you be	 the pleasure of seeing you al
+christie_secretadversary_16_d	30	1.0	6317	3923	e the pleasure of seeing you a	e the pleasure of seeing you a
+austen_northangerabbey_15_g	30	0.9	3488	536	 and Catherine immediately too	 and Catherine immediately lea
+radcliffe_udolpho_23_g	30	0.9	4018	6720	 whispering voices, and their 	 whispering echoes, and their 
+doyle_signoffour_1_d	30	0.9	17592	7489	e there is much difference.” “	e there is as much difference 
+lewis_monk_2_g	31	0.9032258064516129	3764	20936	 the happiness of a situation w	 the happiness of thy situation
+lewis_monk_2_g	33	0.9090909090909091	4297	34702	 to disengage herself from her fr	 to disengage himself from her gr
+doyle_signoffour_3_d	30	0.9666666666666667	15695	2667	 a very particular friend of m	 a very particular friend of p
+walpole_castleofotranto_3_g	30	0.9333333333333333	4300	24547	 disengage herself from her fr	 disengaged herself from her w
+radcliffe_udolpho_26_g	33	0.9393939393939394	4297	20879	 to disengage herself from her fr	 to disengage herself from the gr
+radcliffe_udolpho_1_g	30	0.9	1460	34754	er to be acquainted with him? 	er to be acquainted with the s
+collins_moonstone_58_d	34	0.9411764705882353	9597	8853	 ought to be ashamed of himself, b	 ought to be ashamed of himself.” 
+lewis_monk_9_g	30	0.9	9106	27490	. As soon as they were joined 	. As soon as they were alone A
+radcliffe_udolpho_33_g	34	0.9117647058823529	3651	6722	 themselves from the rest of their	 themselves from the fire of the r
+radcliffe_udolpho_33_g	30	0.9333333333333333	9888	47480	, and she gave herself up for 	, and she gave herself up to s
+radcliffe_udolpho_33_g	30	0.9	10744	3003	to the quiet possession of a p	to the quiet possession of Mon
+austen_northangerabbey_22_g	31	0.9354838709677419	16005	16265	, it is impossible for me to ta	, it is impossible for me not t
+shelley_frankenstein_48_g	33	0.9393939393939394	10893	13792	hat is the meaning of this? I tho	hat is the meaning of this? I do 
+stoker_dracula_12_g	31	0.9354838709677419	3465	18799	n a quarter of an hour, and Cat	n a quarter of an hour, and I a
+radcliffe_udolpho_50_g	30	0.9	5216	48025	 of their conversation, which 	 of their conversation, when, 
+radcliffe_udolpho_50_g	30	0.9333333333333333	10434	51109	t, may be easily imagined. To 	t, may be easily imagined. He 
+austen_northangerabbey_6_g	34	0.9117647058823529	625	1253	est Catherine, how have you been t	est Catherine, what have you been 
+austen_northangerabbey_6_g	30	0.9333333333333333	2139	4776	” “No, indeed I should not.” “	” “No, indeed, I should not. I
+austen_northangerabbey_1_g	32	0.90625	8600	6034	; for though she could not, dare	; for though she could not write
+dickens_christmascarole_1_g	32	0.90625	2658	16729	ed the rest of the evening to Ja	ed the rest of the evening with 
+dickens_christmascarole_1_g	32	0.90625	15587	1527	, there would be nothing to rest	, there would be nothing more re
+christie_secretadversary_17_d	32	0.90625	5714	20097	 had the pleasure of seeing you 	 had the pleasure of seeing his 
+austen_northangerabbey_4_g	30	0.9	4656	3623	 her with great civility, retu	 her with great civility, the 
+austen_northangerabbey_4_g	34	0.9705882352941176	5714	1378	 had the pleasure of seeing you be	 had the pleasure of seeing you, b
+austen_northangerabbey_4_g	30	0.9333333333333333	6318	1382	 the pleasure of seeing you ag	 the pleasure of seeing you, b
+austen_northangerabbey_31_g	30	0.9	1176	4658	 young man in the world; she s	 young man in the world is ins
+doyle_adventures_2_d	33	0.9090909090909091	16006	2401	 it is impossible for me to talk 	 it is impossible for me to say w
+radcliffe_udolpho_10_g	30	0.9	5591	13662	 after a moment's silence, “ho	 after a moment's silence, sai
+walpole_castleofotranto_5_g	30	0.9	9106	6489	. As soon as they were joined 	. As soon as they were alone, 
+radcliffe_udolpho_12_g	30	0.9666666666666667	6313	36534	 have the pleasure of seeing y	 have the pleasure of seeing M
+radcliffe_udolpho_41_g	31	0.9032258064516129	9240	4070	 as much as possible from his v	 as much as possible, from the 
+christie_secretadversary_4_d	34	0.9117647058823529	11065	5699	s soon as I came into the room, an	s soon as you came into the room, 

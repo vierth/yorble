@@ -1,0 +1,8 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_12_g	30	0.9	973	17647	e pavilion at the end of it, w	e pavilion at the end of the t
+radcliffe_udolpho_27_g	35	0.9142857142857143	7995	1697	, which the remembrance of her occa	, which the remembrance of her aunt
+radcliffe_udolpho_41_g	30	1.0	46	64	 SHAKESPEARE We now return to 	 SHAKESPEARE We now return to 
+radcliffe_udolpho_54_g	32	0.90625	2684	26771	 time after his arrival at his b	 time after his arrival at Paris
+radcliffe_udolpho_54_g	30	0.9	8655	27037	 of his brother officers, whos	 of his brother officers had s
+christie_styles_4_d	30	0.9	2358	10638	 wondered how he could have ce	 wondered how I could have bee
+christie_styles_4_d	30	0.9	3207	9567	le, engaged his attention, tho	le, engaged his attention for 

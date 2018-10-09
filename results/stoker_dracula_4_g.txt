@@ -1,0 +1,59 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_22_g	30	0.9	1	3	 JONATHAN HARKER'S JOURNAL--_c	 JONATHAN HARKER'S JOURNAL _3 
+poe_pitandpendulum_1_g	30	0.9	9622	31271	 There could be no doubt as to	 There could be no doubt of th
+radcliffe_udolpho_42_g	30	0.9333333333333333	16950	16690	 the key of the outer door, wh	 the key of the outer door, an
+shelley_frankenstein_39_g	36	0.9722222222222222	22725	4100	 and covered my face with my hands t	 and covered my face with my hands. 
+christie_styles_7_d	33	0.9090909090909091	8895	15343	, and looked out of the window, w	, and looking out of the window w
+lewis_monk_11_g	30	1.0	7879	51316	 was fastened on the outside. 	 was fastened on the outside. 
+stoker_dracula_13_g	31	0.9032258064516129	5826	14636	. When he went out of the room 	. When he came out of the room 
+collins_moonstone_71_d	30	0.9	10489	4160	 with a sense of soothing, and	 with a sense of something wan
+shelley_frankenstein_56_g	30	0.9333333333333333	6855	20095	 that might be useful to me we	 that might be useful to my fe
+stoker_dracula_5_g	30	0.9	5205	12658	 came into his face, and his e	 came into his face, and he pu
+stoker_dracula_19_g	30	0.9	1	2	 JONATHAN HARKER'S JOURNAL--_c	 JONATHAN HARKER'S JOURNAL _1 
+stoker_dracula_19_g	31	0.967741935483871	8896	23328	 and looked out of the window, 	 and looked out of the window. 
+stoker_dracula_19_g	34	0.9117647058823529	8896	23913	 and looked out of the window, whi	 and looked out of the window agai
+stoker_dracula_19_g	30	0.9	11810	23232	nd then there was silence, dee	nd then there was silence over
+stoker_dracula_19_g	31	0.9032258064516129	28497	24276	. Then there came the sound of 	. Then there was the sound of a
+stoker_dracula_14_g	30	0.9	23752	13458	 threw myself on my knees. It 	 threw myself on my knees and 
+lewis_monk_3_g	30	0.9	8900	10604	 looked out of the window, whi	 looked out of the window, I s
+radcliffe_udolpho_24_g	33	0.9090909090909091	3966	15644	s, which, however, I could not un	s, which, however, she could not 
+stoker_dracula_26_g	32	0.90625	28401	18404	here must have been some other m	here must have been some letter 
+doyle_scarlet_3_d	33	0.9090909090909091	9621	13238	. There could be no doubt as to h	. There could be no doubt that th
+stoker_dracula_23_g	31	0.9032258064516129	12739	11890	 I could hear the beating of he	 I could hear the "ting" of the
+stoker_dracula_23_g	30	0.9333333333333333	23977	22866	 before the dawn, and when I w	 before the dawn, and then I s
+stoker_dracula_6_g	33	0.9090909090909091	3112	16190	 * * * * * _28 May._--There is a 	 * * * * * _8 July._--There is a 
+stoker_dracula_6_g	34	0.9117647058823529	4830	26581	e sat down beside me, and said in 	e sat down beside me, he said in a
+stoker_dracula_18_g	32	0.90625	21890	2285	o my intense astonishment I saw 	o my intense astonishment, he sa
+stoker_dracula_11_g	32	0.90625	17595	22203	, which had evidently been used 	, which had evidently been buffe
+stoker_dracula_11_g	36	0.9166666666666666	19794	21373	 fell asleep. I was awakened by the 	 fell asleep. I was waked by the fla
+doyle_adventures_12_d	30	0.9333333333333333	4146	43894	 to communicate with her. To h	 to communicate with her. So m
+doyle_scarlet_13_d	30	0.9	5844	2982	 of the room I could hear the 	 of the room I could hear a du
+doyle_scarlet_13_d	31	0.9032258064516129	17856	19460	here was nobody about, and I ma	here was nobody about, and that
+radcliffe_udolpho_33_g	31	0.9032258064516129	1977	21070	n the present state of things i	n the present state of his mind
+doyle_baskervilles_12_u	32	0.90625	9621	16648	. There could be no doubt as to 	. There could be no doubt about 
+christie_styles_6_d	30	0.9333333333333333	18589	502	. But there was no sign of mov	. But there was no sign of him
+stoker_dracula_10_g	32	0.90625	585	4697	, from some cause or another, I 	, from some cause or other, the 
+stoker_dracula_20_g	30	0.9	1	1	 JONATHAN HARKER'S JOURNAL--_c	 JONATHAN HARKER'S JOURNAL _1 
+doyle_baskervilles_9_u	30	0.9	8900	23526	 looked out of the window, whi	 looked out of the window agai
+doyle_baskervilles_7_u	31	0.9032258064516129	28401	22956	here must have been some other 	here must have been some short 
+lewis_monk_4_g	30	0.9333333333333333	2071	42435	 so absolutely in his power; a	 so absolutely in his power, H
+christie_styles_12_d	30	0.9	530	17436	 have been evidences that my m	 have been evidences that the 
+stoker_dracula_2_g	45	0.9333333333333333	1	1	 JONATHAN HARKER'S JOURNAL--_continued_ I awo	 JONATHAN HARKER'S JOURNAL--_continued_ _5 Ma
+stoker_dracula_2_g	30	0.9	8983	24755	t, for there is something goin	t, for there is something so s
+stoker_dracula_2_g	33	0.9090909090909091	21547	9350	 the howling of many wolves. It w	 the howling of many wolves. The 
+stoker_dracula_2_g	31	0.9032258064516129	28497	2468	. Then there came the sound of 	. Then there was the sound of r
+collins_moonstone_72_d	33	0.9090909090909091	20571	862	 in connection with such a monste	 in connection with such a man, t
+collins_hauntedhotel_19_u	30	0.9	11358	12789	 possession of my senses, and 	 possession of my senses in a 
+stoker_dracula_3_g	45	0.9111111111111111	1	2	 JONATHAN HARKER'S JOURNAL--_continued_ I awo	 JONATHAN HARKER'S JOURNAL--_continued_ When 
+stoker_dracula_3_g	30	0.9	10329	29650	 the rays of the moonlight. Th	 the rays of the moonlight and
+stoker_dracula_3_g	30	0.9	24317	18648	t the door was unlocked, and n	t the door was locked, and the
+collins_hauntedhotel_11_u	30	0.9	13301	10376	now what had become of her chi	now what has become of her hus
+lewis_monk_8_g	30	0.9666666666666667	2074	32870	 absolutely in his power; and 	 absolutely in his power, and 
+lewis_monk_5_g	30	0.9333333333333333	12453	24332	 threw herself on her knees, a	 threw herself upon her knees 
+stoker_dracula_1_g	32	0.90625	13167	27095	 the howling of the wolves was b	 the howling of the wolves grew 
+stoker_dracula_1_g	30	0.9333333333333333	13167	28100	 the howling of the wolves was	 the howling of the wolves aro
+stoker_dracula_1_g	31	0.9354838709677419	13167	28414	 the howling of the wolves was 	 the howling of the wolves had 
+stoker_dracula_1_g	31	0.9032258064516129	22038	27095	 the howling of the wolves with	 the howling of the wolves grew
+stoker_dracula_1_g	30	0.9	22038	28100	 the howling of the wolves wit	 the howling of the wolves aro
+stoker_dracula_1_g	31	0.9032258064516129	22038	28414	 the howling of the wolves with	 the howling of the wolves had 
+stoker_dracula_21_g	34	0.9411764705882353	8895	19110	, and looked out of the window, wh	, and looked out of the window. Th

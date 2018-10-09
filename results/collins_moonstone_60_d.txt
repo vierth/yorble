@@ -1,0 +1,19 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_76_d	34	0.9705882352941176	5180	995	 on the subject of the Moonstone o	 on the subject of the Moonstone, 
+collins_moonstone_76_d	30	0.9	5195	21352	 of the Moonstone out of me. T	 of the Moonstone, out of the 
+collins_moonstone_76_d	32	0.96875	15810	19219	. After what had passed between 	. After what has passed between 
+christie_secretadversary_15_d	37	0.918918918918919	6803	4330	 meditations were interrupted by Samu	 meditations were interrupted by Juli
+christie_secretadversary_15_d	34	0.9117647058823529	10824	1847	 under the same roof with herself 	 under the same roof with her for 
+collins_moonstone_49_d	30	0.9	16582	4611	 the Shivering Sand, that even	 the Shivering Sand, had been 
+reeve_oldenglishbaron	30	0.9333333333333333	15819	24430	hat had passed between the Ser	hat had passed between the Bar
+austen_northangerabbey_17_g	32	0.90625	10824	6191	 under the same roof with hersel	 under the same roof with the pe
+collins_moonstone_65_d	31	0.9032258064516129	4788	20948	,” said the Sergeant. “If Miss 	,” said the Sergeant. “I wish y
+collins_moonstone_65_d	30	0.9	7360	14266	y lady informed me, that the m	y lady informed him that he mi
+collins_moonstone_65_d	30	0.9	9150	6634	 Superintendent Seegrave’s rep	 Superintendent Seegrave. He p
+collins_moonstone_65_d	30	0.9	9691	7853	Superintendent Seegrave found 	Superintendent Seegrave. And s
+collins_moonstone_65_d	30	0.9333333333333333	13459	8107	. Under those circumstances, i	. Under these circumstances, a
+collins_moonstone_65_d	33	0.9090909090909091	19128	18573	,” answered the Sergeant, “becaus	,” answered the Sergeant, “reques
+collins_moonstone_52_d	30	0.9333333333333333	8974	10666	 compels me to acknowledge tha	 compels me to acknowledge. Sh
+collins_moonstone_52_d	30	0.9	12753	1523	n it,” says Mr. Franklin; “but	n it,” says Mr. Franklin, “the
+collins_moonstone_52_d	37	0.918918918918919	16661	21869	ious, to say the least of them. For a	ious, to say the least of it. For exa
+radcliffe_udolpho_35_g	36	0.9444444444444444	6428	21644	, for the first time in my life, whe	, for the first time in my life, I w

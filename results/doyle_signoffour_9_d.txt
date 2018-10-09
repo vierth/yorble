@@ -1,0 +1,43 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_14_d	30	0.9333333333333333	7813	8497	 reason to believe that the ma	 reason to believe that he had
+doyle_scarlet_14_d	32	0.90625	16305	2059	I hardly expected that it would 	I hardly expected that you would
+collins_moonstone_89_d	30	0.9	1402	10740	e back in an hour or two," I r	e back in an hour or two? I ha
+collins_moonstone_89_d	30	0.9	10455	79515	ing in the same direction, I c	ing in the same direction as m
+collins_moonstone_89_d	30	0.9	14210	59480	. He looked about him in the s	. He looked about him in a sta
+radcliffe_udolpho_7_g	34	0.9705882352941176	10618	22803	t three o'clock in the afternoon t	t three o'clock in the afternoon, 
+doyle_signoffour_8_d	35	0.9142857142857143	7126	7639	t is quite on the cards that some m	t is quite on the cards that we may
+doyle_signoffour_8_d	34	1.0	8062	10777	 the housekeeper, Mrs. Bernstone, 	 the housekeeper, Mrs. Bernstone, 
+doyle_signoffour_8_d	71	0.9154929577464789	8870	13327	, black with two red stripes, funnel black with a white band, the sum o	, black with two red streaks, funnel black with a white band. She is do
+poe_marieroget_1_d	30	0.9	17078	25231	, and there is no evidence aga	, and there is no evidence, ex
+doyle_signoffour_6_d	31	0.9354838709677419	5506	3409	 considered that possibility to	 considered that possibility." 
+radcliffe_udolpho_55_g	30	0.9333333333333333	7813	14309	 reason to believe that the ma	 reason to believe, that they 
+radcliffe_udolpho_6_g	31	0.9032258064516129	7813	41686	 reason to believe that the mat	 reason to believe that her dea
+doyle_adventures_12_d	30	0.9333333333333333	9836	15278	s it not possible that his nim	s it not possible that his wif
+doyle_adventures_12_d	30	0.9333333333333333	10419	664	 trivial in themselves, but al	 trivial in themselves, but wh
+doyle_adventures_12_d	31	0.9032258064516129	12696	4226	 to me. It was dated from Popla	 to me. It was dated from Monta
+doyle_adventures_12_d	32	0.9375	15640	14348	 recompense you for the loss of 	 recompense you for the loss. Yo
+doyle_signoffour_7_d	31	0.9032258064516129	1013	1559	 Mrs. Cecil Forrester. She aske	 Mrs. Cecil Forrester's. The se
+doyle_signoffour_7_d	30	0.9	3329	5178	 that Mr. Sherlock Holmes has 	 that Mr. Sherlock Holmes want
+radcliffe_udolpho_16_g	30	0.9	7808	30436	 have reason to believe that t	 have reason to believe this i
+doyle_signoffour_11_d	31	0.9032258064516129	1013	6174	 Mrs. Cecil Forrester. She aske	 Mrs. Cecil Forrester's. The se
+doyle_signoffour_11_d	43	0.9069767441860465	8246	2403	 Mr. Athelney Jones, of Scotland Yard, with	 Mr. Athelney Jones, of Scotland Yard. He i
+collins_hauntedhotel_5_u	30	0.9	15650	15747	e you for the loss of your tim	e you for the loss of your hus
+doyle_baskervilles_7_u	30	0.9333333333333333	3329	8645	 that Mr. Sherlock Holmes has 	 that Mr. Sherlock Holmes is i
+stoker_dracula_12_g	30	0.9	2797	16681	, as though the matter were on	, as though the material were 
+radcliffe_udolpho_34_g	30	0.9	7057	21324	if you will remain here as my 	if you will remain here a mome
+christie_styles_5_d	30	0.9	7956	14499	it is quite impossible that Mr	it is quite possible that ther
+christie_secretadversary_14_d	35	0.9428571428571428	7808	2491	 have reason to believe that the ma	 have reason to believe that she ha
+doyle_scarlet_2_d	30	0.9	7677	8853	, however, I found that there 	, however, I found that he had
+doyle_scarlet_2_d	34	0.9117647058823529	16944	14667	 that was what brought me here." "	 that was what brought him here.” 
+doyle_adventures_2_d	30	0.9	7813	31605	 reason to believe that the ma	 reason to believe that we sha
+doyle_adventures_2_d	31	0.9032258064516129	9537	23997	n answer to his advertisement. 	n answer to an advertisement." 
+christie_styles_1_d	32	0.90625	15208	18235	 you, whether you like or not, u	 you, whether you like it or not
+doyle_adventures_9_d	30	0.9	7677	15319	, however, I found that there 	, however, I found that this d
+doyle_adventures_9_d	30	0.9333333333333333	11418	6075	 I have had a good deal to wor	 I have had a good deal to go 
+doyle_adventures_9_d	30	0.9666666666666667	14086	3143	 gave me the impression of a r	 gave me the impression of a m
+collins_moonstone_50_d	30	0.9	7813	2061	 reason to believe that the ma	 reason to believe that neithe
+christie_styles_3_d	32	0.9375	457	11239	 I confess that I am surprised a	 I confess that I was surprised 
+christie_styles_3_d	32	0.90625	12670	9883	 his pocket, and handed it to me	 his pocket, and handed them to 
+radcliffe_udolpho_47_g	30	0.9	6684	4016	 was surprised to find him sta	 was surprised to find them ac
+doyle_baskervilles_15_u	31	0.9032258064516129	10896	13397	 had taken over the case so con	 had taken over the case in Lon
+christie_styles_4_d	56	0.9107142857142857	6866	6008	I have been turning it over in my mind, and I can see on	I have been turning it over in my mind, but I can’t see 

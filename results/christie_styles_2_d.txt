@@ -1,0 +1,11 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_5_d	34	0.9117647058823529	12534	23266	 sat for some time in silence. It 	 sat for some time in silence, wit
+collins_hauntedhotel_19_u	30	0.9	10275	8429	t has nothing to do with that 	t has nothing to do with it, M
+christie_styles_8_d	32	1.0	13438	3970	but Mr. Inglethorp insisted.” “W	but Mr. Inglethorp insisted.” “W
+stoker_dracula_1_g	30	0.9	12419	9780	 and went out of the room carr	 and went out of the room. I a
+doyle_adventures_9_d	31	0.9032258064516129	2673	15858	 suggested that we should retur	 suggested that we should quiet
+christie_styles_3_d	33	0.9090909090909091	9694	8557	 “Where is Mrs. Inglethorp?” “In 	 “Where is Mr. Inglethorp?” John 
+christie_secretadversary_24_d	30	0.9333333333333333	14471	8195	 breathed a sigh of relief. “I	 breathed a sigh of relief. Th
+collins_moonstone_76_d	30	0.9333333333333333	949	23140	 that I was quite unable to se	 that I was quite unable to af
+collins_moonstone_49_d	30	0.9333333333333333	9293	12698	 he turned on his heel and wen	 he turned on his heel, and wa
+christie_styles_4_d	31	0.9032258064516129	10283	6078	thing to do with that matter.” 	thing to do with the matter?” H

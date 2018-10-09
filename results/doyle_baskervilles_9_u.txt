@@ -1,0 +1,43 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_67_d	33	0.9090909090909091	109	24318	 compelled to leave you without m	 compelled to leave you, with my 
+doyle_scarlet_5_d	32	0.90625	1510	4733	 that it was possible that some 	 that it was possible that he ha
+doyle_baskervilles_7_u	30	0.9	7180	9374	 friend, Sir Henry, and the la	 friend, Sir Henry, and that I
+doyle_baskervilles_7_u	33	0.9393939393939394	26822	13740	 the Hound of the Baskervilles.” 	 the Hound of the Baskervilles ca
+stoker_dracula_12_g	31	0.967741935483871	10144	8016	s the matter with me, anyhow? Y	s the matter with me, anyhow?" 
+radcliffe_udolpho_34_g	30	0.9	14457	9307	 some time before he could pre	 some time, before she could g
+radcliffe_udolpho_34_g	30	0.9	33837	27610	 which will be of most service	 which will be of some service
+christie_styles_5_d	31	0.9032258064516129	4836	31252	e. “My dear fellow,” said he, “	e. “My dear fellow,” I said, “i
+lewis_monk_4_g	30	0.9	20198	38314	 be ashamed of yourself. Your 	 be ashamed of yourself for se
+austen_northangerabbey_28_g	31	0.967741935483871	12787	13057	y without any reference to the 	y without any reference to her 
+radcliffe_udolpho_13_g	30	0.9333333333333333	13500	41542	 give any explanation of his c	 give any explanation of the c
+christie_secretadversary_14_d	30	0.9	4111	6221	 under the circumstances expec	 under the circumstances. Seve
+stoker_dracula_2_g	32	0.90625	3242	15648	 it was evident that he hailed t	 it was evident that he wanted t
+collins_moonstone_72_d	30	0.9666666666666667	696	14717	ou shall judge for yourself. B	ou shall judge for yourself. I
+doyle_baskervilles_8_u	38	0.9210526315789473	19268	13907	 stared out into the darkness of the n	 stared out into the blackness of the 
+doyle_baskervilles_8_u	33	0.9090909090909091	33536	12318	 the adventures of last night, an	 the adventure of last night brin
+christie_secretadversary_23_d	30	0.9333333333333333	21542	2061	. Was it possible that this st	. Was it possible that this ge
+doyle_adventures_5_d	33	0.9090909090909091	7763	16326	 it seemed to me that she was str	 it seemed to me that he was fart
+radcliffe_udolpho_22_g	30	0.9	13500	20016	 give any explanation of his c	 give any explanation of the e
+radcliffe_udolpho_4_g	31	0.9032258064516129	5799	3509	 came to the point where the mo	 came to the spot where the roa
+radcliffe_udolpho_4_g	30	0.9	25873	32874	nd through the silence of the 	nd through the silence of nigh
+lewis_monk_10_g	32	0.9375	17182	25694	 had taken the precaution of lea	 had taken the precaution of fas
+doyle_adventures_2_d	30	0.9333333333333333	8183	13336	t I could not imagine, but it 	t I could not imagine, but he 
+doyle_adventures_2_d	30	0.9333333333333333	8822	13336	t I could not imagine, but I w	t I could not imagine, but he 
+lewis_monk_5_g	33	0.9090909090909091	9267	14302	 had found it impossible to remai	 had found it impossible to write
+lewis_monk_5_g	30	0.9	13788	45078	at the thought of losing her w	at the thought of leaving her 
+stoker_dracula_1_g	30	0.9	19278	22662	t into the darkness of the nig	t into the darkness of the Pas
+doyle_adventures_9_d	33	0.9090909090909091	9064	32494	 like one who is at his wit’s end	 like one who is at her wit's end
+christie_styles_3_d	30	0.9	3364	186	 communication with the archit	 communication with the right 
+collins_hauntedhotel_10_u	30	0.9333333333333333	5154	4264	 what to say or what to do, an	 what to say or what to do nex
+collins_moonstone_66_d	31	0.9354838709677419	696	8504	ou shall judge for yourself. Be	ou shall judge for yourself, Se
+doyle_scarlet_4_d	34	0.9411764705882353	22790	8406	ing a light in the window, and if 	ing a light in the window, and I s
+doyle_baskervilles_2_u	33	0.9090909090909091	16795	18666	 time to catch a glimpse of the t	 time to catch a glimpse of somet
+doyle_baskervilles_2_u	38	0.9210526315789473	26819	2141	 of the Hound of the Baskervilles.” He	 of the Hound of the Baskervilles ther
+collins_moonstone_76_d	31	0.9032258064516129	2197	1814	 the responsibility of keeping 	 the responsibility of making h
+collins_moonstone_76_d	31	0.9032258064516129	14533	22619	 opposition upon his part if I 	 opposition on his part. If I a
+christie_secretadversary_15_d	30	0.9	7130	3162	 that there was nothing more w	 that there is nothing more to
+stoker_dracula_21_g	30	0.9	3242	5802	 it was evident that he hailed	 it was evident that the patie
+stoker_dracula_21_g	31	0.9032258064516129	9380	7944	 For an instant his eyes blazed	 For an instant his eyes closed
+doyle_baskervilles_15_u	31	0.9354838709677419	26824	22371	he Hound of the Baskervilles.” 	he Hound of the Baskervilles, b
+doyle_baskervilles_15_u	32	0.90625	28955	2488	ection of Baskerville Hall. A bo	ection of Baskerville Hall. Tomo
+doyle_scarlet_8_d	31	0.9032258064516129	32273	2949	e might have been the very spir	e might have been the very geni

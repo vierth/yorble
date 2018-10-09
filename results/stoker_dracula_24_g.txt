@@ -1,0 +1,16 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_3_g	35	0.9142857142857143	13885	6260	me again, and again, and again. Loo	me again, and again, and again, tho
+stoker_dracula_3_g	32	0.9375	31720	2536	 that there is something on her 	 that there is something in the 
+doyle_adventures_2_d	30	0.9	3911	6139	Omne ignotum pro magnifico_; a	Omne ignotum pro magnifico,' y
+christie_styles_1_d	30	1.0	2356	5194	 almost impossible to believe 	 almost impossible to believe 
+christie_styles_1_d	34	0.9117647058823529	16841	5194	 almost impossible to realise that	 almost impossible to believe that
+radcliffe_udolpho_10_g	30	0.9	2166	4517	 the certainty that the Count 	 the certainty, that the only 
+doyle_adventures_9_d	36	0.9444444444444444	25779	16564	romise me that you will not tell me 	romise me that you will not tell a h
+radcliffe_udolpho_12_g	30	0.9	25779	16561	romise me that you will not te	romise me that you will neithe
+stoker_dracula_9_g	30	0.9	20906	10847	. * * * * * _Later._--At the v	. * * * * * _Later._--Another 
+stoker_dracula_9_g	30	0.9	20906	26381	. * * * * * _Later._--At the v	. * * * * * _Later._--Another 
+stoker_dracula_9_g	42	0.9047619047619048	31708	13975	t. I am sure that there is something on he	t. I am sure that there is something preyi
+austen_northangerabbey_3_g	30	0.9333333333333333	25787	8030	e that you will not tell me an	e that you will not tell me.” 
+stoker_dracula_21_g	31	0.9032258064516129	25734	28451	 the red scar on her forehead. 	 the red scar on his forehead w
+doyle_baskervilles_15_u	35	0.9142857142857143	20584	17050	 come to the same conclusion; for a	 come to the same conclusions from 
+collins_moonstone_65_d	30	0.9	21454	8107	. Under the circumstances we a	. Under these circumstances, a

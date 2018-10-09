@@ -1,0 +1,26 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_57_d	30	0.9	10414	4629	, Mr. Betteredge,” he answered	, Mr. Betteredge,” answered th
+collins_hauntedhotel_4_u	30	0.9	3564	5032	, without saying a word. I cau	, without saying a word. He un
+collins_hauntedhotel_24_u	31	0.9032258064516129	417	11941	, in the direction of the sea-s	, in the direction of the close
+doyle_baskervilles_13_u	32	0.9375	2851	6809	e waved his hand towards the nor	e waved his hand towards the lin
+collins_moonstone_89_d	32	0.90625	8584	46690	 have a word to say to you about	 have a word to say to you on th
+collins_moonstone_81_d	30	0.9333333333333333	367	10440	 in the fir-plantation, not wa	 in the fir-plantation, and wa
+collins_moonstone_81_d	31	0.967741935483871	8552	2493	e. “Mr. Betteredge,” he said, “	e. “Mr. Betteredge,” she said, 
+collins_moonstone_58_d	40	0.925	8552	6753	e. “Mr. Betteredge,” he said, “I have a 	e. “Mr. Betteredge,” he said, “have you 
+collins_moonstone_58_d	33	0.9090909090909091	9573	9888	, Mr. Betteredge,” he said. “She 	, Mr. Betteredge,” he said. “You 
+collins_moonstone_85_d	35	0.9142857142857143	3253	18222	 snatched the boot out of my hand, 	 snatched the door out of my hand; 
+collins_moonstone_56_d	30	0.9	8526	13312	and addressed himself to me. “	and addressed himself to Mr. F
+collins_moonstone_61_d	39	0.9487179487179487	4752	13317	 had found her sweeping the corridor bu	 had found her, sweeping the corridor, 
+walpole_castleofotranto_4_g	31	0.9032258064516129	1810	1853	e of obeying the directions whi	e of obeying the direction give
+shelley_frankenstein_32_g	30	0.9	4580	58	 accident has happened to her 	 accident has happened to us t
+stoker_dracula_12_g	30	0.9	7820	37727	 turned to me, and said that t	 turned to me, and said with g
+collins_moonstone_72_d	31	0.9032258064516129	4897	17894	e of the dreadful truth. I trie	e of the dreadful truth. I kept
+doyle_baskervilles_8_u	31	0.9032258064516129	7099	11087	ed, and considered for a minute	ed, and considered for a little
+radcliffe_udolpho_48_g	32	0.96875	4574	26894	 fatal accident has happened to 	 fatal accident had happened to 
+doyle_adventures_2_d	31	0.9354838709677419	9171	31115	 a man whose knowledge was to b	 a man whose knowledge was not 
+collins_moonstone_62_d	30	0.9	494	10132	?” asked Sergeant Cuff. “He ha	?” asked Sergeant Cuff. “I can
+collins_moonstone_66_d	30	0.9	8556	9536	Mr. Betteredge,” he said, “I h	Mr. Betteredge,” he said, with
+collins_moonstone_66_d	30	0.9	9573	9534	, Mr. Betteredge,” he said. “S	, Mr. Betteredge,” he said, wi
+collins_moonstone_66_d	32	1.0	10414	11679	, Mr. Betteredge,” he answered, 	, Mr. Betteredge,” he answered, 
+collins_moonstone_60_d	33	0.9090909090909091	9573	18828	, Mr. Betteredge,” he said. “She 	, Mr. Betteredge,” he said. “And 
+collins_moonstone_49_d	30	0.9	8559	12625	 Betteredge,” he said, “I have	 Betteredge,” he said. “I shal

@@ -1,0 +1,50 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+reeve_oldenglishbaron	30	0.9	16214	30925	 the court-yard, and the clatt	 the court-yard, and the great
+radcliffe_udolpho_4_g	31	0.967741935483871	4278	3966	 with a countenance full of imp	 with a countenance full of tim
+radcliffe_udolpho_4_g	32	0.9375	19189	23243	, appearing and disappearing bet	, appearing and disappearing at 
+stoker_dracula_3_g	32	0.90625	28544	2536	 that there is nothing in them. 	 that there is something in the 
+reeve_oldenglishbaron_	33	1.0	24320	11981	 entered into the service of the 	 entered into the service of the 
+lewis_monk_10_g	30	0.9	13624	39910	 often and often, that it was 	 often and often, that if we o
+radcliffe_udolpho_10_g	32	0.90625	15829	4630	, that she recollected the steps	, that she recollected the purse
+radcliffe_udolpho_10_g	31	0.9032258064516129	19546	16338	 and, raising her eyes, saw sev	 and, raising her eyes, he saw 
+radcliffe_udolpho_10_g	33	0.9696969696969697	33489	27939	 to her apartment for the night. 	 to her apartment for the night, 
+lewis_monk_8_g	30	0.9	28911	41797	, and it was long before she k	, and it was long before He su
+collins_moonstone_53_d	30	0.9	11296	12459	 on the other side of the door	 on the other side of the holl
+collins_moonstone_53_d	33	0.9090909090909091	16234	4039	 the clatter of horses' hoofs. Su	 the clatter of horses’ hoofs out
+doyle_signoffour_5_d	31	0.967741935483871	26053	8859	 without receiving an answer, s	 without receiving any answer, 
+lewis_monk_6_g	32	0.90625	21765	20979	I insist upon your telling this 	I insist upon your keeping this 
+radcliffe_udolpho_21_g	33	0.9090909090909091	2575	1050	 her departure from Tholouse. The	 her departure from Tholouse, wer
+radcliffe_udolpho_12_g	30	0.9	16119	11841	n the following morning, as Em	n the following morning, she w
+radcliffe_udolpho_12_g	38	0.9210526315789473	16119	45273	n the following morning, as Emily cros	n the following morning, as Emily sat 
+radcliffe_udolpho_12_g	37	0.918918918918919	19819	50980	 circumstances, and then considering 	 circumstance, and the consideration 
+radcliffe_udolpho_12_g	30	0.9666666666666667	28911	7745	, and it was long before she k	, and it was long before she d
+radcliffe_udolpho_12_g	36	0.9166666666666666	32365	21682	 was ignorant of that circumstance, 	 was ignorant of a circumstance, whi
+radcliffe_udolpho_12_g	32	0.9375	32945	15447	ow have I deserved this reproof,	ow have I deserved these reproof
+radcliffe_udolpho_12_g	31	0.9032258064516129	33642	36151	. As she passed along the wide 	. As she passed along the garde
+radcliffe_udolpho_12_g	36	0.9166666666666666	34445	48429	 so much increased, that she had no 	 so much increased, that she was on 
+radcliffe_udolpho_12_g	32	0.90625	35682	8834	 with her eyes fixed on the door	 with her eyes fixed on the far-
+lewis_monk_1_g	30	0.9333333333333333	35798	40062	. He looked cautiously round, 	. He looked curiously round, a
+doyle_baskervilles_4_u	30	0.9	11296	16131	 on the other side of the door	 on the other side of the stre
+radcliffe_udolpho_27_g	33	0.9393939393939394	800	11987	e supposition, that it was a misc	e supposition, that it was a pris
+radcliffe_udolpho_27_g	30	0.9	29331	1531	 replied, that he had not spok	 replied, that he had not, tho
+radcliffe_udolpho_27_g	32	0.90625	32369	1241	 ignorant of that circumstance, 	 ignorant of the circumstance to
+radcliffe_udolpho_14_g	33	0.9090909090909091	3583	6350	r. How often did she wish to 'ste	r. How often did she wish to expr
+radcliffe_udolpho_14_g	31	0.9032258064516129	16117	19288	 on the following morning, as E	 on the following morning; and 
+radcliffe_udolpho_14_g	36	0.9166666666666666	19236	3626	 till distance confused their figure	 till distance confused his figure, 
+radcliffe_udolpho_49_g	34	1.0	2536	1519	 circumstances, that had occurred 	 circumstances, that had occurred 
+radcliffe_udolpho_49_g	31	0.9354838709677419	16117	1695	 on the following morning, as E	 on the following morning, she 
+radcliffe_udolpho_49_g	33	0.9696969696969697	21483	8525	 he made me promise not to tell, 	 he made me promise not to tell; 
+radcliffe_udolpho_41_g	31	0.9032258064516129	6767	6185	, ma'amselle, I thought this wa	, ma'amselle, I thought the Mar
+radcliffe_udolpho_41_g	38	1.0	29036	5449	, that she would compose her spirits, 	, that she would compose her spirits, 
+doyle_scarlet_12_d	32	0.9375	16233	10364	d the clatter of horses' hoofs. 	d the clatter of horse’s hoofs, 
+christie_styles_3_d	31	0.9032258064516129	35687	5583	 her eyes fixed on the door, it	 her eyes fixed on the doctor: 
+radcliffe_udolpho_47_g	32	1.0	18571	429	 overspread the features of the 	 overspread the features of the 
+radcliffe_udolpho_54_g	41	0.9024390243902439	1840	21449	 the solitude of her apartment, she was n	 the solitude of her apartment, the scene
+radcliffe_udolpho_54_g	37	0.918918918918919	2825	21749	e, excited both terror and surprise. 	e, excited both horror and surprise i
+radcliffe_udolpho_54_g	30	0.9	16119	23569	n the following morning, as Em	n the following morning, she w
+stoker_dracula_16_g	30	0.9	12588	7103	 recognise the features of Ann	 recognised the features of Lu
+stoker_dracula_21_g	30	0.9	27132	21493	e was stained with blood, whic	e was stained with blood where
+reeve_oldenglishbaron	30	0.9	16214	30925	 the court-yard, and the clatt	 the court-yard, and the great
+doyle_baskervilles_15_u	30	0.9333333333333333	12246	18775	he endeavoured to make her esc	he endeavoured to make her the
+radcliffe_udolpho_35_g	33	0.9090909090909091	17324	9448	 she almost fancied herself surro	 she almost fancied herself appro
+radcliffe_udolpho_35_g	30	0.9	35663	6290	 for a few minutes, with her e	 for a few minutes with the ab

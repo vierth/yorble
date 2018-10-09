@@ -1,0 +1,128 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_3_g	33	0.9090909090909091	17274	44343	 the possibility of my betraying 	 the possibility of betraying our
+radcliffe_udolpho_24_g	31	0.967741935483871	17191	14033	 inhabitants of the castle had 	 inhabitant of the castle had l
+doyle_scarlet_14_d	38	0.9210526315789473	21840	8334	hese considerations led her to the rem	hese considerations led me to the irre
+collins_moonstone_81_d	34	0.9411764705882353	15270	13580	 superstitious terror, and was sur	 superstitious terror, and was thr
+poe_usher_1_g	30	0.9333333333333333	4357	5173	at the consciousness of her la	at the consciousness of the ra
+poe_usher_1_g	32	0.9375	7094	437	er. I know not how it was, but, 	er. I know not how it was--but, 
+shelley_frankenstein_52_g	31	0.9032258064516129	171	9135	e of the preceding night, Annet	e of the preceding night, my ne
+radcliffe_udolpho_23_g	36	0.9166666666666666	71	105	 On the following morning, as Emily 	 On the following morning, Emily wen
+radcliffe_udolpho_23_g	33	0.9090909090909091	162	5798	 the scene of the preceding night	 the scene of the preceding morni
+radcliffe_udolpho_23_g	31	0.9032258064516129	4359	32997	 the consciousness of her late 	 the consciousness of her duty 
+radcliffe_udolpho_23_g	33	0.9090909090909091	8318	23953	 in suspense, concerning their de	 in suspense, concerning the fate
+radcliffe_udolpho_23_g	34	0.9705882352941176	17186	21853	d the inhabitants of the castle ha	d the inhabitants of the castle sh
+radcliffe_udolpho_23_g	33	0.9090909090909091	17265	23864	o prevent the possibility of my b	o prevent the possibility of her 
+radcliffe_udolpho_29_g	37	0.918918918918919	17689	6156	 had occasioned such alarm among the 	 had occasioned so much alarm on the 
+collins_hauntedhotel_16_u	30	0.9	18894	2482	 and positively refused to acc	 and positively refused to lis
+reeve_oldenglishbaron	30	0.9	20968	18058	; and, at the same time, she f	; and, at the same time, that 
+reeve_oldenglishbaron	33	0.9090909090909091	21444	26711	 preparations for the journey int	 preparations for their journey. 
+shelley_frankenstein_55_g	30	0.9333333333333333	16687	7029	 as they had only a few hours 	 as they had done a few hours 
+doyle_scarlet_3_d	33	0.9090909090909091	16485	12669	 than was necessary for the remov	 than was necessary for the purpo
+radcliffe_udolpho_55_g	30	0.9333333333333333	4262	19357	 in the castle of Udolpho, and	 in the castle of Udolpho, Lau
+radcliffe_udolpho_55_g	32	0.90625	18229	15195	d enjoined silence to his son.' 	d enjoined silence to his only s
+radcliffe_udolpho_46_g	30	0.9	11017	6992	 to the north apartments, whic	 to the north apartments, acco
+radcliffe_udolpho_46_g	30	0.9	15178	5891	 could not forbear smiling at 	 could not forbear smiling; 'D
+stoker_dracula_6_g	30	1.0	16016	4770	 had something to do with the 	 had something to do with the 
+stoker_dracula_6_g	34	0.9117647058823529	16016	8021	 had something to do with the nort	 had something to do with the chur
+walpole_castleofotranto_3_g	30	0.9666666666666667	1288	38533	 something of consequence to c	 something of consequence to h
+walpole_castleofotranto_3_g	30	0.9333333333333333	10805	33652	 in the vaults of the castle, 	 in the vault of the castle? S
+walpole_castleofotranto_3_g	45	0.9111111111111111	18528	12795	 give orders for the accommodation of her fri	 give orders for the accommodation of your tr
+radcliffe_udolpho_26_g	30	0.9	1263	7108	, and saying, that he had some	, and saying, that he had been
+radcliffe_udolpho_26_g	30	0.9	15373	15602	 she considered, that, when th	 she considered, that the thic
+radcliffe_udolpho_26_g	30	0.9	15663	25948	e could give any explanation o	e could give no explanation, a
+radcliffe_udolpho_6_g	30	0.9333333333333333	2666	43117	 interested, concerning the me	 interested concerning the rem
+radcliffe_udolpho_6_g	34	0.9117647058823529	11138	35174	 housekeeper and her husband, who 	 housekeeper, and her husband the 
+radcliffe_udolpho_6_g	35	0.9428571428571428	15178	19415	 could not forbear smiling at this 	 could not forbear smiling at the s
+radcliffe_udolpho_6_g	30	0.9	21867	42949	 to the remembrance of her fat	 to the remembrance of the ext
+reeve_oldenglishbaron	30	0.9	20968	18058	; and, at the same time, she f	; and, at the same time, that 
+reeve_oldenglishbaron	33	0.9090909090909091	21444	26711	 preparations for the journey int	 preparations for their journey. 
+radcliffe_udolpho_16_g	34	0.9117647058823529	21592	9396	 was considering how she might bes	 was considering how he might dise
+radcliffe_udolpho_25_g	38	0.9210526315789473	723	1579	 have seen him, often and often,' adde	 have seen him, often and often, at Ve
+radcliffe_udolpho_25_g	30	0.9	1276	4618	 that he had something of cons	 that he had something of impo
+radcliffe_udolpho_25_g	31	0.9354838709677419	18081	19279	 somewhat more, than surprise; 	 somewhat more than surprise, t
+radcliffe_udolpho_33_g	30	0.9	73	33776	n the following morning, as Em	n the following morning, she w
+radcliffe_udolpho_33_g	30	0.9	172	35420	 of the preceding night, Annet	 of the preceding night, sent 
+radcliffe_udolpho_33_g	30	0.9333333333333333	1041	47427	 stranger was Valancourt, and 	 stranger was Valancourt, as w
+radcliffe_udolpho_33_g	31	0.9032258064516129	13524	20978	 are already informed of by my 	 are already informed of my arr
+radcliffe_udolpho_33_g	37	0.918918918918919	18266	21139	, recollecting the change, that had a	, recollecting the scene, that had pa
+radcliffe_udolpho_33_g	30	0.9	20497	46111	 endeavoured to check her loqu	 endeavoured to check her, but
+austen_northangerabbey_22_g	30	0.9333333333333333	11840	2263	 have remained undiscovered th	 have remained undiscovered in
+radcliffe_udolpho_15_g	35	0.9428571428571428	15178	19695	 could not forbear smiling at this 	 could not forbear smiling at the f
+collins_moonstone_56_d	32	0.90625	14357	20079	night in the bed-room, he heard 	night in the bedroom; had heard 
+doyle_baskervilles_9_u	30	0.9	293	14457	 some time before she could an	 some time before he could pre
+doyle_baskervilles_9_u	30	0.9	15670	13500	 give any explanation of it; b	 give any explanation of his c
+radcliffe_udolpho_57_g	31	0.9032258064516129	21774	3793	 a marriage portion, and settle	 a marriage portion, she settle
+radcliffe_udolpho_36_g	30	0.9	8321	27162	 suspense, concerning their de	 suspense, concerning the fate
+radcliffe_udolpho_36_g	30	0.9	16165	29170	 that part of the chateau,' re	 that part of the chateau ring
+reeve_oldenglishbaron	30	0.9	20968	18058	; and, at the same time, she f	; and, at the same time, that 
+reeve_oldenglishbaron	33	0.9090909090909091	21444	26711	 preparations for the journey int	 preparations for their journey. 
+radcliffe_udolpho_34_g	34	0.9705882352941176	288	9302	t was some time before she could a	t was some time, before she could 
+radcliffe_udolpho_34_g	34	0.9117647058823529	16435	47627	that it was their intention to per	that it was her intention to retir
+radcliffe_udolpho_34_g	37	0.918918918918919	16478	32722	 longer than was necessary for the re	 longer than was necessary for refres
+radcliffe_udolpho_34_g	33	1.0	17931	42668	ary sounds of lamentation, which 	ary sounds of lamentation, which 
+lewis_monk_4_g	44	0.9090909090909091	905	95565	 entered the room, and informed her, that a 	 entered the room, and informed me that the 
+lewis_monk_4_g	30	0.9333333333333333	12377	23217	 I shall never forget what I f	 I shall never forget what a p
+collins_moonstone_74_d	30	0.9	22373	2195	 could be prevailed on to part	 could be prevailed upon to re
+radcliffe_udolpho_50_g	55	0.9272727272727272	2709	57282	 he had disappeared from the north apartments, had the 	 he had disappeared from the north apartment, how he ca
+radcliffe_udolpho_50_g	32	0.90625	9271	23870	 at the foot of the cliffs, with	 at the foot of the cliff, on wh
+radcliffe_udolpho_50_g	31	0.967741935483871	14269	57231	 desired Ludovico to explain hi	 desired Ludovico to explain sh
+radcliffe_udolpho_18_g	32	0.90625	19702	32121	' Emily waved her hand for There	' Emily waved her hand for Cater
+radcliffe_udolpho_13_g	30	0.9	73	36742	n the following morning, as Em	n the following morning, she s
+radcliffe_udolpho_13_g	32	0.90625	497	8681	?' said Emily, with extreme impa	?' said Emily, with extreme surp
+radcliffe_udolpho_13_g	30	0.9	15670	41542	 give any explanation of it; b	 give any explanation of the c
+radcliffe_udolpho_13_g	36	0.9166666666666666	17263	17984	 to prevent the possibility of my be	 to prevent the possibility of a rep
+radcliffe_udolpho_13_g	33	0.9090909090909091	18260	39471	 Emily, recollecting the change, 	 Emily, recollecting the danger o
+radcliffe_udolpho_13_g	30	0.9	20831	25935	he did not think it proper to 	he did not think proper to ent
+radcliffe_udolpho_13_g	38	0.9210526315789473	21441	23204	 in preparations for the journey into 	 in preparations for the journey, and 
+austen_northangerabbey_26_g	30	0.9	2926	5095	 could not have been more extr	 could not have been more welc
+radcliffe_udolpho_3_g	30	0.9	285	5210	. It was some time before she 	. It was some time before St. 
+radcliffe_udolpho_48_g	30	0.9333333333333333	71	7443	 On the following morning, as 	 On the following morning, ser
+radcliffe_udolpho_48_g	30	0.9	1041	24743	 stranger was Valancourt, and 	 stranger was Valancourt, it w
+radcliffe_udolpho_48_g	30	0.9	3025	26681	 the letters of her friends, w	 the letter of her friend, and
+radcliffe_udolpho_48_g	31	0.9032258064516129	6051	18093	 the strange reports, that had 	 the strange reports they had h
+radcliffe_udolpho_48_g	33	0.9090909090909091	8699	21850	 in the morning to look for me, i	 in the morning, to look for the 
+radcliffe_udolpho_48_g	33	0.9393939393939394	21444	26774	 preparations for the journey int	 preparations for the journey; an
+radcliffe_udolpho_22_g	38	0.9210526315789473	73	16119	n the following morning, as Emily sat 	n the following morning, as Emily cros
+radcliffe_udolpho_22_g	33	0.9393939393939394	11371	13640	, that it was haunted, and the wh	, that it was haunted, and that w
+radcliffe_udolpho_22_g	30	0.9	15670	20016	 give any explanation of it; b	 give any explanation of the e
+shelley_frankenstein_54_g	30	0.9	2392	16185	 on the following day. She add	 on the following day. The day
+reeve_oldenglishbaron	30	0.9	20968	18058	; and, at the same time, she f	; and, at the same time, that 
+reeve_oldenglishbaron	33	0.9090909090909091	21444	26711	 preparations for the journey int	 preparations for their journey. 
+radcliffe_udolpho_4_g	32	0.96875	6633	25488	 the sound seemed to come from. 	 the sounds seemed to come from 
+radcliffe_udolpho_4_g	32	1.0	12204	12357	 the wilds of the Pyrenees, and 	 the wilds of the Pyrenees, and 
+radcliffe_udolpho_4_g	30	0.9333333333333333	21870	28431	 the remembrance of her father	 the remembrance of her mother
+stoker_dracula_3_g	30	0.9	13049	578	 what was best to be done; mea	 what was best to be done. I a
+lewis_monk_10_g	31	0.9354838709677419	5414	36960	 but nothing was to be seen, ex	 but nothing was to be seen. He
+lewis_monk_10_g	31	0.9032258064516129	17263	56584	 to prevent the possibility of 	 to prevent all possibility of 
+walpole_castleofotranto_5_g	32	0.9375	996	2536	. It immediately occurred to Emi	. It immediately occurred to him
+stoker_dracula_1_g	30	0.9	12374	12506	ed. I shall never forget what 	ed. I shall never forget the l
+stoker_dracula_1_g	33	0.9090909090909091	16016	2986	 had something to do with the nor	 had something to do with it; or 
+radcliffe_udolpho_12_g	31	0.9354838709677419	71	11839	 On the following morning, as E	 On the following morning, she 
+radcliffe_udolpho_12_g	46	0.9130434782608695	71	45271	 On the following morning, as Emily sat in the	 On the following morning, as Emily sat at bre
+radcliffe_udolpho_12_g	30	0.9	172	4413	 of the preceding night, Annet	 of the preceding night, conce
+radcliffe_udolpho_27_g	30	0.9	21870	1704	 the remembrance of her father	 the remembrance of her aunt h
+collins_moonstone_50_d	30	0.9	3447	19161	 not refuse to accept it, nor,	 not refuse to accept it, too?
+collins_moonstone_50_d	36	0.9166666666666666	20621	2221	 circumstances, that had determined 	 circumstances, he had determined to
+radcliffe_udolpho_14_g	36	0.9166666666666666	2035	6249	 among the Pyrenees, where they had 	 among the Pyrenees, which they had 
+radcliffe_udolpho_14_g	30	0.9	15368	14693	 till she considered, that, wh	 till she considered that his 
+radcliffe_udolpho_49_g	36	0.9166666666666666	71	268	 On the following morning, as Emily 	 On the following morning, Emily lef
+radcliffe_udolpho_49_g	30	0.9	73	1697	n the following morning, as Em	n the following morning, she t
+radcliffe_udolpho_49_g	31	0.967741935483871	19315	3911	! my dear young lady!' said The	! my dear young lady!' said she
+radcliffe_udolpho_49_g	30	0.9666666666666667	20617	1515	 the circumstances, that had d	 the circumstances, that had o
+radcliffe_udolpho_41_g	32	0.90625	7616	20339	, that the Count had caused the 	, that the Count had talked the 
+radcliffe_udolpho_41_g	38	0.9210526315789473	12377	12752	 I shall never forget what I felt, whe	 I shall never forget what I felt. I h
+radcliffe_udolpho_41_g	32	0.90625	12377	15838	 I shall never forget what I fel	 I shall never forget what a sce
+radcliffe_udolpho_41_g	31	0.967741935483871	15436	22671	 the weakness of superstition, 	 the weakness of superstition. 
+radcliffe_udolpho_54_g	31	0.9354838709677419	71	23567	 On the following morning, as E	 On the following morning, she 
+radcliffe_udolpho_54_g	30	0.9	1012	22645	 occurred to Emily, that this 	 occurred to Emily, that he mi
+radcliffe_udolpho_54_g	35	1.0	1282	18677	he had something of consequence to 	he had something of consequence to 
+radcliffe_udolpho_54_g	32	0.9375	2666	15753	 interested, concerning the mean	 interested, concerning them, an
+radcliffe_udolpho_54_g	31	0.9032258064516129	4149	9924	en, with a countenance of extre	en, with a countenance of deep 
+radcliffe_udolpho_54_g	31	0.9032258064516129	4262	14674	 in the castle of Udolpho, and 	 in the castle of Udolpho,' con
+radcliffe_udolpho_54_g	31	0.9032258064516129	4262	16079	 in the castle of Udolpho, and 	 in the castle of Udolpho, to w
+radcliffe_udolpho_54_g	31	0.9032258064516129	15521	29322	, however, she remembered with 	, however, he remembered, that 
+radcliffe_udolpho_54_g	33	0.9393939393939394	16575	24643	 it appeared, that they had been 	 it appeared, that he had been co
+reeve_oldenglishbaron	30	0.9	20968	18058	; and, at the same time, she f	; and, at the same time, that 
+reeve_oldenglishbaron	33	0.9090909090909091	21444	26711	 preparations for the journey int	 preparations for their journey. 
+doyle_scarlet_8_d	31	0.9032258064516129	2926	18596	 could not have been more extra	 could not have been more than 
+radcliffe_udolpho_35_g	32	0.90625	14018	15027	 the old housekeeper, who once w	 the old house keeper, who came 

@@ -1,0 +1,82 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+reeve_oldenglishbaron	30	0.9	37605	20697	 suppressed his emotions, and 	 suppressed his emotions, but 
+radcliffe_udolpho_38_g	30	0.9333333333333333	35549	8224	 in the most solemn manner not	 in the most solemn manner, ne
+collins_moonstone_75_d	31	0.9354838709677419	10035	10311	 have the honour of being your 	 have the honour of seeing you 
+collins_hauntedhotel_24_u	30	0.9333333333333333	41838	2086	 at the other end of the court	 at the other end of the corri
+stoker_dracula_19_g	31	0.9032258064516129	7505	24158	 could not distinguish the word	 could not distinguish a word h
+radcliffe_udolpho_24_g	32	0.90625	41836	6446	ed at the other end of the court	ed at the other end of the castl
+collins_moonstone_81_d	30	0.9333333333333333	222	4621	s which had fallen from her fa	s which had fallen from her, i
+poe_usher_1_g	30	0.9	38197	15245	 the countenance of the youth.	 the countenance of the brothe
+shelley_frankenstein_52_g	30	0.9	30357	2291	 the light of the moon, that d	 the light of the moon the dæm
+radcliffe_udolpho_23_g	32	0.90625	31885	1116	 if she could not escape from th	 if she could once escape from h
+reeve_oldenglishbaron	30	0.9	37605	20697	 suppressed his emotions, and 	 suppressed his emotions, but 
+walpole_castleofotranto_3_g	30	0.9666666666666667	507	22208	 what was become of Isabella. 	 what was become of Isabella, 
+walpole_castleofotranto_3_g	32	1.0	10761	27832	 to the church of St. Nicholas, 	 to the church of St. Nicholas, 
+walpole_castleofotranto_3_g	32	0.90625	15068	22530	 the cause of Isabella’s flight 	 the cause of Isabella’s first a
+walpole_castleofotranto_3_g	38	0.9210526315789473	23586	3106	 the principality of Otranto from dest	 the principality of Otranto, from the
+walpole_castleofotranto_3_g	30	0.9666666666666667	23586	3461	 the principality of Otranto f	 the principality of Otranto, 
+walpole_castleofotranto_3_g	34	1.0	23586	15491	 the principality of Otranto from 	 the principality of Otranto from 
+walpole_castleofotranto_3_g	31	0.9032258064516129	23589	20496	e principality of Otranto from 	e principality of Otranto? If h
+walpole_castleofotranto_3_g	36	0.9722222222222222	30120	12054	ed to the great hall of the castle, 	ed to the great hall of the castle. 
+radcliffe_udolpho_1_g	32	0.90625	19093	34759	 be acquainted with the secret a	 be acquainted with the subject 
+reeve_oldenglishbaron	30	0.9	37605	20697	 suppressed his emotions, and 	 suppressed his emotions, but 
+radcliffe_udolpho_16_g	32	0.90625	10035	37603	 have the honour of being your H	 have the honour of seeing you. 
+radcliffe_udolpho_16_g	30	0.9	17147	50591	. While she was speaking, a se	. While she was speaking, howe
+radcliffe_udolpho_25_g	35	0.9714285714285714	14803	17097	 the postern-gate of the castle, wh	 the postern-gate of the castle, sh
+radcliffe_udolpho_33_g	30	0.9	32690	42756	 she heard distinctly, interes	 she heard distinctly, in the 
+doyle_baskervilles_10_u	30	0.9	14576	15447	 ask him a few questions.” “No	 ask him a few questions. “Wel
+radcliffe_udolpho_2_g	34	1.0	32289	7995	 the upper end of the hall, where 	 the upper end of the hall, where 
+collins_hauntedhotel_5_u	30	0.9666666666666667	38173	2021	 succeeded each other in the c	 succeeded each other in the l
+radcliffe_udolpho_57_g	30	0.9	14820	391	 of the castle, which is on th	 of the castle, which, on this
+radcliffe_udolpho_57_g	31	1.0	30125	376	 the great hall of the castle, 	 the great hall of the castle, 
+radcliffe_udolpho_36_g	30	0.9	32249	7217	 going to the apartment of Hip	 going to the apartment of the
+reeve_oldenglishbaron	30	0.9	37605	20697	 suppressed his emotions, and 	 suppressed his emotions, but 
+walpole_castleofotranto_4_g	31	0.9354838709677419	5857	17795	he has owned to me that she wis	he has owned to me that he is i
+walpole_castleofotranto_4_g	30	0.9	5934	24490	a,” said the Princess, “I do n	a,” said the Princess, “I shou
+walpole_castleofotranto_4_g	37	0.918918918918919	16662	14421	 inclination for the cloister; and th	 inclination for the cloister.” In th
+walpole_castleofotranto_4_g	31	0.9032258064516129	22653	12022	ed to his own apartment, where 	ed to his own apartment, after 
+walpole_castleofotranto_4_g	41	0.9024390243902439	23304	36312	 the dissolution of our marriage, and to 	 the dissolution of our marriage, be it s
+walpole_castleofotranto_4_g	30	0.9	33995	8811	” said Manfred. “I will not,” 	” said Manfred; “I will not ha
+shelley_frankenstein_32_g	38	0.9210526315789473	31847	2849	 on the brink of destruction, and that	 on the brink of destruction and to wh
+christie_styles_11_d	31	0.9032258064516129	35945	24359	e would not allow the prisoner 	e would now call the prisoner. 
+radcliffe_udolpho_34_g	34	0.9117647058823529	18672	27174	 acquainted with the cause of the 	 acquainted with the passes of the
+radcliffe_udolpho_34_g	30	0.9666666666666667	19096	46858	 acquainted with the secret af	 acquainted with the secret of
+radcliffe_udolpho_34_g	30	0.9	30492	46853	 been acquainted with the Prin	 been acquainted with the secr
+lewis_monk_4_g	34	0.9411764705882353	7505	98832	 could not distinguish the words. 	 could not distinguish her words, 
+lewis_monk_4_g	31	0.9032258064516129	30125	16657	 the great hall of the castle, 	 the great Hall of the Castle o
+radcliffe_udolpho_18_g	30	0.9	41838	23129	 at the other end of the court	 at the other end of the castl
+radcliffe_udolpho_13_g	31	0.9032258064516129	40	11142	 retired to her apartment, was 	 retired to her apartment, to t
+radcliffe_udolpho_13_g	32	0.9375	25940	16472	 of her unalterable affection.” 	 of her unalterable affection, a
+radcliffe_udolpho_13_g	32	0.9375	25940	31829	 of her unalterable affection.” 	 of her unalterable affection, a
+walpole_castleofotranto_1_g	30	0.9333333333333333	862	42816	 the gigantic leg and foot whi	 the gigantic leg and foot was
+walpole_castleofotranto_1_g	30	0.9	1159	18295	n the flight of Isabella, and 	n the flight of Isabella, who 
+walpole_castleofotranto_1_g	33	0.9090909090909091	5935	40317	,” said the Princess, “I do not a	,” said the Prince; “I do not wan
+walpole_castleofotranto_1_g	30	0.9666666666666667	8110	30926	e; “and how didst thou come th	e; “and how didst thou come to
+walpole_castleofotranto_1_g	30	0.9	8797	26033	,” said the stranger; “and I k	,” said the stranger, “and it 
+walpole_castleofotranto_1_g	32	0.96875	10761	20670	 to the church of St. Nicholas, 	 to the church of St. Nicholas. 
+walpole_castleofotranto_1_g	32	0.96875	10761	26742	 to the church of St. Nicholas, 	 to the church of St. Nicholas. 
+walpole_castleofotranto_1_g	30	0.9	12078	25538	e.” Saying these words she shu	e.” Saying a these words, she 
+walpole_castleofotranto_1_g	30	0.9	17718	13618	 demanded to speak with him. M	 demanded to speak with her. “
+walpole_castleofotranto_1_g	31	0.9032258064516129	20882	25936	 the accomplice of her flight, 	 the accomplice of my flight, a
+walpole_castleofotranto_1_g	30	0.9	24027	15723	 the virtuous Hippolita have m	 the virtuous Hippolita as my 
+walpole_castleofotranto_1_g	30	0.9666666666666667	31847	25094	 on the brink of destruction, 	 on the brink of destruction. 
+walpole_castleofotranto_1_g	30	0.9666666666666667	31970	25196	 made miserable for ever.” “An	 made miserable for ever.” “Al
+walpole_castleofotranto_1_g	32	0.90625	33568	34770	!” cried Manfred in a rage: “a p	!” cried Manfred in a rage; “is 
+walpole_castleofotranto_1_g	31	0.9032258064516129	34070	19499	,” said Manfred; “I will see hi	,” said Manfred, “I will use th
+walpole_castleofotranto_1_g	32	0.90625	34319	39117	 The young peasant, who heard it	 The young peasant, who had stoo
+radcliffe_udolpho_48_g	30	0.9333333333333333	40	7010	 retired to her apartment, was	 retired to her apartment, whe
+radcliffe_udolpho_48_g	31	0.9032258064516129	34661	7016	ed to her apartment, he rushed 	ed to her apartment, where she 
+reeve_oldenglishbaron	30	0.9	37605	20697	 suppressed his emotions, and 	 suppressed his emotions, but 
+radcliffe_udolpho_4_g	31	0.9032258064516129	14941	31496	 conversation with the stranger	 conversation with a stranger w
+lewis_monk_10_g	30	0.9	24465	33426	 to protect her from thy viole	 to protect her from the Riote
+walpole_castleofotranto_5_g	33	0.9090909090909091	13075	4131	 my Lady Isabella never much fanc	 my Lady Isabella ever much affec
+walpole_castleofotranto_5_g	30	0.9	17316	19064	 in St. Nicholas’s church,” re	 in St. Nicholas’s church. He 
+walpole_castleofotranto_5_g	30	0.9333333333333333	20356	32882	ty, with the approbation of he	ty, with the approbation of Hi
+walpole_castleofotranto_5_g	30	0.9666666666666667	23586	12378	 the principality of Otranto f	 the principality of Otranto w
+walpole_castleofotranto_5_g	35	0.9142857142857143	32255	14765	 to the apartment of Hippolita. At 	 to the apartment of Hippolita, he 
+walpole_castleofotranto_5_g	30	0.9	38194	27738	 in the countenance of the you	 in the countenances of this u
+doyle_adventures_9_d	30	0.9333333333333333	41835	20775	ned at the other end of the co	ned at the other end of the pa
+radcliffe_udolpho_12_g	32	1.0	10599	49224	, I will take upon me to answer 	, I will take upon me to answer 
+lewis_monk_1_g	37	0.9459459459459459	9558	40468	 to pry into the secrets of this youn	 to pry into the secrets of this unkn
+lewis_monk_1_g	30	0.9333333333333333	12007	40468	 to pry into the secrets of Ma	 to pry into the secrets of th
+reeve_oldenglishbaron	30	0.9	37605	20697	 suppressed his emotions, and 	 suppressed his emotions, but 

@@ -1,0 +1,78 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_4_d	30	0.9	2713	12184	 the mysterious appearance, th	 the mysterious disappearance 
+lewis_monk_2_g	33	0.9090909090909091	209	51924	 on the preceding night; she had 	 on the preceding night, He had m
+lewis_monk_2_g	30	0.9	2534	51924	 on the preceding night, she w	 on the preceding night, He ha
+stoker_dracula_25_g	30	0.9	2166	17324	d better than she had been sin	d better than she had been for
+walpole_castleofotranto_3_g	30	0.9	6187	22956	n the preceding night. There w	n the preceding night. The Pri
+radcliffe_udolpho_26_g	30	0.9333333333333333	209	1995	 on the preceding night; she h	 on the preceding night, she n
+radcliffe_udolpho_26_g	30	0.9	421	13806	, soon after, entered the room	, soon after, entered the post
+radcliffe_udolpho_26_g	30	0.9	2534	890	 on the preceding night, she w	 on the preceding night, and w
+radcliffe_udolpho_26_g	32	0.9375	2534	1995	 on the preceding night, she wit	 on the preceding night, she now
+radcliffe_udolpho_26_g	38	0.9210526315789473	6839	2746	 on the terrace, about midnight; and t	 on the terrace, at midnight; and stil
+radcliffe_udolpho_26_g	32	0.9375	9150	27021	, ma'amselle,' said Annette, 'wh	, ma'amselle!' said Annette, 'he
+radcliffe_udolpho_6_g	30	0.9	1551	30273	 made an effort to speak, but 	 made an effort to speak, and 
+radcliffe_udolpho_6_g	32	0.9375	4547	18655	d not permit her to distinguish 	d not permit him to distinguish 
+radcliffe_udolpho_6_g	30	0.9333333333333333	5541	37324	ery strange!' said Emily. 'My 	ery strange!' said Emily. 'It 
+radcliffe_udolpho_16_g	32	0.9375	206	16322	 as on the preceding night; she 	 as on the preceding night. The 
+radcliffe_udolpho_16_g	32	0.9375	2531	16322	 as on the preceding night, she 	 as on the preceding night. The 
+radcliffe_udolpho_16_g	36	0.9722222222222222	2558	37841	 she withdrew to her own apartment. 	 she withdrew to her own apartment, 
+radcliffe_udolpho_16_g	31	0.967741935483871	2563	37846	withdrew to her own apartment. 	withdrew to her own apartment, 
+radcliffe_udolpho_16_g	31	0.9354838709677419	6185	16325	 on the preceding night. There 	 on the preceding night. The co
+radcliffe_udolpho_16_g	30	0.9333333333333333	8996	55822	ed, that Madame Montoni had fa	ed, that Madame Montoni had no
+radcliffe_udolpho_25_g	30	0.9	2534	2822	 on the preceding night, she w	 on the preceding night, had s
+radcliffe_udolpho_25_g	51	0.9215686274509803	2889	9348	 heard the passing steps of the sentinels, on the r	 heard the passing steps of the sentinels going to 
+radcliffe_udolpho_25_g	35	0.9142857142857143	9150	9631	, ma'amselle,' said Annette, 'what 	, ma'amselle,' said Annette, 'they 
+radcliffe_udolpho_25_g	35	0.9142857142857143	9150	13633	, ma'amselle,' said Annette, 'what 	, ma'amselle,' said Annette, who, h
+radcliffe_udolpho_33_g	30	0.9	1754	36282	 for a considerable time, on t	 for a considerable time, unab
+radcliffe_udolpho_33_g	30	0.9	2672	40358	, she determined to watch, onc	, she determined to watch for 
+radcliffe_udolpho_33_g	31	0.9032258064516129	3057	20591	 in a remote part of the chambe	 in a remote part of the castle
+radcliffe_udolpho_33_g	31	0.9032258064516129	4324	44527	, she thought she heard a foots	, she thought she heard a noise
+radcliffe_udolpho_33_g	30	0.9	7541	4996	 murmur among the mountains, a	 murmur among the mountains:--
+radcliffe_udolpho_33_g	30	0.9	8260	36282	 for a considerable time, when	 for a considerable time, unab
+radcliffe_udolpho_33_g	33	0.9090909090909091	8322	44527	, she thought she heard a voice, 	, she thought she heard a noise i
+radcliffe_udolpho_33_g	39	0.9230769230769231	9150	28074	, ma'amselle,' said Annette, 'what was 	, ma'amselle,' said Annette, 'it was on
+radcliffe_udolpho_33_g	39	0.9230769230769231	9150	30674	, ma'amselle,' said Annette, 'what was 	, ma'amselle,' said Annette, 'it was on
+radcliffe_udolpho_33_g	33	0.9090909090909091	9150	49773	, ma'amselle,' said Annette, 'wha	, ma'amselle,' said Annette, and 
+radcliffe_udolpho_2_g	32	0.90625	8260	16889	 for a considerable time, when, 	 for a considerable time. When h
+radcliffe_udolpho_15_g	30	0.9	3380	12009	 at some distance on the terra	 at some distance on the sea, 
+collins_hauntedhotel_5_u	30	0.9	3056	8364	p in a remote part of the cham	p in a remote part of the pala
+stoker_dracula_12_g	33	0.9090909090909091	2233	17093	 never left her, for a moment, ti	 never left her for a moment unat
+radcliffe_udolpho_34_g	33	0.9090909090909091	2907	10270	 steps of the sentinels, on the r	 steps of the sentinels, as they 
+radcliffe_udolpho_34_g	31	0.9032258064516129	6831	44365	 walking on the terrace, about 	 walking on the terrace; but, i
+radcliffe_udolpho_34_g	30	0.9	8175	20974	ous sounds, that seemed to sha	ous sounds, that seemed to com
+radcliffe_udolpho_50_g	38	0.9210526315789473	3074	40125	 of the chamber, that she might escape	 of the chamber, that she might be cer
+radcliffe_udolpho_50_g	30	0.9	7548	346	 among the mountains, and watc	 among the mountains, and were
+radcliffe_udolpho_18_g	31	0.9032258064516129	3057	31474	 in a remote part of the chambe	 in a remote part of the castle
+radcliffe_udolpho_18_g	30	1.0	9150	26487	, ma'amselle,' said Annette, '	, ma'amselle,' said Annette, '
+radcliffe_udolpho_18_g	30	0.9333333333333333	9150	27265	, ma'amselle,' said Annette, '	, ma'amselle!' said Annette: '
+radcliffe_udolpho_18_g	30	0.9666666666666667	9150	36179	, ma'amselle,' said Annette, '	, ma'amselle,' said Annette, l
+radcliffe_udolpho_18_g	30	0.9	9151	39066	 ma'amselle,' said Annette, 'w	 ma'amselle,' cried Annette, '
+radcliffe_udolpho_3_g	33	0.9090909090909091	1394	10139	 Emily began to fear that the spa	 Emily began to fear that he had 
+radcliffe_udolpho_3_g	30	0.9	7547	4376	r among the mountains, and wat	r among the mountains, and, be
+radcliffe_udolpho_48_g	30	0.9	1779	26203	 on the subject of her estates	 on the subject of her distres
+radcliffe_udolpho_22_g	30	0.9333333333333333	1778	920	, on the subject of her estate	, on the subject of her settle
+radcliffe_udolpho_22_g	31	0.9354838709677419	9004	26557	 Madame Montoni had fallen into	 Madame Montoni had fallen on t
+radcliffe_udolpho_22_g	32	0.9375	9150	9378	, ma'amselle,' said Annette, 'wh	, ma'amselle!' said Annette; 'wh
+radcliffe_udolpho_4_g	36	0.9444444444444444	4547	25426	d not permit her to distinguish any 	d not permit them to distinguish any
+radcliffe_udolpho_4_g	36	0.9166666666666666	7895	34213	 Emily remained at her casement, til	 Emily remained at the casement, wat
+lewis_monk_10_g	34	0.9117647058823529	1927	47480	 had hitherto concealed from the s	 had hitherto concealed from him. 
+lewis_monk_10_g	30	0.9333333333333333	10191	33694	 addressed herself to Heaven f	 addressed herself to heaven; 
+radcliffe_udolpho_10_g	30	0.9333333333333333	2556	29533	t, she withdrew to her own apa	t, she withdrew to her own cha
+radcliffe_udolpho_10_g	61	0.9016393442622951	6094	32924	, and it immediately occurred to her, that it might be he, wh	, and it immediately occurred to her, that he might be at thi
+walpole_castleofotranto_5_g	32	0.90625	6101	2539	t immediately occurred to her, t	t immediately occurred to him to
+walpole_castleofotranto_5_g	36	0.9166666666666666	8207	27893	 the castle to its foundation. She h	 the castle to its foundations; the 
+radcliffe_udolpho_12_g	32	0.90625	3515	43833	, she turned her attention to th	, she turned her attention upon 
+radcliffe_udolpho_27_g	30	0.9	2534	4077	 on the preceding night, she w	 on the preceding night, respe
+radcliffe_udolpho_27_g	30	0.9	2677	8609	 determined to watch, once mor	 determined to watch alone for
+radcliffe_udolpho_27_g	69	0.9130434782608695	3060	10254	 a remote part of the chamber, that she might escape notice from with	 a remote part of the chamber, that she might escape notice, during h
+radcliffe_udolpho_27_g	30	0.9	4324	9004	, she thought she heard a foot	, she thought she heard a voic
+radcliffe_udolpho_27_g	30	0.9333333333333333	4715	339	es of the preceding night retu	es of the preceding night were
+radcliffe_udolpho_27_g	38	0.9736842105263158	5529	742	' 'This is very strange!' said Emily. 	' 'This is very strange!' said Emily, 
+radcliffe_udolpho_27_g	30	0.9	6188	344	 the preceding night. There we	 the preceding night were swep
+radcliffe_udolpho_27_g	30	0.9333333333333333	7126	7629	 it is no business of mine to 	 it is no business of mine. I 
+radcliffe_udolpho_27_g	33	1.0	8322	9004	, she thought she heard a voice, 	, she thought she heard a voice, 
+radcliffe_udolpho_14_g	30	0.9	209	1642	 on the preceding night; she h	 on the preceding night: the r
+radcliffe_udolpho_14_g	30	0.9	2534	1642	 on the preceding night, she w	 on the preceding night: the r
+radcliffe_udolpho_14_g	31	0.9032258064516129	6185	1642	 on the preceding night. There 	 on the preceding night: the re
+christie_styles_3_d	33	0.9090909090909091	4459	5508	, and, at the same instant, she w	, and, at the same instant, Mrs. 
+radcliffe_udolpho_35_g	30	0.9	1754	19751	 for a considerable time, on t	 for a considerable time, a da

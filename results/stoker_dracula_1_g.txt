@@ -1,0 +1,5 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_9_d	37	0.918918918918919	25555	21372	 whispered something in their ears, a	 whispered something in her ear, and 
+collins_hauntedhotel_25_u	30	0.9	8457	4916	 I answered that it was the fo	 I answered that it was to be 
+christie_styles_3_d	30	0.9	24194	11784	 looked at my watch; it was wi	 looked at my watch. It was si
+stoker_dracula_21_g	37	0.9459459459459459	28186	5770	. At last there came a time when the 	. At last there came a time when it w

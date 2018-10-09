@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_15_u	30	0.9666666666666667	2146	22371	he Hound of the Baskervilles t	he Hound of the Baskervilles, 
+doyle_baskervilles_15_u	39	0.9743589743589743	10079	9075	 the death of Sir Charles Baskerville w	 the death of Sir Charles Baskerville. 
+doyle_baskervilles_15_u	38	0.9210526315789473	10294	9079	 death of Sir Charles Baskerville, who	 death of Sir Charles Baskerville. You
+doyle_baskervilles_15_u	30	0.9	11688	9075	 the death of Sir Charles cann	 the death of Sir Charles Bask
+doyle_baskervilles_15_u	31	0.9032258064516129	12755	5003	 Sir Charles Baskerville was in	 Sir Charles Baskerville and wi
+doyle_baskervilles_15_u	30	0.9	15056	353	d in connection with the affai	d in connection with the famou
+doyle_baskervilles_15_u	33	0.9090909090909091	15250	9085	 of Sir Charles Baskerville’s you	 of Sir Charles Baskerville. You 
+doyle_baskervilles_15_u	37	0.9459459459459459	15535	535	 in connection with the death of Sir 	 in connection with the death of her 
+doyle_baskervilles_15_u	43	0.9302325581395349	15554	9075	 the death of Sir Charles Baskerville.” “I 	 the death of Sir Charles Baskerville. You 
+doyle_baskervilles_15_u	30	0.9666666666666667	16983	9085	 of Sir Charles Baskerville. W	 of Sir Charles Baskerville. Y
+doyle_baskervilles_15_u	32	1.0	19421	7447	e that Sir Charles was about to 	e that Sir Charles was about to 
+collins_moonstone_52_d	31	0.9032258064516129	18069	11890	 more than one occasion he has 	 more than one occasion when th

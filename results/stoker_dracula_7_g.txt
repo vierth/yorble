@@ -1,0 +1,55 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_17_g	35	0.9142857142857143	17779	3644	 thought there was some one in the 	 thought there was some one with yo
+collins_moonstone_86_d	34	0.9117647058823529	12090	26087	 It is needless to say that the de	 It is needless to say that I decl
+christie_secretadversary_7_d	30	0.9	15318	1083	d persistently throughout the 	d persistently through the Lon
+collins_moonstone_78_d	32	0.9375	12090	4228	 It is needless to say that the 	 It is needless to say that I th
+collins_moonstone_48_d	31	0.9354838709677419	23404	16182	 Before I could say a word, or 	 Before I could say a word, I s
+doyle_signoffour_12_d	34	0.9411764705882353	22768	30389	 beginning to hope that the mate w	 beginning to hope that the time w
+doyle_signoffour_12_d	30	0.9	23503	19138	 threw himself into the sea. I	 threw himself into the cause 
+radcliffe_udolpho_30_g	30	0.9	4210	2713	t was with difficulty that eve	t was with difficulty, that Em
+lewis_monk_11_g	34	0.9411764705882353	12089	78133	. It is needless to say that the d	. It is needless to say that Theod
+doyle_adventures_10_d	30	0.9	529	25838	 in the neighbourhood of Whitb	 in the neighbourhood of his w
+austen_northangerabbey_23_g	30	0.9333333333333333	10476	8647	. It was no wonder that the co	. It was no wonder that the ge
+radcliffe_udolpho_38_g	30	0.9	529	11101	 in the neighbourhood of Whitb	 in the neighbourhood of Chate
+collins_moonstone_75_d	34	0.9411764705882353	29963	27990	 I think it will be best for her t	 I think it will be best, for the 
+radcliffe_udolpho_51_g	30	0.9	529	21863	 in the neighbourhood of Whitb	 in the neighbourhood of which
+doyle_adventures_3_d	31	0.9354838709677419	13351	452	 the strange coincidence; the o	 the strange coincidences, the 
+collins_moonstone_69_d	32	0.90625	12090	22463	 It is needless to say that the 	 It is needless to say that my t
+stoker_dracula_26_g	30	0.9	7867	4740	 and a shudder ran through all	 and a shudder ran through her
+stoker_dracula_26_g	30	0.9333333333333333	20308	30916	. We seem to be drifting to so	. We seem to be drifting into 
+collins_moonstone_89_d	30	0.9666666666666667	12089	58617	. It is needless to say that t	. It is needless to say, that 
+collins_moonstone_89_d	35	0.9142857142857143	12089	79671	. It is needless to say that the de	. It is needless to say that my dre
+collins_moonstone_89_d	30	0.9	16866	13812	 they expected something of th	 they expected something more 
+poe_usher_1_g	30	0.9	4210	9728	t was with difficulty that eve	t was with difficulty that I c
+poe_usher_1_g	30	0.9333333333333333	10476	28381	. It was no wonder that the co	. It was no wonder that his co
+radcliffe_udolpho_39_g	30	0.9	6689	16495	 impossible that she should fe	 impossible, that she could re
+collins_hauntedhotel_20_u	45	0.9111111111111111	26467	12638	 if anything had happened in the night. There	 if anything had happened in the night. 'Noth
+stoker_dracula_6_g	31	0.9032258064516129	18630	16189	. * * * * * _24 July_.--There s	. * * * * * _8 July._--There is
+stoker_dracula_6_g	32	0.90625	25739	21668	 _Mina Murray's Journal._ _8 Aug	 _Mina Murray's Journal._ _26 Ju
+radcliffe_udolpho_1_g	34	0.9117647058823529	4203	33879	 that it was with difficulty that 	 that it was with difficulty he co
+shelley_frankenstein_46_g	32	0.90625	23142	1531	 and then looked round on the bl	 and then looked around for the 
+christie_styles_13_d	37	0.918918918918919	13574	18756	 determined that there shall be no ca	 determined that there should be no c
+stoker_dracula_11_g	30	0.9333333333333333	10906	22882	 the flapping and buffeting of	 the flapping and buffeting ca
+shelley_frankenstein_53_g	31	0.9032258064516129	13351	3870	 the strange coincidence; the o	 the strange coincidences that 
+christie_styles_6_d	30	1.0	6671	7216	 it would be quite impossible 	 it would be quite impossible 
+collins_moonstone_56_d	30	0.9	16866	3668	 they expected something of th	 they expected something more 
+stoker_dracula_20_g	30	0.9	3433	29281	 little after midnight came a 	 little after midnight he was 
+doyle_baskervilles_9_u	30	0.9333333333333333	6689	17327	 impossible that she should fe	 impossible that he should fai
+radcliffe_udolpho_36_g	34	0.9117647058823529	13860	358	 disappointment, however, it was n	 disappointment, however, was inst
+stoker_dracula_12_g	30	0.9	18334	16889	 said nothing. * * * * * _22 J	 said nothing. * * * * * _19 S
+dickens_christmascarole_2_g	30	0.9	26470	857	 anything had happened in the 	 anything has happened to the 
+austen_northangerabbey_2_g	37	0.918918918918919	4477	131	 the difficulties and dangers of the 	 the difficulties and dangers of a si
+christie_secretadversary_14_d	31	0.9354838709677419	27922	3501	 was found dead this morning on	 was found dead this morning.” 
+radcliffe_udolpho_22_g	31	0.967741935483871	3294	11443	 was distinctly heard, and the 	 was distinctly heard, and her 
+stoker_dracula_24_g	30	0.9	14524	20906	. * * * * * _Later._--By the k	. * * * * * _Later._--At the v
+christie_secretadversary_17_d	31	0.9354838709677419	9202	17277	 disappeared in the darkness, w	 disappeared into the darkness 
+stoker_dracula_3_g	41	0.9024390243902439	13061	13351	 F. Billington, of 7, The Crescent, who t	 F. Billington, No. 7, The Crescent, Whit
+shelley_frankenstein_51_g	30	0.9	529	6568	 in the neighbourhood of Whitb	 in the neighbourhood of this 
+collins_moonstone_53_d	32	0.90625	23404	13749	 Before I could say a word, or m	 Before I could say a word, the 
+stoker_dracula_1_g	32	0.90625	6319	17384	ed earlier in the evening. The w	ed earlier in the evening, when 
+stoker_dracula_1_g	32	0.90625	9202	27025	 disappeared in the darkness, wh	 disappeared into the darkness. 
+radcliffe_udolpho_27_g	35	0.9142857142857143	4477	12275	 the difficulties and dangers of th	 the difficulties and dangers, that
+collins_moonstone_50_d	30	0.9333333333333333	4481	11701	 difficulties and dangers of t	 difficulties and dangers, to 
+stoker_dracula_9_g	33	0.9090909090909091	27034	10206	 * * * * * _10 August._--The fune	 * * * * * _23 August._--"The une
+radcliffe_udolpho_54_g	30	0.9	529	3471	 in the neighbourhood of Whitb	 in the neighbourhood of Chate
+collins_moonstone_76_d	33	0.9090909090909091	12089	23117	. It is needless to say that the 	. It is needless to say that I wa

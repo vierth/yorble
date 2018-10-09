@@ -1,0 +1,58 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_12_d	32	0.90625	1913	7401	 rubbed his hands together, and 	 rubbed his hands together in th
+doyle_adventures_12_d	31	0.9032258064516129	13718	50167	e never said a word about it to	e never said a word about them 
+dickens_christmascarole_4_g	34	0.9117647058823529	23750	16562	ing at the wolf, and there was a s	ing at the door, and there was a s
+dickens_christmascarole_4_g	30	0.9	25052	22768	 what had happened, and what i	 what had happened, and went d
+stoker_dracula_10_g	43	0.9534883720930233	1	18747	 _Lucy Westenra's Diary._ _12 September._--	 _Lucy Westenra's Diary._ _9 September._--I
+stoker_dracula_10_g	31	0.9032258064516129	16	19649	's Diary._ _12 September._--How	's Diary._ _10 September._--I w
+stoker_dracula_10_g	45	0.9111111111111111	1013	19636	. _Dr. Seward's Diary._ _13 September._--Call	. _Dr. Seward's Diary._ _10 September._--I wa
+stoker_dracula_10_g	38	0.9210526315789473	5062	21494	 coat and rolled up his shirt-sleeve. 	 coat and rolled up my shirt-sleeve. T
+stoker_dracula_10_g	44	0.9545454545454546	5936	18746	. _Lucy Westenra's Diary._ _17 September._--	. _Lucy Westenra's Diary._ _9 September._--I
+stoker_dracula_10_g	30	0.9	5952	19649	's Diary._ _17 September._--Fo	's Diary._ _10 September._--I 
+stoker_dracula_10_g	50	0.94	18294	19636	. _Dr. Seward's Diary._ _17 September._--I was eng	. _Dr. Seward's Diary._ _10 September._--I was con
+stoker_dracula_10_g	31	0.9032258064516129	20259	17308	 be at Hillingham to-night. If 	 be at Hillingham to-night, as 
+stoker_dracula_10_g	42	0.9523809523809523	20450	942	." _Dr. Seward's Diary._ _18 September._--	." _Dr. Seward's Diary._ _7 September._--T
+stoker_dracula_10_g	40	0.975	20452	19637	 _Dr. Seward's Diary._ _18 September._--	 _Dr. Seward's Diary._ _10 September._--
+collins_moonstone_56_d	32	0.96875	3217	15211	 for the first time in my life, 	 for the first time in my life. 
+stoker_dracula_20_g	33	0.9696969696969697	4120	25043	 Suddenly he jumped to his feet. 	 Suddenly he jumped to his feet, 
+stoker_dracula_20_g	30	0.9	19087	31185	ing on his back on the floor. 	ing on his face on the floor, 
+stoker_dracula_20_g	30	0.9	20450	28535	." _Dr. Seward's Diary._ _18 S	." _Dr. Seward's Diary._ _2 Oc
+stoker_dracula_12_g	30	0.9	16	29002	's Diary._ _12 September._--Ho	's Diary._ _20 September._--On
+stoker_dracula_12_g	43	0.9069767441860465	1014	28990	 _Dr. Seward's Diary._ _13 September._--Cal	 _Dr. Seward's Diary._ _20 September._--Onl
+stoker_dracula_12_g	36	0.9166666666666666	2251	12294	, and went into her room. She was sl	, and went up to her room. She was s
+stoker_dracula_12_g	40	0.95	18295	28990	 _Dr. Seward's Diary._ _17 September._--	 _Dr. Seward's Diary._ _20 September._--
+stoker_dracula_12_g	42	0.9523809523809523	20450	28988	." _Dr. Seward's Diary._ _18 September._--	." _Dr. Seward's Diary._ _20 September._--
+stoker_dracula_12_g	30	0.9333333333333333	24120	3188	 through the broken window, an	 through the broken window, sh
+stoker_dracula_12_g	30	0.9333333333333333	25154	3188	 through the broken window, an	 through the broken window, sh
+stoker_dracula_12_g	30	0.9	25387	33348	 to the dining-room and have e	 to the dining-room and waked 
+stoker_dracula_12_g	31	0.9032258064516129	25871	33341	 I went to the dining-room to l	 I went to the dining-room and 
+stoker_dracula_12_g	30	0.9333333333333333	26537	3188	 through the broken window. Th	 through the broken window, sh
+radcliffe_udolpho_34_g	36	0.9166666666666666	3496	20985	 that seemed to come from the very r	 that seemed to come from the inner 
+christie_styles_5_d	32	0.90625	24120	15962	 through the broken window, and 	 through the French window, and 
+christie_styles_5_d	32	0.90625	25154	15962	 through the broken window, and 	 through the French window, and 
+dickens_christmascarole_1_g	31	0.9032258064516129	3435	27832	 his hands before his face, beg	 his hands before his face. "Me
+dickens_christmascarole_1_g	30	0.9	13173	20718	 to see that all was right, an	 to see that all was right. He
+christie_secretadversary_11_d	44	0.9090909090909091	1909	8559	. He rubbed his hands together, and said:-- 	. He rubbed his hands together, and raised h
+collins_hauntedhotel_11_u	34	0.9117647058823529	3219	6807	or the first time in my life, I sa	or the first time in my life, agai
+collins_moonstone_84_d	31	0.9032258064516129	3217	17421	 for the first time in my life,	 for the first time in his life
+christie_styles_8_d	32	0.90625	23922	26840	y for a moment or two. The room 	y for a moment or two. Then, to 
+doyle_adventures_2_d	30	0.9	3186	314	room and closed the door. Then	room and closed the door behin
+doyle_adventures_2_d	30	0.9	13173	19176	 to see that all was right, an	 to see that all was right wit
+christie_styles_1_d	32	0.90625	24120	19758	 through the broken window, and 	 through the open window, and Mi
+christie_styles_1_d	32	0.90625	25154	19758	 through the broken window, and 	 through the open window, and Mi
+doyle_adventures_9_d	30	0.9	22136	32988	 the window and looked out, bu	 the window, and looked out. H
+stoker_dracula_9_g	30	0.9	16	25270	's Diary._ _12 September._--Ho	's Diary._ _4 September._--Zoö
+stoker_dracula_9_g	40	0.95	1014	25258	 _Dr. Seward's Diary._ _13 September._--	 _Dr. Seward's Diary._ _4 September._--Z
+stoker_dracula_9_g	30	1.0	1701	7184	You will be glad to know that 	You will be glad to know that 
+stoker_dracula_9_g	30	0.9	5936	12035	. _Lucy Westenra's Diary._ _17	. _Lucy Westenra's Diary_ _Hil
+stoker_dracula_9_g	30	0.9	5952	25270	's Diary._ _17 September._--Fo	's Diary._ _4 September._--Zoö
+stoker_dracula_9_g	40	0.95	18295	25258	 _Dr. Seward's Diary._ _17 September._--	 _Dr. Seward's Diary._ _4 September._--Z
+stoker_dracula_9_g	30	0.9	20450	7890	." _Dr. Seward's Diary._ _18 S	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	42	0.9523809523809523	20450	25256	." _Dr. Seward's Diary._ _18 September._--	." _Dr. Seward's Diary._ _4 September._--Z
+stoker_dracula_9_g	30	0.9	22186	11585	 except a big bat, which had e	 except a big bat, which was f
+collins_moonstone_60_d	33	1.0	3216	6428	, for the first time in my life, 	, for the first time in my life, 
+radcliffe_udolpho_54_g	30	0.9	26906	879	ould not survive this night. G	ould not survive the night. In
+christie_secretadversary_15_d	32	0.90625	20724	1208	 have happened? Surely there is 	 have happened? Surely the girl 
+stoker_dracula_21_g	30	0.9	1261	21073	ly. Van Helsing and I arrived 	ly. Van Helsing and I tried to
+stoker_dracula_21_g	31	0.9032258064516129	25052	22683	 what had happened, and what it	 what had happened, and he list
+radcliffe_udolpho_35_g	40	0.925	3216	21644	, for the first time in my life, I saw V	, for the first time in my life, I will 

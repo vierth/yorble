@@ -1,0 +1,64 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_3_g	32	0.90625	9431	66435	 I could not resist the temptati	 I could not resist the entreati
+stoker_dracula_26_g	30	0.9	762	14710	 he must have suffered, whethe	 he must have suffered, what m
+stoker_dracula_26_g	30	0.9333333333333333	11054	6596	 "Oh, Madam Mina," he said, "h	 "Oh, Madam Mina," he said, sa
+stoker_dracula_26_g	34	0.9411764705882353	19132	7676	 _Jonathan Harker's Journal._ _26 	 _Jonathan Harker's Journal._ _30 
+stoker_dracula_26_g	31	1.0	19132	28864	 _Jonathan Harker's Journal._ _	 _Jonathan Harker's Journal._ _
+stoker_dracula_26_g	30	0.9	23473	34148	 _Dr. Seward's Diary._ _26 Sep	 _Dr. Seward's Diary._ _2 Nove
+stoker_dracula_26_g	34	0.9117647058823529	32447	24909	, Professor Van Helsing, what do y	, Professor Van Helsing, that you 
+radcliffe_udolpho_39_g	31	0.9032258064516129	32601	2282	 his face with his hands as he 	 his face with his hand, as if 
+christie_secretadversary_16_d	30	0.9	25457	11554	 did not quite understand his 	 did not quite understand. “Sh
+doyle_signoffour_8_d	31	0.9032258064516129	24892	11878	. "What do you think of that?" 	. "What do you think of it?" "I
+doyle_scarlet_7_d	30	0.9	10946	9728	dly up and down the room, his 	dly up and down the room; “it 
+doyle_scarlet_7_d	32	0.90625	19223	12890	, but the time has come. When I 	, but the time has come when we 
+doyle_scarlet_3_d	30	0.9	24895	16297	What do you think of that?" he	What do you think of that?” cr
+stoker_dracula_23_g	35	0.9142857142857143	19132	19844	 _Jonathan Harker's Journal._ _26 S	 _Jonathan Harker's Journal._ _3-4 
+stoker_dracula_25_g	34	0.9411764705882353	19132	8732	 _Jonathan Harker's Journal._ _26 	 _Jonathan Harker's Journal._ _15 
+stoker_dracula_25_g	30	0.9333333333333333	23471	14075	." _Dr. Seward's Diary._ _26 S	." _Dr. Seward's Diary._ _25 O
+stoker_dracula_25_g	30	0.9333333333333333	23471	18862	." _Dr. Seward's Diary._ _26 S	." _Dr. Seward's Diary._ _28 O
+stoker_dracula_6_g	34	0.9117647058823529	8510	17138	. I asked him what it was that he 	. I asked him what it was, and he 
+stoker_dracula_6_g	30	0.9	10860	11259	 in order that he might not be	 in order that she mightn't ge
+stoker_dracula_6_g	37	0.918918918918919	25455	7971	 I did not quite understand his answe	 I did not quite understand his diale
+doyle_scarlet_9_d	30	0.9333333333333333	11993	3239	 and all that belongs to him a	 and all that belonged to him 
+stoker_dracula_18_g	32	0.90625	15553	8778	 said:-- "Dr. Van Helsing, what 	 said:-- "Dr. Van Helsing, will 
+stoker_dracula_18_g	31	0.9354838709677419	15553	32606	 said:-- "Dr. Van Helsing, what	 said:-- "Dr. Van Helsing, I ha
+stoker_dracula_18_g	37	0.9459459459459459	19142	9736	 Harker's Journal._ _26 September._--	 Harker's Journal._ _30 September._--
+stoker_dracula_18_g	30	0.9	20122	840	 me. When I came into the room	 me. When I went into the room
+stoker_dracula_18_g	30	0.9	26573	19407	 there are things which you ca	 there are things which so aff
+stoker_dracula_11_g	45	0.9111111111111111	23471	20450	." _Dr. Seward's Diary._ _26 September._--Tru	." _Dr. Seward's Diary._ _18 September._--Jus
+collins_moonstone_85_d	30	0.9	10559	9093	 want to ask you some things w	 want to ask you something,” I
+doyle_adventures_12_d	30	0.9333333333333333	10949	41895	 up and down the room, his fac	 up and down the room, his han
+stoker_dracula_10_g	43	0.9534883720930233	23471	942	." _Dr. Seward's Diary._ _26 September._--T	." _Dr. Seward's Diary._ _7 September._--Th
+stoker_dracula_10_g	40	0.95	23473	19637	 _Dr. Seward's Diary._ _26 September._--	 _Dr. Seward's Diary._ _10 September._--
+collins_moonstone_56_d	32	0.9375	3525	2161	 as the time draws near for the 	 as the time drew near for the a
+doyle_baskervilles_11_u	30	0.9333333333333333	24895	12684	What do you think of that?" he	What do you think of that? We’
+stoker_dracula_20_g	30	0.9	5336	30398	. * * * * * _Later._--He has c	. * * * * * _Later._--We have 
+stoker_dracula_20_g	30	0.9333333333333333	23471	28535	." _Dr. Seward's Diary._ _26 S	." _Dr. Seward's Diary._ _2 Oc
+collins_hauntedhotel_5_u	30	0.9	8535	6227	 that he wanted to see me abou	 that he wanted to see the cou
+doyle_baskervilles_7_u	30	0.9	14455	9583	 I promise you that I will gla	 I promise you that I will not
+stoker_dracula_12_g	48	0.9166666666666666	23471	28988	." _Dr. Seward's Diary._ _26 September._--Truly 	." _Dr. Seward's Diary._ _20 September._--Only r
+stoker_dracula_12_g	30	0.9	32328	1655	 said solemnly:-- "Then you ar	 said solemnly:-- "Then I fear
+stoker_dracula_12_g	30	0.9	32601	33678	 his face with his hands as he	 his face with his hands, and 
+christie_styles_5_d	30	0.9	10559	23557	 want to ask you some things w	 want to ask you something.” “
+stoker_dracula_2_g	30	0.9	20742	1143	 I did not know what to do; an	 I did not know what to do. Of
+doyle_adventures_5_d	33	0.9393939393939394	32556	24044	 and placed his elbows on the tab	 and placed his elbows upon the a
+stoker_dracula_24_g	30	0.9	9491	17642	I suppose it is some of the ta	I suppose it is some of that h
+stoker_dracula_24_g	30	0.9666666666666667	15339	7719	 began to fear that he would t	 began to fear that he would l
+stoker_dracula_24_g	34	0.9411764705882353	19132	2011	 _Jonathan Harker's Journal._ _26 	 _Jonathan Harker's Journal._ _4 O
+stoker_dracula_24_g	34	0.9411764705882353	19132	23878	 _Jonathan Harker's Journal._ _26 	 _Jonathan Harker's Journal._ _5 O
+stoker_dracula_3_g	30	0.9	8469	14589	He finished his speech with a 	He finished his speech in a gr
+lewis_monk_10_g	30	0.9	10860	12146	 in order that he might not be	 in order that She might be be
+doyle_adventures_2_d	30	0.9	20742	21436	 I did not know what to do; an	 I did not know what to do. Th
+stoker_dracula_1_g	30	0.9	20742	9436	 I did not know what to do; an	 I did not know what to do, fo
+stoker_dracula_1_g	30	0.9	20742	27056	 I did not know what to do; an	 I did not know what to do, th
+collins_moonstone_62_d	33	0.9090909090909091	29309	10428	Do you mean to tell me that Lucy 	Do you mean to tell me that you h
+doyle_adventures_9_d	32	0.90625	32516	24984	 with a despairing gesture into 	 with a despairing gesture, and 
+shelley_frankenstein_47_g	32	0.90625	20806	1633	n what had hitherto been the gro	n what had hitherto been to me o
+stoker_dracula_9_g	77	0.9090909090909091	1316	3525	 come upon me to go back to the bitter hours, asleep or awake, mad or sane." 	 come upon me to go back to the bitter hours, asleep or awake, sane or mad, r
+stoker_dracula_9_g	30	0.9333333333333333	23471	7890	." _Dr. Seward's Diary._ _26 S	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	42	0.9523809523809523	23471	25256	." _Dr. Seward's Diary._ _26 September._--	." _Dr. Seward's Diary._ _4 September._--Z
+radcliffe_udolpho_41_g	30	0.9	10232	11886	 but I had been thinking that 	 but I had been thinking a gre
+stoker_dracula_16_g	37	0.918918918918919	8513	4778	 asked him what it was that he wanted	 asked him what it was that he was do
+stoker_dracula_16_g	31	0.9032258064516129	32601	10631	 his face with his hands as he 	 his face in his hands, as he a
+doyle_scarlet_1_d	30	0.9	24895	10594	What do you think of that?" he	What do you think of that?” “I
+christie_styles_4_d	31	0.9032258064516129	24895	15530	What do you think of that?" he 	What do you think of that?” I s

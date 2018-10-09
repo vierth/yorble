@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_12_d	30	0.9333333333333333	6818	19704	s peeped out from amid the thi	s peeped out from amid the lig
+doyle_adventures_12_d	32	0.90625	7278	45193	 in the light of the sinking sun	 in the light of the setting sun
+doyle_adventures_12_d	31	0.9032258064516129	11867	23756	 in front of the hall door.” Th	 in front of the hall door has 
+doyle_adventures_12_d	30	0.9333333333333333	17806	23755	y in front of the hall door. B	y in front of the hall door ha
+radcliffe_udolpho_15_g	30	0.9	6426	2722	 surprised to observe that by 	 surprised to observe, that Mo
+doyle_baskervilles_11_u	30	0.9	5635	23301	, and yet as I looked at his d	, and yet as I looked at them 
+doyle_baskervilles_11_u	32	0.9375	8386	11752	road along which we travelled. “	road along which I travelled. “G
+doyle_baskervilles_11_u	31	0.9032258064516129	15788	8699	 Sir Charles’s generosity has g	 Sir Charles’s generosity, and 
+collins_hauntedhotel_5_u	38	0.9210526315789473	8966	13644	 is a man that would stick at nothing.	 is a man who would stick at nothing. 
+doyle_adventures_4_d	35	1.0	2207	17850	 waiting for us upon the platform. 	 waiting for us upon the platform. 
+doyle_adventures_4_d	32	0.90625	15672	49891	 what do you intend to do?” “I h	 what do you intend to do?" "In 
+doyle_baskervilles_7_u	30	0.9333333333333333	653	24561	 the death of Sir Charles. I h	 the death of Sir Charles. We 
+doyle_baskervilles_7_u	30	0.9	4094	24490	 it, Dr. Watson,” said he; “bu	 it, Dr. Watson,” said she. “M
+doyle_baskervilles_8_u	47	0.9361702127659575	1792	8369	 is Mr. Frankland, of Lafter Hall, who is also 	 is Mr. Frankland, of Lafter Hall, who lives so
+doyle_baskervilles_8_u	32	0.90625	1799	10377	 Frankland, of Lafter Hall, who 	 Frankland, of Lafter Hall, let 
+collins_hauntedhotel_19_u	31	0.9032258064516129	7276	115	ed in the light of the sinking 	ed in the light of the rising m
+doyle_adventures_2_d	30	0.9333333333333333	2012	36375	 I thought it as well to take 	 I thought it as well to have 
+doyle_adventures_2_d	32	0.9375	13347	28604	 in which we found ourselves, la	 in which we found ourselves as 
+doyle_adventures_9_d	36	0.9166666666666666	13286	20526	d the door clanged heavily behind us	d the door slammed heavily behind us
+doyle_baskervilles_4_u	30	0.9	1103	4039	nd Sir Henry Baskerville upon 	nd Sir Henry Baskerville turne
+doyle_baskervilles_4_u	31	0.967741935483871	5015	13118	 the moor,” said Dr. Mortimer, 	 the moor,” said Dr. Mortimer. 
+doyle_baskervilles_4_u	30	0.9	6644	676	 Sir Henry Baskerville, and in	 Sir Henry Baskerville,” said 
+doyle_baskervilles_4_u	31	0.9032258064516129	8089	10466	” cried Dr. Mortimer, “what is 	” cried Dr. Mortimer, “it is on
+radcliffe_udolpho_41_g	31	0.9032258064516129	630	17175	 particulars concerning the dea	 particularly concerning the ma
+doyle_baskervilles_2_u	36	0.9166666666666666	1795	17033	 Mr. Frankland, of Lafter Hall, who 	 Mr. Frankland, of Lafter Hall, and 
+doyle_baskervilles_2_u	40	0.975	3328	9373	s when the powers of evil are exalted.” 	s when the powers of evil are exalted. “

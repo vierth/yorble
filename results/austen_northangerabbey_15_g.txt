@@ -1,0 +1,35 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_29_g	32	0.90625	3810	11309	. The strength of her feelings s	. The strength of these feelings
+austen_northangerabbey_29_g	31	0.9354838709677419	3916	17959	he happiness of having such a s	he happiness of having such ste
+austen_northangerabbey_29_g	30	0.9	16995	13561	d all that they felt on the oc	d all that she felt on the sco
+reeve_oldenglishbaron	31	0.9032258064516129	9127	30053	 I cannot bear to see you linge	 I cannot bear to see you uneas
+collins_hauntedhotel_14_u	30	0.9	17659	5479	 his father and mother, and he	 his father and mother go and 
+austen_northangerabbey_9_g	30	0.9	1337	11088	 Catherine listened with heart	 Catherine listened with aston
+stoker_dracula_18_g	30	0.9	150	25473	 of the utmost importance, has	 of the utmost importance to s
+reeve_oldenglishbaron	31	0.9032258064516129	9127	30053	 I cannot bear to see you linge	 I cannot bear to see you uneas
+doyle_adventures_12_d	30	0.9	10696	41415	 had no difficulty in gaining 	 had no difficulty in getting 
+doyle_scarlet_13_d	31	0.967741935483871	396	10285	 the opportunity of asking the 	 the opportunity of making the 
+doyle_baskervilles_11_u	34	0.9117647058823529	10696	1671	 had no difficulty in gaining the 	 had no difficulty in finding her 
+stoker_dracula_20_g	31	0.9032258064516129	391	16884	 took the opportunity of asking	 took the opportunity of bringi
+collins_hauntedhotel_5_u	32	0.9375	13305	9465	What do you think of it, Miss Mo	What do you think of it, Miss?' 
+reeve_oldenglishbaron	31	0.9032258064516129	9127	30053	 I cannot bear to see you linge	 I cannot bear to see you uneas
+radcliffe_udolpho_34_g	39	0.9230769230769231	5509	40018	 I will not pain you by describing my a	 I will not pain you by describing what
+austen_northangerabbey_2_g	30	0.9	12482	2216	 of every new acquaintance at 	 of every new acquaintance, no
+austen_northangerabbey_2_g	33	1.0	12831	10459	. “Well, Miss Morland,” said he, 	. “Well, Miss Morland,” said he, 
+lewis_monk_4_g	35	0.9142857142857143	391	93905	 took the opportunity of asking the	 took the opportunity of thanking h
+lewis_monk_4_g	31	0.9032258064516129	396	94415	 the opportunity of asking the 	 the opportunity of making his 
+collins_moonstone_74_d	33	0.9090909090909091	391	20728	 took the opportunity of asking t	 took the opportunity of calling 
+radcliffe_udolpho_50_g	30	0.9	9408	1063	 were acquainted with everythi	 were acquainted with every br
+radcliffe_udolpho_18_g	30	0.9333333333333333	10342	32694	 to support her spirits and wh	 to support her spirits, and t
+austen_northangerabbey_6_g	30	0.9333333333333333	1911	7807	 I am determined I will not be	 I am determined I will not lo
+doyle_adventures_5_d	32	0.96875	1459	13912	 the rest, there was nothing to 	 the rest, there was nothing of 
+reeve_oldenglishbaron	31	0.9032258064516129	9127	30053	 I cannot bear to see you linge	 I cannot bear to see you uneas
+doyle_scarlet_2_d	30	0.9	400	19350	 opportunity of asking the oth	 opportunity of taking the con
+collins_moonstone_53_d	30	0.9	3814	11514	e strength of her feelings she	e strength of her feelings fou
+collins_moonstone_53_d	31	0.9354838709677419	3814	12212	e strength of her feelings she 	e strength of her feelings had 
+collins_moonstone_62_d	30	0.9333333333333333	10410	13722	 the delivery of the letters; 	 the delivery of the letter be
+doyle_baskervilles_2_u	31	0.9354838709677419	150	14806	 of the utmost importance, hast	 of the utmost importance that 
+radcliffe_udolpho_54_g	30	0.9333333333333333	10342	6795	 to support her spirits and wh	 to support her spirits, and b
+reeve_oldenglishbaron	31	0.9032258064516129	9127	30053	 I cannot bear to see you linge	 I cannot bear to see you uneas
+doyle_baskervilles_15_u	31	0.9032258064516129	150	251	 of the utmost importance, hast	 of the utmost importance, in t
+austen_northangerabbey_17_g	31	0.9032258064516129	1337	140	 Catherine listened with heartf	 Catherine listened with a beat

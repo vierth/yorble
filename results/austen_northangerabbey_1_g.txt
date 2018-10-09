@@ -1,0 +1,2 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_17_g	35	0.9142857142857143	3967	517	 the pleasure of sometimes hearing 	 the pleasure of sometimes seeing H

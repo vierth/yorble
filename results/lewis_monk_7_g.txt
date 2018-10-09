@@ -1,0 +1,37 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_10_g	30	0.9	3258	12574	 the consciousness of his faul	 the consciousness of this mad
+lewis_monk_8_g	30	0.9	4192	23478	 vengeance, He continued to ne	 vengeance. He continued to ra
+lewis_monk_8_g	30	0.9333333333333333	29965	1186	hat resource now failed them. 	hat resource now failed her. S
+lewis_monk_8_g	32	0.90625	32898	30218	 at no great distance from him. 	 at no great distance from the S
+lewis_monk_8_g	37	0.918918918918919	42032	32633	 name, and place it upon her pillow. 	 name, and laid it upon her pillow. T
+lewis_monk_5_g	33	0.9090909090909091	3699	1424	ed him that He had nothing to dre	ed him that He had nothing more t
+lewis_monk_5_g	30	0.9	4801	18308	 her Daughter. He resolved the	 her Daughter. She resolved to
+lewis_monk_5_g	30	0.9	9441	51310	s it possible that your own re	s it possible that your counte
+lewis_monk_5_g	31	0.9032258064516129	16145	27602	e contented herself with warnin	e contented herself with confin
+lewis_monk_6_g	44	0.9090909090909091	1852	49842	 the solidity and correctness of her underst	 the solidity and correctness of her remarks
+lewis_monk_6_g	36	0.9166666666666666	3495	23076	. Matilda could not but remark his i	. Matilda could not but remark that 
+lewis_monk_6_g	31	0.9032258064516129	4011	49978	e conveyed. Ambrosio was not un	e conveyed. Ambrosio was at len
+lewis_monk_6_g	31	0.9032258064516129	13906	50572	 prejudiced in his favour: and 	 prejudiced in his favour: The 
+lewis_monk_6_g	30	0.9333333333333333	16751	24321	 was now become a part of his 	 was now become part of his ch
+lewis_monk_6_g	38	0.9473684210526315	17357	3445	 was still under the influence of this	 was still under the influence of pois
+lewis_monk_6_g	32	0.90625	29809	11124	 the door of the Sepulchre, and 	 the door of the Sepulchre was s
+lewis_monk_6_g	37	0.918918918918919	30684	18100	 Columns which supported the Roof, bu	 Columns which supported the roof und
+lewis_monk_6_g	35	1.0	32065	8126	, and called every argument to his 	, and called every argument to his 
+lewis_monk_6_g	45	0.9111111111111111	37844	17361	 along the subterraneous passages, and the gr	 along the subterraneous passages, and was re
+lewis_monk_6_g	34	0.9411764705882353	42577	19274	 Let us return to the Abbey, lest 	 Let us retire to the Abbey, lest 
+radcliffe_udolpho_12_g	30	0.9	3253	5188	ed by the consciousness of his	ed by the consciousness of Mad
+lewis_monk_1_g	30	0.9	6208	21847	s of the sacred writings, was 	s of the sacred writings in a 
+lewis_monk_1_g	30	0.9666666666666667	11902	38235	 to escape from his embrace. '	 to escape from his embrace. L
+lewis_monk_1_g	33	0.9090909090909091	31728	40433	 was conscious that He had forfei	 was conscious that He had no rig
+lewis_monk_1_g	32	0.90625	32898	2587	 at no great distance from him. 	 at no great distance from the P
+radcliffe_udolpho_27_g	33	0.9090909090909091	16391	2237	ed the door after him, and threw 	ed the door after him, and, when 
+radcliffe_udolpho_14_g	35	0.9714285714285714	3913	823	 melancholy of her countenance and 	 melancholy of her countenance an e
+radcliffe_udolpho_14_g	31	0.9032258064516129	15910	399	. She now endeavoured to make h	. She now endeavoured to chase 
+radcliffe_udolpho_41_g	30	0.9	16412	16339	, and threw himself upon the b	, and threw himself on the flo
+radcliffe_udolpho_47_g	35	0.9142857142857143	3913	15615	 melancholy of her countenance and 	 melancholy of her countenance,' sa
+collins_moonstone_66_d	30	0.9333333333333333	29527	10518	 in her possession since her f	 in her possession, since she 
+christie_secretadversary_24_d	31	0.9032258064516129	12512	10499	 uttered an exclamation of joy,	 uttered an exclamation of asto
+collins_moonstone_76_d	34	0.9117647058823529	2336	18493	 it was impossible for her to repl	 it was impossible for her to foll
+collins_moonstone_76_d	32	0.96875	8935	9419	 without a moment's hesitation. 	 without a moment’s hesitation. 
+doyle_baskervilles_15_u	30	0.9	3712	9830	e had nothing to dread from he	e had nothing to fear from the
+radcliffe_udolpho_35_g	30	0.9	30692	20059	 which supported the Roof, but	 which supported the roof, tha

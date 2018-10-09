@@ -1,0 +1,14 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_79_d	32	0.90625	1228	4248	 the late Sir John Verinder. An 	 the late Sir John Verinder—one 
+collins_moonstone_47_d	36	0.9166666666666666	528	13566	. If you know anything of the fashio	. If you know anything of the ways o
+collins_hauntedhotel_26_u	30	0.9	7693	2299	 as a favour to herself. The d	 as a favour to himself. The C
+christie_secretadversary_22_d	31	0.9032258064516129	8518	7186	r, and the thing was done. My m	r, and the thing was done. And 
+collins_moonstone_80_d	30	0.9	8226	926	age one hundred and fifty-eigh	age one hundred and fifty-six 
+collins_moonstone_67_d	30	0.9310344827586207	1228	26325	 the late Sir John Verinder. A	 the late Sir John Verinder_
+collins_moonstone_67_d	35	0.9714285714285714	3041	5410	 my pipe and my _Robinson Crusoe_ i	 my pipe and my _Robinson Crusoe_. 
+collins_moonstone_72_d	30	0.9	3165	4014	 when he was alone in the Gard	 when he was alone in the draw
+dickens_christmascarole_1_g	30	0.9	7509	27316	e for the rest of my days as s	e for the rest of my days pers
+collins_moonstone_66_d	30	0.9	8418	2416	 of _Robinson Crusoe_, I shoul	 of _Robinson Crusoe_. I hobbl
+collins_moonstone_76_d	33	0.9090909090909091	1228	1518	 the late Sir John Verinder. An e	 the late Sir John Verinder. Sir 
+austen_northangerabbey_3_g	31	0.9032258064516129	767	4728	 had opportunities of judging, 	 had opportunity of judging, it
+collins_moonstone_49_d	30	0.9830508474576272	8095	16457	 a turn at _Robinson Crusoe_. 	 a turn at _Robinson Crusoe_.

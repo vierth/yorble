@@ -1,0 +1,115 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_6_g	32	0.90625	14494	32677	 the trembling of their leaves, 	 the trembling of the leaves in 
+radcliffe_udolpho_6_g	30	0.9	20806	23329	 she hesitated whether to proc	 she hesitated, whether to fol
+radcliffe_udolpho_6_g	36	0.9166666666666666	25103	1014	es distant from La Vallee, and which	es distant from La Vallee, and he ha
+radcliffe_udolpho_6_g	34	0.9411764705882353	27244	11087	 determined to pass the night with	 determined to pass the night ther
+radcliffe_udolpho_6_g	30	0.9	32478	40057	 St. Aubert, recollecting that	 St. Aubert, recollecting hims
+radcliffe_udolpho_6_g	30	0.9	34841	11901	. On the following day, before	. On the following day, theref
+radcliffe_udolpho_6_g	36	0.9166666666666666	45315	446	 with St. Aubert and Emily, on the p	 with St. Aubert and Emily, neither 
+radcliffe_udolpho_6_g	30	0.9	45320	11449	 St. Aubert and Emily, on the 	 St. Aubert and Emily saw the 
+christie_styles_10_d	30	0.9333333333333333	34041	2435	d the possibility, that these 	d the possibility that there m
+lewis_monk_9_g	30	0.9	12653	41099	 with the most scrupulous care	 with the most scrupulous obse
+lewis_monk_9_g	33	0.9090909090909091	21307	39695	ed, yet knew not wherefore; the m	ed, yet knew not wherefore, that 
+lewis_monk_9_g	32	0.90625	44211	26575	 promised to obey her, and told 	 promised to obey her, and had e
+doyle_adventures_12_d	31	0.9354838709677419	22071	38672	 heard the sound of a step with	 heard the sound of steps withi
+doyle_signoffour_7_d	30	0.9	45103	19058	s in the presence of the Deity	s in the presence of the great
+radcliffe_udolpho_16_g	32	0.9375	3854	12447	ty of the surrounding scene; and	ty of the surrounding scene, ado
+radcliffe_udolpho_16_g	33	0.9696969696969697	4812	27638	 beneath the spreading branches, 	 beneath the spreading branches o
+radcliffe_udolpho_16_g	30	0.9	22388	71427	y seated themselves on the tur	y seated themselves in the por
+radcliffe_udolpho_16_g	35	0.9142857142857143	33496	19242	 to take possession of that same vi	 to take possession of that estate 
+radcliffe_udolpho_16_g	30	0.9333333333333333	44974	57029	 could be derived only from th	 could be derived only from go
+radcliffe_udolpho_25_g	34	0.9117647058823529	10117	21476	n the stillness of night, came the	n the stillness of night, when the
+radcliffe_udolpho_25_g	33	0.9090909090909091	23955	19308	 the music she had heard, the wri	 the music she had heard, on the 
+radcliffe_udolpho_33_g	30	0.9	17166	24369	 she was compelled to rest in 	 she was compelled to rest, fo
+radcliffe_udolpho_33_g	30	0.9	20470	23452	t the sound of her steps shoul	t the sound of her steps soon 
+radcliffe_udolpho_33_g	30	0.9	22066	22621	t she heard the sound of a ste	t she heard the sound of their
+austen_northangerabbey_22_g	30	0.9	36516	18423	 to receive pleasure from ever	 to receive pleasure from the 
+collins_hauntedhotel_23_u	33	0.9090909090909091	27462	2646	 arrangements for the night made 	 arrangements for the night were 
+radcliffe_udolpho_2_g	30	0.9333333333333333	3630	11649	 disengaged himself from the w	 disengage himself from the as
+radcliffe_udolpho_2_g	44	0.9545454545454546	25356	5533	he intercourse between them had not been fre	he intercourse between them had not been ver
+radcliffe_udolpho_2_g	30	0.9	27390	116	 the neighbouring village. Whe	 the neighbouring village chur
+radcliffe_udolpho_2_g	31	0.9032258064516129	32291	7463	 between the branches upon the 	 between the branches of the tr
+radcliffe_udolpho_2_g	30	0.9	32489	17821	, recollecting that he was spe	, recollecting that she was in
+radcliffe_udolpho_2_g	36	0.9166666666666666	33739	4664	 was somewhat surprised to hear him 	 was somewhat surprised to see him; 
+radcliffe_udolpho_15_g	30	0.9333333333333333	6097	13488	, made sweeter by the waters o	, made sweeter by the waves ov
+radcliffe_udolpho_15_g	30	0.9	14525	8923	 at intervals, in the breeze; 	 at intervals on the breeze. T
+radcliffe_udolpho_15_g	38	0.9210526315789473	33733	2703	 Emily was somewhat surprised to hear 	 Emily was somewhat surprised to obser
+collins_hauntedhotel_27_u	30	1.0	24059	912	 combination of circumstances 	 combination of circumstances 
+stoker_dracula_20_g	32	0.9375	29810	17422	 that I find it difficult to ste	 that I find it difficult to kee
+collins_moonstone_80_d	34	0.9411764705882353	14434	14814	 the stillness of the evening. The	 the stillness of the evening the 
+radcliffe_udolpho_57_g	30	0.9	6685	2128	 and Madame St. Aubert, made h	 and Madame St. Aubert, and Em
+radcliffe_udolpho_57_g	30	0.9666666666666667	17902	2132	 Madame St. Aubert and Emily a	 Madame St. Aubert, and Emily 
+radcliffe_udolpho_36_g	30	0.9	14431	14352	 on the stillness of the eveni	 on the stillness of the scene
+radcliffe_udolpho_36_g	33	0.9090909090909091	15295	4061	 deep recesses of the woods, the 	 deep recess of the woods, she re
+radcliffe_udolpho_36_g	31	0.9032258064516129	31589	8273	side of the chateau, and which 	side of the chateau, but which 
+walpole_castleofotranto_4_g	30	0.9	21723	35355	, endeavouring to conquer the 	, endeavouring to conceal the 
+radcliffe_udolpho_34_g	32	0.90625	417	36363	, and plantations of olives. To 	, and plantations of olives and 
+radcliffe_udolpho_34_g	42	0.9047619047619048	3849	28469	 beauty of the surrounding scene; and cons	 beauty of the surrounding scene and the c
+radcliffe_udolpho_34_g	31	0.967741935483871	4866	38315	 landscape stretching to the we	 landscape stretching to the se
+radcliffe_udolpho_34_g	32	0.90625	12383	12885	 expression of her countenance, 	 expression of his countenance c
+radcliffe_udolpho_34_g	30	0.9	20230	49942	 was surprised to hear the ton	 was surprised to hear the bus
+radcliffe_udolpho_34_g	36	0.9166666666666666	34762	46858	 acquainted with the subject of his 	 acquainted with the secret of this 
+radcliffe_udolpho_50_g	40	0.95	6193	5612	 wild flowers and aromatic plants, that 	 wild flower, and aromatic plant, that b
+radcliffe_udolpho_50_g	37	0.918918918918919	14378	16717	 the distant bark of a watch-dog, wer	 the distant bark of a watch-dog. The
+radcliffe_udolpho_50_g	37	0.918918918918919	18993	5777	 the hum of every little insect of th	 the hum of every little insect, that
+radcliffe_udolpho_50_g	30	0.9	20595	25798	 the building was still, and n	 the building was silent, and 
+radcliffe_udolpho_50_g	36	0.9166666666666666	20890	26067	 and, after a momentary hesitation, 	 and, after a moment's hesitation, p
+radcliffe_udolpho_50_g	30	0.9666666666666667	21910	41856	 no longer suffered to doubt t	 no longer suffered to doubt, 
+radcliffe_udolpho_50_g	30	0.9	33739	27570	 was somewhat surprised to hea	 was somewhat surprised, that 
+radcliffe_udolpho_50_g	33	0.9090909090909091	37595	30850	 so little acquainted with her ap	 so little acquainted with these 
+radcliffe_udolpho_50_g	32	0.90625	42551	32346	ther consideration, detained the	ther consideration, determined t
+radcliffe_udolpho_50_g	35	0.9142857142857143	42941	21193	 he endeavoured to re-animate with 	 he endeavoured to re-animate his d
+radcliffe_udolpho_18_g	31	0.9032258064516129	4488	43607	 the west side of the chateau, 	 the west side of the castle, w
+radcliffe_udolpho_18_g	30	1.0	5124	17535	 the neighbouring mountains, w	 the neighbouring mountains, w
+radcliffe_udolpho_18_g	32	0.90625	21371	48323	 the profound stillness of the p	 the profound stillness and the 
+radcliffe_udolpho_13_g	33	0.9090909090909091	12383	13332	 expression of her countenance, a	 expression of his countenance an
+radcliffe_udolpho_13_g	32	0.90625	12383	43622	 expression of her countenance, 	 expression of his countenance s
+radcliffe_udolpho_13_g	31	0.9354838709677419	26884	23713	 considerations of prudence, re	 consideration of prudence, he 
+radcliffe_udolpho_3_g	36	0.9166666666666666	3319	3422	 that pensive melancholy, which afte	 that pensive melancholy, which give
+radcliffe_udolpho_3_g	31	0.9032258064516129	4820	8416	 the spreading branches, the ga	 the spreading branches of the 
+radcliffe_udolpho_3_g	30	0.9	33739	20867	 was somewhat surprised to hea	 was somewhat surprised to fin
+radcliffe_udolpho_3_g	30	0.9333333333333333	34756	14974	 to be acquainted with the sub	 to be acquainted with the cou
+radcliffe_udolpho_3_g	30	0.9	37570	14480	e,' said St. Aubert, 'and so l	e,' said St. Aubert, 'and, if 
+walpole_castleofotranto_1_g	31	0.9032258064516129	1210	4853	 his wife and daughter, on the 	 his wife and daughter, the fir
+walpole_castleofotranto_1_g	30	0.9333333333333333	3627	7676	 he disengaged himself from th	 he disengaged himself from Ma
+walpole_castleofotranto_1_g	30	0.9333333333333333	22055	21894	 she thought she heard the sou	 she thought she heard the ste
+dickens_christmascarole_1_g	30	0.9	44272	17550	, that there was nothing to ex	, that there was nothing at al
+radcliffe_udolpho_48_g	30	0.9	6336	253	 the plains of Languedoc, was 	 the plains of Languedoc towar
+radcliffe_udolpho_48_g	31	0.9032258064516129	20806	13298	 she hesitated whether to proce	 she hesitated whether to open 
+radcliffe_udolpho_48_g	30	0.9	46071	25248	 under the pressure of her sor	 under the pressure of her anx
+radcliffe_udolpho_4_g	30	1.0	713	4503	 with forests of gloomy pine, 	 with forests of gloomy pine, 
+radcliffe_udolpho_4_g	30	1.0	6190	2183	 of wild flowers and aromatic 	 of wild flowers and aromatic 
+radcliffe_udolpho_4_g	32	0.90625	7130	21858	 on the margin of the river. The	 on the margin of the river belo
+radcliffe_udolpho_4_g	30	0.9	37571	25886	,' said St. Aubert, 'and so li	,' said St. Aubert, 'and wish 
+reeve_oldenglishbaron_	30	0.9	34412	9348	, when he returned to the supp	, when he returned to take up 
+doyle_adventures_2_d	32	0.90625	42543	20832	 every other consideration, deta	 every other consideration that 
+radcliffe_udolpho_10_g	33	0.9090909090909091	8513	9873	 plane-tree, that spread its maje	 plane-tree, that spread its wide
+radcliffe_udolpho_10_g	34	0.9411764705882353	8600	10199	 in the fine evenings of summer, w	 in the fine evenings of summer.' 
+radcliffe_udolpho_10_g	31	0.9032258064516129	22940	29422	 melancholy but not unpleasing 	 melancholy, yet not unpleasing
+radcliffe_udolpho_10_g	30	0.9	24699	29678	trees, and, at length, the whe	trees, and, at length, the cal
+radcliffe_udolpho_10_g	30	0.9666666666666667	36975	18437	 my dear father,' said Emily, 	 my dear father,' said Emily. 
+lewis_monk_5_g	30	0.9	33739	2705	 was somewhat surprised to hea	 was somewhat surprised on ent
+lewis_monk_6_g	31	0.9032258064516129	37598	31076	 little acquainted with her app	 little acquainted with the dep
+lewis_monk_6_g	32	0.9375	41860	55809	d retired to her chamber. The la	d retired to her chamber. There 
+lewis_monk_6_g	30	0.9	44211	54752	 promised to obey her, and tol	 promised to obey her, and hav
+radcliffe_udolpho_21_g	34	0.9117647058823529	11541	9495	e endeavoured, therefore, to stren	e endeavoured, therefore, to think
+radcliffe_udolpho_21_g	36	0.9166666666666666	12383	1339	 expression of her countenance, as c	 expression of her countenance, whic
+radcliffe_udolpho_12_g	43	1.0	11262	5362	 rendered her a very interesting object to 	 rendered her a very interesting object to 
+radcliffe_udolpho_12_g	30	0.9666666666666667	26252	35497	 thought she perceived, that h	 thought she perceived, that M
+radcliffe_udolpho_12_g	35	0.9428571428571428	26512	2977	 the gratification of his own ambit	 the gratification of his own vanit
+radcliffe_udolpho_12_g	34	0.9117647058823529	34170	45241	 they separated for the night, M. 	 they separated for the night. On 
+radcliffe_udolpho_12_g	30	0.9	41362	845	e pleasure of believing that h	e pleasure in believing, that 
+lewis_monk_1_g	35	0.9428571428571428	42876	40612	 effectually concealed this from he	 effectually concealed him from the
+radcliffe_udolpho_27_g	32	0.90625	20806	10585	 she hesitated whether to procee	 she hesitated whether to retire
+radcliffe_udolpho_14_g	30	0.9	6336	5757	 the plains of Languedoc, was 	 the plains of Languedoc; and 
+radcliffe_udolpho_14_g	32	0.90625	6737	1516	. The windows of this room were 	. The windows of this room opene
+radcliffe_udolpho_49_g	33	0.9090909090909091	15628	2071	. This, too, was the favourite re	. This, too, was his favourite se
+radcliffe_udolpho_41_g	30	0.9	14431	10335	 on the stillness of the eveni	 on the stillness of the night
+collins_moonstone_66_d	30	0.9	24016	10739	 the disappearance of the pict	 the disappearance of the Diam
+radcliffe_udolpho_54_g	37	0.9459459459459459	33731	14913	.' Emily was somewhat surprised to he	.' Emily was somewhat surprised at th
+austen_northangerabbey_17_g	35	0.9142857142857143	45183	7017	 could not entirely subdue the grie	 could not entirely subdue the hope
+doyle_scarlet_8_d	30	0.9	3416	11837	 of the mountains, the river, 	 of the mountains, the rear wa
+radcliffe_udolpho_35_g	30	0.9333333333333333	480	14025	 by the majestic Pyrenees, who	 by the majestic Pyrenees, now
+radcliffe_udolpho_35_g	30	0.9	3924	2569	 to make it a comfortable fami	 to make it a comfortable resi
+radcliffe_udolpho_35_g	34	1.0	14378	19305	 the distant bark of a watch-dog, 	 the distant bark of a watch-dog, 
+christie_styles_4_d	31	0.9032258064516129	20895	12260	 after a momentary hesitation, 	 after a moment’s hesitation, c

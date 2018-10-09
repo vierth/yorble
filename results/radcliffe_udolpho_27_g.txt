@@ -1,0 +1,6 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_50_d	33	0.9090909090909091	12279	11701	 difficulties and dangers, that m	 difficulties and dangers, to wat
+radcliffe_udolpho_41_g	35	0.9428571428571428	13208	20815	 on the following night, when her d	 on the following night, when they 
+radcliffe_udolpho_41_g	34	0.9117647058823529	13208	21704	 on the following night, when her 	 on the following night, with the 
+radcliffe_udolpho_47_g	30	0.9	5479	18594	e he awaited her arrival at th	e he awaited her arrival, with
+radcliffe_udolpho_47_g	31	0.9032258064516129	9364	16271	 recalled from the reverie, int	 recalled from her reverie, smi

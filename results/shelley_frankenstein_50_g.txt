@@ -1,0 +1,36 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_33_g	30	0.9666666666666667	2344	5086	 were attached to each other f	 were attached to each other, 
+collins_moonstone_59_d	30	0.9	8478	12310	 I allowed myself to be govern	 I allowed myself to be convin
+radcliffe_udolpho_42_g	30	0.9	15800	1010	ed by the remembrance of some 	ed by the remembrance of past 
+radcliffe_udolpho_32_g	32	0.90625	12729	1209	 of the mountain, where the prie	 of the mountains, where the ele
+shelley_frankenstein_29_g	30	0.9	5068	4089	n my present undertaking. The 	n my present undertaking. I ca
+shelley_frankenstein_39_g	33	0.9090909090909091	9026	6083	 a thousand minute circumstances 	 a thousand little circumstances 
+shelley_frankenstein_41_g	30	0.9	11202	10128	uined castles standing on the 	uined castles hanging on the p
+stoker_dracula_26_g	32	0.90625	4294	15239	 arrive at some conclusion. Alas	 arrive at some conclusion. I sh
+radcliffe_udolpho_7_g	30	0.9333333333333333	6242	3627	 with an earnestness that easi	 with an earnestness that was 
+christie_secretadversary_16_d	30	0.9	8513	12128	 the impulses of the moment; a	 the impulse of the moment. “T
+shelley_frankenstein_52_g	30	0.9	11862	13281	 at the bottom of the boat, an	 at the bottom of the boat. Cl
+radcliffe_udolpho_6_g	30	0.9333333333333333	1073	27112	 melancholy, which every now a	 melancholy, which every note 
+radcliffe_udolpho_6_g	35	0.9142857142857143	11663	12738	 the time of the vintage and heard 	 the time of the vintage, and they 
+christie_styles_10_d	30	0.9	8350	2436	 the possibility that the reve	 the possibility that there mi
+lewis_monk_9_g	32	0.90625	1339	33332	 listening to the rippling of th	 listening to the rambling of th
+lewis_monk_9_g	31	0.9032258064516129	15800	47423	ed by the remembrance of some s	ed by the remembrance of these 
+radcliffe_udolpho_16_g	30	0.9	15800	26805	ed by the remembrance of some 	ed by the remembrance of you. 
+radcliffe_udolpho_2_g	32	0.90625	16	13240	eek after week, passed away on m	eek after week passed away, and 
+doyle_signoffour_11_d	33	0.9090909090909091	6326	6910	 of an absorbing melancholy that 	 of an absorbing melancholy. At t
+shelley_frankenstein_48_g	31	0.9032258064516129	8478	9802	 I allowed myself to be governe	 I allowed myself to be borne a
+christie_styles_11_d	35	0.9142857142857143	399	4230	e discoveries having been made by a	e discoveries have been made by Jap
+lewis_monk_4_g	30	0.9	14764	110043	 whose existence depended on t	 whose existence depends upon 
+austen_northangerabbey_28_g	30	0.9	10159	16626	 and the appearances of the sk	 and the appearance of the car
+christie_styles_2_d	36	0.9166666666666666	10095	7907	 day. He pointed out to me the shift	 day. He pointed out to me the littl
+doyle_adventures_5_d	43	0.9069767441860465	8674	2065	. It was in the latter end of September tha	. It was in the latter days of September, a
+doyle_adventures_5_d	34	0.9117647058823529	15616	2073	 in the latter days of December, t	 in the latter days of September, 
+shelley_frankenstein_54_g	32	0.90625	2786	6239	 yourself as bound in honour to 	 yourself bound in honour to ful
+radcliffe_udolpho_4_g	30	0.9	15800	28426	ed by the remembrance of some 	ed by the remembrance of her m
+stoker_dracula_3_g	30	0.9333333333333333	7431	11470	 it was understood that my uni	 it was understood that my nee
+stoker_dracula_3_g	33	0.9090909090909091	7999	27192	conscious of the existence of the	conscious of the presence of the 
+collins_moonstone_66_d	32	0.9375	3905	5660	t suppose, however, that I wish 	t suppose, however, that I was q
+collins_moonstone_76_d	33	0.9090909090909091	3041	10603	est admiration and affection. My 	est admiration and affection for 
+collins_moonstone_76_d	33	0.9393939393939394	12624	7272	ave you an idea of what the water	ave you any idea of what he wante
+doyle_scarlet_8_d	34	0.9117647058823529	12720	11828	 the base of the mountain, where t	 the base of the mountains, the re
+collins_moonstone_52_d	30	0.9333333333333333	11861	15794	y at the bottom of the boat, a	y at the bottom of the board, 

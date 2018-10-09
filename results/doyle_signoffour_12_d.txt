@@ -1,0 +1,110 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_8_g	31	0.9032258064516129	50440	14117	 I am much obliged to you both 	 I am much obliged to you, our 
+doyle_baskervilles_5_u	34	0.9117647058823529	15053	18297	, but I give you my word that when	, but I give you my word that I sh
+doyle_baskervilles_5_u	34	0.9117647058823529	26209	139	 business in which he had been con	 business in which we had been inv
+collins_moonstone_54_d	31	0.967741935483871	48125	13691	ut, as ill luck would have it, 	ut, as ill-luck would have it, 
+christie_secretadversary_12_d	30	0.9	31844	1077	t, and it was certain that we 	t, and it is certain that he a
+doyle_adventures_10_d	41	0.9512195121951219	1074	24593	 leaned back in his chair and laughed alo	 leaned back in his chair and laughed hea
+doyle_adventures_10_d	30	0.9	7626	24880	se you know all about it, gent	se you know all about it," he 
+doyle_adventures_10_d	32	0.9375	22070	36564	 at the other side of the moat. 	 at the other side of the road. 
+doyle_adventures_10_d	30	0.9	22581	36567	 the other side of the moat. I	 the other side of the road. H
+doyle_adventures_10_d	35	0.9142857142857143	31608	40732	 been in the company of the murdere	 been in the company of the bridegr
+doyle_adventures_10_d	30	0.9333333333333333	49484	39509	," said Sherlock Holmes. "A fi	," said Sherlock Holmes. "It i
+walpole_castleofotranto_2_g	30	0.9	27904	30349	 it, and the light of the lant	 it, and the light of the moon
+doyle_adventures_6_d	36	0.9166666666666666	4164	13003	 "You forget that we know nothing of	 "You forget that I know nothing abo
+doyle_adventures_6_d	36	0.9166666666666666	31587	19095	 he was known to have been in the co	 he was known to have been at the fo
+doyle_adventures_6_d	30	0.9	36428	42734	 to the proper authorities, an	 to the proper authorities. Th
+doyle_adventures_6_d	30	0.9	41170	48476	 by the most solemn oaths that	 by the most solemn oaths whic
+reeve_oldenglishbaron	30	0.9	19134	23438	, he threw himself into the ca	, he threw himself into his ar
+radcliffe_udolpho_38_g	31	0.9032258064516129	15175	17408	 with the intention of giving a	 with the intention of writing 
+christie_secretadversary_18_d	30	0.9	37983	18229	 to the conclusion that this s	 to the conclusion that the ho
+stoker_dracula_5_g	33	0.9696969696969697	51296	3172	. I think she is one of the most 	. I think he is one of the most r
+doyle_adventures_3_d	30	0.9666666666666667	1071	19157	 he leaned back in his chair a	 he leaned back in his chair, 
+doyle_adventures_3_d	33	0.9090909090909091	4209	28334	," said Holmes quietly. "We have 	," said Holmes quietly; "I have e
+doyle_baskervilles_13_u	35	0.9142857142857143	5011	11847	 they would be so very glad to see 	 they would be very glad to see you
+stoker_dracula_14_g	30	0.9333333333333333	15651	8523	 what it was that they wanted 	 what it was that he wanted to
+stoker_dracula_14_g	32	0.9375	21201	22422	I am with you heart and soul,' s	I am with you heart and soul. As
+lewis_monk_3_g	30	0.9	31389	59835	 at the very moment that we th	 at the very moment that He me
+lewis_monk_3_g	33	0.9090909090909091	51231	38071	y reason to be dissatisfied with 	y reason to be satisfied with lif
+stoker_dracula_26_g	31	0.9354838709677419	11584	31369	thing like the size of the old 	thing like the size of the one 
+doyle_scarlet_10_d	41	0.9512195121951219	46348	3923	, and, looking through the window, I saw 	, and, looking through the window, saw a 
+doyle_scarlet_14_d	31	0.9032258064516129	37981	4873	me to the conclusion that this 	me to the conclusion that he ha
+doyle_scarlet_14_d	30	0.9	52857	14049	 End of Project Gutenberg's Th	 End of Project Gutenberg’s A 
+poe_usher_1_g	30	0.9	44821	17240	s. Among other things, he had 	s. Among other things, I hold 
+christie_secretadversary_25_d	30	0.9666666666666667	37978	17712	 come to the conclusion that t	 come to the conclusion that D
+doyle_signoffour_4_d	35	0.9142857142857143	37978	18439	 come to the conclusion that this s	 come to the conclusion that it was
+doyle_signoffour_4_d	31	0.9032258064516129	41077	10495	 division of the treasure, he t	 division of the treasure, and 
+doyle_signoffour_6_d	30	0.9333333333333333	4208	9708	s," said Holmes quietly. "We h	s," said Holmes, quietly. "Why
+doyle_signoffour_6_d	35	0.9142857142857143	15053	15474	, but I give you my word that when 	, but I give you my word that this 
+doyle_signoffour_6_d	30	0.9	52742	4721	e," said Sherlock Holmes, "the	e," said Sherlock Holmes, putt
+doyle_signoffour_6_d	30	0.9	52743	14720	," said Sherlock Holmes, "ther	," said Sherlock Holmes, turni
+reeve_oldenglishbaron	30	0.9	19134	23438	, he threw himself into the ca	, he threw himself into his ar
+radcliffe_udolpho_55_g	30	0.9666666666666667	12610	21020	 during certain hours of the n	 during certain hours of the d
+christie_styles_9_d	30	0.9	22072	5876	t the other side of the moat. 	t the other side of the room. 
+radcliffe_udolpho_46_g	31	0.9032258064516129	46891	2724	 satisfaction to know that I ha	 satisfaction to know, that La 
+doyle_signoffour_3_d	31	1.0	40434	3757	 Mahomet Singh, Abdullah Khan, 	 Mahomet Singh, Abdullah Khan, 
+stoker_dracula_6_g	31	0.9354838709677419	34647	3455	. Mind, I don't say that there 	. Mind, I don't say that they n
+doyle_scarlet_11_d	30	0.9333333333333333	14738	9891	 first thought was that these 	 first thought was that the pr
+doyle_baskervilles_1_u	30	0.9	44091	744	 with his back to me, and his 	 with his back to me, and I ha
+christie_styles_13_d	31	0.9032258064516129	37981	19137	me to the conclusion that this 	me to the conclusion that if he
+christie_styles_13_d	32	1.0	52857	23173	 End of Project Gutenberg's The 	 End of Project Gutenberg's The 
+reeve_oldenglishbaron	30	0.9	19134	23438	, he threw himself into the ca	, he threw himself into his ar
+doyle_adventures_12_d	39	1.0	1073	9864	e leaned back in his chair and laughed 	e leaned back in his chair and laughed 
+doyle_adventures_12_d	34	0.9117647058823529	33564	37028	 on the lookout for a chance of es	 on the lookout for any chance to 
+doyle_signoffour_7_d	30	0.9333333333333333	40678	15888	 where the treasure was hid. M	 where the treasure was hid, f
+doyle_signoffour_7_d	31	0.9032258064516129	52402	17248	 confederate in the house, who 	 confederate in the household. 
+doyle_scarlet_13_d	35	0.9142857142857143	1073	4402	e leaned back in his chair and laug	e leaned back in his chair and bega
+doyle_scarlet_13_d	44	0.9090909090909091	11161	14644	f any of you gentlemen have ever read or hea	f any of you gentlemen have ever pined for a
+radcliffe_udolpho_33_g	30	0.9333333333333333	43147	30362	 from him, and this made him a	 from him, and this makes him 
+radcliffe_udolpho_2_g	31	0.9354838709677419	3472	3297	 because I cannot bear to feel 	 because I cannot bear to see y
+collins_hauntedhotel_27_u	30	0.9	42054	5568	 the conditions on which we ha	 the conditions on which he wi
+collins_moonstone_56_d	30	0.9333333333333333	44822	18053	. Among other things, he had a	. Among other things, he has, 
+doyle_baskervilles_11_u	30	0.9	45764	1678	 difficulty in finding where S	 difficulty in finding her roo
+stoker_dracula_20_g	30	0.9	12470	21542	 in the middle of the fort, an	 in the middle of the floor on
+doyle_adventures_4_d	33	0.9393939393939394	4209	37828	," said Holmes quietly. "We have 	," said Holmes quietly. "I have g
+doyle_adventures_4_d	30	0.9	49484	20153	," said Sherlock Holmes. "A fi	," said Sherlock Holmes. "You 
+doyle_baskervilles_9_u	30	0.9	12469	29143	e in the middle of the fort, a	e in the middle of the moor, w
+radcliffe_udolpho_57_g	33	1.0	52856	5729	. End of Project Gutenberg's The 	. End of Project Gutenberg's The 
+reeve_oldenglishbaron	30	0.9	19134	23438	, he threw himself into the ca	, he threw himself into his ar
+doyle_scarlet_5_d	30	0.9	22070	11596	 at the other side of the moat	 at the other side of the stre
+doyle_scarlet_5_d	30	0.9333333333333333	46356	9899	ooking through the window, I s	ooking through the window I co
+doyle_baskervilles_7_u	30	0.9	14736	10195	My first thought was that thes	My first thought was that I sh
+christie_styles_11_d	30	0.9	37983	17646	 to the conclusion that this s	 to the conclusion that he was
+stoker_dracula_12_g	30	0.9	25324	31262	, and I could see that if he o	, and I could see that the noi
+lewis_monk_4_g	30	0.9	22579	46012	on the other side of the moat.	on the other side of the Castl
+lewis_monk_4_g	33	0.9090909090909091	51231	646	y reason to be dissatisfied with 	y reason to be satisfied with his
+collins_moonstone_74_d	33	0.9393939393939394	45758	8721	 great difficulty in finding wher	 great difficulty in finding pers
+radcliffe_udolpho_18_g	30	0.9	22579	26376	on the other side of the moat.	on the other side of the castl
+radcliffe_udolpho_13_g	30	0.9	24244	42943	 not trust myself to speak lon	 not trust myself to speak--or
+christie_styles_12_d	31	0.9032258064516129	37981	6641	me to the conclusion that this 	me to the conclusion that Mrs. 
+doyle_baskervilles_8_u	36	0.9166666666666666	10594	3720	 is not to be wondered at, for if yo	 is not to be wondered at, for time 
+doyle_baskervilles_8_u	30	0.9	45836	10925	 whether he had realized the t	 whether he had received the t
+reeve_oldenglishbaron	30	0.9	19134	23438	, he threw himself into the ca	, he threw himself into his ar
+christie_secretadversary_17_d	31	0.9354838709677419	37981	12007	me to the conclusion that this 	me to the conclusion that the r
+christie_secretadversary_11_d	32	0.90625	12470	6996	 in the middle of the fort, and 	 in the middle of the room, and 
+lewis_monk_10_g	33	0.9090909090909091	51231	7209	y reason to be dissatisfied with 	y reason to be satisfied with her
+collins_moonstone_84_d	34	0.9117647058823529	2764	6310	his is a very serious matter, Smal	his is a very serious matter, in m
+christie_styles_8_d	33	0.9090909090909091	50438	18514	s. I am much obliged to you both 	s. I am much obliged to you for m
+austen_northangerabbey_31_g	30	0.9	51319	4540	 the most charming young ladie	 the most charming young man i
+austen_northangerabbey_31_g	30	0.9	51319	4640	 the most charming young ladie	 the most charming young man i
+doyle_adventures_2_d	43	0.9069767441860465	22018	41717	Suddenly my eye caught the glint of a shade	Suddenly my eyes caught the glint of a ligh
+doyle_adventures_2_d	30	0.9	26821	47986	 that they would have their th	 that they would make their at
+doyle_adventures_2_d	34	0.9117647058823529	37978	25831	 come to the conclusion that this 	 come to the conclusion that he ha
+doyle_adventures_2_d	32	0.90625	39720	14530	,' the other answered. 'Yet, as 	,' the other answered. 'He has e
+doyle_adventures_2_d	32	0.90625	52743	34753	," said Sherlock Holmes, "there 	," said Sherlock Holmes, "that y
+walpole_castleofotranto_5_g	30	0.9	12470	27512	 in the middle of the fort, an	 in the middle of the court, t
+doyle_signoffour_5_d	31	0.9032258064516129	27912	11930	 the light of the lantern gleam	 the light of the lantern I rea
+doyle_adventures_9_d	30	0.9	4209	38716	," said Holmes quietly. "We ha	," said Holmes quietly. "Reall
+radcliffe_udolpho_12_g	31	0.9032258064516129	37912	47312	. 'We have been talking it over	. 'We have been talking over th
+stoker_dracula_9_g	40	0.925	37973	17536	 have come to the conclusion that this s	 have come to the conclusion that it mus
+radcliffe_udolpho_41_g	30	0.9	4879	13551	 I have often thought of takin	 I have often thought so again
+radcliffe_udolpho_47_g	31	1.0	46877	17352	 it would be a satisfaction to 	 it would be a satisfaction to 
+collins_moonstone_66_d	30	0.9	39400	19666	ll have done your part of the 	ll have done my part of the St
+doyle_scarlet_4_d	30	0.9666666666666667	37978	4726	 come to the conclusion that t	 come to the conclusion that I
+christie_secretadversary_4_d	30	0.9	1073	7146	e leaned back in his chair and	e leaned back in his chair, cr
+doyle_baskervilles_2_u	30	0.9	1074	1891	 leaned back in his chair and 	 leaned back in his chair, pla
+doyle_scarlet_1_d	31	0.9032258064516129	28336	11914	 in existence. Then there were 	 in existence. Then there was M
+doyle_scarlet_1_d	32	0.90625	50439	14923	. I am much obliged to you both 	. I am much obliged to you for b
+reeve_oldenglishbaron	30	0.9	19134	23438	, he threw himself into the ca	, he threw himself into his ar
+doyle_baskervilles_15_u	32	0.96875	52857	22342	 End of Project Gutenberg's The 	 End of Project Gutenberg’s The 
+doyle_scarlet_8_d	34	1.0	37973	11307	 have come to the conclusion that 	 have come to the conclusion that 

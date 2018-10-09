@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_6_u	30	0.9	825	12509	 at which he had left off. 'Wh	 at which she had left off. On
+doyle_adventures_5_d	31	0.9032258064516129	923	2002	n of circumstances which she ha	n of circumstances which I have
+radcliffe_udolpho_48_g	30	0.9333333333333333	1070	25367	 to send for medical advice. N	 to send for medical advice, t
+reeve_oldenglishbaron_	30	0.9	2133	17906	 what you can do with the Cour	 what you can do with this wor
+walpole_castleofotranto_5_g	30	0.9	2133	37705	 what you can do with the Cour	 what you can do with this wor
+radcliffe_udolpho_47_g	30	0.9	927	4061	 circumstances which she has d	 circumstance, which she had c
+doyle_scarlet_4_d	30	0.9333333333333333	380	5374	 walked up and down the room. 	 walked up and down the room--
+doyle_scarlet_8_d	30	0.9	3375	15821	 an expression of incredulous 	 an expression of incredulity 

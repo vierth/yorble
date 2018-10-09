@@ -1,0 +1,53 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_7_d	30	0.9	11225	15667	 the appearance of the works o	 the appearance of the two Sco
+lewis_monk_11_g	31	0.9032258064516129	9686	56762	s; I clasped my hands, and excl	s; I clasped my hands, and lift
+shelley_frankenstein_43_g	33	0.9090909090909091	13116	6655	It was about five in the morning 	It was about seven in the morning
+shelley_frankenstein_41_g	30	1.0	18628	5573	, my dear cousin,” said she, “	, my dear cousin,” said she, “
+shelley_frankenstein_56_g	36	0.9444444444444444	7892	4652	h I was destined to endure. It was c	h I was destined to endure; I was cu
+lewis_monk_12_g	30	0.9	1000	354	 the circumstances of the tran	 the circumstances of the murd
+collins_hauntedhotel_17_u	32	0.96875	16558	6726	, without saying a word to any o	, without saying a word to anybo
+lewis_monk_3_g	32	0.90625	17034	22334	pressed on his countenance, but 	pressed on his countenance, and 
+shelley_frankenstein_37_g	44	0.9090909090909091	4134	5665	. “My dear Frankenstein,” exclaimed Henry, w	. “My dear Frankenstein,” exclaimed he, “how
+shelley_frankenstein_37_g	36	0.9166666666666666	17659	7558	 I hope, I sincerely hope, that she 	 I hope, I sincerely hope, that all 
+shelley_frankenstein_34_g	31	0.9032258064516129	8108	1479	 a league from the city. The sk	 a league from the city. We res
+shelley_frankenstein_52_g	31	0.9032258064516129	4330	7303	 I walked up and down the room 	 I walked up and down my room h
+radcliffe_udolpho_23_g	31	0.9032258064516129	1000	14816	 the circumstances of the trans	 the circumstances of the past 
+lewis_monk_2_g	31	0.9032258064516129	9218	79071	 in various parts of the heaven	 in various parts of the Garden
+austen_northangerabbey_9_g	30	0.9333333333333333	7859	7649	 the hundredth part of the ang	 the hundredth part of the win
+radcliffe_udolpho_26_g	30	0.9	11588	4809	uring the remainder of the nig	uring the remainder of the day
+radcliffe_udolpho_6_g	31	0.9354838709677419	2095	37839	m the night before I had seen b	m the night before. I had been 
+doyle_baskervilles_6_u	31	0.9354838709677419	3952	6422	 was surprised to observe the d	 was surprised to observe that 
+doyle_baskervilles_6_u	30	0.9333333333333333	4560	15674	hat do you intend to do?” “To 	hat do you intend to do?” “I h
+doyle_adventures_12_d	30	0.9	4337	41893	ed up and down the room in the	ed up and down the room, his h
+shelley_frankenstein_53_g	30	0.9333333333333333	11338	19233	 the night on which he first r	 the night in which he first l
+shelley_frankenstein_53_g	34	0.9117647058823529	13436	19082	 my departure for Ingolstadt. Belo	 my departure for Ingolstadt. I re
+shelley_frankenstein_53_g	30	0.9333333333333333	14935	19054	 the death of my brother, and 	 the death of my mother, and m
+dickens_christmascarole_4_g	33	0.9090909090909091	4332	17474	 walked up and down the room in t	 walked up and down the room; sta
+collins_hauntedhotel_27_u	33	0.9090909090909091	4332	380	 walked up and down the room in t	 walked up and down the room. Aft
+doyle_adventures_4_d	30	0.9	5397	23365	ed through the streets; the wo	ed through the streets of the 
+doyle_adventures_4_d	36	0.9722222222222222	12725	10563	, I should have looked upon it as th	, I should have looked upon it as hi
+shelley_frankenstein_48_g	30	0.9666666666666667	6629	12358	, and I continued my journey t	, and I continued my journey. 
+shelley_frankenstein_48_g	36	0.9444444444444444	12077	3058	 I directed my steps towards the tow	 I directed my steps towards the wel
+shelley_frankenstein_48_g	30	0.9666666666666667	19449	1641	 knew that it was impossible: 	 knew that it was impossible t
+shelley_frankenstein_32_g	31	0.9354838709677419	8084	1011	 at the distance of half a leag	 at the distance of half a mile
+shelley_frankenstein_32_g	30	0.9	18585	1575	 with the greatest affection. 	 with the greatest attention. 
+stoker_dracula_12_g	33	0.9090909090909091	6094	15294	 little circumstances might have 	 little circumstances which have 
+dickens_christmascarole_2_g	34	0.9117647058823529	10740	6604	t would have been in vain, for ano	t would have been in vain for Scro
+shelley_frankenstein_42_g	30	0.9333333333333333	10284	12294	 the murderer of my brother? N	 the murderer of my brother, a
+walpole_castleofotranto_1_g	31	0.9032258064516129	14935	11491	 the death of my brother, and t	 the death of her brother, and 
+shelley_frankenstein_40_g	39	0.9230769230769231	15482	7343	, notwithstanding all the evidence. Ind	, notwithstanding all the evidence prod
+shelley_frankenstein_40_g	30	0.9	16242	2775	 her bed for several days. Dur	 her bed for several days. The
+shelley_frankenstein_40_g	30	0.9666666666666667	18585	6935	 with the greatest affection. 	 with the greatest affection a
+shelley_frankenstein_54_g	30	0.9333333333333333	20	4012	d the following letter from my	d the following letter from El
+stoker_dracula_3_g	30	0.9666666666666667	4075	13834	 the letter on the table, and 	 the letters on the table and 
+lewis_monk_10_g	31	0.9032258064516129	2312	15130	 countenance betrayed the secre	 countenance betrayed her incre
+lewis_monk_10_g	31	0.9032258064516129	7859	39796	 the hundredth part of the angu	 the hundredth part of those ma
+christie_styles_8_d	30	0.9333333333333333	16357	7521	 on the night of the murder, h	 on the night of the murder?” 
+radcliffe_udolpho_12_g	30	0.9666666666666667	1434	20293	, and enquired if we had seen 	, and enquired if he had seen 
+radcliffe_udolpho_12_g	34	0.9117647058823529	17034	5879	pressed on his countenance, but he	pressed on his countenance, yet th
+shelley_frankenstein_47_g	30	0.9	18958	13100	, whom I sincerely love, is to	, whom I sincerely love, and o
+radcliffe_udolpho_27_g	30	0.9	1000	323	 the circumstances of the tran	 the circumstances of the prec
+radcliffe_udolpho_14_g	30	0.9	8408	15817	ing on the summit of Mont Blan	ing on the summit of Mount Cen
+doyle_scarlet_4_d	30	0.9333333333333333	4332	5374	 walked up and down the room i	 walked up and down the room--
+radcliffe_udolpho_54_g	30	0.9	6094	1003	 little circumstances might ha	 little circumstances that had
+collins_moonstone_76_d	33	0.9393939393939394	1796	21542	e returned to the house. He was n	e returned to the house. She was 

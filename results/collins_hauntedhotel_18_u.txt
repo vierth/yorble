@@ -1,0 +1,30 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_8_d	31	0.9032258064516129	5361	37330	ed at him in astonishment. 'Are	ed at him in astonishment. "Yes
+collins_moonstone_87_d	31	0.9032258064516129	5344	194	 turned, and looked at him in a	 turned, and looked at him. It 
+collins_moonstone_87_d	37	0.918918918918919	5356	22503	 looked at him in astonishment. 'Are 	 looked at him in astonishment. The g
+radcliffe_udolpho_20_g	30	0.9	4125	44671	 at the end of the corridor--1	 at the end of the corridor, S
+collins_hauntedhotel_21_u	35	0.9428571428571428	4205	4220	he decorations on the walls and the	he decorations on the walls and cei
+collins_moonstone_55_d	30	0.9	4249	8791	 exactly as they had been desc	 exactly as they had been left
+collins_moonstone_54_d	30	1.0	7242	14786	 in the language of their own 	 in the language of their own 
+collins_hauntedhotel_4_u	30	0.9	6758	4707	 with an expression of undisgu	 with an expression of indigna
+collins_hauntedhotel_4_u	31	0.9032258064516129	6855	5274	e, and looked at him with grave	e, and looked at him with a gen
+collins_hauntedhotel_17_u	34	0.9411764705882353	4219	1998	 on the walls and the ceiling, exa	 on the walls and the ceiling, and
+collins_hauntedhotel_24_u	30	0.9	4125	9040	 at the end of the corridor--1	 at the end of the corridor. H
+lewis_monk_3_g	31	0.9354838709677419	2818	2709	 for the express purpose of que	 for the express purpose of pre
+collins_moonstone_89_d	33	0.9696969696969697	4555	16122	 entirely new in his experience o	 entirely new in his experience. 
+austen_northangerabbey_7_g	32	0.9375	3030	14360	 and sister as the situation of 	 and sisters, the situation of s
+doyle_scarlet_7_d	30	0.9333333333333333	2164	2703	s on the second floor, and has	s on the second floor, and the
+collins_hauntedhotel_20_u	30	0.9	127	8098	 that Mr. Francis Westwick wou	 that Mr. Francis Westwick had
+collins_hauntedhotel_20_u	33	0.9090909090909091	153	13961	 would arrive in Venice on the ne	 would arrive in Venice in three 
+christie_styles_9_d	30	0.9	7354	20574	 burst out laughing, and answe	 burst out laughing, and calle
+collins_hauntedhotel_14_u	32	0.90625	0	6232	Before the end of the week, the 	Before the end of the week, Sir 
+collins_hauntedhotel_14_u	35	0.9142857142857143	2113	1462	 as Number Fourteen. The room beari	 as Number Fourteen. The room above
+radcliffe_udolpho_6_g	30	0.9	7242	5610	 in the language of their own 	 in the language of his own mi
+collins_hauntedhotel_5_u	45	0.9111111111111111	5356	4460	 looked at him in astonishment. 'Are you real	 looked at her in astonishment. 'Are you sure
+doyle_scarlet_5_d	31	0.9354838709677419	6471	7518	 appeared to be puzzled by the 	 appeared to be dazzled by the 
+radcliffe_udolpho_34_g	32	0.90625	1678	43159	e circumstances related to him c	e circumstances related by him, 
+collins_moonstone_72_d	30	0.9666666666666667	2577	3426	ions of his fellow-creatures. 	ions of his fellow-creatures o
+dickens_christmascarole_1_g	30	0.9	281	25528	 in the event of its being vac	 in the event of its being imp
+radcliffe_udolpho_4_g	30	0.9	2561	15345	 favourable opinions of his fe	 favourable opinion of this pr
+dickens_christmascarole_3_g	34	0.9117647058823529	3013	17599	ed by his brother and sister as th	ed by his brother and sister to hi
+christie_secretadversary_10_d	30	0.9	1640	10711	ice in the interest of his the	ice in the interests of his pr

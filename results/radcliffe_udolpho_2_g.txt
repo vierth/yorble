@@ -1,0 +1,41 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_15_g	31	0.9354838709677419	4664	2709	 was somewhat surprised to see 	 was somewhat surprised to obse
+radcliffe_udolpho_36_g	33	0.9090909090909091	13156	17788	 was silent and forsaken. But wha	 was silent and forsaken; but, wh
+reeve_oldenglishbaron	31	0.9032258064516129	3305	30053	 I cannot bear to see you wasti	 I cannot bear to see you uneas
+doyle_baskervilles_7_u	30	0.9	13603	20925	 never recovered from the late	 never recovered from the blow
+christie_styles_11_d	30	0.9	13607	15827	er recovered from the late att	er recovered from the grate, a
+lewis_monk_4_g	36	0.9166666666666666	11603	12145	 did not escape his observation. Whe	 did not escape her observation. 'Wh
+radcliffe_udolpho_50_g	31	0.9032258064516129	15675	40156	 be certain whether he was ther	 be certain whether she was rig
+radcliffe_udolpho_18_g	33	0.9090909090909091	14433	47132	, on the eve of their departure, 	, on the eve of her departure fro
+radcliffe_udolpho_13_g	35	0.9428571428571428	6234	33151	rt acknowledged the truth of these 	rt acknowledged the truth of this a
+radcliffe_udolpho_13_g	30	0.9	8028	5833	 the master of the mansion lov	 the master of the mansion. Wi
+radcliffe_udolpho_13_g	32	0.90625	14814	44828	 determined, therefore, to trave	 determined, therefore, to perse
+radcliffe_udolpho_3_g	46	0.9130434782608695	4651	20854	s. St. Aubert was somewhat surprised to see hi	s. St. Aubert was somewhat surprised to find i
+radcliffe_udolpho_3_g	31	0.9354838709677419	6223	16750	.' St. Aubert acknowledged the 	.' St. Aubert acknowledged how 
+radcliffe_udolpho_3_g	33	0.9090909090909091	16437	15508	 a mixture of curiosity and tende	 a mixture of curiosity and timid
+radcliffe_udolpho_22_g	33	0.9090909090909091	15627	10124	, and receiving no answer, steppe	, and receiving no answer, repeat
+radcliffe_udolpho_22_g	30	0.9333333333333333	16099	35375	 then stepped softly to the cl	 then stepped softly to her ch
+reeve_oldenglishbaron	31	0.9032258064516129	3305	30053	 I cannot bear to see you wasti	 I cannot bear to see you uneas
+radcliffe_udolpho_4_g	34	0.9117647058823529	4415	30649	 on the skirts of the woods, near 	 on the skirts of the woods, retur
+radcliffe_udolpho_4_g	30	0.9	7706	5576	 St. Aubert alighted, and from	 St. Aubert alighted, and amus
+radcliffe_udolpho_4_g	30	0.9333333333333333	17384	20629	 could scarcely believe what s	 could scarcely believe that o
+lewis_monk_7_g	30	0.9	1085	35185	 in a low and solemn voice, th	 in a low and solemn voice; 'A
+radcliffe_udolpho_10_g	30	0.9	965	26160	' Emily checked her tears, and	' Emily checked the tears, tha
+walpole_castleofotranto_5_g	32	1.0	8885	6355	fter some general conversation, 	fter some general conversation, 
+lewis_monk_5_g	31	0.9032258064516129	4664	2705	 was somewhat surprised to see 	 was somewhat surprised on ente
+radcliffe_udolpho_21_g	33	0.9090909090909091	14433	1035	, on the eve of their departure, 	, on the eve of her departure fro
+radcliffe_udolpho_12_g	30	0.9333333333333333	8603	50885	 to have forgotten that they e	 to have forgotten, that the l
+radcliffe_udolpho_12_g	30	0.9	10306	21180	 with which Madame Cheron met 	 with which Madame Cheron rega
+radcliffe_udolpho_27_g	30	0.9	16054	10229	 she removed her light to the 	 she removed her light to a re
+radcliffe_udolpho_14_g	32	0.90625	4021	5502	 without interruption, and then 	 without interruption, and sink 
+radcliffe_udolpho_41_g	32	0.96875	8935	15064	ed to speak with him alone; and 	ed to speak with him alone, and 
+radcliffe_udolpho_47_g	31	0.9032258064516129	15579	16611	 returned to her chamber, she t	 returned to her chamber, and t
+christie_secretadversary_4_d	30	0.9333333333333333	1590	1446	 I have pointed out to you the	 I have pointed out to you bef
+radcliffe_udolpho_54_g	41	0.9024390243902439	536	19204	 the scene she had just witnessed, had re	 the scene she had just witnessed, to be 
+radcliffe_udolpho_54_g	34	0.9117647058823529	708	8390	t was some moments before he could	t was some moments before she reco
+reeve_oldenglishbaron	31	0.9032258064516129	3305	30053	 I cannot bear to see you wasti	 I cannot bear to see you uneas
+radcliffe_udolpho_35_g	30	0.9	10463	25250	 with a melancholy smile, that	 with a melancholy smile, said
+radcliffe_udolpho_35_g	30	0.9333333333333333	14551	22249	 the old housekeeper, she was 	 the old housekeeper, who was 
+radcliffe_udolpho_35_g	30	0.9333333333333333	14772	13913	 of Languedoc and Provence; an	 of Languedoc and Provence, en
+radcliffe_udolpho_35_g	34	0.9411764705882353	14863	913	 the shores of the Mediterranean, 	 the shore of the Mediterranean. T
+radcliffe_udolpho_35_g	30	0.9	14873	8951	s of the Mediterranean, toward	s of the Mediterranean, stood 

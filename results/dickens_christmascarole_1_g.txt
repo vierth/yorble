@@ -1,0 +1,26 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_23_d	32	0.90625	14202	3667	 impossible to believe that such	 impossible to believe that thes
+dickens_christmascarole_3_g	32	0.90625	5979	34042	e!" said Scrooge's nephew. "You 	e!" said Scrooge's nephew. "I am
+dickens_christmascarole_3_g	31	0.9032258064516129	5980	41958	!" said Scrooge's nephew. "You 	!" said Scrooge's nephew. "He w
+dickens_christmascarole_3_g	30	0.9	8832	32713	" cried Scrooge's nephew. "Why	" cried Scrooge's nephew. "He 
+dickens_christmascarole_3_g	31	0.9032258064516129	11201	45609	 "Are there no prisons?" asked 	 "Are there no prisons?" said t
+dickens_christmascarole_3_g	57	0.9824561403508771	12542	22670	 had better do it, and decrease the surplus population. B	 had better do it, and decrease the surplus population." 
+dickens_christmascarole_3_g	30	0.9666666666666667	16202	12973	 promised that he would; and S	 promised that he would; and t
+stoker_dracula_3_g	30	0.9333333333333333	11719	10373	nder the impression that they 	nder the impression that he wo
+doyle_adventures_2_d	30	0.9	20718	19176	 to see that all was right. He	 to see that all was right wit
+doyle_adventures_2_d	32	0.9375	33625	12986	s were brought together by the b	s were brought together by that 
+christie_styles_1_d	30	0.9333333333333333	14202	5201	 impossible to believe that su	 impossible to believe that, n
+christie_secretadversary_3_d	32	0.9375	25652	7776	 on the opposite side of the fir	 on the opposite side of the roa
+doyle_signoffour_5_d	31	0.967741935483871	13510	7937	s teeth were chattering in its 	s teeth were chattering in his 
+collins_moonstone_62_d	32	0.90625	33412	101	er what has passed between us!" 	er what had passed between us, t
+doyle_adventures_9_d	32	0.90625	26774	28174	his was clearly the case; for th	his was clearly the cause of the
+lewis_monk_1_g	33	0.9393939393939394	25652	49105	 on the opposite side of the fire	 on the opposite side of the Stre
+doyle_baskervilles_4_u	30	0.9	5652	17226	 so quickly that this was the 	 so quickly that it was the No
+doyle_scarlet_12_d	34	0.9117647058823529	27573	7041	 to save himself from falling in a	 to save himself from falling. He 
+collins_hauntedhotel_10_u	30	0.9	24972	2655	What do you want with me?" "Mu	What do you want with me?' Mrs
+collins_moonstone_66_d	30	0.9	33412	11083	er what has passed between us!	er what has passed between the
+christie_secretadversary_4_d	30	0.9	26624	5052	 There was something very awfu	 There was something very magn
+collins_moonstone_76_d	30	0.9333333333333333	6337	17401	 on the spur of the moment, sa	 on the spur of the moment, to
+collins_moonstone_76_d	32	0.9375	33412	19224	er what has passed between us!" 	er what has passed between us, I
+stoker_dracula_21_g	35	0.9714285714285714	21466	1752	n his dressing-gown and slippers, a	n his dressing gown and slippers, a
+radcliffe_udolpho_35_g	31	0.9032258064516129	25655	23753	 the opposite side of the firep	 the opposite side of the edifi

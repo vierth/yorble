@@ -1,0 +1,19 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_3_g	32	1.0	2734	6812	 I first became acquainted with 	 I first became acquainted with 
+reeve_oldenglishbaron	33	0.9393939393939394	4567	20355	 to consent to her marriage with 	 to consent to his marriage with 
+lewis_monk_2_g	35	0.9142857142857143	3240	76597	ed the groundwork of my character t	ed the groundwork of his character 
+stoker_dracula_6_g	30	0.9	6451	24914	 which I do not understand. I 	 which I do not understand; ev
+walpole_castleofotranto_3_g	30	0.9	2736	30658	 first became acquainted with 	 first became acquainted. The 
+reeve_oldenglishbaron	33	0.9393939393939394	4567	20355	 to consent to her marriage with 	 to consent to his marriage with 
+shelley_frankenstein_31_g	30	0.9333333333333333	0	0	_To Mrs. Saville, England._ Ar	_To Mrs. Saville, England._ Ju
+reeve_oldenglishbaron	33	0.9393939393939394	4567	20355	 to consent to her marriage with 	 to consent to his marriage with 
+shelley_frankenstein_32_g	30	0.9666666666666667	0	0	_To Mrs. Saville, England._ Ar	_To Mrs. Saville, England._ Au
+shelley_frankenstein_32_g	35	0.9714285714285714	2200	7281	 find no friend on the wide ocean, 	 find no friend on the wide ocean; 
+radcliffe_udolpho_50_g	30	0.9333333333333333	4363	57103	 had designed to pass the rema	 had designed to pass the prec
+shelley_frankenstein_40_g	32	0.9375	2917	6046	 excellent disposition and is re	 excellent dispositions and irre
+reeve_oldenglishbaron	33	0.9393939393939394	4567	20355	 to consent to her marriage with 	 to consent to his marriage with 
+shelley_frankenstein_49_g	30	0.9	5740	9173	 I cannot describe to you my s	 I cannot describe to you how 
+walpole_castleofotranto_5_g	35	0.9142857142857143	2736	5316	 first became acquainted with him o	 first become acquainted with this 
+doyle_adventures_9_d	30	0.9	2554	10810	ent in his profession. He is a	ent in his profession but is a
+doyle_adventures_9_d	30	0.9	2579	41127	 is an Englishman, and in the 	 is an Englishman, and there i
+reeve_oldenglishbaron	33	0.9393939393939394	4567	20355	 to consent to her marriage with 	 to consent to his marriage with 

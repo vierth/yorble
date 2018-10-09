@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_10_g	31	0.9032258064516129	7080	17497	 was on the point of reverting 	 was on the point of retiring, 
+radcliffe_udolpho_10_g	30	0.9	97	26037	, after an acquaintance of eig	, after an acquaintance of onl
+lewis_monk_6_g	30	0.9666666666666667	5640	8063	 determined at all events to b	 determined at all events to c
+radcliffe_udolpho_12_g	30	0.9	7898	12159	 assured her that she need not	 assured her, that she did not
+lewis_monk_1_g	34	0.9117647058823529	2510	43126	 a particular friend of mine, a Mi	 a particular Friend of mine, has 
+doyle_baskervilles_4_u	30	0.9	6222	12672	y, though I have thought of it	y, though I never thought of t
+doyle_scarlet_1_d	40	0.925	1272	3641	 have you been doing with yourself all t	 have you been doing with yourself, Wats
+austen_northangerabbey_3_g	30	0.9333333333333333	3992	7894	.” Catherine coloured, and dis	.” Catherine coloured, and sai

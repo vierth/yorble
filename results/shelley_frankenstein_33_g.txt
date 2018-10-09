@@ -1,0 +1,27 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_19_g	30	0.9	5410	5306	 the innocent and helpless cre	 the innocent and helpless Emi
+lewis_monk_11_g	30	0.9333333333333333	49	33189	 the most distinguished of tha	 the most distinguished for th
+radcliffe_udolpho_56_g	30	0.9	3619	9783	 it necessary that he should a	 it necessary that I should te
+radcliffe_udolpho_56_g	31	0.9032258064516129	3619	9841	 it necessary that he should ap	 it necessary, that I should sa
+radcliffe_udolpho_38_g	30	0.9	3709	19407	he had suffered from the late-	he had suffered from the villa
+lewis_monk_12_g	31	0.9032258064516129	1478	15976	 the hope of persuading him to 	 the hope of persuading you to 
+lewis_monk_3_g	33	0.9090909090909091	426	2210	 circumstances had prevented his 	 circumstances have prevented us 
+shelley_frankenstein_55_g	32	0.90625	2333	6613	 incapable of any exertion. His 	 incapable of any exertion. I th
+radcliffe_udolpho_55_g	33	0.9696969696969697	42	3888	 one of the most distinguished of	 one of the most distinguished no
+radcliffe_udolpho_6_g	31	0.9354838709677419	415	8391	 variety of circumstances had p	 variety of circumstances have 
+stoker_dracula_18_g	30	0.9	3392	30457	. There was a considerable dif	. There was a considerable pau
+radcliffe_udolpho_33_g	30	0.9	3417	4658	e difference between the ages 	e difference between the warm 
+austen_northangerabbey_22_g	30	0.9	1089	18656	 with his daughter to the town	 with his daughter to the hous
+radcliffe_udolpho_2_g	33	0.9090909090909091	3619	6753	 it necessary that he should appr	 it necessary that he should dela
+christie_styles_6_d	30	0.9	567	2415	 the circumstances of his marr	 the circumstances of his moth
+doyle_adventures_4_d	33	0.9090909090909091	3402	1393	s a considerable difference betwe	s a considerable difference to me
+walpole_castleofotranto_4_g	30	0.9	3303	36887	r under the protection of a re	r under the protection of the 
+collins_moonstone_74_d	31	0.967741935483871	10035	1737	 relation in which she stood to	 relation in which he stood tow
+radcliffe_udolpho_50_g	31	0.9032258064516129	42	40352	 one of the most distinguished 	 one of them she distinguished 
+stoker_dracula_24_g	31	0.9032258064516129	3622	10106	 necessary that he should appro	 necessary that they should pur
+radcliffe_udolpho_10_g	31	0.9032258064516129	567	23937	 the circumstances of his marri	 the circumstances of his recei
+doyle_signoffour_5_d	30	0.9	3117	12798	 entered the chamber. He came 	 entered the chamber. He was s
+lewis_monk_5_g	36	0.9166666666666666	3300	45103	 her under the protection of a relat	 her under the protection of a perfe
+collins_hauntedhotel_15_u	31	0.9032258064516129	1881	3235	 small sum of money from the wr	 small sum of money for the nur
+radcliffe_udolpho_54_g	38	0.9210526315789473	2197	27704	 had leisure for reflection, and at le	 had leisure for reflection, and cause
+radcliffe_udolpho_54_g	30	0.9	3708	24344	 he had suffered from the late	 he had suffered from the wild

@@ -1,0 +1,37 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_11_g	31	0.967741935483871	14846	46294	 in better spirits than usual. 	 in better spirits than usual: 
+doyle_adventures_10_d	31	0.9032258064516129	3984	20195	 was about to be married--and y	 was about to be married, and, 
+radcliffe_udolpho_38_g	33	0.9090909090909091	2897	32909	er which she had been writing whe	er which she had been sitting, wh
+radcliffe_udolpho_38_g	37	0.918918918918919	15413	10118	.' 'When shall I see you again?' 'You	.' 'When shall I see you again?' enqu
+doyle_signoffour_9_d	30	0.9	14291	7813	 reason to believe that ten pe	 reason to believe that the ma
+doyle_adventures_3_d	39	0.9230769230769231	14280	28360	 have every reason to believe that ten 	 have every reason to believe that I wi
+lewis_monk_3_g	34	0.9705882352941176	9676	35046	r at the farther end of the room. 	r at the further end of the room. 
+collins_moonstone_69_d	33	0.9090909090909091	3149	22588	I have something to tell you. I h	I have something to tell you whic
+collins_moonstone_89_d	30	0.9	1849	782	 look back to the time when I 	 look back at the time when yo
+collins_moonstone_89_d	33	0.9090909090909091	3007	7707	d at the letter, and then looked 	d at the lawyer, and then looked 
+collins_moonstone_79_d	32	0.90625	5123	7356	, on the day when I left them to	, on the day when I left her hou
+doyle_signoffour_6_d	35	0.9142857142857143	14280	11817	 have every reason to believe that 	 have every reason to believe to be
+doyle_signoffour_6_d	31	0.967741935483871	14280	14041	 have every reason to believe t	 have every reason to believe, 
+collins_hauntedhotel_20_u	34	0.9411764705882353	10022	4460	ncapable of understanding this pur	ncapable of understanding this, Fr
+radcliffe_udolpho_55_g	31	0.9032258064516129	14291	14309	 reason to believe that ten per	 reason to believe, that they r
+radcliffe_udolpho_6_g	36	0.9166666666666666	14285	41680	 every reason to believe that ten pe	 every reason to believe that her de
+lewis_monk_9_g	30	0.9	318	56344	, and seated himself on the so	, and seated himself in the Ch
+collins_hauntedhotel_26_u	30	0.9	2760	16383	 you wish me to leave you?' Sh	 you wish me to leave your hou
+doyle_baskervilles_12_u	32	0.90625	15898	7167	 to him in the character of her 	 to him in the character of a fr
+dickens_christmascarole_4_g	31	0.9032258064516129	14105	4144	 I'm not at all sure that she w	 I'm not at all sure that I was
+doyle_baskervilles_10_u	30	0.9	295	16612	 hesitated for a moment, and s	 hesitated for a moment, as if
+collins_hauntedhotel_23_u	30	0.9	10688	4592	 the announcement of the legac	 the announcement of the death
+christie_styles_6_d	34	0.9117647058823529	295	16929	 hesitated for a moment, and seate	 hesitated for a moment, and then 
+doyle_scarlet_5_d	39	0.9487179487179487	14280	4147	 have every reason to believe that ten 	 have every reason to believe that it i
+christie_styles_11_d	31	0.9032258064516129	14108	14568	m not at all sure that she woul	m not at all sure that he will 
+collins_hauntedhotel_6_u	30	0.9	7123	7632	 without being convinced. He w	 without being convinced: her 
+lewis_monk_4_g	30	0.9	11875	38302	you ought to be ashamed of wha	you ought to be ashamed of you
+collins_moonstone_84_d	30	0.9	688	6988	 after what has happened to-da	 after what has happened, to s
+doyle_adventures_2_d	32	0.90625	10908	36349	 interested in the matter for th	 interested in the matter. I tho
+doyle_adventures_2_d	39	0.9487179487179487	14280	31594	 have every reason to believe that ten 	 have every reason to believe that we s
+collins_hauntedhotel_10_u	36	0.9444444444444444	9677	4119	 at the farther end of the room. Hen	 at the farther end of the room. 'Be
+collins_moonstone_66_d	34	0.9411764705882353	6585	17858	 whether I am right or wrong in tu	 whether I am right or wrong. In t
+christie_secretadversary_4_d	35	0.9142857142857143	14280	12369	 have every reason to believe that 	 have every reason to believe he is
+doyle_baskervilles_15_u	30	0.9	15901	4581	 him in the character of her l	 him in the character of his s
+collins_moonstone_65_d	31	0.9354838709677419	6585	1794	 whether I am right or wrong in	 whether I am right or wrong.” 
+collins_moonstone_65_d	31	0.9032258064516129	11901	3103	 what you have just said! Your 	 what you have just said, you k

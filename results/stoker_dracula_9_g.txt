@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_4_d	33	0.9393939393939394	17541	4726	 come to the conclusion that it m	 come to the conclusion that I am
+christie_secretadversary_15_d	30	0.9333333333333333	1867	10020	 have fallen in love with any 	 have fallen in love--with an 
+stoker_dracula_21_g	33	0.9393939393939394	20925	2875	 examination of the patient. He i	 examination of the patient. The 
+reeve_oldenglishbaron	31	0.9032258064516129	727	28814	thing that has happened to him 	thing that had happened to thei
+doyle_scarlet_8_d	38	0.9210526315789473	17536	11307	 have come to the conclusion that it m	 have come to the conclusion that one 
+radcliffe_udolpho_35_g	32	0.90625	15241	19825	lly different from what she was 	lly different from that she had 
+christie_styles_4_d	30	0.9	17236	12812	ured a few drops of the blood 	ured a few drops of the cocoa 
+christie_styles_4_d	45	0.9333333333333333	20905	12512	 made a very careful examination of the patie	 made a very careful examination of the drawe

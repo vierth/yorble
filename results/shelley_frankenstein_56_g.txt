@@ -1,0 +1,59 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_12_g	40	1.0	45539	40803	. End of the Project Gutenberg EBook of 	. End of the Project Gutenberg EBook of 
+collins_hauntedhotel_24_u	31	0.9032258064516129	10092	9324	 before he should reach the bea	 before he could reach the head
+collins_hauntedhotel_24_u	30	0.9	44027	11694	 heard the rustling of the lea	 heard the rustling of her dre
+doyle_adventures_3_d	30	0.9666666666666667	36764	18641	s face, there was something so	s face, there was something no
+lewis_monk_3_g	32	0.90625	14006	43331	 became every moment more ominou	 became every moment more painfu
+radcliffe_udolpho_24_g	31	0.9032258064516129	35793	12774	 endeavoured to recollect what 	 endeavoured to re-collect her 
+collins_moonstone_89_d	30	0.9	29449	74075	 returning to England. I have 	 returning to England. I left 
+shelley_frankenstein_34_g	30	0.9333333333333333	27341	3810	 benefactors of your species, 	 benefactors of our species. T
+christie_secretadversary_16_d	34	0.9411764705882353	26763	6731	 “What do you mean? What do you de	 “What do you mean?” “What do you 
+doyle_signoffour_8_d	32	0.90625	7033	10634	 towards the destruction of the 	 towards the detection of the cr
+christie_secretadversary_25_d	30	0.9	8463	22339	 from their hiding-places to s	 from their hiding-place, but 
+christie_secretadversary_25_d	33	0.9090909090909091	26763	25877	 “What do you mean? What do you d	 “What do you mean? What are you 
+shelley_frankenstein_52_g	33	0.9090909090909091	16182	14692	 Elizabeth, my father, and of the	 Elizabeth, of my father, and of 
+shelley_frankenstein_52_g	30	0.9333333333333333	36651	17626	 a mixture of curiosity and co	 a mixture of curiosity and an
+radcliffe_udolpho_23_g	30	1.0	3822	35024	 followed the windings of the 	 followed the windings of the 
+poe_marieroget_1_d	32	0.90625	33166	102120	 the consideration of these poin	 the consideration of the contin
+doyle_scarlet_7_d	30	0.9	25751	1701	 and his companions had been c	 and his companion had become 
+radcliffe_udolpho_55_g	31	0.9032258064516129	3472	8928	e determined to live, and I am 	e determined to live, and to em
+collins_hauntedhotel_14_u	30	0.9	33302	5412	 already disturbed by the near	 already disturbed by the rava
+shelley_frankenstein_46_g	32	0.9375	30260	8481	 return to their native country 	 return to her native country. T
+christie_styles_13_d	30	0.9	38079	13801	hen I discovered that he, the 	hen I discovered that she had 
+collins_moonstone_70_d	30	0.9	17151	10586	with an appearance of the simp	with an appearance of the utmo
+doyle_adventures_12_d	40	1.0	45539	52847	. End of the Project Gutenberg EBook of 	. End of the Project Gutenberg EBook of 
+radcliffe_udolpho_16_g	30	1.0	19793	25382	ed for some great enterprise. 	ed for some great enterprise. 
+radcliffe_udolpho_33_g	35	0.9714285714285714	13330	3606	t, which was absolutely necessary, 	t, which was absolutely necessary t
+radcliffe_udolpho_2_g	31	1.0	36648	16434	 by a mixture of curiosity and 	 by a mixture of curiosity and 
+stoker_dracula_20_g	30	0.9	3822	30610	 followed the windings of the 	 followed the doings of the Co
+collins_moonstone_80_d	31	0.9032258064516129	2941	14805	d through the stillness of nigh	d through the stillness of the 
+collins_moonstone_80_d	30	0.9333333333333333	17150	10991	 with an appearance of the sim	 with an appearance of the utm
+radcliffe_udolpho_36_g	35	0.9142857142857143	30259	29626	r return to their native country wa	r return to her native country, man
+shelley_frankenstein_32_g	33	0.9696969696969697	24958	90	t I cannot forbear recording it. 	t I cannot forbear recording it, 
+radcliffe_udolpho_34_g	35	0.9428571428571428	36835	13344	 attempted to speak, but the words 	 attempted to speak, but his words 
+lewis_monk_4_g	30	0.9	457	34981	 I provided myself with a sum 	 I provided myself with a dres
+lewis_monk_4_g	31	0.9032258064516129	6904	60390	 persuade myself that they stil	 persuade myself that the Ghost
+radcliffe_udolpho_18_g	30	0.9666666666666667	3822	25968	 followed the windings of the 	 followed the winding of the p
+radcliffe_udolpho_18_g	30	0.9	40088	33895	ness and affection with which 	ness and affection, to which s
+radcliffe_udolpho_13_g	30	0.9	42125	11991	 at the recollection of this i	 at the recollection of him, e
+christie_secretadversary_28_d	40	1.0	45539	5967	. End of the Project Gutenberg EBook of 	. End of the Project Gutenberg EBook of 
+radcliffe_udolpho_3_g	31	0.9354838709677419	36651	15508	 a mixture of curiosity and com	 a mixture of curiosity and tim
+dickens_christmascarole_1_g	32	0.9375	26663	5904	; his eyes sparkled, and his che	; his eyes sparkled, and his bre
+radcliffe_udolpho_48_g	31	0.9032258064516129	35793	22614	 endeavoured to recollect what 	 endeavoured to recollect the e
+shelley_frankenstein_40_g	30	0.9	25879	10578	 I could not refuse. We were i	 I could not refuse. We entere
+shelley_frankenstein_54_g	30	0.9	6474	13861	 countenance of my father, hea	 countenance of my father, but
+radcliffe_udolpho_4_g	30	0.9	42125	29197	 at the recollection of this i	 at the recollection of that q
+reeve_oldenglishbaron_	40	1.0	45539	13522	. End of the Project Gutenberg EBook of 	. End of the Project Gutenberg EBook of 
+lewis_monk_10_g	37	0.918918918918919	13338	55358	 was absolutely necessary, and yet wh	 was absolutely necessary, and He has
+austen_northangerabbey_31_g	48	0.9166666666666666	45538	7549	e. End of the Project Gutenberg EBook of Franken	e. End of the Project Gutenberg EBook of Northan
+radcliffe_udolpho_10_g	31	0.9032258064516129	42125	4455	 at the recollection of this in	 at the recollection of the sen
+shelley_frankenstein_51_g	30	0.9	34979	3973	 with the remembrance of it. I	 with the remembrance of the e
+collins_moonstone_53_d	34	0.9117647058823529	34069	5911	bout half an hour afterwards he at	bout half an hour afterwards, I wa
+lewis_monk_5_g	32	0.90625	12952	39509	 tears filled my eyes, which I h	 tears filled my eyes while I th
+stoker_dracula_1_g	30	0.9	11597	16513	 the inequalities of the Froze	 the inequalities of the road.
+shelley_frankenstein_47_g	30	0.9	6634	6983	, I persuaded myself that I wa	, I persuaded myself that when
+radcliffe_udolpho_27_g	32	0.9375	30260	6343	 return to their native country 	 return to her native country. A
+radcliffe_udolpho_27_g	30	0.9	35793	285	 endeavoured to recollect what	 endeavoured to recollect hers
+radcliffe_udolpho_14_g	31	0.9032258064516129	2942	12979	 through the stillness of night	 through the duskiness of night
+radcliffe_udolpho_47_g	30	0.9	34893	7616	e. Good night, my sister. Grea	e. Good night, my sisters, rem
+doyle_scarlet_8_d	30	0.9333333333333333	9299	10990	ly to be distinguished from la	ly to be distinguished from th

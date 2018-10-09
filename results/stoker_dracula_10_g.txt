@@ -1,0 +1,29 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_20_g	30	0.9	942	28535	." _Dr. Seward's Diary._ _7 Se	." _Dr. Seward's Diary._ _2 Oc
+doyle_baskervilles_9_u	32	0.90625	16691	3236	e, and it was evident that no ba	e, and it was evident that he ha
+stoker_dracula_12_g	30	0.9333333333333333	49	21943	 September._ "My dear Art,-- "	 September._ "My dear Sir,-- "
+stoker_dracula_12_g	42	0.9523809523809523	942	28988	." _Dr. Seward's Diary._ _7 September._--T	." _Dr. Seward's Diary._ _20 September._--
+stoker_dracula_12_g	42	0.9047619047619048	6601	5340	 there was a knock at the hall-door. When 	 there was a knock at the hall door. One o
+stoker_dracula_12_g	32	0.9375	17456	16899	ing. * * * * * _9 September_.--I	ing. * * * * * _19 September._--
+stoker_dracula_12_g	40	0.975	19637	28990	 _Dr. Seward's Diary._ _10 September._--	 _Dr. Seward's Diary._ _20 September._--
+stoker_dracula_12_g	36	0.9166666666666666	21528	32153	e. There was no possibility of an op	e. There was no possibility of makin
+stoker_dracula_12_g	32	0.96875	26348	16899	ing. * * * * * _11 September._--	ing. * * * * * _19 September._--
+dickens_christmascarole_2_g	32	0.90625	24571	852	 that anything had happened. I t	 that anything has happened to t
+lewis_monk_4_g	34	0.9117647058823529	2211	70484	 He stopped and looked at me, and 	 He stopped, and looked at me earn
+radcliffe_udolpho_13_g	30	0.9333333333333333	24402	37650	 to leave her for a moment. I 	 to leave her for a moment. Af
+doyle_adventures_5_d	32	0.90625	147	782	. There is, however, one good th	. There is, however, one of thes
+doyle_adventures_5_d	31	0.9354838709677419	7943	21276	" "What shall I do?" There was 	" "What shall I do?" "There is 
+stoker_dracula_3_g	31	0.9354838709677419	19495	14959	 I shall not fear to sleep, sin	 I shall not fear to sleep in a
+lewis_monk_10_g	30	0.9333333333333333	15474	38358	 was repeated several times, w	 was repeated several times su
+doyle_signoffour_5_d	30	0.9666666666666667	12994	9326	 "What do you make of it?" "I 	 "What do you make of it?" I s
+austen_northangerabbey_19_g	30	0.9	26439	8039	 in excellent spirits, and Luc	 in excellent spirits, and Isa
+stoker_dracula_1_g	30	0.9	18095	11025	 a couple of glasses of the mo	 a couple of glasses of this, 
+stoker_dracula_9_g	91	0.9010989010989011	0	20651	_Letter, Dr. Seward to Hon. Arthur Holmwood._ "_6 September._ "My dear Art,-- "My news to-d	_Letter, Dr. Seward to Hon. Arthur Holmwood._ "_3 September._ "My dear Art,-- "Van Helsing 
+stoker_dracula_9_g	30	0.9	942	7890	." _Dr. Seward's Diary._ _7 Se	." _Dr. Seward's Diary._ _20 A
+stoker_dracula_9_g	41	0.975609756097561	942	25256	." _Dr. Seward's Diary._ _7 September._--	." _Dr. Seward's Diary._ _4 September._--
+stoker_dracula_9_g	30	0.9	18746	12035	. _Lucy Westenra's Diary._ _9 	. _Lucy Westenra's Diary_ _Hil
+stoker_dracula_9_g	40	0.95	19637	25258	 _Dr. Seward's Diary._ _10 September._--	 _Dr. Seward's Diary._ _4 September._--Z
+doyle_scarlet_4_d	34	0.9705882352941176	24480	111	 to the nearest telegraph office. 	 to the nearest telegraph office, 
+christie_secretadversary_10_d	30	1.0	6103	4787	 quickly along the passage to 	 quickly along the passage to 
+christie_secretadversary_24_d	34	0.9705882352941176	6260	10940	 There is no time to be lost. She 	 There is no time to be lost. The 
+stoker_dracula_16_g	35	0.9142857142857143	7638	18300	d Arthur hoarsely. "Tell me, and I 	d Arthur hoarsely. "Tell me what I 

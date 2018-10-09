@@ -1,0 +1,97 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_7_d	30	0.9	41917	6495	 his hands in his pockets, and	 his hands in his pockets, smo
+doyle_scarlet_13_d	35	0.9142857142857143	9864	4402	e leaned back in his chair and laug	e leaned back in his chair and bega
+doyle_scarlet_13_d	30	0.9	28132	6929	 on the other side of the room	 on the other side of the rive
+radcliffe_udolpho_16_g	30	0.9333333333333333	4269	17293	on the preceding evening, and 	on the preceding evening, was 
+radcliffe_udolpho_16_g	34	0.9117647058823529	4271	55499	 the preceding evening, and ran th	 the preceding evening, and at her
+radcliffe_udolpho_33_g	33	0.9090909090909091	16964	14735	 steps descending the stairs, "sh	 steps descending the stairs with
+doyle_baskervilles_12_u	31	0.967741935483871	15033	9505	What is the meaning of it all, 	What is the meaning of it all? 
+doyle_baskervilles_12_u	31	0.9032258064516129	23744	11419	 immediately in front of the ha	 immediately in front of us the
+doyle_baskervilles_10_u	30	0.9	9254	3146	, and yet there was something 	, and yet there are some thing
+collins_moonstone_56_d	30	0.9	41917	23597	 his hands in his pockets, and	 his hands in his pockets, loo
+christie_secretadversary_22_d	30	0.9333333333333333	4983	7478	, unless I am much mistaken, i	, unless I am much mistaken.” 
+doyle_baskervilles_11_u	36	0.9166666666666666	29983	2355	 first impression. At the second gla	 first impression. But the second wa
+stoker_dracula_20_g	30	0.9	36628	29432	here was something about that 	here was something about his m
+collins_moonstone_80_d	30	0.9	16399	5419	 shook his head gravely. "It w	 shook his head gravely. “I am
+doyle_adventures_4_d	30	0.9	3249	17218	, and the incident of the nobl	, and the incident of the vani
+doyle_adventures_4_d	32	0.90625	12921	26383	 I was inclined to think that I 	 I was inclined to think at one 
+doyle_adventures_4_d	30	0.9	14249	14577	 I am afraid that I must remai	 I am afraid that I must press
+doyle_adventures_4_d	30	0.9	17097	43806	," said Holmes gravely. "I am 	," said Holmes gravely. "I wou
+doyle_adventures_4_d	35	0.9428571428571428	23567	13000	 about a hundred yards from the fro	 about a hundred yards from the poo
+doyle_adventures_4_d	30	0.9	27164	14671	 assure you that it has not de	 assure you that it has nothin
+doyle_baskervilles_9_u	30	0.9	3770	23339	l, I cannot blame you, for the	l, I cannot blame you for stan
+doyle_baskervilles_9_u	33	0.9090909090909091	4983	421	, unless I am much mistaken, is t	, unless I am much mistaken, cons
+doyle_baskervilles_9_u	30	0.9666666666666667	41738	12388	 tell me what it all means, an	 tell me what it all means, Wa
+doyle_baskervilles_9_u	42	0.9047619047619048	47196	29410	 The words were hardly out of his mouth be	 The words were hardly out of my mouth whe
+reeve_oldenglishbaron	33	0.9090909090909091	9643	3468	 I should be glad to know what th	 I should be glad to know all tha
+christie_secretadversary_26_d	30	0.9	23002	3480	 easy in my mind about them." 	 easy in my mind about him.” “
+doyle_baskervilles_7_u	36	0.9166666666666666	4643	7563	es, and I have no doubt that is her 	es, and I have no doubt that it led 
+doyle_baskervilles_7_u	31	0.9032258064516129	27622	16784	 could not have been a better f	 could not have been a greater 
+doyle_baskervilles_7_u	30	0.9	43112	7570	 I have no doubt that it is th	 I have no doubt that it led t
+christie_styles_11_d	36	0.9166666666666666	10871	4418	I could hardly believe my ears. As y	I could hardly believe my ears. “It 
+christie_styles_11_d	31	0.9032258064516129	38503	27488	. Evidently there was a skyligh	. Evidently there was a likelih
+stoker_dracula_12_g	30	0.9	26157	27018	s anything of importance. The 	s anything of importance. "Bel
+christie_styles_5_d	32	0.90625	5014	38755	 the person in question." As he 	 the person in question was her 
+christie_styles_5_d	31	0.9354838709677419	49473	37114	there are several points on whi	there are several points in his
+collins_hauntedhotel_6_u	31	0.9032258064516129	41143	10257	 a state of insensibility that 	 a state of insensibility, and 
+collins_hauntedhotel_6_u	31	1.0	41917	8080	 his hands in his pockets, and 	 his hands in his pockets, and 
+lewis_monk_4_g	33	0.9090909090909091	47255	25176	ed at the door of the room, a ver	ed at the door of the room at the
+austen_northangerabbey_28_g	32	0.9375	9050	18202	e expenses of their journey and 	e expenses of her journey, and, 
+austen_northangerabbey_28_g	30	0.9333333333333333	10871	9689	I could hardly believe my ears	I could hardly believe my sens
+christie_secretadversary_28_d	50	0.92	52847	5967	. End of the Project Gutenberg EBook of The Advent	. End of the Project Gutenberg EBook of The Secret
+doyle_baskervilles_8_u	30	0.9	1577	11996	 more than once observed to be	 more than once observed trace
+doyle_baskervilles_8_u	30	0.9	4991	5856	 I am much mistaken, is the pe	 I am much mistaken if the fee
+doyle_baskervilles_8_u	31	0.9032258064516129	24877	5322	t was easy to see that she was 	t was easy to see that he said 
+doyle_baskervilles_8_u	30	0.9	51083	10603	 from London in order to get r	 from London in order to make 
+doyle_adventures_5_d	30	0.9	22805	26477	In the first place, I may say 	In the first place, we may sta
+doyle_adventures_5_d	32	0.96875	35029	9846	 as I ascended the stair, I met 	 as I ascended the stair I met h
+radcliffe_udolpho_48_g	30	0.9	28132	24275	 on the other side of the room	 on the other side of the hous
+radcliffe_udolpho_22_g	30	0.9333333333333333	26985	23565	 whispered something to her hu	 whispered something to her. '
+radcliffe_udolpho_22_g	32	0.9375	28132	11296	 on the other side of the room, 	 on the other side of the door, 
+reeve_oldenglishbaron	33	0.9090909090909091	9643	3468	 I should be glad to know what th	 I should be glad to know all tha
+dickens_christmascarole_3_g	30	0.9	36621	8940	 that there was something abou	 that there was something goin
+stoker_dracula_3_g	30	0.9	8362	3671	e history of the country. But 	e history of the country. He g
+stoker_dracula_3_g	30	0.9333333333333333	36628	24852	here was something about that 	here was something about them 
+christie_secretadversary_11_d	32	0.90625	7401	8563	 rubbed his hands together in th	 rubbed his hands together, and 
+reeve_oldenglishbaron_	50	0.92	52847	13522	. End of the Project Gutenberg EBook of The Advent	. End of the Project Gutenberg EBook of The Old En
+christie_styles_8_d	30	0.9	19887	24941	 shook his head gravely. "Do y	 shook his head gravely. “Don’
+austen_northangerabbey_31_g	45	0.9111111111111111	52847	7550	. End of the Project Gutenberg EBook of The A	. End of the Project Gutenberg EBook of North
+doyle_adventures_2_d	30	0.9	3171	1516	 Miss Mary Sutherland, the pro	 Miss Mary Sutherland, that fo
+doyle_adventures_2_d	34	0.9117647058823529	4643	642	es, and I have no doubt that is he	es, and I have no doubt that he wi
+doyle_adventures_2_d	30	0.9	5853	939	 his finger-tips together, to 	 his fingertips together, as w
+doyle_adventures_2_d	31	1.0	28213	2551	 that I have ever listened to. 	 that I have ever listened to. 
+christie_styles_1_d	30	0.9	33734	10113	. It struck me that it might h	. It struck me that he might l
+radcliffe_udolpho_10_g	31	0.9354838709677419	4269	6964	on the preceding evening, and r	on the preceding evening had pr
+walpole_castleofotranto_5_g	31	0.9032258064516129	41917	20351	 his hands in his pockets, and 	 his hands in his locks, and en
+lewis_monk_8_g	32	0.90625	30417	27023	 her eyes fixed upon me with a m	 her eyes fixed upon her with me
+collins_moonstone_53_d	30	0.9	28132	12459	 on the other side of the room	 on the other side of the holl
+stoker_dracula_1_g	31	0.9032258064516129	26981	25551	 and whispered something to her	 and whispered something in the
+collins_moonstone_62_d	34	0.9411764705882353	41917	8849	 his hands in his pockets, and an 	 his hands in his pockets, and he 
+doyle_adventures_9_d	34	1.0	5105	10563	e was plainly but neatly dressed, 	e was plainly but neatly dressed, 
+doyle_adventures_9_d	30	0.9	5369	3327	, "but I have had a very stran	, "but I have had a very serio
+doyle_adventures_9_d	42	0.9047619047619048	9101	11878	t seemed to me that I had never met so fas	t seemed to me that I had never seen so su
+doyle_adventures_9_d	30	0.9666666666666667	13584	14127	s to recompense you for any li	s to recompense you for any in
+doyle_adventures_9_d	30	0.9	18113	9909	 just as I was thinking of tur	 just as I was thinking of lea
+doyle_adventures_9_d	30	0.9	20302	5060	 "Good heavens!" I cried. "Who	 "Good heavens!" I cried, "thi
+doyle_adventures_9_d	37	0.918918918918919	33041	18661	 the shadow upon the other side. That	 the shadow upon the other side. With
+doyle_adventures_9_d	33	0.9090909090909091	41700	6903	and I should be very glad if you 	and I should be very glad if he w
+doyle_adventures_9_d	34	0.9117647058823529	41889	22905	 paced up and down the room, his h	 paced up and down the room, hummi
+radcliffe_udolpho_12_g	31	0.9032258064516129	4269	46827	on the preceding evening, and r	on the preceding evening, what 
+doyle_baskervilles_4_u	31	0.9032258064516129	1437	11889	t seems to me that I have done 	t seems to me that I have spoke
+doyle_baskervilles_4_u	32	0.96875	9254	550	, and yet there was something un	, and yet there was something in
+doyle_baskervilles_4_u	30	0.9	28132	16131	 on the other side of the room	 on the other side of the stre
+doyle_baskervilles_4_u	32	0.9375	44934	11776	 it will not be long before we s	 it will not be long before the 
+christie_secretadversary_10_d	30	0.9	23002	2064	 easy in my mind about them." 	 easy in my mind about the _so
+christie_secretadversary_4_d	30	0.9666666666666667	9862	7144	 He leaned back in his chair a	 He leaned back in his chair, 
+christie_secretadversary_4_d	34	0.9117647058823529	48946	3909	 the door opened, and a tall, gaun	 the door opened, and a tall man w
+doyle_baskervilles_2_u	32	0.90625	5852	1923	d his finger-tips together, to l	d his finger-tips together, and 
+doyle_baskervilles_2_u	31	0.9032258064516129	5853	16066	 his finger-tips together, to l	 his finger-tips together, and 
+doyle_baskervilles_2_u	30	0.9	9865	1891	 leaned back in his chair and 	 leaned back in his chair, pla
+doyle_baskervilles_2_u	30	0.9333333333333333	41947	18594	 an expression of the most pro	 an expression of the most dre
+doyle_baskervilles_2_u	30	0.9666666666666667	47990	18188	 heard the baying of a hound, 	 heard the baying of a hound. 
+doyle_scarlet_1_d	32	0.90625	82	12317	 remarked Sherlock Holmes, tossi	 remarked Sherlock Holmes, stick
+collins_moonstone_76_d	30	0.9	22771	2771	 and composed himself to liste	 and composed himself to sleep
+stoker_dracula_21_g	31	0.9032258064516129	24877	2246	t was easy to see that she was 	t was easy to see that he had s
+reeve_oldenglishbaron	33	0.9090909090909091	9643	3468	 I should be glad to know what th	 I should be glad to know all tha
+doyle_scarlet_8_d	32	0.90625	24590	18596	 could not have been less than t	 could not have been more than t
+collins_moonstone_52_d	31	0.9032258064516129	42091	15403	 could do nothing with him." "T	 could do nothing without him. 

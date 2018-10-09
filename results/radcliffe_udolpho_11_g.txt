@@ -1,0 +1,67 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_38_g	30	0.9	726	2650	 favourite of her father, was 	 favourite of her father, but 
+radcliffe_udolpho_30_g	30	0.9	2914	325	 the accomplishments of his ag	 the accomplishment of his wis
+radcliffe_udolpho_30_g	31	0.9032258064516129	5786	27836	 a very faint recollection of i	 a very faint recollection. It 
+radcliffe_udolpho_30_g	33	0.9090909090909091	8741	22532	 remote part of the chateau, and 	 remote part of the castle, and s
+radcliffe_udolpho_44_g	34	0.9117647058823529	8753	4819	 of the chateau, and there the ser	 of the chateau, and here the Marc
+collins_hauntedhotel_2_u	30	0.9	8779	9798	 the servant opened the door o	 the servant closed the door o
+radcliffe_udolpho_38_g	30	0.9	342	35860	 the door of the chateau, and 	 the door of the chateau, he l
+radcliffe_udolpho_38_g	32	0.90625	2247	35164	 to attend to the conversation, 	 to attend to any conversation, 
+radcliffe_udolpho_51_g	34	0.9117647058823529	1430	25528	 all the money she had about her, 	 all the money he had about him, t
+radcliffe_udolpho_5_g	38	0.9736842105263158	5119	18654	 frequent efforts to appear cheerful, 	 frequent efforts to appear cheerful. 
+collins_moonstone_68_d	32	0.90625	8781	25865	he servant opened the door of a 	he servant opened the door, and 
+lewis_monk_3_g	33	0.9090909090909091	330	23577	 appeared at the door of the chat	 appeared at the door of the Cott
+radcliffe_udolpho_24_g	38	0.9210526315789473	9756	11260	he remembered how often he had blamed 	he remembered how often she had gazed 
+radcliffe_udolpho_24_g	37	0.9459459459459459	9827	11327	 how often he had pointed out to her 	 how often he had pointed out their w
+collins_moonstone_89_d	33	0.9393939393939394	4241	80399	 the means of introducing him to 	 the means of introducing me to c
+radcliffe_udolpho_39_g	30	0.9	2379	4087	. Valancourt, mean while, was 	. Valancourt, meanwhile, lost 
+radcliffe_udolpho_29_g	34	0.9117647058823529	8736	3057	 in a remote part of the chateau, 	 in a remote part of the chamber, 
+radcliffe_udolpho_55_g	31	0.9032258064516129	5000	15445	 departure from La Vallee, of w	 departure from La Vallee, and 
+radcliffe_udolpho_55_g	30	0.9	5983	21871	ance, to which she had been ac	ance, to which he had been enj
+radcliffe_udolpho_46_g	30	0.9	8748	4129	 part of the chateau, and ther	 part of the chateau and every
+walpole_castleofotranto_3_g	30	0.9333333333333333	5674	21728	ted by the arrival of the trav	ted by the arrival of the Fria
+radcliffe_udolpho_1_g	30	0.9333333333333333	1869	4939	 precipices of the Pyrenees, t	 precipices of the Pyrenees. A
+radcliffe_udolpho_6_g	30	0.9666666666666667	1466	15053	e sunk back in the carriage, y	e sunk back in the carriage, a
+radcliffe_udolpho_6_g	32	0.96875	5742	34329	 not been there for many years, 	 not been there for many years. 
+radcliffe_udolpho_6_g	30	0.9	6619	2068	 tried to smile away the expre	 tried to smile away the serio
+radcliffe_udolpho_6_g	34	0.9411764705882353	8138	24578	, and endeavoured to overcome it b	, and endeavoured to overcome the 
+collins_moonstone_70_d	31	0.9032258064516129	2914	9434	 the accomplishments of his age	 the accomplishment of this rig
+doyle_adventures_12_d	30	0.9666666666666667	330	47248	 appeared at the door of the c	 appeared at the door of the r
+radcliffe_udolpho_25_g	31	0.9032258064516129	5257	524	 to the circumstance of her bei	 to the circumstance of the pre
+radcliffe_udolpho_33_g	30	0.9	4902	23249	mily, to whom, however, he had	mily, to whom, however, the li
+radcliffe_udolpho_33_g	36	0.9166666666666666	5991	41787	 which she had been accustomed. She 	 which she had been accustomed to he
+radcliffe_udolpho_33_g	31	0.9354838709677419	8736	20591	 in a remote part of the chatea	 in a remote part of the castle
+radcliffe_udolpho_36_g	30	0.9	390	1399	 in the breakfast-room, when h	 in the breakfast room, where 
+stoker_dracula_12_g	31	0.9032258064516129	393	12589	 the breakfast-room, when her n	 the breakfast-room, where the 
+radcliffe_udolpho_34_g	30	0.9	1775	48918	 among the vineyards, and then	 among the vineyards, and obse
+lewis_monk_4_g	35	0.9142857142857143	5665	98952	 interrupted by the arrival of the 	 interrupted by the arrival of a yo
+radcliffe_udolpho_18_g	30	0.9	4834	4885	 occupied in considering the m	 occupied by considering the p
+radcliffe_udolpho_18_g	36	0.9722222222222222	5987	33913	, to which she had been accustomed. 	, to which she had been accustomed, 
+radcliffe_udolpho_18_g	39	0.9230769230769231	8736	31474	 in a remote part of the chateau, and t	 in a remote part of the castle, and at
+walpole_castleofotranto_1_g	31	0.9032258064516129	8526	11360	 retired to her chamber, and a 	 retired to his chamber, and ha
+christie_secretadversary_23_d	30	0.9	715	7428	 had been a favourite of her f	 had been a favourite on the g
+radcliffe_udolpho_48_g	32	1.0	1463	4258	 she sunk back in the carriage, 	 she sunk back in the carriage, 
+radcliffe_udolpho_48_g	32	0.90625	5260	8713	 the circumstance of her being r	 the circumstance of her having 
+radcliffe_udolpho_48_g	32	0.96875	9756	15103	he remembered how often he had b	he remembered how often she had 
+lewis_monk_10_g	30	0.9	9839	3534	e had pointed out to her the n	e had pointed out to him the a
+lewis_monk_7_g	30	0.9	10098	26972	s, and inspired her with the s	s, and inspired me with the id
+radcliffe_udolpho_10_g	37	0.9459459459459459	9753	9968	, she remembered how often he had bla	, she remembered how often she had sa
+lewis_monk_8_g	34	0.9117647058823529	338	34845	d at the door of the chateau, and 	d at the door of the chamber, and 
+lewis_monk_8_g	30	0.9	2914	34480	 the accomplishments of his ag	 the accomplishment of his wis
+lewis_monk_5_g	30	0.9	2260	47704	 the conversation, which Madam	 the conversation which had pa
+lewis_monk_5_g	30	0.9	4511	36079	 be sufficient to support them	 be sufficient to support Anto
+lewis_monk_6_g	30	0.9333333333333333	5944	35761	 totally different from the mo	 totally different from those 
+doyle_adventures_9_d	35	0.9142857142857143	4237	195	 was the means of introducing him t	 was the means of introducing to hi
+radcliffe_udolpho_12_g	34	1.0	502	35188	d Madame Cheron, whose vanity was 	d Madame Cheron, whose vanity was 
+radcliffe_udolpho_12_g	31	0.9032258064516129	600	38057	 did not contribute to remove i	 did not contribute to restore 
+radcliffe_udolpho_12_g	35	0.9142857142857143	2264	51144	 conversation, which Madame Cheron 	 conversation with Madame Cheron. B
+radcliffe_udolpho_12_g	31	0.9032258064516129	2820	47461	 the Count de Duvarney, his sen	 the Countess de Duvarney, his 
+radcliffe_udolpho_12_g	30	0.9	2918	38154	 accomplishments of his age, a	 accomplishments of this same 
+radcliffe_udolpho_12_g	31	0.9354838709677419	5000	3141	 departure from La Vallee, of w	 departure from La Vallee, now 
+radcliffe_udolpho_12_g	33	0.9090909090909091	5128	26133	 efforts to appear cheerful, and 	 efforts to appear cheerful did n
+radcliffe_udolpho_27_g	31	0.9032258064516129	8739	10254	 a remote part of the chateau, 	 a remote part of the chamber, 
+radcliffe_udolpho_47_g	31	0.9032258064516129	393	2400	 the breakfast-room, when her n	 the breakfast-room, where the 
+radcliffe_udolpho_47_g	31	0.9032258064516129	1880	17200	 of the Pyrenees, that rose to 	 of the Pyrenees, that opens to
+radcliffe_udolpho_54_g	30	0.9	5674	7897	ted by the arrival of the trav	ted by the arrival of the gent
+radcliffe_udolpho_35_g	30	0.9	5944	19820	 totally different from the mo	 totally different from that s
+radcliffe_udolpho_35_g	30	0.9	8747	14834	e part of the chateau, and the	e part of the chateau, and Lad

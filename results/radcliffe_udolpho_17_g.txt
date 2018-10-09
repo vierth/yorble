@@ -1,0 +1,140 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_9_g	30	0.9	4980	9142	 on the following day, he rene	 on the following day, he aske
+radcliffe_udolpho_9_g	30	0.9	9129	6119	, at the sound of whose voice 	, at the sound of his voice, l
+radcliffe_udolpho_9_g	44	0.9090909090909091	9987	2633	 had recovered from the first shock of this 	 had recovered from the first shock of affli
+radcliffe_udolpho_52_g	30	0.9333333333333333	15275	20905	 with an assurance, that her r	 with an assurance, that she c
+lewis_monk_3_g	35	0.9142857142857143	4725	29455	 on the most probable means of prev	 on the most probable means of asce
+radcliffe_udolpho_24_g	30	0.9	3589	14819	d, when she considered, that s	d, when she considered the mys
+collins_moonstone_69_d	30	1.0	968	4748	 have some private reason for 	 have some private reason for 
+doyle_scarlet_14_d	30	0.9	2669	11470	ed by the consciousness of per	ed by the consciousness of suc
+collins_moonstone_89_d	31	0.9032258064516129	5082	37146	ed. There was something so repu	ed. There was something so hide
+collins_moonstone_89_d	32	0.9375	11318	41248	 informed of the circumstances, 	 informed of this circumstance, 
+radcliffe_udolpho_7_g	30	0.9	1029	6885	, for a considerable time, per	, for a considerable time, wit
+radcliffe_udolpho_7_g	93	0.9139784946236559	2393	19074	 how much more valuable is the strength of fortitude than the grace of sensibility, and I wil	 how much more valuable is the strength of fortitude, than the grace of sensibility. Do not, 
+radcliffe_udolpho_39_g	30	0.9	2669	5602	ed by the consciousness of per	ed by the consciousness of no 
+radcliffe_udolpho_39_g	37	0.918918918918919	3590	3927	, when she considered, that she was a	, when she considered, that this was 
+radcliffe_udolpho_39_g	31	0.9032258064516129	15584	7769	 with unutterable anguish on th	 with unutterable anguish, new 
+radcliffe_udolpho_39_g	32	0.90625	16097	16116	ments, which the Count had sent 	ments, which the Count had made 
+austen_northangerabbey_7_g	35	0.9142857142857143	10062	13881	 it would be impossible for him to 	 it would be impossible for you to 
+austen_northangerabbey_15_g	31	0.9032258064516129	1329	4087	 the prospect of a connection w	 the prospect of the connection
+radcliffe_udolpho_23_g	30	0.9	3589	14287	d, when she considered, that s	d, when she considered the nat
+radcliffe_udolpho_23_g	32	0.90625	3590	29267	, when she considered, that she 	, when she considered, that Anne
+radcliffe_udolpho_23_g	30	0.9	4010	5910	 to the tranquillity of the ho	 to the tranquillity of her ea
+radcliffe_udolpho_23_g	31	1.0	4556	7235	 she had never before seen him 	 she had never before seen him 
+radcliffe_udolpho_23_g	33	0.9696969696969697	13461	16935	 endeavoured to support herself b	 endeavoured to support herself. 
+radcliffe_udolpho_23_g	31	0.9354838709677419	13471	19912	ed to support herself by the be	ed to support herself on the be
+radcliffe_udolpho_23_g	30	0.9333333333333333	20109	35433	 for some sound, that might re	 for some sound, that might co
+radcliffe_udolpho_23_g	30	0.9	20495	22559	, that she would have called u	, that she would have failed t
+radcliffe_udolpho_29_g	30	0.9	1030	8260	 for a considerable time, pers	 for a considerable time, when
+radcliffe_udolpho_29_g	32	0.90625	3825	209	 on the preceding night. The lad	 on the preceding night; she had
+radcliffe_udolpho_29_g	30	0.9	3825	2534	 on the preceding night. The l	 on the preceding night, she w
+radcliffe_udolpho_29_g	31	0.9354838709677419	3825	6185	 on the preceding night. The la	 on the preceding night. There 
+radcliffe_udolpho_29_g	30	0.9	9438	1779	 on the subject of her distres	 on the subject of her estates
+radcliffe_udolpho_29_g	30	0.9	14704	6609	ance, were circumstances not l	ance, were circumstances of my
+radcliffe_udolpho_55_g	30	0.9666666666666667	6877	4123	 the nuptials were concluded. 	 the nuptials were concluded, 
+lewis_monk_2_g	33	1.0	1174	81432	 and had positively rejected his 	 and had positively rejected his 
+lewis_monk_2_g	30	0.9	3824	51923	, on the preceding night. The 	, on the preceding night, He h
+radcliffe_udolpho_46_g	31	0.967741935483871	3591	2362	 when she considered, that she 	 when she considered, that he, 
+walpole_castleofotranto_3_g	31	0.9032258064516129	3827	22956	n the preceding night. The ladi	n the preceding night. The Prin
+radcliffe_udolpho_26_g	30	0.9333333333333333	3824	1994	, on the preceding night. The 	, on the preceding night, she 
+radcliffe_udolpho_26_g	33	0.9090909090909091	9132	25465	t the sound of whose voice Emily 	t the sound of his voice, Emily t
+radcliffe_udolpho_26_g	33	0.9393939393939394	10045	11105	 considered, that it would be imp	 considered, that it would be vai
+radcliffe_udolpho_26_g	30	0.9666666666666667	20036	7221	 the door, through which her a	 the door, through which he ha
+radcliffe_udolpho_1_g	30	0.9333333333333333	3990	23348	ed to resign herself to the tr	ed to resign herself to the lo
+collins_moonstone_58_d	31	0.9032258064516129	6710	13657	 a long conversation with M. Qu	 a long conversation with her. 
+radcliffe_udolpho_6_g	31	0.9032258064516129	10043	13330	he considered, that it would be	he considered, that they would 
+radcliffe_udolpho_6_g	30	0.9666666666666667	13457	20344	 she endeavoured to support he	 she endeavoured to support hi
+lewis_monk_9_g	30	0.9	19241	29194	 is nothing to the purpose--fo	 is nothing to the purpose; To
+collins_hauntedhotel_26_u	30	0.9333333333333333	13471	18352	ed to support herself by the b	ed to support himself by the b
+radcliffe_udolpho_16_g	36	0.9444444444444444	2924	5067	. In the cool of the evening, the la	. In the cool of the evening the par
+radcliffe_udolpho_16_g	36	0.9722222222222222	3590	25522	, when she considered, that she was 	, when she considered that she was e
+radcliffe_udolpho_16_g	33	0.9090909090909091	3825	16325	 on the preceding night. The ladi	 on the preceding night. The cool
+radcliffe_udolpho_16_g	35	1.0	3860	71428	 seated themselves in the portico, 	 seated themselves in the portico, 
+radcliffe_udolpho_16_g	30	0.9	4667	37854	 to her own apartment, her min	 to her own apartment, where s
+radcliffe_udolpho_16_g	31	0.9032258064516129	4977	14335	er, on the following day, he re	er, on the following day, seeme
+radcliffe_udolpho_16_g	32	0.9375	8617	42427	 for the last time, that you are	 for the last time, that your pe
+radcliffe_udolpho_16_g	35	0.9142857142857143	16921	13001	 flattered by the distinction: and 	 flattered by the distinction even 
+radcliffe_udolpho_16_g	35	0.9714285714285714	18898	56394	 whatever, madam,' replied Emily, '	 whatever, Madam,' replied Emily, '
+radcliffe_udolpho_25_g	30	0.9	3824	2821	, on the preceding night. The 	, on the preceding night, had 
+radcliffe_udolpho_33_g	30	0.9	1029	36281	, for a considerable time, per	, for a considerable time, una
+radcliffe_udolpho_33_g	30	0.9	13662	3650	 her long-harassed spirits shr	 her long-harassed spirits, be
+radcliffe_udolpho_33_g	30	0.9	15892	33777	 the following morning, when a	 the following morning, she wo
+radcliffe_udolpho_2_g	32	0.90625	11187	9361	 return home immediately; but ch	 return home immediately. But he
+radcliffe_udolpho_15_g	31	0.9032258064516129	15892	128	 the following morning, when al	 the following morning, the tra
+radcliffe_udolpho_15_g	31	0.9354838709677419	15892	8143	 the following morning, when al	 the following morning; when, l
+doyle_baskervilles_9_u	30	0.9	18155	8406	 turned upon his heel, and lef	 turned upon his heel and beck
+radcliffe_udolpho_36_g	30	0.9	3707	15871	 the party returned to the vil	 the party returned to the sho
+radcliffe_udolpho_36_g	31	0.9032258064516129	4126	23495	, she distinguished the voices 	, she distinguished the vessel 
+radcliffe_udolpho_36_g	30	0.9	4979	30479	, on the following day, he ren	, on the following day, of her
+radcliffe_udolpho_36_g	30	0.9	9770	24391	 withdrew to her apartment to 	 withdrew to her apartment, an
+christie_styles_11_d	34	0.9117647058823529	207	27057	 with the air of a man, who is con	 with the air of a man who has don
+stoker_dracula_12_g	30	0.9	19646	1500	 early in the morning, bade he	 early in the morning, and had
+radcliffe_udolpho_34_g	30	0.9	677	14273	 the circumstance, which is so	 the circumstance, which has l
+radcliffe_udolpho_34_g	30	0.9333333333333333	10134	40277	he persisted in refusing to re	he persisted in refusing to co
+austen_northangerabbey_2_g	33	0.9090909090909091	15491	1308	 the fulness of her heart. She of	 the fulness of her heart. Who wo
+lewis_monk_4_g	36	0.9166666666666666	59	80857	 seized the first opportunity of con	 seized the first opportunity to pro
+austen_northangerabbey_28_g	30	0.9	66	1678	 the first opportunity of conv	 the first opportunity of bein
+radcliffe_udolpho_50_g	33	0.9393939393939394	3596	16557	 she considered, that she was as 	 she considered, that she was on 
+radcliffe_udolpho_50_g	30	0.9	8925	50471	 continued, for some time afte	 continued, for some time, ent
+radcliffe_udolpho_50_g	30	0.9	13028	1583	, early in the morning, he adv	, early in the morning, with a
+radcliffe_udolpho_18_g	34	0.9117647058823529	7687	5332	 marriage with the Count would be 	 marriage with the Count could the
+radcliffe_udolpho_18_g	33	0.9393939393939394	19801	33700	 to her own sad reflections. For 	 to her own sad reflections. Her 
+radcliffe_udolpho_13_g	30	0.9	3598	46080	he considered, that she was as	he considered, that there was 
+radcliffe_udolpho_13_g	48	0.9166666666666666	7850	1136	ould be celebrated without further delay, and, i	ould be celebrated without further delay; then, 
+radcliffe_udolpho_13_g	30	0.9333333333333333	8079	45358	 of Montoni's disposition, sup	 of Montoni's disposition, as 
+radcliffe_udolpho_13_g	30	0.9	9779	11150	 to her apartment to think and	 to her apartment, to think, i
+radcliffe_udolpho_13_g	33	0.9090909090909091	10064	46986	t would be impossible for him to 	t would be impossible for you to 
+radcliffe_udolpho_13_g	35	0.9142857142857143	10132	14297	 she persisted in refusing to repea	 she persisted in refusing to hear 
+radcliffe_udolpho_13_g	30	0.9	15134	18973	he had nothing to hope from hi	he had nothing to hope, for wh
+radcliffe_udolpho_13_g	36	0.9166666666666666	15351	33931	 every circumstance, that could be i	 every circumstance that could lead 
+radcliffe_udolpho_13_g	30	0.9	15892	36743	 the following morning, when a	 the following morning, she sh
+radcliffe_udolpho_3_g	33	0.9090909090909091	2876	6497	 had recovered her usual serenity	 had recovered its usual serenity
+radcliffe_udolpho_3_g	32	0.96875	10132	19228	 she persisted in refusing to re	 she persisted in refusing to le
+radcliffe_udolpho_48_g	36	0.9166666666666666	6124	6157	 to the power of Montoni and to the 	 to the power of Montoni, and the tr
+radcliffe_udolpho_48_g	38	0.9473684210526315	6836	26484	e, as soon as he should be informed, t	e, as soon as they should be informed 
+radcliffe_udolpho_48_g	33	0.9696969696969697	9438	26203	 on the subject of her distress, 	 on the subject of her distress. 
+radcliffe_udolpho_48_g	37	0.972972972972973	13457	24992	 she endeavoured to support herself b	 she endeavoured to support herself, 
+radcliffe_udolpho_48_g	37	0.918918918918919	13461	26835	 endeavoured to support herself by th	 endeavoured to support herself with 
+radcliffe_udolpho_48_g	30	0.9	16445	4437	 had been entrusted to her car	 had been entrusted, the carri
+radcliffe_udolpho_48_g	30	0.9	18155	21513	 turned upon his heel, and lef	 turned upon his heel, and pas
+radcliffe_udolpho_22_g	30	0.9	677	6291	 the circumstance, which is so	 the circumstance, which has t
+radcliffe_udolpho_22_g	30	0.9	9761	35971	, and she withdrew to her apar	, and she withdrew to her cham
+radcliffe_udolpho_22_g	30	0.9	12838	16117	 on the following morning. To 	 on the following morning, as 
+radcliffe_udolpho_22_g	30	0.9	18907	32399	, madam,' replied Emily, 'my o	, madam,' replied Emily, 'but 
+radcliffe_udolpho_22_g	30	0.9333333333333333	19379	23776	 be trifled with no longer.' E	 be trifled with no longer. I 
+doyle_scarlet_2_d	30	0.9	12837	561	d on the following morning. To	d on the following morning She
+radcliffe_udolpho_4_g	33	0.9090909090909091	9441	9556	 the subject of her distress, and	 the subject of his distress; and
+stoker_dracula_3_g	33	1.0	7408	21029	 from the presence of the Count, 	 from the presence of the Count, 
+stoker_dracula_3_g	30	0.9333333333333333	7413	27204	 the presence of the Count, wh	 the presence of the Count, an
+lewis_monk_7_g	30	0.9	2669	3253	ed by the consciousness of per	ed by the consciousness of his
+radcliffe_udolpho_10_g	30	0.9	10071	18658	 be impossible for him to comp	 be impossible for him to reca
+radcliffe_udolpho_10_g	32	0.90625	19405	20993	.' Emily made no attempt to repl	.' Emily made no attempt to inte
+radcliffe_udolpho_10_g	30	0.9333333333333333	19487	27260	n, and she knew it would be us	n, and she knew it would be hi
+lewis_monk_8_g	35	0.9142857142857143	10057	30646	 that it would be impossible for hi	 that it would seem impossible for 
+lewis_monk_6_g	30	0.9	4913	19562	 throwing herself upon his gen	 throwing herself upon his bos
+lewis_monk_6_g	32	0.90625	15135	41904	e had nothing to hope from his j	e had nothing to hope from such 
+austen_northangerabbey_16_g	30	0.9333333333333333	10062	2628	 it would be impossible for hi	 it would be impossible for an
+doyle_adventures_9_d	30	0.9	1490	37183	 stand in the way of his ambit	 stand in the way of his littl
+radcliffe_udolpho_12_g	30	0.9	2669	5188	ed by the consciousness of per	ed by the consciousness of Mad
+radcliffe_udolpho_12_g	30	0.9	4647	7379	hen she could retire to her ow	hen she could retire to the re
+radcliffe_udolpho_12_g	37	1.0	7511	11820	 her own apartment. On the following 	 her own apartment. On the following 
+radcliffe_udolpho_12_g	30	0.9	9441	43202	 the subject of her distress, 	 the subject of my distress,' 
+radcliffe_udolpho_12_g	32	0.90625	15351	25737	 every circumstance, that could 	 every circumstance, that unfold
+radcliffe_udolpho_12_g	30	0.9333333333333333	15892	11842	 the following morning, when a	 the following morning, she wa
+radcliffe_udolpho_12_g	30	0.9	19708	14598	,' said Emily, with a deep sig	,' said Emily, with a design o
+lewis_monk_1_g	35	0.9142857142857143	10057	956	 that it would be impossible for hi	 that it would be impossible to fin
+lewis_monk_1_g	30	0.9	11187	3657	 return home immediately; but 	 return home immediately; The 
+radcliffe_udolpho_27_g	30	0.9	3589	6550	d, when she considered, that s	d, when she considered what co
+radcliffe_udolpho_27_g	31	0.9354838709677419	4728	5383	 the most probable means of pre	 the most probable means of dec
+radcliffe_udolpho_14_g	30	0.9	3825	1642	 on the preceding night. The l	 on the preceding night: the r
+radcliffe_udolpho_14_g	31	0.9032258064516129	4486	2895	 attention she had scarcely bel	 attention. She had scarcely lo
+radcliffe_udolpho_14_g	33	0.9393939393939394	20526	19844	 Annette, her aunt's woman, had h	 Annette, her aunt's woman, that 
+radcliffe_udolpho_49_g	32	0.90625	11327	1512	 of the circumstances, that occa	 of the circumstances, that had 
+radcliffe_udolpho_49_g	31	0.9032258064516129	15892	1698	 the following morning, when al	 the following morning, she tra
+radcliffe_udolpho_49_g	41	0.926829268292683	16004	1579	. The evening was far advanced, when Mada	. The evening was so far advanced, when M
+radcliffe_udolpho_54_g	32	0.96875	4131	19696	 distinguished the voices of Mon	 distinguished the voice of Mons
+radcliffe_udolpho_54_g	30	0.9333333333333333	15892	23570	 the following morning, when a	 the following morning, she wa
+radcliffe_udolpho_54_g	30	0.9	16007	19004	he evening was far advanced, w	he evening was so far advanced
+collins_moonstone_65_d	31	0.9032258064516129	3525	1112	 the purpose of enforcing her o	 the purpose of forcing the mos
+radcliffe_udolpho_35_g	30	0.9333333333333333	1028	19749	d, for a considerable time, pe	d, for a considerable time, a 
+radcliffe_udolpho_35_g	34	0.9117647058823529	7413	5919	 the presence of the Count, who, w	 the presence of the Countess who 

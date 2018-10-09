@@ -1,0 +1,23 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_5_g	31	0.9032258064516129	9772	5033	ing among the rocks, and the da	ing among the rocks, and his va
+radcliffe_udolpho_17_g	37	0.918918918918919	1165	9991	 recovered from the first shock it ha	 recovered from the first shock of th
+radcliffe_udolpho_9_g	37	0.918918918918919	1165	2637	 recovered from the first shock it ha	 recovered from the first shock of af
+collins_moonstone_89_d	33	0.9090909090909091	6119	45752	he could have committed the crime	he could have committed the murde
+shelley_frankenstein_37_g	30	0.9666666666666667	4028	2647	e monster whom I had created s	e monster whom I had created. 
+shelley_frankenstein_34_g	34	0.9117647058823529	2459	9846	 retired to our house at Belrive. 	 retired to our house near Belrive
+poe_marieroget_1_d	30	0.9333333333333333	6188	61883	he would have been the most de	he would have been the most il
+austen_northangerabbey_21_g	31	0.9032258064516129	6394	8344	 as if it had been her own! I c	 as if it had been her own cham
+shelley_frankenstein_55_g	42	0.9285714285714286	0	7109	Nothing is more painful to the human mind 	Nothing is so painful to the human mind as
+shelley_frankenstein_55_g	34	0.9411764705882353	4026	9275	the monster whom I had created sho	the monster whom I had created, th
+shelley_frankenstein_53_g	37	0.9459459459459459	12149	18425	 and listening to the rushing of the 	 and listening to the dashing of the 
+radcliffe_udolpho_2_g	30	0.9333333333333333	2508	11444	 particularly agreeable to me.	 particularly agreeable to Fre
+collins_moonstone_74_d	30	0.9	12075	11239	 at the window watching the pa	 at the window waiting the arr
+radcliffe_udolpho_50_g	31	0.9032258064516129	9772	20370	ing among the rocks, and the da	ing among the rocks, and it gra
+radcliffe_udolpho_3_g	30	0.9	6807	7681	 the edge of a precipice, towa	 the edge of a precipice, whic
+radcliffe_udolpho_3_g	31	0.9032258064516129	9772	8606	ing among the rocks, and the da	ing among the rocks, and often 
+radcliffe_udolpho_4_g	30	0.9	9791	24784	, and the dashing of the water	, and the roaring of the water
+shelley_frankenstein_49_g	40	0.975	11909	9375	 I arrived at the village of Chamounix. 	 I arrived at the village of Chamounix; 
+radcliffe_udolpho_10_g	30	0.9	4235	4458	 the recollection of the past.	 the recollection of the sente
+radcliffe_udolpho_10_g	33	0.9090909090909091	7486	15526	s an expression of despair, and s	s an expression of despair on his
+doyle_scarlet_12_d	30	0.9	6805	4095	on the edge of a precipice, to	on the edge of the precipice, 
+austen_northangerabbey_3_g	32	0.90625	7159	7607	 listened to this discourse with	 listened to their discourse, th

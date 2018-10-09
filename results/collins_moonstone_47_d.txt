@@ -1,0 +1,30 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_70_d	30	0.9666666666666667	353	17288	 that Mr. Franklin Blake was e	 that Mr. Franklin Blake was a
+radcliffe_udolpho_16_g	31	0.9032258064516129	14745	47538	 conversation on the subject of	 conversation on this subject, 
+doyle_baskervilles_11_u	30	0.9	13626	15332	 be surprised to hear that Pen	 be surprised to hear that his
+stoker_dracula_20_g	31	0.9032258064516129	10647	5348	 shook his head, and said he di	 shook his head, and said: "I d
+collins_moonstone_80_d	30	0.9	5918	9366	 (saving your presence), some 	 (saving your presence), when 
+collins_moonstone_80_d	31	0.967741935483871	6957	1932	e of our famous Latour claret, 	e of our famous Latour claret l
+doyle_baskervilles_7_u	30	0.9	13625	14540	t be surprised to hear that Pe	t be surprised to learn that w
+christie_styles_11_d	30	0.9666666666666667	14745	7523	 conversation on the subject o	 conversation on the subject. 
+lewis_monk_4_g	31	0.9032258064516129	3494	38635	 have the honour of educating h	 have the honour of conducting 
+collins_moonstone_74_d	30	0.9	14753	19097	ation on the subject of the ju	ation on the subject of her ma
+dickens_christmascarole_1_g	30	0.9333333333333333	10642	10804	, and shook his head, and said	, and shook his head, and hand
+christie_secretadversary_17_d	30	0.9	7956	21765	s in the presence of the lady 	s in the presence of the man w
+lewis_monk_8_g	30	0.9	1675	2664	ould have prevented me from th	ould have prevented him from s
+collins_moonstone_53_d	30	0.9333333333333333	353	5842	 that Mr. Franklin Blake was e	 that Mr. Franklin Blake wante
+lewis_monk_5_g	30	0.9333333333333333	7914	21599	 He requested permission to sh	 He requested permission to en
+collins_moonstone_50_d	30	0.9	6089	23280	 the twenty-fifth of May, we w	 the twenty-fifth of May, and 
+collins_moonstone_50_d	31	0.9032258064516129	6460	12389	 my lady and Miss Rachel (not e	 my lady and Miss Rachel at the
+collins_moonstone_50_d	31	0.9032258064516129	8951	11415	 the three Indian jugglers inst	 the three Indian jugglers at o
+collins_moonstone_60_d	31	0.9032258064516129	5207	8249	 as I could understand it. He w	 as I could understand it, the 
+collins_moonstone_76_d	38	0.9210526315789473	1350	4507	 eighteen hundred and forty-eight. “Ga	 eighteen hundred and forty-eight that
+collins_moonstone_49_d	61	0.9016393442622951	9081	1836	 that they meant some mischief to Mr. Franklin Blake. Mr. Fra	 that they meant some mischief to Mr. Franklin Blake. “Who’s 
+collins_moonstone_49_d	111	0.9009009009009009	11700	3938	Is it on the road to this house, and on no other, that the English gentleman will travel today?” The boy said, 	Is it on the road to this house, and on no other, that the English gentleman will travel today?’ ‘Has the Engli
+collins_moonstone_49_d	103	0.912621359223301	11817	3943	 on the road to this house, and on no other, that the English gentleman will travel today.” The Indian 	 on the road to this house, and on no other, that the English gentleman will travel today?’ ‘Has the En
+collins_moonstone_49_d	49	0.9183673469387755	11982	4036	Has the English gentleman got It about him?” The 	Has the English gentleman got It about him?’ I su
+collins_moonstone_49_d	49	0.9183673469387755	13803	4036	Has the English gentleman got It about him? “Oh, 	Has the English gentleman got It about him?’ I su
+doyle_scarlet_8_d	44	0.9772727272727273	1336	2848	fourth of May, eighteen hundred and forty-ei	fourth of May, eighteen hundred and forty-se
+collins_moonstone_65_d	33	0.9393939393939394	7912	418	t. He requested permission to sho	t. He requested permission to jus
+collins_moonstone_52_d	30	0.9666666666666667	5707	5408	 here, there, and everywhere; 	 here, there, and everywhere, 
+collins_moonstone_52_d	30	0.9	6567	14398	 in the neighbourhood. When th	 in the neighbourhood. We shal

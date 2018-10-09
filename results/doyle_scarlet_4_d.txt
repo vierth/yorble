@@ -1,0 +1,5 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_secretadversary_4_d	30	0.9	4729	10185	me to the conclusion that I am	me to the conclusion that Danv
+doyle_baskervilles_2_u	36	0.9166666666666666	2864	482	 monograph upon the subject. I flatt	 monograph upon the subject. I put t
+doyle_scarlet_1_d	30	0.9333333333333333	9745	8723	 sprang to his feet with a fri	 sprang to his feet with a cry
+doyle_scarlet_8_d	33	0.9090909090909091	4726	11312	 come to the conclusion that I am	 come to the conclusion that one 

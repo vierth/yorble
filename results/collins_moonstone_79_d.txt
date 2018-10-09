@@ -1,0 +1,36 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+poe_marieroget_1_d	31	0.9032258064516129	2390	53982	 under these circumstances; the	 under the circumstances, there
+poe_marieroget_1_d	30	0.9	2693	81306	. On the other hand, it is no 	. On the other hand, it is exc
+doyle_signoffour_6_d	30	0.9	5159	5096	 for the second time that Miss	 for the second time that nigh
+collins_moonstone_47_d	30	0.9666666666666667	25	1350	 eighteen hundred and forty-ni	 eighteen hundred and forty-ei
+collins_moonstone_47_d	33	0.9393939393939394	3061	8066	 the last person in the world who	 the last person in the world to 
+collins_moonstone_77_d	31	0.967741935483871	4801	8641	s the speediest way of setting 	s the speediest way of getting 
+collins_moonstone_70_d	31	0.9032258064516129	3055	10033	he was the last person in the w	he was the first person in the 
+collins_moonstone_56_d	30	0.9666666666666667	3057	17539	 was the last person in the wo	 was the last person in the ro
+collins_moonstone_80_d	30	0.9	5638	718	 with a personal interview at 	 with a personal interview. “H
+doyle_adventures_4_d	33	0.9090909090909091	2392	6691	nder these circumstances; they fo	nder these circumstances the youn
+collins_moonstone_67_d	30	0.9	3270	4121	 all that had happened in my a	 all that had happened in the 
+collins_moonstone_67_d	30	1.0	4245	26322	 of the late Sir John Verinder	 of the late Sir John Verinder
+collins_moonstone_67_d	396	0.9	7472	2244	The valuable assistance which you rendered to the inquiry after the lost jewel is still an unpardoned offence, in the present dreadful state of Rachel’s mind. Moving blindfold in this matter, you have added to the burden of anxiety which she has had to bear, by innocently threatening her secret with discovery through your exertions.” “Is it possible,” I asked, “that the feeling towards me whic	The valuable assistance which you rendered to the inquiry after the lost jewel is still an unpardoned offence, in the present dreadful state of Rachel’s mind. Moving blindfold in this matter, you have added to the burden of anxiety which she has had to bear, by innocently threatening her secret with discovery, through your exertions. It is impossible for me to excuse the perversity that holds 
+collins_moonstone_67_d	35	1.0	8368	2277	 rendered to the inquiry after the 	 rendered to the inquiry after the 
+collins_moonstone_67_d	32	0.90625	8414	2331	 an unpardoned offence, in Rache	 an unpardoned offence, in the p
+collins_moonstone_67_d	38	0.9210526315789473	10410	13307	 I was obliged to wait a moment before	 I was obliged to wait a moment. Serge
+shelley_frankenstein_32_g	30	0.9333333333333333	182	8299	 which I had communicated to m	 which I have communicated to 
+collins_hauntedhotel_6_u	30	0.9	2389	1346	n under these circumstances; t	n under the circumstances. Lit
+lewis_monk_4_g	30	0.9	722	20882	 made his appearance, with the	 made his appearance with a ce
+collins_moonstone_74_d	30	0.9	3852	22392	eflection had convinced her of	eflection has convinced her th
+collins_moonstone_72_d	33	0.9393939393939394	868	18361	 one of the letters, which had a 	 one of the letters which I had a
+walpole_castleofotranto_5_g	30	0.9	3976	10003	 heard the story of the past, 	 heard the story of the Giant 
+doyle_adventures_9_d	30	0.9	10009	30666	n the position in which I stoo	n the position in which I met 
+collins_hauntedhotel_25_u	33	0.9090909090909091	8080	11508	 rang the bell, and directed my s	 rang the bell, and directed the 
+collins_moonstone_50_d	30	0.9	6623	16696	 the insult offered to me in t	 the insult offered to me as a
+doyle_scarlet_12_d	31	0.9032258064516129	681	16347	. At the end of that time the m	. At the end of that time, howe
+doyle_scarlet_12_d	31	0.9032258064516129	1709	7620	 persuaded himself that he actu	 persuaded himself that they mu
+collins_moonstone_60_d	30	0.9	5818	3869	 little sitting-room, and foun	 little sitting-room, and clos
+collins_moonstone_76_d	30	0.9666666666666667	25	4507	 eighteen hundred and forty-ni	 eighteen hundred and forty-ei
+collins_moonstone_76_d	39	0.9230769230769231	3931	17678	 release from her marriage engagement. 	 release from a marriage engagement. Th
+collins_moonstone_76_d	30	0.9	4248	1518	 the late Sir John Verinder—on	 the late Sir John Verinder. S
+collins_moonstone_76_d	31	0.9032258064516129	4915	23391	ed me that Miss Verinder was ou	ed me that Miss Verinder would 
+collins_moonstone_76_d	30	0.9333333333333333	9433	4751	 was the first person whom I s	 was the first person whom she
+doyle_scarlet_8_d	32	0.90625	25	2862	 eighteen hundred and forty-nine	 eighteen hundred and forty-seve
+collins_moonstone_65_d	30	0.9	4723	12155	 whether Miss Verinder was at 	 whether Miss Verinder had an 

@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_13_g	30	0.9	25078	23423	ed the passion that had taken 	ed the passion, that had trans
+austen_northangerabbey_26_g	31	0.9032258064516129	31633	11153	 the master of the house, havin	 the master of the house, and m
+austen_northangerabbey_1_g	30	0.9	10502	3573	 at the back of the house. It 	 at the back of the house. Suc
+dickens_christmascarole_1_g	34	0.9411764705882353	9406	6566	 Out upon merry Christmas! What go	 Out upon merry Christmas! What's 
+shelley_frankenstein_40_g	31	0.9032258064516129	22918	186	. During the whole of this time	. During the whole of this wret
+radcliffe_udolpho_4_g	38	0.9736842105263158	93	6819	 he could scarcely distinguish the tra	 he could scarcely distinguish the roa
+dickens_christmascarole_3_g	35	0.9428571428571428	5491	4170	. "I am the Ghost of Christmas Past	. "I am the Ghost of Christmas Pres
+dickens_christmascarole_3_g	31	0.967741935483871	5498	36931	 the Ghost of Christmas Past." 	 the Ghost of Christmas Past. W
+dickens_christmascarole_3_g	35	0.9142857142857143	9272	30348	 each other Merry Christmas, as the	 each other Merry Christmas in thei
+dickens_christmascarole_3_g	30	1.0	25324	36931	 the Ghost of Christmas Past. 	 the Ghost of Christmas Past. 
+dickens_christmascarole_3_g	30	0.9	28402	3926	!" exclaimed the Ghost. "No mo	!" exclaimed the Ghost. "Come 
+christie_secretadversary_17_d	31	0.9032258064516129	1736	7586	 could make nothing of it. The 	 could make nothing of it. Did 
+reeve_oldenglishbaron_	34	0.9117647058823529	14084	5177	 her arms about his neck, and ofte	 her arms about his neck, and wept
+lewis_monk_10_g	31	0.9032258064516129	7588	11146	, clasping his hands together, 	, clasping her hands together w
+stoker_dracula_1_g	32	0.90625	3370	28899	 himself face to face with the u	 himself face to face with such 
+collins_moonstone_62_d	31	0.9354838709677419	8516	9062	 appeared in the distance, with	 appeared in the distance, thro
+collins_hauntedhotel_25_u	30	0.9	14084	8605	 her arms about his neck, and 	 her arms round his neck, and 
+stoker_dracula_9_g	30	0.9	22477	12917	hen the clock struck eleven, t	hen the clock struck twelve it
+collins_moonstone_76_d	32	0.90625	26749	10868	 that I have thought of it, and 	 that I had thought of him, and 
+stoker_dracula_21_g	30	0.9	15009	6819	 tried to touch his head; but 	 tried to turn his head; but e

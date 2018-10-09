@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_19_g	31	1.0	3289	17478	er attention wandered from the 	er attention wandered from the 
+radcliffe_udolpho_19_g	31	0.9032258064516129	11411	48198	 the foot of the bed, with the 	 the foot of the bed, whom she 
+collins_hauntedhotel_21_u	32	0.90625	12048	12434	 spot on the ceiling, which the 	 spot on the ceiling which had s
+austen_northangerabbey_8_g	30	0.9	3501	8460	 she could think of nothing wh	 she could think of anything t
+collins_moonstone_54_d	42	0.9523809523809523	1849	24504	or the first time in her experience of her	or the first time in our experience of her
+radcliffe_udolpho_44_g	30	0.9333333333333333	325	6429	 now opened the doors of the w	 now opened the door of the be
+radcliffe_udolpho_44_g	30	0.9	1963	13289	 the remembrance of the dead M	 the remembrance of the desola
+collins_moonstone_75_d	31	0.9032258064516129	7584	7790	, as a matter of course, was in	, as a matter of course, have n
+collins_hauntedhotel_17_u	30	0.9333333333333333	75	11261	 on her dressing-gown, and, tu	 on her dressing-gown, and rus
+radcliffe_udolpho_17_g	30	0.9	9444	7413	 the presence of the Countess 	 the presence of the Count, wh
+collins_hauntedhotel_24_u	30	0.9666666666666667	12826	4629	 the vaults of the old palace-	 the vaults of the old palace 
+collins_moonstone_89_d	31	0.9032258064516129	1167	27150	 he turned the corner of a dist	 he turned the corner of the st
+poe_marieroget_1_d	30	0.9	578	21369	 until the next morning. The o	 until the next morning, when 
+collins_moonstone_58_d	40	0.925	1849	13942	or the first time in her experience of h	or the first time in my experience of hi
+radcliffe_udolpho_6_g	31	0.9032258064516129	1617	41520	. Her thoughts reverted to the 	. Her thoughts returned to the 
+lewis_monk_9_g	32	0.90625	1960	47425	 by the remembrance of the dead 	 by the remembrance of these bea
+lewis_monk_9_g	30	0.9666666666666667	3291	58250	 attention wandered from the b	 attention wandered from the P
+collins_moonstone_77_d	34	0.9117647058823529	8094	117	or, to speak more correctly, she h	or, to speak more correctly, on th
+stoker_dracula_11_g	32	0.90625	6264	19659	ting over and over again the bun	ting over and over again: "The b
+stoker_dracula_10_g	30	0.9	6265	23775	ing over and over again the bu	ing over and over again how Lu
+doyle_adventures_4_d	30	0.9	4519	23469	 tried to interest herself in 	 tried to interest myself in a
+dickens_christmascarole_2_g	31	0.9354838709677419	5918	3096	. The curtains of the bed were 	. The curtains of his bed were 
+dickens_christmascarole_2_g	31	0.9354838709677419	5918	3264	. The curtains of the bed were 	. The curtains of his bed were 
+christie_styles_5_d	30	0.9	9261	20052	the woman who had warned her t	the woman who had warned me so
+lewis_monk_4_g	31	0.9354838709677419	10736	28001	 stretched out her hand to the 	 stretched out her hand to me. 
+stoker_dracula_3_g	30	0.9	9444	21034	 the presence of the Countess 	 the presence of the Count, an
+stoker_dracula_3_g	30	0.9	9444	27204	 the presence of the Countess 	 the presence of the Count, an
+collins_hauntedhotel_11_u	30	0.9	1492	1790	 literally the silence of the 	 literally, the silence of fea
+collins_moonstone_84_d	43	0.9302325581395349	1846	282	. For the first time in her experience of h	. For the first time in my experience of hi
+collins_hauntedhotel_10_u	30	0.9	5437	7519	 herself in the glass, as she 	 herself in the glass, and whe
+collins_hauntedhotel_10_u	30	0.9	10975	2592	 between her face and the ceil	 between her face and the fire
+collins_moonstone_49_d	31	0.9032258064516129	13330	9345	 themselves, bright with the gl	 themselves right with the worl
+radcliffe_udolpho_35_g	33	0.9393939393939394	9444	5919	 the presence of the Countess pro	 the presence of the Countess who

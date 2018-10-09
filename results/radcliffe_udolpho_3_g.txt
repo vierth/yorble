@@ -1,0 +1,34 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+christie_styles_2_d	36	0.9166666666666666	1563	2673	 suggested that he should return no 	 suggested that we should return by 
+radcliffe_udolpho_48_g	30	0.9	2400	9435	 could not restrain her transp	 could not restrain her tears,
+stoker_dracula_24_g	33	0.9393939393939394	4016	11821	 some of those combinations of fo	 some of these combinations of oc
+reeve_oldenglishbaron	32	1.0	1373	28443	ers proceeded on their journey. 	ers proceeded on their journey. 
+doyle_scarlet_2_d	30	0.9	19824	4010	 good reason for doing so. Onc	 good reason for doing so. His
+radcliffe_udolpho_4_g	36	0.9166666666666666	3939	18209	 of the Latin and Italian poets; whi	 of the Latin and Italian poets as h
+radcliffe_udolpho_4_g	30	0.9	6971	23998	r calculated that they could e	r calculation that they could 
+radcliffe_udolpho_4_g	30	0.9	8606	24531	ing among the rocks, and often	ing among the rocks, and a cot
+radcliffe_udolpho_4_g	30	0.9333333333333333	9391	18964	 higher regions of the air tha	 higher regions of the air, wh
+radcliffe_udolpho_4_g	43	0.9302325581395349	10370	27694	 the distant perspective of the valley in s	 the distant perspective of the valley was 
+radcliffe_udolpho_4_g	30	0.9	11196	24680	 the muleteer to stop, and the	 the muleteer stop, and then c
+radcliffe_udolpho_4_g	35	0.9428571428571428	11371	13168	 to proceed as fast as possible; wh	 to proceed as fast as possible. Th
+radcliffe_udolpho_4_g	30	0.9	14481	25886	,' said St. Aubert, 'and, if I	,' said St. Aubert, 'and wish 
+radcliffe_udolpho_4_g	34	0.9117647058823529	17852	13555	h superior to any he had seen. Thi	h superior to any they had seen si
+radcliffe_udolpho_4_g	30	0.9	18670	30381	 the voice of the muleteer was	 the voice of the muleteer ech
+christie_secretadversary_17_d	30	0.9	12037	2226	 informed him, that it was onl	 informed him that it was nine
+lewis_monk_10_g	32	0.9375	983	22369	t it was scarcely possible for h	t it was scarcely possible to he
+christie_styles_8_d	30	0.9666666666666667	11858	18168	 After a moment's hesitation, 	 After a moment’s hesitation, 
+lewis_monk_8_g	45	0.9111111111111111	983	8932	t it was scarcely possible for him to feel on	t it was scarcely possible for him to reply. 
+lewis_monk_5_g	30	0.9	20867	2705	 was somewhat surprised to fin	 was somewhat surprised on ent
+radcliffe_udolpho_21_g	30	0.9	15900	5619	, if such they could be called	, if such it could be called, 
+radcliffe_udolpho_12_g	31	0.9032258064516129	5291	1349	 the surrounding objects, so as	 the surrounding objects, the s
+radcliffe_udolpho_12_g	31	0.9032258064516129	20589	50933	er. Valancourt, however, was po	er. Valancourt, however, had no
+lewis_monk_1_g	31	0.9032258064516129	12169	15435	 thanked him for the offer, and	 thanked him for the offer by a
+radcliffe_udolpho_14_g	31	0.9032258064516129	5077	12320	 rest, and the travellers aligh	 rest, and the travellers being
+radcliffe_udolpho_14_g	32	0.9375	9604	8875	s of the mountains, under the sh	s of the mountains under the pas
+radcliffe_udolpho_14_g	30	0.9	12965	8310	 Emily, as she looked up one o	 Emily, as she looked upon its
+radcliffe_udolpho_41_g	32	0.90625	20234	16546	, and desired she would let the 	, and desired we would let her d
+doyle_scarlet_12_d	30	0.9	4377	2452	 among the mountains, and, ben	 among the mountains, and he h
+radcliffe_udolpho_47_g	49	0.9183673469387755	14754	3466	 then, seeming to recollect himself, he resumed: 	 then, seeming to recollect himself, he smiled, a
+radcliffe_udolpho_54_g	30	0.9	20867	14921	 was somewhat surprised to fin	 was somewhat surprised at thi
+reeve_oldenglishbaron	32	1.0	1373	28443	ers proceeded on their journey. 	ers proceeded on their journey. 
+christie_styles_4_d	30	0.9	11860	12262	fter a moment's hesitation, St	fter a moment’s hesitation, cl

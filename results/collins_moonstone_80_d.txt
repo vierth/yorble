@@ -1,0 +1,38 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_4_d	30	0.9	1331	10667	 under the circumstances, to o	 under the circumstances, and 
+doyle_adventures_4_d	33	0.9090909090909091	9679	1905	Have you heard anything of him la	Have you heard anything of the ca
+doyle_adventures_4_d	30	0.9	10693	42697	 that he was possessed of some	 that he was possessed of unus
+collins_moonstone_67_d	30	0.9666666666666667	2356	6916	, after what had happened in L	, after what had happened in i
+collins_moonstone_67_d	30	0.9	3255	9267	 the late Mrs. Betteredge pret	 the late Mrs. Betteredge came
+collins_moonstone_67_d	31	1.0	13506	23442	 this matter of the Moonstone, 	 this matter of the Moonstone, 
+collins_moonstone_67_d	33	0.9393939393939394	13506	25027	 this matter of the Moonstone, wh	 this matter of the Moonstone the
+christie_styles_11_d	30	0.9	5418	2441	e shook his head gravely. “I a	e shook his head gravely. “Whe
+lewis_monk_4_g	30	0.9	346	45753	ing backwards and forwards bet	ing backwards and forwards in 
+collins_moonstone_74_d	33	0.9090909090909091	346	3029	ing backwards and forwards betwee	ing backwards and forwards by the
+collins_moonstone_74_d	30	0.9	1331	22823	 under the circumstances, to o	 under the circumstances, was 
+collins_moonstone_74_d	32	0.90625	6523	14806	ith the greatest pleasure.” We w	ith the greatest pleasure. A wal
+collins_moonstone_72_d	32	0.90625	12284	7606	 the loss of the Moonstone, is t	 the loss of the Moonstone, let 
+collins_moonstone_72_d	30	0.9	13078	4514	 place in your estimation, or 	 place in your estimation was 
+collins_moonstone_72_d	30	0.9	13078	9654	 place in your estimation, or 	 place in your estimation, hav
+walpole_castleofotranto_1_g	30	0.9	346	17509	ing backwards and forwards bet	ing backwards and forwards in 
+radcliffe_udolpho_22_g	31	0.9032258064516129	6305	8289	 stay in the neighbourhood, I c	 stay in the neighbourhood! By 
+collins_hauntedhotel_19_u	35	0.9428571428571428	5376	2369	I have something to say to you.” Be	I have something to say to you.' He
+collins_moonstone_73_d	30	0.9	1331	219	 under the circumstances, to o	 under the circumstances, as L
+collins_moonstone_84_d	32	0.90625	1331	2943	 under the circumstances, to ove	 under the circumstances—to one 
+collins_moonstone_53_d	32	1.0	349	8926	 backwards and forwards between 	 backwards and forwards between 
+collins_moonstone_53_d	34	0.9117647058823529	5377	7223	 have something to say to you.” Be	 have something to say to you then
+collins_moonstone_53_d	30	0.9333333333333333	8300	10993	 had something to say to me? I	 had something to say to me. S
+lewis_monk_6_g	30	0.9	14778	18228	 at the same moment, I heard t	 at the same moment He heard a
+stoker_dracula_9_g	30	0.9666666666666667	2150	11100	 of the deserted house, and re	 of the deserted house, and we
+collins_moonstone_66_d	37	0.918918918918919	3201	6768	 of the late Mrs. Betteredge?” I had 	 of the late Mrs. Betteredge,” I said
+collins_moonstone_66_d	31	0.9354838709677419	3252	6768	 of the late Mrs. Betteredge pr	 of the late Mrs. Betteredge,” 
+collins_moonstone_66_d	33	0.9090909090909091	12284	4314	 the loss of the Moonstone, is th	 the loss of the Moonstone, on Th
+collins_moonstone_66_d	31	0.9032258064516129	13518	17777	 of the Moonstone, which she wa	 of the Moonstone, which I shal
+collins_moonstone_76_d	31	0.9354838709677419	12284	15820	 the loss of the Moonstone, is 	 the loss of the Moonstone was 
+collins_moonstone_76_d	32	0.90625	12284	21343	 the loss of the Moonstone, is t	 the loss of the Moonstone, out 
+collins_moonstone_76_d	31	0.9032258064516129	13518	1010	 of the Moonstone, which she wa	 of the Moonstone, which has a 
+christie_secretadversary_15_d	32	0.90625	5649	11281	fter a moment’s reflection, “the	fter a moment’s reflection she s
+collins_moonstone_49_d	31	0.9032258064516129	3255	2597	 the late Mrs. Betteredge prett	 the late Mrs. Betteredge posse
+collins_moonstone_49_d	34	1.0	5375	271	 I have something to say to you.” 	 I have something to say to you.” 
+collins_moonstone_65_d	36	0.9166666666666666	12056	15547	 the Diamond is at the bottom of it 	 the Diamond at the bottom of it. Ho
+collins_moonstone_65_d	32	0.96875	12282	6568	to the loss of the Moonstone, is	to the loss of the Moonstone,” s

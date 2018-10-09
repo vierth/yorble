@@ -1,0 +1,56 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_19_g	30	0.9333333333333333	5868	9191	 which she had passed in the h	 which she had passed, on the 
+collins_moonstone_59_d	33	0.9090909090909091	10616	3111	 first opportunity of trying to r	 first opportunity of getting to 
+collins_moonstone_55_d	36	0.9444444444444444	10121	2090	 the first thing to-morrow morning. 	 the first thing tomorrow morning,” 
+doyle_signoffour_12_d	31	0.9032258064516129	4181	18730	 in the vaults of the palace,' 	 in the vaults of his palace, b
+shelley_frankenstein_38_g	30	0.9333333333333333	7048	4795	, with the exception of the he	, with the exception of her ne
+christie_styles_7_d	33	0.9090909090909091	7048	16073	, with the exception of the head-	, with the exception of the serva
+collins_moonstone_75_d	31	0.967741935483871	8740	12824	 let us understand each other o	 let us understand each other, 
+collins_moonstone_75_d	30	0.9	9248	22701	I have a last word to say, and	I have a last word to say, whi
+shelley_frankenstein_56_g	40	1.0	14697	45539	. End of the Project Gutenberg EBook of 	. End of the Project Gutenberg EBook of 
+lewis_monk_12_g	48	0.9375	14697	40803	. End of the Project Gutenberg EBook of The Haun	. End of the Project Gutenberg EBook of The Monk
+collins_hauntedhotel_17_u	37	0.918918918918919	9394	10945	ed in the old days of the palace, nob	ed in the old days of the palace by B
+collins_hauntedhotel_17_u	30	0.9333333333333333	11648	9215	 the first Lord Montbarry. Hen	 the first Lord Montbarry. She
+collins_hauntedhotel_17_u	35	0.9428571428571428	12115	12099	d that the late Lord Montbarry had 	d that the late Lord Montbarry was 
+collins_moonstone_68_d	33	0.9090909090909091	14293	25485	 this extraordinary conduct (and 	 this extraordinary conduct on Ra
+collins_hauntedhotel_24_u	34	0.9411764705882353	9602	2561	The supernatural influences that s	The supernatural influences have s
+collins_hauntedhotel_24_u	30	0.9	9928	1323	 looked back into the room. 'Y	 looked back into the room as 
+collins_hauntedhotel_24_u	30	0.9	10414	10882	 means of inquiry when he and 	 means of inquiry when other a
+stoker_dracula_19_g	34	0.9117647058823529	9573	15681	 anything that has happened. The s	 anything that has happened. I res
+collins_moonstone_64_d	34	0.9117647058823529	1767	3537	, he stopped, and looked at his br	, he stopped, and looked at the ra
+radcliffe_udolpho_23_g	30	0.9	1634	31560	 anxious to know whether the s	 anxious to know whether it wo
+radcliffe_udolpho_23_g	30	0.9	3652	2631	 on the point of entering an i	 on the point of uttering an a
+collins_hauntedhotel_20_u	30	0.9	1983	3240	 impression had been produced 	 impression had he produced? I
+collins_hauntedhotel_20_u	30	0.9	13437	9068	 say nothing about what she sa	 say nothing about what has ha
+collins_hauntedhotel_26_u	31	0.9354838709677419	4332	13278	 the position in which they sta	 the position in which they are
+collins_hauntedhotel_26_u	34	0.9117647058823529	6884	13171	. The Baron and the Countess open 	. The Baron and the Countess look 
+collins_hauntedhotel_26_u	55	0.9090909090909091	9378	22137	 a crime committed in the old days of the palace, nobod	 a crime committed in the old days of the palace. The n
+collins_hauntedhotel_26_u	30	0.9	11648	7845	 the first Lord Montbarry. Hen	 the first Lord Montbarry. Was
+doyle_adventures_12_d	50	0.92	14697	52847	. End of the Project Gutenberg EBook of The Haunte	. End of the Project Gutenberg EBook of The Advent
+radcliffe_udolpho_33_g	30	0.9333333333333333	3319	24007	he had reached the end of the 	he had reached the end of it, 
+collins_hauntedhotel_23_u	31	0.9032258064516129	3562	9043	 answered silently by a sign in	 answered silently by an inclin
+collins_hauntedhotel_23_u	32	0.96875	9396	12147	 in the old days of the palace, 	 in the old days of the palace: 
+collins_hauntedhotel_23_u	32	0.90625	12727	10529	uring the last few days of the r	uring the last evil days of the 
+austen_northangerabbey_14_g	31	0.9032258064516129	8744	14639	 us understand each other on on	 us understand each other, you 
+walpole_castleofotranto_4_g	30	0.9	10616	10224	 first opportunity of trying t	 first opportunity of setting 
+christie_styles_11_d	30	0.9	7388	4622	 to the destruction of the hea	 to the destruction of the wil
+christie_styles_11_d	30	0.9	7388	23742	 to the destruction of the hea	 to the destruction of the wil
+christie_styles_5_d	31	0.9032258064516129	11831	18870	 secret with him to the grave. 	 secret with her to her grave. 
+collins_hauntedhotel_6_u	32	0.90625	1353	9851	 now the head of the family, Ste	 now the head of the family) rec
+collins_hauntedhotel_6_u	31	0.9032258064516129	14412	11159	 compassionate contempt. They s	 compassionate contempt. 'When 
+christie_secretadversary_28_d	44	1.0	14697	5967	. End of the Project Gutenberg EBook of The 	. End of the Project Gutenberg EBook of The 
+doyle_baskervilles_8_u	31	1.0	3318	13324	 he had reached the end of the 	 he had reached the end of the 
+radcliffe_udolpho_22_g	31	0.9032258064516129	13998	13340	 she had seen the apparition, a	 she had seen an apparition, as
+collins_hauntedhotel_19_u	30	0.9333333333333333	7617	11452	d by the insurance offices. Th	d by the insurance offices. 'A
+collins_hauntedhotel_19_u	32	0.9375	11648	1874	 the first Lord Montbarry. Henry	 the first Lord Montbarry. He fr
+radcliffe_udolpho_4_g	34	0.9117647058823529	1634	7298	 anxious to know whether the same 	 anxious to know whether the road 
+collins_hauntedhotel_11_u	89	0.9101123595505618	13805	9479	 to bring me to the day of discovery, and to the punishment that is my doom.' Had the pre	 to bring me to the day of discovery, and to the punishment that is my doom. We shall mee
+reeve_oldenglishbaron_	44	1.0	14697	13522	. End of the Project Gutenberg EBook of The 	. End of the Project Gutenberg EBook of The 
+austen_northangerabbey_31_g	46	0.9130434782608695	14697	7550	. End of the Project Gutenberg EBook of The Ha	. End of the Project Gutenberg EBook of Northa
+radcliffe_udolpho_10_g	32	0.90625	3704	15846	 acknowledge that you have not r	 acknowledge that you have long 
+radcliffe_udolpho_10_g	34	0.9117647058823529	8430	609	 the table at which he had been si	 the table, at which she had seen 
+stoker_dracula_1_g	34	0.9117647058823529	338	15954	ed themselves, here and there, as 	ed themselves. Here and there was 
+collins_hauntedhotel_25_u	30	0.9	3421	1756	 remains which you discovered 	 remains which I discovered ar
+stoker_dracula_9_g	32	0.90625	9573	723	 anything that has happened. The	 anything that has happened to h
+collins_moonstone_60_d	37	0.972972972972973	10121	581	 the first thing to-morrow morning. S	 the first thing tomorrow morning.” S
+doyle_scarlet_1_d	32	1.0	8430	9789	 the table at which he had been 	 the table at which he had been 

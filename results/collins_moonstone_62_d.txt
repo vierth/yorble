@@ -1,0 +1,25 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_25_u	31	0.9032258064516129	6798	8909	 when she settled herself in he	 when she seated herself on the
+radcliffe_udolpho_49_g	33	0.9090909090909091	10648	5897	 in the lower parts of this house	 in the lower part of the house, 
+collins_moonstone_66_d	30	0.9333333333333333	99	11081	fter what had passed between u	fter what has passed between t
+collins_moonstone_66_d	30	0.9	392	384	,” answered Sergeant Cuff. “An	,” answered Sergeant Cuff, “th
+collins_moonstone_66_d	30	0.9	748	19617	hat happened in the house on W	hat happened in the course of 
+collins_moonstone_66_d	30	0.9333333333333333	2433	9502	,” answered the Sergeant. “If 	,” answered the Sergeant. “Go 
+collins_moonstone_66_d	30	0.9333333333333333	4801	12688	 mind, that Miss Rachel was to	 mind, that Miss Rachel was ha
+collins_moonstone_60_d	33	0.9090909090909091	99	15813	fter what had passed between us, 	fter what had passed between the 
+collins_moonstone_60_d	34	0.9117647058823529	2432	9852	s,” answered the Sergeant. “If it 	s,” answered the Sergeant. “It may
+collins_moonstone_60_d	31	0.9032258064516129	3885	9930	 Superintendent Seegrave at Ser	 Superintendent Seegrave was wr
+collins_moonstone_60_d	30	0.9	6933	9852	s,” answered the Sergeant, “be	s,” answered the Sergeant. “It
+collins_moonstone_60_d	30	0.9666666666666667	6934	19128	,” answered the Sergeant, “bef	,” answered the Sergeant, “bec
+collins_moonstone_60_d	34	0.9117647058823529	9992	6542	 to my belief in Miss Rachel. The 	 to my belief in Miss Rachel. If S
+collins_moonstone_60_d	38	0.9473684210526315	11331	3361	, Mr. Betteredge,” said the Sergeant, 	, Mr. Betteredge,” says the Sergeant, 
+collins_moonstone_60_d	30	0.9666666666666667	12193	13002	 he said those last words. I f	 he said those last words, I f
+collins_moonstone_76_d	36	0.9166666666666666	99	19222	fter what had passed between us, to 	fter what has passed between us, I c
+collins_moonstone_49_d	30	0.9	8369	4090	,” says Mr. Franklin, turning 	,” says Mr. Franklin, pulling 
+collins_moonstone_65_d	30	0.9	392	14500	,” answered Sergeant Cuff. “An	,” answered Sergeant Cuff, “re
+collins_moonstone_65_d	33	0.9090909090909091	4302	21520	 Miss Rachel to Frizinghall. Serg	 Miss Rachel to Frizinghall. I tr
+collins_moonstone_65_d	30	0.9333333333333333	6934	18573	,” answered the Sergeant, “bef	,” answered the Sergeant, “req
+collins_moonstone_65_d	46	0.9347826086956522	7105	10393	 an obstacle in the way of my recovering your 	 an obstacle in the way of my recovering her j
+collins_moonstone_65_d	45	1.0	9724	10393	 an obstacle in the way of my recovering her 	 an obstacle in the way of my recovering her 
+collins_moonstone_65_d	37	0.9459459459459459	9792	10482	 in the face of that statement! Your 	 in the face of that statement. You s
+collins_moonstone_52_d	30	0.9	8404	23191	, with the tears in his eyes. 	, with the tears in her eyes, 

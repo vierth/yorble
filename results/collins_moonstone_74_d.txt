@@ -1,0 +1,39 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_18_g	31	0.9032258064516129	10951	22694	 the servants who waited on her	 the servant, who waited in the
+radcliffe_udolpho_18_g	30	0.9333333333333333	12633	47907	 with her eyes fixed on the se	 with her eyes fixed on the dy
+christie_secretadversary_14_d	30	0.9333333333333333	19863	6221	 under the circumstances. She 	 under the circumstances. Seve
+collins_moonstone_72_d	37	0.918918918918919	21732	625	s at the Mothers’ Small-Clothes, and 	s at the Mothers’-Small-Clothes? Had 
+collins_moonstone_72_d	30	0.9	21736	5768	 the Mothers’ Small-Clothes, a	 the Mothers’-Small-Clothes. I
+walpole_castleofotranto_1_g	30	0.9333333333333333	3029	17509	ing backwards and forwards by 	ing backwards and forwards in 
+radcliffe_udolpho_48_g	30	0.9333333333333333	7181	22392	her on the subject of her marr	her on the subject of her alar
+radcliffe_udolpho_22_g	30	0.9666666666666667	12632	35681	, with her eyes fixed on the s	, with her eyes fixed on the d
+collins_moonstone_73_d	31	0.967741935483871	22822	218	, under the circumstances, was 	, under the circumstances, as L
+doyle_scarlet_2_d	34	0.9117647058823529	1653	3116	e. Under these circumstances, Mr. 	e. Under these circumstances, I ea
+christie_secretadversary_17_d	30	0.9333333333333333	21933	2656	 in full possession of his cha	 in full possession of his fac
+stoker_dracula_3_g	33	0.9696969696969697	7493	2907	 turn the conversation that way, 	 turn the conversation that way. 
+collins_moonstone_84_d	33	1.0	5292	6177	 for the first time since we had 	 for the first time since we had 
+collins_moonstone_84_d	33	0.9393939393939394	5292	11046	 for the first time since we had 	 for the first time since I had l
+christie_secretadversary_19_d	31	0.9032258064516129	5933	6895	 have been in the habit of spea	 have been in the habit of call
+lewis_monk_8_g	30	0.9	2687	1930	 favourable opportunity. It en	 favourable opportunity to inf
+collins_moonstone_53_d	30	0.9	3032	8926	 backwards and forwards by the	 backwards and forwards betwee
+lewis_monk_6_g	36	0.9166666666666666	2634	46839	 requested that her visit might be d	 requested that his visits might be 
+lewis_monk_6_g	30	0.9	20846	11941	 in earnest conversation with 	 in earnest conversation. The 
+radcliffe_udolpho_12_g	30	0.9	6172	4550	 then proceeded to explain her	 then proceeded to examine the
+radcliffe_udolpho_12_g	31	0.9354838709677419	12633	8834	 with her eyes fixed on the sea	 with her eyes fixed on the far
+shelley_frankenstein_47_g	33	0.9090909090909091	12948	9717	. The more I saw of him, the more	. The more I saw of them, the gre
+lewis_monk_1_g	31	0.9032258064516129	3599	19069	e has never been known to do an	e has never been known to trans
+collins_moonstone_50_d	33	0.9090909090909091	3337	12564	to be the means of bringing Rache	to be the means of bringing it he
+collins_moonstone_50_d	32	0.90625	6177	23072	 proceeded to explain herself. “	 proceeded to explain myself. “A
+radcliffe_udolpho_14_g	32	0.90625	16031	19793	 withdrew to her own room. She n	 withdrew to her own room, when 
+christie_styles_3_d	31	0.9032258064516129	19862	9425	e under the circumstances. She 	e under the circumstances.” Joh
+collins_moonstone_66_d	30	0.9	22129	12579	 if the manner in which he gav	 if the manner in which he spo
+collins_moonstone_60_d	30	0.9666666666666667	453	10824	 under the same roof with her.	 under the same roof with hers
+collins_moonstone_60_d	30	0.9333333333333333	1654	13459	. Under these circumstances, M	. Under those circumstances, i
+christie_secretadversary_4_d	30	0.9333333333333333	12106	4195	There was something in the way	There was something in the qua
+collins_moonstone_76_d	31	0.9032258064516129	12726	21043	,” she answered. “I have often 	,” she answered. “I have done i
+collins_moonstone_76_d	33	0.9090909090909091	18320	9508	 Mr. Godfrey Ablewhite._” It was 	 Mr. Godfrey Ablewhite. That was 
+collins_moonstone_76_d	30	0.9	22823	17319	 under the circumstances, was 	 under the circumstances; and 
+christie_secretadversary_15_d	34	0.9117647058823529	453	1847	 under the same roof with her. In 	 under the same roof with her for 
+austen_northangerabbey_17_g	32	0.9375	452	6190	s under the same roof with her. 	s under the same roof with the p
+collins_moonstone_65_d	33	0.9090909090909091	1654	8107	. Under these circumstances, Mr. 	. Under these circumstances, and 
+collins_moonstone_52_d	30	0.9	20622	15226	 Mr. Godfrey Ablewhite was exp	 Mr. Godfrey Ablewhite as well

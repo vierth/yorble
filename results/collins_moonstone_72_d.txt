@@ -1,0 +1,20 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_73_d	32	0.96875	6810	1621	 the mystery of the Moonstone. “	 the mystery of the Moonstone.” 
+radcliffe_udolpho_4_g	31	0.967741935483871	4843	28234	 His voice trembled, and he put	 His voice trembled, and he pau
+collins_moonstone_84_d	34	0.9117647058823529	4511	13266	 my place in your estimation was a	 my place in her estimation was ag
+christie_styles_8_d	30	0.9	9538	3038	 What does it matter? You will	 What does it matter? Your tri
+doyle_adventures_2_d	30	0.9333333333333333	3341	37923	 expression on his face, which	 expression upon his face, whi
+collins_moonstone_62_d	32	0.90625	4129	10387	 to discover that he was doing i	 to discover that she was being 
+radcliffe_udolpho_12_g	31	0.9354838709677419	11598	35053	 I should certainly have decide	 I should certainly have delive
+collins_hauntedhotel_25_u	35	0.9428571428571428	5549	9447	 the uttermost ends of the earth!” 	 the uttermost ends of the earth, h
+collins_hauntedhotel_25_u	38	0.9473684210526315	6210	9447	 the uttermost ends of the earth when 	 the uttermost ends of the earth, he w
+collins_hauntedhotel_10_u	32	0.90625	3861	2879	 There was a momentary silence. 	 There was a moment of silence. 
+collins_moonstone_66_d	32	0.90625	7606	4314	 the loss of the Moonstone, let 	 the loss of the Moonstone, on T
+collins_moonstone_66_d	34	0.9705882352941176	14712	8499	?” “You shall judge for yourself. 	?” “You shall judge for yourself, 
+collins_moonstone_66_d	31	0.9032258064516129	17714	17706	” he said, pointing to the room	” he said, pointing to the addr
+collins_moonstone_66_d	30	0.9	18444	16706	 never occurred to me, until s	 never occurred to me, till Se
+collins_moonstone_76_d	30	0.9	3198	1134	 the position which he occupie	 the position which I occupy i
+collins_moonstone_76_d	35	0.9428571428571428	7603	21340	 of the loss of the Moonstone, let 	 of the loss of the Moonstone, out 
+collins_moonstone_76_d	30	0.9	13661	3889	 justified their confidence in	 justified the confidence whic
+collins_moonstone_65_d	30	0.9333333333333333	7606	6570	 the loss of the Moonstone, le	 the loss of the Moonstone,” s
+collins_moonstone_65_d	37	0.918918918918919	13080	3096	. After what you have just said to me	. After what you have just said, you 

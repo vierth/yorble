@@ -1,0 +1,117 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_68_d	32	0.90625	6934	7122	 of which I am now writing, even	 of which I am now writing, and 
+collins_moonstone_68_d	30	0.9	14744	8135	e of Mr. Godfrey Ablewhite?” H	e of Mr. Godfrey Ablewhite. Al
+collins_moonstone_68_d	32	0.9375	16514	2104	e scandal of the Moonstone had b	e scandal of the Moonstone: and 
+stoker_dracula_19_g	30	0.9	10450	25511	 it occurred to me that I migh	 it occurred to me that I had 
+lewis_monk_3_g	30	0.9	20049	66066	 was on the point of breaking 	 was on the point of leaving i
+collins_moonstone_69_d	30	0.9	863	1959	 the Mothers’ Small-Clothes. Y	 the Mothers’-Small-Clothes ne
+collins_moonstone_69_d	32	0.9375	4166	1956	 at the Mothers’ Small-Clothes, 	 at the Mothers’-Small-Clothes n
+collins_moonstone_69_d	34	1.0	4455	20749	 of spiritual self-forgetfulness, 	 of spiritual self-forgetfulness, 
+collins_moonstone_69_d	33	0.9393939393939394	6241	1955	n at the Mothers’ Small-Clothes, 	n at the Mothers’-Small-Clothes n
+collins_moonstone_69_d	38	1.0	18453	13637	he looked backwards and forwards from 	he looked backwards and forwards from 
+collins_moonstone_69_d	30	0.9	21497	7491	 by the two shoulders and turn	 by the two shoulders, and pus
+collins_moonstone_69_d	30	0.9	25395	5572	 to a chair by the window, and	 to a chair by the window, whe
+collins_moonstone_69_d	30	0.9	28745	11548	 looked at me very strangely. 	 looked at him very strangely—
+collins_moonstone_64_d	34	0.9117647058823529	9969	1589	 I felt it at that moment. He look	 I felt it at that moment. I took 
+collins_moonstone_89_d	53	0.9056603773584906	715	51180	 made a proposal of marriage to Miss Verinder. I don’	 made a proposal of marriage to Miss Verinder. Here, 
+collins_moonstone_89_d	30	1.0	5821	46831	 on the subject of Mr. Godfrey	 on the subject of Mr. Godfrey
+collins_moonstone_89_d	31	0.9032258064516129	10316	39976	 the honour of seeing you at Br	 the honour of seeing you. I pr
+collins_moonstone_89_d	30	0.9	14745	40370	 of Mr. Godfrey Ablewhite?” He	 of Mr. Godfrey Ablewhite, bef
+collins_moonstone_89_d	30	0.9	14745	46846	 of Mr. Godfrey Ablewhite?” He	 of Mr. Godfrey Ablewhite’s de
+collins_moonstone_89_d	30	0.9	21497	37247	 by the two shoulders and turn	 by the two shoulders and put 
+collins_moonstone_89_d	34	0.9117647058823529	24968	6712	” said Mr. Bruff, looking after he	” said Mr. Bruff, looking at the d
+collins_moonstone_89_d	30	0.9333333333333333	31785	39322	 NARRATIVE. _Contributed by Ma	 NARRATIVE. _Contributed by Se
+collins_moonstone_89_d	30	0.9666666666666667	31785	68392	 NARRATIVE. _Contributed by Ma	 NARRATIVE. _Contributed by Ga
+doyle_signoffour_8_d	33	0.9090909090909091	9890	14420	. I never remember feeling the pr	. I never remember feeling tired 
+doyle_signoffour_8_d	31	0.9032258064516129	11398	17562	 is more than I can tell. She d	 is more than I can tell. Since
+collins_moonstone_79_d	30	0.9	5324	2671	 between Rachel and me. His he	 between Rachel and me. On the
+collins_moonstone_79_d	43	0.9302325581395349	7338	3931	 release from her marriage engagement. It a	 release from her marriage engagement. Havi
+collins_moonstone_79_d	38	0.9210526315789473	12104	4908	 informed me that Miss Verinder had do	 informed me that Miss Verinder was ou
+collins_moonstone_79_d	30	0.9333333333333333	15577	3850	 reflection had convinced me t	 reflection had convinced her 
+austen_northangerabbey_29_g	30	0.9	18462	14527	 backwards and forwards from R	 backwards and forwards some t
+poe_marieroget_1_d	30	0.9	14151	106060	 are to understand that, Mr. A	 are to understand that Marie 
+lewis_monk_2_g	30	0.9	20049	13899	 was on the point of breaking 	 was on the point of becoming 
+stoker_dracula_23_g	36	0.9166666666666666	10522	29504	 I was just in time to catch the tra	 I was just in time to catch her as 
+austen_northangerabbey_9_g	30	0.9666666666666667	11698	3640	ust as you please, my dear,” s	ust as you please, my dear,” r
+collins_moonstone_58_d	30	0.9	14946	16243	,” he said, “that you are a se	,” he said, “that you are trea
+lewis_monk_9_g	31	0.9032258064516129	10884	21905	 the middle of the room, with h	 the middle of the room when th
+lewis_monk_9_g	30	0.9	20049	20983	 was on the point of breaking 	 was on the point of taking th
+collins_moonstone_77_d	33	0.9090909090909091	16525	3990	f the Moonstone had been in some 	f the Moonstone had been in my po
+collins_moonstone_77_d	34	0.9117647058823529	23549	5625	 walked out of the room. That was 	 walked out of the room. It was do
+collins_moonstone_70_d	30	0.9333333333333333	4819	5402	he clock on the mantelpiece. “	he clock on the mantel-piece i
+collins_moonstone_70_d	30	0.9	5606	15253	” With those words he hurried 	” With those words he turned a
+collins_moonstone_70_d	35	0.9142857142857143	9859	9498	ation in the shape of Mr. Bruff. I 	ation in the case of Mr. Bruff. “I 
+collins_moonstone_70_d	31	0.9032258064516129	18929	3133	 a Christian Englishwoman who l	 a Christian Englishwoman ancho
+collins_moonstone_70_d	63	0.9047619047619048	19862	4812	ed to arouse, convince, prepare, enlighten, and fortify others,	ed to arouse, convince, prepare, enlighten, and fortify my aunt
+collins_moonstone_70_d	34	0.9411764705882353	30906	6692	he person with the cap-ribbons fol	he person with the cap-ribbons, to
+collins_hauntedhotel_26_u	31	0.9032258064516129	30894	21781	 the room. The person with the 	 the room. The person was the m
+collins_moonstone_85_d	30	0.9	5599	27159	 again!” With those words he h	 again!” With those words, I l
+collins_moonstone_85_d	30	0.9	18851	2900	 had controlled myself under a	 had controlled myself, and sa
+collins_moonstone_85_d	30	0.9	31127	15049	 I was left alone in the room.	 I was left alone in the dark.
+collins_moonstone_85_d	30	0.9	31200	15049	 I was left alone in the room.	 I was left alone in the dark.
+radcliffe_udolpho_16_g	35	0.9142857142857143	10311	37603	 have the honour of seeing you at B	 have the honour of seeing you. In 
+radcliffe_udolpho_16_g	31	0.9032258064516129	26059	38149	 of the people about her, and n	 of the people around her, and 
+radcliffe_udolpho_33_g	30	1.0	25396	46004	to a chair by the window, and 	to a chair by the window, and 
+christie_styles_6_d	31	0.9354838709677419	10452	296	t occurred to me that I might p	t occurred to me that he might 
+austen_northangerabbey_14_g	31	0.9032258064516129	12828	14639	 us understand each other, Mr. 	 us understand each other, you 
+collins_moonstone_56_d	32	0.9375	14941	13419	, sir,” he said, “that you are a	, sir,” he said, “that you have 
+doyle_signoffour_11_d	31	0.9032258064516129	11398	3127	 is more than I can tell. She d	 is more than I can tell. I don
+collins_moonstone_80_d	30	0.9333333333333333	9698	1077	 the sudden appearance of her 	 the sudden appearance of Mr. 
+doyle_baskervilles_9_u	33	0.9393939393939394	10881	29144	 in the middle of the room, with 	 in the middle of the moor, with 
+doyle_baskervilles_9_u	34	0.9117647058823529	12688	11901	 I should have known better than t	 I should have known better how to
+collins_moonstone_67_d	30	0.9333333333333333	20870	2579	 It is impossible for me to wr	 It is impossible for me to ex
+collins_moonstone_67_d	30	0.9666666666666667	31785	26277	 NARRATIVE. _Contributed by Ma	 NARRATIVE. _Contributed by Mi
+shelley_frankenstein_32_g	30	0.9	28848	2699	will you have the goodness to 	will you have the kindness to 
+collins_hauntedhotel_6_u	33	0.9696969696969697	14787	4240	 interfered for the first time. “	 interfered, for the first time. 
+lewis_monk_4_g	30	0.9	10881	76678	 in the middle of the room, wi	 in the middle of the room. Ro
+lewis_monk_4_g	30	0.9	11459	38639	e the honour of conducting him	e the honour of conducting you
+collins_moonstone_74_d	30	0.9333333333333333	863	21736	 the Mothers’ Small-Clothes. Y	 the Mothers’ Small-Clothes, a
+collins_moonstone_74_d	36	0.9166666666666666	4166	21733	 at the Mothers’ Small-Clothes, the 	 at the Mothers’ Small-Clothes, and 
+collins_moonstone_74_d	30	0.9	4530	22082	 I should certainly have swoon	 I should certainly have snatc
+collins_moonstone_74_d	37	0.9459459459459459	6242	21733	 at the Mothers’ Small-Clothes, abund	 at the Mothers’ Small-Clothes, and m
+collins_moonstone_74_d	34	0.9411764705882353	8393	16595	 friend’s precious publications—th	 friend’s precious publications hu
+collins_moonstone_74_d	31	0.9032258064516129	9969	15249	 I felt it at that moment. He l	 I felt it at that moment. But 
+collins_moonstone_74_d	30	0.9	10823	4402	 placidly fanning herself as u	 placidly fanning herself in h
+collins_moonstone_74_d	33	0.9090909090909091	14745	17998	 of Mr. Godfrey Ablewhite?” Here 	 of Mr. Godfrey Ablewhite?” She s
+collins_moonstone_74_d	33	0.9090909090909091	15579	22392	eflection had convinced me that I	eflection has convinced her that 
+collins_moonstone_74_d	106	0.9056603773584906	15619	22433	 best consult his welfare and mine by retracting a rash promise, and leaving him free to make his choice e	 best consult her welfare and mine by retracting a rash promise, and leaving me free to make some happier 
+collins_moonstone_74_d	39	0.9230769230769231	18920	4734	worthy of a Christian Englishwoman who 	worthy of a Christian Englishwoman? Is 
+collins_moonstone_74_d	34	1.0	30903	18660	. The person with the cap-ribbons 	. The person with the cap-ribbons 
+radcliffe_udolpho_13_g	30	0.9	19645	9258	he was on the point of saying 	he was on the point of being u
+radcliffe_udolpho_13_g	32	0.90625	20047	9258	he was on the point of breaking 	he was on the point of being uni
+collins_moonstone_72_d	30	0.9	863	629	 the Mothers’ Small-Clothes. Y	 the Mothers’-Small-Clothes? H
+collins_moonstone_72_d	30	0.9333333333333333	863	5768	 the Mothers’ Small-Clothes. Y	 the Mothers’-Small-Clothes. I
+collins_moonstone_72_d	32	0.9375	4166	626	 at the Mothers’ Small-Clothes, 	 at the Mothers’-Small-Clothes? 
+collins_moonstone_72_d	30	0.9	4169	5768	 the Mothers’ Small-Clothes, t	 the Mothers’-Small-Clothes. I
+collins_moonstone_72_d	34	0.9117647058823529	6242	626	 at the Mothers’ Small-Clothes, ab	 at the Mothers’-Small-Clothes? Ha
+collins_moonstone_72_d	30	0.9	6245	5768	 the Mothers’ Small-Clothes, a	 the Mothers’-Small-Clothes. I
+collins_moonstone_73_d	34	0.9117647058823529	6862	1869	ual experience of persons and thin	ual experience of persons and even
+doyle_scarlet_2_d	30	0.9	20049	5954	 was on the point of breaking 	 was on the point of asking hi
+christie_secretadversary_11_d	30	0.9333333333333333	10881	6996	 in the middle of the room, wi	 in the middle of the room, an
+lewis_monk_10_g	31	0.9032258064516129	25792	46619	 stopped, and looked round at m	 stopped, and looked round for 
+collins_moonstone_84_d	30	0.9	13719	9584	 for the rest of our lives, co	 for the rest of your lives. S
+collins_moonstone_84_d	30	0.9333333333333333	15317	13985	having regard to her age and h	having regard to his age and h
+collins_moonstone_84_d	30	0.9	21319	19763	 what might happen next. I ins	 what might happen next. I loo
+lewis_monk_7_g	30	0.9333333333333333	20020	14294	 began to recover himself; he 	 began to recover himself. He 
+lewis_monk_7_g	30	0.9	20050	12267	was on the point of breaking o	was on the point of shrieking 
+radcliffe_udolpho_10_g	30	0.9	16211	16499	he recovered herself, and answ	he recovered herself, and smil
+collins_moonstone_53_d	30	0.9	5989	10086	 at the first opportunity she 	 at the first opportunity. On 
+lewis_monk_6_g	31	0.9032258064516129	20052	19247	s on the point of breaking out—	s on the point of breaking. Let
+collins_moonstone_62_d	31	0.9032258064516129	10967	12415	, and addressed himself in the 	, and addressed himself in a ki
+radcliffe_udolpho_12_g	31	0.9032258064516129	19645	48455	he was on the point of saying s	he was on the point of leaving 
+radcliffe_udolpho_12_g	32	0.90625	20047	48455	he was on the point of breaking 	he was on the point of leaving t
+collins_moonstone_50_d	31	0.9032258064516129	10574	11743	 opportunity of discovering the	 opportunity of recovering thei
+radcliffe_udolpho_14_g	33	0.9090909090909091	20053	4239	 on the point of breaking out—he 	 on the point of breaking the sea
+christie_styles_3_d	36	0.9166666666666666	4815	4787	at the clock on the mantelpiece. “Ho	at the clock on the mantelpiece poin
+collins_moonstone_66_d	33	0.9090909090909091	1486	2329	 it suddenly occur to me that my 	 it suddenly occurred to me that 
+collins_moonstone_76_d	30	0.9333333333333333	5923	389	 his own private reasons for r	 his own private reason for wi
+collins_moonstone_76_d	30	0.9	6934	625	 of which I am now writing, ev	 of which I am now writing—in 
+collins_moonstone_76_d	43	0.9302325581395349	7334	17674	 her release from her marriage engagement. 	 her release from a marriage engagement. Th
+collins_moonstone_76_d	30	0.9	14104	12631	t your marriage engagement is 	t your marriage engagement?” “
+collins_moonstone_76_d	33	0.9090909090909091	15203	19773	 the advice he had given to her, 	 the advice I had given to her. B
+collins_moonstone_76_d	36	0.9722222222222222	26404	24088	 the appointment of a new guardian. 	 the appointment of a new guardian, 
+christie_secretadversary_15_d	30	0.9	28774	6419	 “I don’t understand your refe	 “I don’t understand you,” rep
+collins_moonstone_49_d	41	0.926829268292683	6925	10293	 the time of which I am now writing, even	 the time of which I am now writing, and 
+collins_moonstone_49_d	30	0.9	10316	12219	 the honour of seeing you at B	 the honour of seeing you.” I 
+collins_moonstone_65_d	32	0.90625	743	19138	 to Miss Verinder. I don’t know 	 to Miss Verinder. I don’t deny 
+collins_moonstone_52_d	37	0.918918918918919	6929	21546	 time of which I am now writing, even	 time of which I am now writing. Pene

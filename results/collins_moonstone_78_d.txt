@@ -1,0 +1,123 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_59_d	33	0.9090909090909091	2122	13377	 the loss of the Moonstone?” The 	 the loss of the Moonstone, the s
+collins_hauntedhotel_3_u	32	0.90625	20170	752	 the general description of ‘a v	 the general description of the 
+poe_pitandpendulum_1_g	30	0.9	966	19489	 it is needless to say that, a	 it is needless to say--that i
+collins_moonstone_55_d	30	0.9	13313	17682	 as rogues and vagabonds—you k	 as rogues and vagabonds, to k
+collins_moonstone_55_d	31	0.9354838709677419	13942	40258	 the prison at Frizinghall. Whe	 the prison at Frizinghall. Hea
+collins_moonstone_55_d	30	0.9	16543	34607	nce to the railway station, an	nce to the railway station the
+doyle_baskervilles_5_u	30	0.9333333333333333	3221	9497	” “Is it possible that you don	” “Is it possible that you cou
+collins_moonstone_54_d	30	0.9	2485	26230	 the rest of the company behin	 the rest of the company went 
+collins_moonstone_54_d	30	0.9333333333333333	12590	14261	 in the bosom of her dress! Wh	 in the bosom of her dress! I 
+collins_hauntedhotel_12_u	32	0.9375	2699	14280	 have every reason to believe,” 	 have every reason to believe th
+collins_hauntedhotel_12_u	30	0.9333333333333333	4732	1849	 look back to the time when Co	 look back to the time when I 
+radcliffe_udolpho_30_g	30	0.9	1033	6542	ed by the presence of the ladi	ed by the presence of the cond
+lewis_monk_11_g	33	0.9090909090909091	4228	78134	 It is needless to say that I tho	 It is needless to say that Theod
+christie_secretadversary_12_d	30	0.9666666666666667	10379	4403	 nothing whatever to do with c	 nothing whatever to do with y
+doyle_adventures_6_d	30	0.9333333333333333	5276	9985	 would not have been worth inq	 would not have been worth an 
+radcliffe_udolpho_56_g	30	0.9	9222	10405	t, and that any explanation ba	t, and that no explanation had
+collins_moonstone_75_d	30	0.9	7865	30362	, it is needless to say, they 	, it is needless to say, not o
+collins_moonstone_75_d	33	0.9090909090909091	18885	30360	ut, it is needless to say, mentio	ut, it is needless to say, not of
+collins_moonstone_75_d	32	0.9375	22508	31784	D NARRATIVE. _Contributed by Fra	D NARRATIVE. _Contributed by Mat
+collins_moonstone_46_d	30	0.9333333333333333	9536	2739	 and an encouragement to those	 and an encouragement to other
+collins_moonstone_68_d	30	0.9	2122	23427	 the loss of the Moonstone?” T	 the loss of the Moonstone, an
+collins_moonstone_68_d	30	0.9	20199	20098	a valuable of great price’) in	a valuable of great price whic
+doyle_adventures_3_d	33	0.9393939393939394	2698	28359	I have every reason to believe,” 	I have every reason to believe th
+lewis_monk_3_g	30	0.9333333333333333	1032	495	sed by the presence of the lad	sed by the presence of the Mar
+collins_moonstone_69_d	30	0.9	968	22465	t is needless to say that, as 	t is needless to say that my t
+collins_moonstone_69_d	34	0.9411764705882353	4226	22461	?” It is needless to say that I th	?” It is needless to say that my t
+collins_moonstone_69_d	33	0.9696969696969697	20731	8483	 the safe keeping of the bank!” “	 the safe keeping of the bank.” “
+collins_moonstone_69_d	30	0.9	22027	10337	.” Those were the last words h	.” Those were the exact words 
+collins_moonstone_89_d	30	0.9	968	79674	t is needless to say that, as 	t is needless to say that my d
+collins_moonstone_89_d	30	0.9	1871	24237	 the Indian conspiracy, as rev	 the Indian conspiracy. Was he
+collins_moonstone_89_d	30	0.9333333333333333	4228	58618	 It is needless to say that I 	 It is needless to say, that M
+collins_moonstone_89_d	31	0.9354838709677419	4228	79672	 It is needless to say that I t	 It is needless to say that my 
+collins_moonstone_89_d	30	0.9333333333333333	4732	782	 look back to the time when Co	 look back at the time when yo
+collins_moonstone_89_d	31	0.9032258064516129	7648	51087	 to Lady Verinder’s house. The 	 to Lady Verinder’s house. A fe
+collins_moonstone_89_d	32	0.90625	7651	82541	 Lady Verinder’s house. The seco	 Lady Verinder’s house. The othe
+collins_moonstone_89_d	30	0.9	8274	38255	as the only person in the hous	as the only person in the room
+collins_moonstone_89_d	30	0.9	11133	16240	 had done with the Diamond—for	 had done with the Diamond, af
+collins_moonstone_89_d	30	0.9	11824	58052	 that the Moonstone was to pas	 that the Moonstone was to be 
+collins_moonstone_89_d	35	0.9142857142857143	12470	50446	 Miss Verinder’s birthday; and they	 Miss Verinder’s birthday (in the y
+collins_moonstone_89_d	43	0.9302325581395349	13053	60010	 by having it cut into separate stones. How	 by having it cut up into separate stones. 
+collins_moonstone_89_d	31	0.9354838709677419	13066	62635	 cut into separate stones. How 	 cut into separate stones. He c
+collins_moonstone_89_d	30	1.0	15616	84184	 the four corners of the earth	 the four corners of the earth
+collins_moonstone_89_d	30	0.9	18673	49616	 Mr. Godfrey Ablewhite. I am t	 Mr. Godfrey Ablewhite. That t
+collins_moonstone_89_d	30	0.9	18673	50211	 Mr. Godfrey Ablewhite. I am t	 Mr. Godfrey Ablewhite. In the
+collins_moonstone_89_d	30	0.9333333333333333	18944	47095	 that Mr. Godfrey Ablewhite ha	 that Mr. Godfrey Ablewhite’s 
+collins_moonstone_89_d	32	0.9375	18944	57487	 that Mr. Godfrey Ablewhite had 	 that Mr. Godfrey Ablewhite was 
+collins_moonstone_89_d	31	0.9354838709677419	22509	39322	 NARRATIVE. _Contributed by Fra	 NARRATIVE. _Contributed by Ser
+collins_moonstone_89_d	31	0.9354838709677419	22509	68392	 NARRATIVE. _Contributed by Fra	 NARRATIVE. _Contributed by Gab
+collins_moonstone_81_d	30	0.9	2122	9146	 the loss of the Moonstone?” T	 the loss of the Moonstone wer
+collins_moonstone_81_d	30	1.0	16814	9133	 inquiry into the loss of the 	 inquiry into the loss of the 
+shelley_frankenstein_52_g	30	0.9	7759	11683	 of the appearance of the Indi	 of the appearance of the dæmo
+poe_marieroget_1_d	31	0.9032258064516129	1033	40632	ed by the presence of the ladie	ed by the presence of the tide 
+poe_marieroget_1_d	39	0.9487179487179487	1589	54767	but it is not the less certain that he 	but it is not the less certain that it 
+doyle_scarlet_7_d	30	0.9	5894	14435	ants of this great city. Nothi	ants of this great city. Witho
+doyle_signoffour_6_d	35	0.9142857142857143	2698	11816	I have every reason to believe,” I 	I have every reason to believe to b
+doyle_signoffour_6_d	35	0.9428571428571428	2698	14040	I have every reason to believe,” I 	I have every reason to believe, is 
+collins_hauntedhotel_20_u	30	0.9333333333333333	3918	8989	 of very serious importance to	 of very serious importance. M
+collins_moonstone_47_d	31	0.9032258064516129	8198	353	 that Mr. Franklin Blake had be	 that Mr. Franklin Blake was ex
+collins_moonstone_47_d	32	0.9375	8248	353	 that Mr. Franklin Blake was the	 that Mr. Franklin Blake was exp
+lewis_monk_2_g	30	0.9	22115	79045	, and dispersed themselves abo	, and dispersed themselves in 
+walpole_castleofotranto_3_g	30	0.9	1999	19230	 were acquainted with the late	 were acquainted with that exc
+collins_moonstone_77_d	32	0.96875	1747	86	 the subject of the Moonstone wo	 the subject of the Moonstone, o
+collins_moonstone_77_d	32	0.96875	4105	7023	 penetrate the Indian’s motive f	 penetrate the Indian’s motives 
+collins_moonstone_77_d	31	0.9032258064516129	7648	2389	 to Lady Verinder’s house. The 	 to Lady Verinder’s house. If a
+collins_moonstone_77_d	31	0.9032258064516129	17064	8028	by loitering about the house at	by loitering about his house, a
+collins_moonstone_77_d	30	0.9	19996	8327	 of his banker’s receipt, are 	 of his banker’s receipt. The 
+collins_moonstone_70_d	30	0.9	3842	22386	 the time when the Indian call	 the time when the Indian Diam
+collins_moonstone_70_d	30	0.9	8198	17288	 that Mr. Franklin Blake had b	 that Mr. Franklin Blake was a
+collins_moonstone_70_d	30	0.9666666666666667	8248	17288	 that Mr. Franklin Blake was t	 that Mr. Franklin Blake was a
+collins_moonstone_70_d	33	0.9090909090909091	13942	10853	 the prison at Frizinghall. When 	 the prison at Frizinghall? They 
+collins_moonstone_70_d	32	0.9375	18944	14003	 that Mr. Godfrey Ablewhite had 	 that Mr. Godfrey Ablewhite was 
+collins_moonstone_70_d	36	0.9166666666666666	20194	10983	 of ‘a valuable of great price’) in 	 of ‘a valuable of great price,’ whi
+collins_moonstone_70_d	30	0.9	20201	11242	valuable of great price’) in a	valuable of great price’ is be
+radcliffe_udolpho_16_g	30	0.9	7251	35889	ou will agree with me that the	ou will agree with me, that an
+stoker_dracula_10_g	30	0.9	22042	29855	he last words he said on the s	he last words he said to her w
+collins_moonstone_80_d	30	0.9	2122	12284	 the loss of the Moonstone?” T	 the loss of the Moonstone, is
+collins_hauntedhotel_5_u	31	0.967741935483871	13099	6802	s extraordinary disappearance t	s extraordinary disappearance. 
+doyle_baskervilles_9_u	31	1.0	7251	7067	ou will agree with me that the 	ou will agree with me that the 
+collins_moonstone_67_d	30	1.0	1747	1549	 the subject of the Moonstone 	 the subject of the Moonstone 
+collins_moonstone_67_d	32	0.90625	5276	19742	 would not have been worth inqui	 would not have been worth menti
+collins_moonstone_67_d	43	0.9069767441860465	17313	22071	 on suspicion of attempted theft, and whom 	 on suspicion of attempted theft; and he fe
+collins_moonstone_67_d	30	0.9	18522	22807	 in Mr. Luker’s possession. Ha	 in Mr. Luker’s possession, Mr
+collins_moonstone_67_d	40	0.975	20865	17491	 from the time when the Moonstone was pl	 from the time when the Moonstone was lo
+collins_moonstone_67_d	30	0.9333333333333333	21664	23844	 in London at the time.” “You 	 in London at the time. You se
+collins_moonstone_67_d	30	0.9333333333333333	22509	26277	 NARRATIVE. _Contributed by Fr	 NARRATIVE. _Contributed by Mi
+doyle_scarlet_5_d	33	0.9393939393939394	2698	4146	I have every reason to believe,” 	I have every reason to believe th
+collins_moonstone_72_d	30	0.9	2122	7606	 the loss of the Moonstone?” T	 the loss of the Moonstone, le
+doyle_baskervilles_8_u	39	0.9487179487179487	1545	5427	 consideration for the feelings of his 	 consideration for the feelings of the 
+collins_moonstone_73_d	30	1.0	1747	2227	 the subject of the Moonstone 	 the subject of the Moonstone 
+collins_moonstone_84_d	30	0.9	7865	43	, it is needless to say, they 	, it is needless to say, by Ga
+doyle_adventures_2_d	33	0.9393939393939394	2698	31593	I have every reason to believe,” 	I have every reason to believe th
+collins_moonstone_53_d	30	0.9666666666666667	1747	870	 the subject of the Moonstone 	 the subject of the Moonstone—
+collins_moonstone_53_d	34	0.9117647058823529	8248	5842	 that Mr. Franklin Blake was the o	 that Mr. Franklin Blake wanted to
+lewis_monk_5_g	30	0.9	3224	51309	Is it possible that you don’t 	Is it possible that your count
+collins_moonstone_62_d	30	0.9666666666666667	4581	7194	 decide for yourself, whether 	 decide for yourself whether y
+collins_moonstone_50_d	33	0.9090909090909091	6606	24910	e in the strongroom of the bank. 	e in the strongroom of a bank. Wh
+collins_moonstone_50_d	30	0.9	12647	241	 Colonel and the Diamond, late	 Colonel and the Diamond, had 
+collins_moonstone_50_d	49	0.9183673469387755	20718	14069	 removed from the safe keeping of the bank!” “I t	 removed from the safe keeping of the bank?” Neit
+collins_moonstone_50_d	32	0.9375	20731	23775	 the safe keeping of the bank!” 	 the safe keeping of the bank at
+collins_hauntedhotel_15_u	30	0.9	1078	3473	 the conversation turned on po	 the conversation returned in 
+collins_moonstone_66_d	31	0.967741935483871	1747	14572	 the subject of the Moonstone w	 the subject of the Moonstone! 
+collins_moonstone_66_d	32	0.96875	1747	17765	 the subject of the Moonstone wo	 the subject of the Moonstone, w
+collins_moonstone_66_d	30	0.9	2122	4314	 the loss of the Moonstone?” T	 the loss of the Moonstone, on
+collins_moonstone_60_d	36	0.9166666666666666	1747	5183	 the subject of the Moonstone would 	 the subject of the Moonstone out of
+collins_moonstone_60_d	30	0.9333333333333333	16827	12814	 the loss of the Diamond, no o	 the loss of the Diamond, I do
+christie_secretadversary_4_d	35	0.9142857142857143	2698	12368	I have every reason to believe,” I 	I have every reason to believe he i
+collins_moonstone_76_d	32	0.90625	968	23120	t is needless to say that, as so	t is needless to say that I was 
+collins_moonstone_76_d	32	0.96875	1747	998	 the subject of the Moonstone wo	 the subject of the Moonstone, w
+collins_moonstone_76_d	30	0.9	2122	15820	 the loss of the Moonstone?” T	 the loss of the Moonstone was
+collins_moonstone_76_d	30	0.9	2122	21343	 the loss of the Moonstone?” T	 the loss of the Moonstone, ou
+collins_moonstone_76_d	30	1.0	4228	23118	 It is needless to say that I 	 It is needless to say that I 
+collins_moonstone_76_d	30	0.9	18949	363	 Mr. Godfrey Ablewhite had bee	 Mr. Godfrey Ablewhite had his
+collins_moonstone_49_d	30	0.9	12630	13648	 the story of the Colonel and 	 the story of the Colonel bein
+collins_moonstone_65_d	32	0.90625	1813	14131	, to see what _he_ thought of th	, to see what he thought of such
+collins_moonstone_65_d	30	0.9333333333333333	2122	6570	 the loss of the Moonstone?” T	 the loss of the Moonstone,” s
+collins_moonstone_65_d	30	0.9333333333333333	11871	19371	 Miss Verinder’s possession on	 Miss Verinder’s possession, s
+collins_moonstone_65_d	30	0.9	13338	3129	you know as well as I do. The 	you know as well as I do that 
+collins_moonstone_65_d	31	0.9032258064516129	17732	7429	ted that the Moonstone had foun	ted that the Moonstone had been
+collins_moonstone_65_d	30	0.9333333333333333	20514	7432	 that the Moonstone has been p	 that the Moonstone had been s
+collins_moonstone_52_d	30	0.9	8691	1907	 the bank at Frizinghall, befo	 the bank at Frizinghall, we s
+collins_moonstone_52_d	30	0.9	19704	1704	 in getting into the house. By	 in getting into the house las
+collins_moonstone_52_d	32	0.90625	20473	1551	he Indians take it for granted, 	he Indians took it for granted t

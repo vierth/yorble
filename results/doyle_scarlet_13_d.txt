@@ -1,0 +1,43 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_12_u	30	0.9	7052	13385	here was no chance of their re	here was no chance of either o
+doyle_baskervilles_12_u	30	0.9	21160	3716	 would have been the same in a	 would have been the same as y
+doyle_baskervilles_10_u	33	0.9090909090909091	7621	3606	 I could lay my hand upon the men	 I could lay my hands upon that m
+christie_styles_6_d	30	0.9	16176	16939	 for a moment, and then I saw 	 for a moment, and then said: 
+collins_moonstone_61_d	34	0.9117647058823529	5032	14460	t was impossible for me to secure 	t was impossible for me to see her
+doyle_adventures_4_d	31	0.9032258064516129	8604	6014	d that they were going to shift	d that they were going to fight
+doyle_adventures_4_d	33	0.9090909090909091	10280	2643	 have the opportunity of making t	 have the opportunity of looking 
+doyle_adventures_4_d	31	0.9032258064516129	15773	43686	m. I give you my word that all 	m. I give you my word that I wo
+doyle_adventures_4_d	37	0.918918918918919	23042	6854	 brought before the magistrates, and 	 brought before the magistrates at Ro
+doyle_baskervilles_9_u	34	0.9411764705882353	3446	33269	, but I should like to leave some 	, but I should like to have some f
+collins_moonstone_67_d	30	0.9333333333333333	5036	2584	s impossible for me to secure 	s impossible for me to excuse 
+christie_secretadversary_26_d	32	0.90625	21159	3108	t would have been the same in an	t would have been the same. And 
+shelley_frankenstein_32_g	32	0.90625	14095	12303	 determined at the time that whe	 determined at one time that the
+stoker_dracula_12_g	32	0.90625	20607	24145	 the window of his bedroom, and 	 the window of his room, and was
+radcliffe_udolpho_34_g	32	0.90625	5030	10654	 it was impossible for me to sec	 it was impossible for her to fe
+radcliffe_udolpho_34_g	37	0.918918918918919	7158	35160	 was determined that they should not 	 was determined, that they should pro
+radcliffe_udolpho_34_g	30	0.9	13333	35164	 determined that he should hav	 determined, that they should 
+lewis_monk_4_g	34	0.9117647058823529	5029	27074	, it was impossible for me to secu	, it was impossible for me to make
+lewis_monk_4_g	30	1.0	5029	52419	, it was impossible for me to 	, it was impossible for me to 
+lewis_monk_4_g	30	0.9	10285	93910	 the opportunity of making the	 the opportunity of thanking h
+lewis_monk_4_g	31	0.9354838709677419	10285	94415	 the opportunity of making the 	 the opportunity of making his 
+radcliffe_udolpho_22_g	30	0.9	6929	11296	 on the other side of the rive	 on the other side of the door
+shelley_frankenstein_54_g	33	0.9393939393939394	13287	2105	 I could not bring myself to do i	 I could not bring myself to disc
+doyle_scarlet_2_d	30	0.9	10289	19350	 opportunity of making the man	 opportunity of taking the con
+stoker_dracula_3_g	33	0.9090909090909091	19620	19212	, and found that it was not there	, and found that it was not reall
+lewis_monk_10_g	32	0.90625	5029	23142	, it was impossible for me to se	, it was impossible for them to 
+collins_moonstone_84_d	30	0.9	23271	18721	 way out of the Station and to	 way out of the station, and h
+christie_secretadversary_19_d	30	0.9	9820	79	 way out of the station. “The 	 way out of the station. “I re
+lewis_monk_7_g	33	0.9090909090909091	5029	2335	, it was impossible for me to sec	, it was impossible for her to re
+doyle_adventures_2_d	30	0.9	19486	40581	 that the night was still very	 that the light was still ther
+lewis_monk_5_g	33	0.9090909090909091	9466	1424	ed him that he was nothing more t	ed him that He had nothing more t
+radcliffe_udolpho_21_g	30	0.9	9459	2606	 reminded him that he was noth	 reminded him, that he had oth
+radcliffe_udolpho_12_g	30	0.9	16176	32866	 for a moment, and then I saw 	 for a moment, and then said w
+doyle_baskervilles_4_u	30	0.9333333333333333	6929	16131	 on the other side of the rive	 on the other side of the stre
+doyle_scarlet_12_d	33	0.9090909090909091	11858	13516	 the door was flung open and two 	 the door was flung open, and a s
+doyle_scarlet_4_d	36	0.9166666666666666	19012	4130	 the police upon a wrong track, for 	 the police upon a wrong track, by s
+christie_secretadversary_4_d	30	0.9	4402	7146	e leaned back in his chair and	e leaned back in his chair, cr
+doyle_baskervilles_2_u	30	0.9	4403	1891	 leaned back in his chair and 	 leaned back in his chair, pla
+collins_moonstone_76_d	30	0.9333333333333333	5030	18493	 it was impossible for me to s	 it was impossible for her to 
+doyle_scarlet_8_d	33	0.9393939393939394	7724	7282	t there was some chance of their 	t there was some chance of water 
+doyle_scarlet_8_d	33	0.9393939393939394	16754	4271	 wanderings have come to an end, 	 wanderings had come to an end, a
+collins_moonstone_65_d	30	0.9333333333333333	23050	12633	 before the magistrates, and y	 before the magistrate, and al

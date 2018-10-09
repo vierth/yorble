@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_3_g	34	0.9117647058823529	2308	25968	. Besides, I have nothing to tell 	. Besides, I have nothing to lose 
+poe_marieroget_1_d	38	0.9210526315789473	8631	91573	t seems almost impossible that he has 	t seems almost impossible that these e
+shelley_frankenstein_55_g	31	0.9032258064516129	11426	1158	 something in my face which che	 something in my glance which c
+radcliffe_udolpho_46_g	34	0.9117647058823529	15236	5978	s of sufficient importance to be w	s of sufficient importance to draw
+collins_moonstone_85_d	33	0.9393939393939394	14045	14827	 went straight out of the room wi	 went straight out of the room.” 
+collins_hauntedhotel_23_u	33	0.9090909090909091	2345	114	. There is really nothing to inte	. There is really nothing to make
+stoker_dracula_10_g	32	0.9375	16890	19	 to Hon. Arthur Holmwood._ "_25 	 to Hon. Arthur Holmwood._ "_6 S
+doyle_adventures_4_d	31	0.9032258064516129	4057	19929	 each other since we were _chil	 each other since we were littl
+doyle_scarlet_5_d	31	0.9032258064516129	15567	10124	 to the heart of his mystery. I	 to the heart of the mystery.” 
+stoker_dracula_24_g	33	0.9090909090909091	8629	2347	 it seems almost impossible that 	 it seems almost impossible to be
+christie_secretadversary_5_d	32	0.90625	8013	189	 and all that sort of thing, but	 and all that sort of thing. Fat
+collins_moonstone_53_d	30	0.9333333333333333	11143	13751	efore I could say a word he be	efore I could say a word, the 
+lewis_monk_1_g	34	0.9117647058823529	5657	49399	ing all sorts of extravagant ideas	ing all sorts of extravagant gestu
+stoker_dracula_9_g	36	0.9444444444444444	2055	6798	" _Letter, Lucy Westenra to Mina Mur	" _Letter, Lucy Westenra to Mina Har
+stoker_dracula_9_g	37	0.9459459459459459	4963	6797	." _Letter, Lucy Westenra to Mina Mur	." _Letter, Lucy Westenra to Mina Har
+stoker_dracula_9_g	30	0.9	10099	5178	e took my hand in his, and sai	e took my hand in his, and oh,
+stoker_dracula_9_g	30	0.9	14538	7763	 your loving "LUCY. "P.S.--Oh,	 your loving "LUCY. "P. S.--Mo
+stoker_dracula_9_g	32	0.9375	16890	20670	 to Hon. Arthur Holmwood._ "_25 	 to Hon. Arthur Holmwood._ "_3 S
+stoker_dracula_9_g	43	0.9534883720930233	17574	5630	 the happiest man in all the wide world, wh	 the happiest woman in all the wide world, 
+collins_moonstone_66_d	30	0.9	15922	12845	, under what circumstances wou	, under what circumstances!) b

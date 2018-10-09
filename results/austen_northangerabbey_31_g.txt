@@ -1,0 +1,5 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_12_g	35	0.9142857142857143	2508	18819	 a clandestine correspondence, let 	 a clandestine correspondence, and 
+radcliffe_udolpho_12_g	33	0.9090909090909091	2510	23124	 clandestine correspondence, let 	 clandestine correspondence to be
+lewis_monk_1_g	35	0.9142857142857143	2508	46294	 a clandestine correspondence, let 	 a clandestine correspondence with 
+radcliffe_udolpho_47_g	32	0.90625	2056	11097	d, endeavouring to hope that suc	d, endeavouring to hope what his

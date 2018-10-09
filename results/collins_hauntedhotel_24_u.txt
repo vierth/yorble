@@ -1,0 +1,48 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_69_d	33	0.9090909090909091	6525	13598	he started to his feet with a shr	he started to her feet with a scr
+collins_moonstone_64_d	31	0.9354838709677419	5873	1813	 at the bottom of it. 'I think 	 at the bottom of it, I think, 
+collins_moonstone_89_d	32	0.90625	10252	23293	 noticed for the first time some	 noticed for the first time, a m
+collins_moonstone_81_d	30	0.9	11941	12190	, in the direction of the clos	, in the direction of the quic
+radcliffe_udolpho_29_g	31	0.9032258064516129	4024	4871	 whether this figure here had n	 whether this figure were human
+doyle_signoffour_4_d	30	0.9333333333333333	3661	2762	I am delighted to hear that ou	I am delighted to hear that th
+reeve_oldenglishbaron	34	0.9117647058823529	12816	31976	 then called to the servants in th	 then called to the servants, and 
+collins_hauntedhotel_20_u	36	0.9444444444444444	2250	10188	 found himself face to face with Hen	 found himself face to face with the
+collins_hauntedhotel_20_u	31	0.9354838709677419	2686	8133	e other member of the family.' 	e other members of the family, 
+collins_hauntedhotel_20_u	31	1.0	2757	8532	 tone in which the manager had 	 tone in which the manager had 
+collins_moonstone_58_d	39	0.9230769230769231	12806	7393	 room, and then called to the servants 	 room, and then called the servants tog
+christie_styles_10_d	31	0.9354838709677419	7166	922	here was no possibility of iden	here was no possibility of bein
+lewis_monk_9_g	35	0.9142857142857143	6314	34228	 at full length on the floor, and p	 at full length upon the floor, as 
+collins_hauntedhotel_26_u	30	0.9	7374	20532	. The questions which had tort	. The question which had occur
+reeve_oldenglishbaron	34	0.9117647058823529	12816	31976	 then called to the servants in th	 then called to the servants, and 
+radcliffe_udolpho_33_g	32	0.96875	2089	26665	 the other end of the corridor. 	 the other end of the corridor, 
+doyle_baskervilles_12_u	30	0.9	1002	11614	 put his hand on the forehead 	 put his hand to his forehead 
+collins_hauntedhotel_23_u	30	0.9333333333333333	34	10092	 the Room of the Caryatides. T	 the Room of the Caryatides, f
+collins_hauntedhotel_23_u	31	0.9032258064516129	7546	5609	he likeness of Ferrari? or the 	he likeness of Ferrari? or was 
+stoker_dracula_10_g	34	0.9117647058823529	7163	21529	. There was no possibility of iden	. There was no possibility of an o
+doyle_adventures_4_d	30	0.9	11942	12688	 in the direction of the close	 in the direction of the Bosco
+reeve_oldenglishbaron	34	0.9117647058823529	12816	31976	 then called to the servants in th	 then called to the servants, and 
+doyle_baskervilles_7_u	32	0.90625	2688	24887	other member of the family.' He 	other member of the family came 
+stoker_dracula_12_g	30	0.9333333333333333	7150	2503	 on the floor. There was no po	 on the floor. There was no ne
+stoker_dracula_12_g	35	0.9142857142857143	7163	32154	. There was no possibility of ident	. There was no possibility of makin
+radcliffe_udolpho_34_g	32	1.0	2089	13484	 the other end of the corridor. 	 the other end of the corridor. 
+dickens_christmascarole_2_g	36	0.9444444444444444	2250	3364	 found himself face to face with Hen	 found himself face to face with the
+christie_styles_5_d	32	0.90625	2686	3919	e other member of the family.' H	e other members of the family?” 
+christie_styles_5_d	30	0.9	2688	13309	other member of the family.' H	other member of her family.” “
+christie_styles_5_d	31	0.9354838709677419	8039	28857	 had sufficiently recovered him	 had sufficiently recovered my 
+collins_hauntedhotel_6_u	30	0.9	8040	190	had sufficiently recovered him	had sufficiently recovered to 
+lewis_monk_4_g	30	0.9	2085	28111	s at the other end of the corr	s at the other end of the room
+lewis_monk_4_g	30	0.9	7770	100098	 might be the consequence if h	 might be the consequences, I 
+collins_moonstone_74_d	38	0.9473684210526315	2245	21100	, and found himself face to face with 	, and found myself face to face with M
+radcliffe_udolpho_50_g	30	0.9	1659	52537	n this occasion, the interrupt	n this occasion, was interrupt
+radcliffe_udolpho_18_g	30	0.9	2085	23128	s at the other end of the corr	s at the other end of the cast
+reeve_oldenglishbaron	34	0.9117647058823529	12816	31976	 then called to the servants in th	 then called to the servants, and 
+christie_secretadversary_17_d	30	0.9	10224	601	 passed through his mind, he n	 passed through his mind that 
+lewis_monk_10_g	30	0.9	1588	29178	 on the point of setting the m	 on the point of quitting the 
+doyle_adventures_2_d	30	0.9	11942	41685	 in the direction of the close	 in the direction of the floor
+stoker_dracula_1_g	30	0.9	2256	28899	 himself face to face with Hen	 himself face to face with suc
+collins_hauntedhotel_25_u	33	0.9090909090909091	1930	9174	y recognised as the voice of the 	y recognised the voice of the Cou
+collins_hauntedhotel_15_u	30	0.9	2083	2750	nts at the other end of the co	nts at the lower end of the ro
+collins_hauntedhotel_15_u	32	0.9375	3058	4402	 their travelling companions. Mi	 their travelling companions in 
+collins_moonstone_66_d	33	0.9090909090909091	5693	897	s my business to find out what th	s my business to find out whether
+reeve_oldenglishbaron	34	0.9117647058823529	12816	31976	 then called to the servants in th	 then called to the servants, and 
+collins_moonstone_52_d	30	0.9	10260	19895	 for the first time something 	 for the first time, nothing w

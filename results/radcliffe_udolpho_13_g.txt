@@ -1,0 +1,87 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_3_g	36	0.9166666666666666	14297	19228	 she persisted in refusing to hear h	 she persisted in refusing to let th
+radcliffe_udolpho_3_g	36	0.9722222222222222	35165	14760	 seeming to recollect himself, he ex	 seeming to recollect himself, he re
+radcliffe_udolpho_3_g	30	0.9333333333333333	37028	991	 scarcely possible for her to 	 scarcely possible for him to 
+collins_moonstone_72_d	32	0.90625	36569	4843	 His voice trembled, and he was 	 His voice trembled, and he put 
+doyle_adventures_5_d	30	0.9	50274	16733	 recovered her consciousness, 	 recovered his consciousness. 
+radcliffe_udolpho_48_g	31	0.9354838709677419	3853	17989	 to congratulate her on these a	 to congratulate her upon the a
+radcliffe_udolpho_48_g	31	1.0	11138	7006	 she retired to her apartment, 	 she retired to her apartment, 
+radcliffe_udolpho_48_g	32	0.96875	11184	8509	 the present state of her mind t	 the present state of her mind, 
+radcliffe_udolpho_48_g	36	0.9444444444444444	23207	26774	 preparations for the journey, and t	 preparations for the journey; and, 
+radcliffe_udolpho_48_g	36	0.9444444444444444	26968	5953	 she had parted with Valancourt to m	 she had parted with Valancourt, on 
+radcliffe_udolpho_48_g	31	0.9032258064516129	29681	9867	d the tufted summits of those, 	d the tufted summits of the gro
+radcliffe_udolpho_48_g	32	0.90625	31179	19812	tion would not suffer either to 	tion would not suffer her to con
+radcliffe_udolpho_48_g	30	0.9	36742	7445	n the following morning, she s	n the following morning, serio
+radcliffe_udolpho_48_g	31	0.9032258064516129	41307	23202	 circumstances, that might be m	 circumstance, that might lead 
+radcliffe_udolpho_48_g	31	0.9354838709677419	43950	10552	 to an immediate marriage with 	 to an immediate marriage; the 
+radcliffe_udolpho_22_g	32	0.9375	26696	35976	 she withdrew to her chamber for	 she withdrew to her chamber, wo
+radcliffe_udolpho_22_g	30	0.9	31790	18625	ing, she scarcely knew what, e	ing, she scarcely knew why, th
+radcliffe_udolpho_22_g	31	0.9354838709677419	36740	16117	 on the following morning, she 	 on the following morning, as E
+radcliffe_udolpho_22_g	30	0.9666666666666667	41542	20016	 give any explanation of the c	 give any explanation of the e
+radcliffe_udolpho_22_g	31	0.9032258064516129	41913	19653	 looked as if he could have sai	 looked as if they would have a
+shelley_frankenstein_54_g	30	0.9	31859	3283	 and endeavoured to calm the a	 and endeavoured to alter the 
+shelley_frankenstein_54_g	30	0.9	43956	11819	 immediate marriage with Valan	 immediate marriage with Eliza
+reeve_oldenglishbaron	30	0.9	1312	24430	hat had passed between the eld	hat had passed between the Bar
+reeve_oldenglishbaron	33	0.9090909090909091	23207	26711	 preparations for the journey, an	 preparations for their journey. 
+doyle_scarlet_2_d	30	0.9333333333333333	36740	562	 on the following morning, she	 on the following morning Sher
+radcliffe_udolpho_4_g	33	0.9393939393939394	31224	27874	,' said Valancourt at length, as 	,' said Valancourt, at length, 's
+radcliffe_udolpho_4_g	33	0.9393939393939394	36568	28233	' His voice trembled, and he was 	' His voice trembled, and he paus
+radcliffe_udolpho_4_g	32	0.96875	49557	27874	,' said Valancourt, at length; '	,' said Valancourt, at length, '
+lewis_monk_10_g	36	0.9444444444444444	6033	5702	 excused herself from attending. The	 excused himself from attending. The
+lewis_monk_10_g	31	0.9032258064516129	17984	56584	 to prevent the possibility of 	 to prevent all possibility of 
+lewis_monk_7_g	30	0.9	20134	3322	e was not sufficiently active 	e was not sufficiently master 
+lewis_monk_7_g	32	0.90625	39495	42273	 danger of being discovered, and	 danger of being discovered; sin
+radcliffe_udolpho_10_g	32	0.9375	11142	27931	 retired to her apartment, to th	 retired to her apartment for th
+radcliffe_udolpho_10_g	30	0.9	11991	4455	 at the recollection of him, e	 at the recollection of the se
+radcliffe_udolpho_10_g	30	0.9333333333333333	16008	7418	ly,' replied Valancourt, his e	ly,' replied Valancourt, while
+radcliffe_udolpho_10_g	36	0.9166666666666666	31175	11139	 emotion would not suffer either to 	 emotion would not suffer her to rep
+radcliffe_udolpho_10_g	36	0.9166666666666666	43715	5623	 inclined to believe, that it was th	 inclined to believe that this was h
+radcliffe_udolpho_10_g	30	1.0	49764	16276	!' He pressed her hand to his 	!' He pressed her hand to his 
+lewis_monk_8_g	30	0.9333333333333333	37028	8940	 scarcely possible for her to 	 scarcely possible for him to 
+collins_moonstone_53_d	32	0.90625	1307	9665	 of what had passed between the 	 of what had passed between Mr. 
+doyle_signoffour_5_d	31	0.9032258064516129	6233	6193	t remember, that they were desi	t remember that they were six y
+lewis_monk_6_g	32	0.90625	9430	15728	 the sudden change in Madame's s	 the sudden change in Matilda's 
+lewis_monk_6_g	31	0.9032258064516129	47362	6567	 endeavouring to conceal her em	 endeavouring to conceal those 
+austen_northangerabbey_16_g	31	0.9032258064516129	46986	2630	t would be impossible for you t	t would be impossible for anybo
+radcliffe_udolpho_21_g	32	0.90625	13332	1339	 expression of his countenance a	 expression of her countenance, 
+radcliffe_udolpho_21_g	32	0.90625	43622	1339	 expression of his countenance s	 expression of her countenance, 
+radcliffe_udolpho_12_g	31	0.9354838709677419	5343	17657	 at the end of the terrace, yet	 at the end of the terrace, whe
+radcliffe_udolpho_12_g	30	0.9	5439	36993	on of the chateau, and the com	on of the chateau, and with mo
+radcliffe_udolpho_12_g	32	0.90625	5923	26491	 magnificent entertainment to a 	 magnificent entertainments, tha
+radcliffe_udolpho_12_g	33	0.9090909090909091	9256	48453	 she was on the point of being un	 she was on the point of leaving 
+radcliffe_udolpho_12_g	30	0.9	11538	30157	s the person, for whom he was 	s the person of whom he was sp
+radcliffe_udolpho_12_g	30	0.9	20299	51499	 an engagement, which she cons	 an engagement, to which she s
+radcliffe_udolpho_12_g	30	0.9	26981	21102	ed with Valancourt to meet no 	ed with Valancourt to meet her
+radcliffe_udolpho_12_g	33	0.9090909090909091	27151	10619	 uncertainty as to the period of 	 uncertainty, as to the merit of 
+radcliffe_udolpho_12_g	30	0.9	32593	19234	 the door of the pavilion, and	 the door of the pavilion open
+radcliffe_udolpho_12_g	32	0.9375	36742	11841	n the following morning, she sho	n the following morning, she was
+radcliffe_udolpho_12_g	30	0.9	36742	45273	n the following morning, she s	n the following morning, as Em
+radcliffe_udolpho_12_g	32	0.90625	38448	49965	 present circumstances; and she 	 present circumstances, and his 
+radcliffe_udolpho_12_g	30	0.9	41817	42575	 to contradict the report, tha	 to contradict the report wher
+collins_hauntedhotel_25_u	39	0.9230769230769231	11181	3716	 in the present state of her mind to th	 in the present state of her mind, is h
+radcliffe_udolpho_27_g	32	0.90625	17174	12446	s not the conduct I should have 	s not the conduct he would have 
+radcliffe_udolpho_27_g	30	0.9	39471	1404	 Emily, recollecting the dange	 Emily, recollecting the attem
+radcliffe_udolpho_27_g	30	0.9	43715	12170	 inclined to believe, that it 	 inclined to believe, that Cou
+radcliffe_udolpho_27_g	31	0.9354838709677419	43715	12970	 inclined to believe, that it w	 inclined to believe, that the 
+radcliffe_udolpho_14_g	42	0.9047619047619048	26963	561	 that she had parted with Valancourt to me	 that she had parted with Valancourt, perh
+radcliffe_udolpho_14_g	38	0.9210526315789473	26968	1611	 she had parted with Valancourt to mee	 she had parted with Valancourt on the
+radcliffe_udolpho_14_g	48	0.9166666666666666	36723	19271	 at an early hour on the following morning, she 	 at an early hour on the following morning; and 
+radcliffe_udolpho_14_g	30	0.9	51263	338	e circumstance, concerning my 	e circumstances, concerning he
+radcliffe_udolpho_49_g	33	0.9090909090909091	34405	7488	 that you will never return for m	 that you would never return for 
+radcliffe_udolpho_49_g	31	1.0	36740	1695	 on the following morning, she 	 on the following morning, she 
+radcliffe_udolpho_41_g	31	0.9032258064516129	11184	21252	 the present state of her mind 	 the present tone of her mind, 
+radcliffe_udolpho_41_g	33	0.9090909090909091	14976	17199	 the manner, in which he had name	 the manner, in which she had bee
+radcliffe_udolpho_47_g	30	0.9	5188	16799	; and, when, at length, he too	; and, when, at length, he app
+radcliffe_udolpho_47_g	30	0.9666666666666667	13621	7145	ly took her hand to lead her t	ly took her hand, to lead her 
+radcliffe_udolpho_47_g	35	0.9428571428571428	20343	9323	s inferior, in point of fortune, to	s inferior in point of fortune, for
+radcliffe_udolpho_47_g	38	0.9210526315789473	35165	3472	 seeming to recollect himself, he excl	 seeming to recollect himself, he smil
+radcliffe_udolpho_47_g	32	0.9375	37971	14197	e the object of her affection in	e the object of her affections, 
+collins_moonstone_60_d	34	0.9117647058823529	1310	15817	 what had passed between the elder	 what had passed between the Serge
+radcliffe_udolpho_54_g	37	0.918918918918919	8681	8705	?' said Emily, with extreme surprise 	?' said Emily, in extreme surprise; f
+radcliffe_udolpho_54_g	30	0.9	11054	23416	 and when, at length, she atte	 and when, at length, she fell
+radcliffe_udolpho_54_g	35	0.9142857142857143	22523	31361	 of the error he had committed in h	 of the error he had committed, he 
+radcliffe_udolpho_54_g	32	0.9375	36742	23569	n the following morning, she sho	n the following morning, she was
+stoker_dracula_16_g	34	0.9117647058823529	28544	13342	 unlocked the door, and entered th	 unlocked the door, and we entered
+reeve_oldenglishbaron	30	0.9	1312	24430	hat had passed between the eld	hat had passed between the Bar
+reeve_oldenglishbaron	33	0.9090909090909091	23207	26711	 preparations for the journey, an	 preparations for their journey. 
+doyle_baskervilles_15_u	30	0.9	48637	16504	I have already told you all my	I have already told you that y

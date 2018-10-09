@@ -1,0 +1,56 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_6_d	31	0.9032258064516129	10711	4748	utting his head against the cor	utting his hand against the slo
+doyle_signoffour_6_d	30	0.9666666666666667	14913	13585	 from one to the other of us w	 from one to the other of us. 
+doyle_signoffour_6_d	30	0.9	17535	15618	 the matter through without de	 the matter through with you, 
+shelley_frankenstein_55_g	34	0.9117647058823529	13077	4330	 I rushed towards the window, but 	 I rushed towards the window, and 
+doyle_signoffour_1_d	30	0.9333333333333333	2214	10643	ould you have the kindness? I 	ould you have the kindness to 
+doyle_scarlet_3_d	30	0.9	1194	9250	 the apartment into which he i	 the apartment in which the my
+stoker_dracula_25_g	30	0.9333333333333333	17339	16105	t is possible that we may be a	t is possible that we may get 
+doyle_baskervilles_1_u	36	1.0	14572	6102	 Sherlock Holmes leaned back in his 	 Sherlock Holmes leaned back in his 
+christie_styles_13_d	30	0.9333333333333333	18442	19137	me to the conclusion that it w	me to the conclusion that if h
+stoker_dracula_18_g	41	0.9512195121951219	14398	33171	 moment I feared that she was about to fa	 moment I feared that he was about to mak
+collins_hauntedhotel_26_u	33	0.9090909090909091	16542	8707	 difference of opinion on this su	 difference of opinion on the que
+stoker_dracula_11_g	30	0.9	17339	20674	t is possible that we may be a	t is possible that all may be 
+collins_moonstone_85_d	31	0.9354838709677419	11986	23273	 my innocence, how could I hope	 my innocence, how could I pers
+doyle_adventures_12_d	31	0.9354838709677419	6524	49472	 there are several points in th	 there are several points on wh
+doyle_signoffour_7_d	30	0.9	8323	14624	 a letter from India which was	 a letter from India which giv
+doyle_signoffour_7_d	30	0.9666666666666667	14913	22649	 from one to the other of us w	 from one to the other of us f
+radcliffe_udolpho_15_g	30	0.9666666666666667	1180	20121	 appearance of the apartment i	 appearance of the apartments 
+doyle_signoffour_11_d	44	0.9318181818181818	14404	8777	t I feared that she was about to faint. She 	t I feared that she was about to faint. "It 
+doyle_adventures_4_d	30	0.9666666666666667	14913	19602	 from one to the other of us w	 from one to the other of us, 
+doyle_scarlet_5_d	33	0.9393939393939394	11423	13502	 was still pondering over the mat	 was still pondering over the str
+christie_secretadversary_26_d	41	0.9024390243902439	14906	9742	 looked from one to the other of us with 	 looked from one to the other of his two 
+doyle_baskervilles_7_u	32	0.9375	17414	8990	 some light upon that which is s	 some light on that which is so 
+christie_styles_11_d	31	0.9354838709677419	18444	17646	 to the conclusion that it was 	 to the conclusion that he was 
+radcliffe_udolpho_34_g	31	0.9032258064516129	2766	52665	 delighted to hear that they ar	 delighted to hear, that her pa
+dickens_christmascarole_2_g	30	0.9333333333333333	456	7598	 his hands together as he stoo	 his hands together, as he loo
+christie_styles_5_d	32	0.9375	6525	37114	there are several points in the 	there are several points in his 
+christie_styles_5_d	30	0.9666666666666667	6887	12272	 a considerable sum of money, 	 a considerable sum of money. 
+lewis_monk_4_g	30	0.9	19178	66062	 was known to no one. In the c	 was known to no one in the Ca
+radcliffe_udolpho_50_g	30	0.9666666666666667	1171	31459	ed by the appearance of the ap	ed by the appearance of the ma
+christie_styles_12_d	36	0.9166666666666666	18444	6299	 to the conclusion that it was somew	 to the conclusion that it was to de
+stoker_dracula_2_g	30	0.9	18435	2329	 had come to the conclusion th	 had come to this conclusion I
+dickens_christmascarole_1_g	31	0.9032258064516129	13391	4827	e might have thought that our i	e might have thought that Natur
+doyle_adventures_5_d	32	0.9375	2435	17047	 was unable to find anything ami	 was unable to find anything whi
+dickens_christmascarole_3_g	30	0.9	13392	27278	 might have thought that our i	 might have thought that no on
+christie_secretadversary_17_d	30	0.9333333333333333	18442	12007	me to the conclusion that it w	me to the conclusion that the 
+stoker_dracula_3_g	30	0.9	15301	21867	s maddening to think that the 	s maddening to think that of a
+collins_moonstone_84_d	30	0.9	8393	17325	 at the breakfast-table when h	 at the breakfast-table. He ha
+christie_secretadversary_19_d	33	1.0	14906	12146	 looked from one to the other of 	 looked from one to the other of 
+lewis_monk_7_g	30	0.9	17782	36710	 the extreme closeness of the 	 the extreme chillness of the 
+doyle_adventures_2_d	38	0.9210526315789473	18435	25827	 had come to the conclusion that it wa	 had come to the conclusion that he ha
+doyle_adventures_9_d	52	0.9038461538461539	14265	36400	 listening to his extraordinary narrative. At the sh	 listening to this extraordinary narrative. Then She
+doyle_adventures_9_d	30	0.9	18308	20583	 the rattle of the wheels. "Ba	 the rattle of the wheels as t
+doyle_baskervilles_4_u	30	0.9333333333333333	16880	21814	 it only remains for us to dri	 it only remains for us to fin
+stoker_dracula_9_g	37	0.918918918918919	18439	17541	 come to the conclusion that it was s	 come to the conclusion that it must 
+radcliffe_udolpho_49_g	32	0.90625	13226	1667	 the garden that night, but foun	 the garden that night; but, on 
+radcliffe_udolpho_47_g	35	0.9142857142857143	14206	16103	ed thoughtfully for a few moments. 	ed thoughtful, for a few moments, a
+doyle_scarlet_4_d	34	0.9117647058823529	18439	4726	 come to the conclusion that it wa	 come to the conclusion that I am 
+christie_secretadversary_24_d	30	0.9333333333333333	1836	2315	 in the centre of the room. As	 in the centre of the room. “N
+christie_secretadversary_4_d	30	0.9666666666666667	14906	5972	 looked from one to the other 	 looked from one to the other-
+doyle_baskervilles_2_u	34	0.9705882352941176	14581	1884	 Holmes leaned back in his chair w	 Holmes leaned back in his chair, 
+stoker_dracula_16_g	30	0.9666666666666667	14913	20316	 from one to the other of us w	 from one to the other of us. 
+doyle_scarlet_1_d	30	0.9	18435	3054	 had come to the conclusion th	 had come to this conclusion, 
+stoker_dracula_21_g	35	0.9142857142857143	14913	24688	 from one to the other of us with a	 from one to the other of us she sa
+doyle_scarlet_8_d	33	0.9090909090909091	18439	11312	 come to the conclusion that it w	 come to the conclusion that one 
+radcliffe_udolpho_35_g	30	0.9	10183	788	, came into possession of a co	, came into possession of the 

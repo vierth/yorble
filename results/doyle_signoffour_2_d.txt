@@ -1,0 +1,53 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+stoker_dracula_7_g	31	0.9032258064516129	3692	5638	he officers in charge of the co	he officers in charge of it got
+doyle_adventures_8_d	30	0.9	564	3696	 her expression was sweet and 	 her expression was weary and 
+doyle_adventures_8_d	36	0.9166666666666666	7526	23348	 from one to the other of us, she re	 from one to the other of us, while 
+doyle_adventures_8_d	31	0.9032258064516129	9363	30219	 in the window with the volume 	 in the windows, with the blue 
+doyle_signoffour_12_d	30	0.9	5142	49484	," said Sherlock Holmes. "Has 	," said Sherlock Holmes. "A fi
+shelley_frankenstein_39_g	30	0.9	5897	4557	. What do you intend to do, Mi	. What do you intend to do?” “
+lewis_monk_11_g	30	0.9	3301	7245	 She put her hand to her throa	 She put her hand to her head,
+doyle_adventures_10_d	36	0.9166666666666666	3018	10743	 communicated with the police, and n	 communication with the police, and 
+doyle_adventures_10_d	30	0.9	5142	39509	," said Sherlock Holmes. "Has 	," said Sherlock Holmes. "It i
+doyle_adventures_6_d	30	0.9	4057	39823	," remarked Holmes. "I have no	," remarked Holmes. "I had an 
+doyle_signoffour_9_d	31	0.9032258064516129	9329	1393	I shall be back in an hour." I 	I shall be back in an hour or t
+collins_moonstone_68_d	35	0.9142857142857143	3018	20846	 communicated with the police, and 	 communicated to the police, and th
+collins_hauntedhotel_24_u	36	0.9166666666666666	2984	1952	ice of the manager of the hotel, I c	ice of the manager of the hotel) bec
+collins_hauntedhotel_24_u	30	0.9491525423728814	9328	13034	 I shall be back in an hour." 	 I shall be back in an hour.'
+doyle_adventures_3_d	30	0.9	5142	36	," said Sherlock Holmes. "Has 	," said Sherlock Holmes as we 
+doyle_adventures_3_d	30	0.9	6785	18768	 papers upon the table, and ga	 papers upon the table and wen
+lewis_monk_3_g	30	0.9	6792	40422	 upon the table, and gave litt	 upon the table, and gave the 
+doyle_signoffour_4_d	34	0.9117647058823529	7526	14913	 from one to the other of us, she 	 from one to the other of us with 
+doyle_signoffour_6_d	30	0.9666666666666667	7526	13585	 from one to the other of us, 	 from one to the other of us. 
+doyle_signoffour_3_d	30	0.9	3835	650	 the 34th Bombay Infantry. The	 the 34th Bombay Infantry, die
+doyle_signoffour_7_d	30	0.9666666666666667	7526	22649	 from one to the other of us, 	 from one to the other of us f
+doyle_baskervilles_12_u	31	0.9354838709677419	3018	18592	 communicated with the police, 	 communicate with the police.” 
+doyle_adventures_4_d	30	0.9	5142	20153	," said Sherlock Holmes. "Has 	," said Sherlock Holmes. "You 
+doyle_adventures_4_d	34	0.9117647058823529	7526	19602	 from one to the other of us, she 	 from one to the other of us, and 
+collins_moonstone_67_d	35	0.9714285714285714	3018	22932	 communicated with the police, and 	 communicate with the police, and t
+christie_secretadversary_26_d	30	0.9333333333333333	7526	9749	 from one to the other of us, 	 from one to the other of his 
+doyle_baskervilles_7_u	33	0.9090909090909091	1856	6076	You will, I am sure, excuse me," 	You will, I am sure, excuse my pr
+austen_northangerabbey_26_g	32	0.90625	856	13341	 could not but observe that as s	 could not but observe that the 
+christie_styles_12_d	39	0.9487179487179487	6932	19078	but there can be no question as to the 	but there can be no question as to his 
+doyle_adventures_5_d	30	0.9	5345	21043	." "Thank you," said Holmes. "	." "Thank you!" said Holmes, f
+doyle_adventures_5_d	31	0.9032258064516129	6776	36294	d out the papers upon the table	d out the pips upon the table. 
+doyle_adventures_5_d	41	0.9024390243902439	6937	23867	here can be no question as to the authors	here can be no question as to their natur
+doyle_adventures_5_d	30	0.9	9247	13143	one of the most remarkable eve	one of the most remarkable to 
+christie_secretadversary_11_d	31	0.9032258064516129	2901	317	 had not yet returned. I waited	 had not yet returned. It was t
+christie_styles_8_d	32	0.9375	8095	4332	It is of the first importance," 	It is of the first importance! S
+christie_secretadversary_19_d	30	0.9	3301	15107	 She put her hand to her throa	 She put her hand to her head.
+doyle_adventures_2_d	30	0.9	4515	3309	n the advertisement column. Th	n the advertisement column, wi
+doyle_adventures_2_d	34	0.9117647058823529	4954	10861	ou can see for yourselves that the	ou can see for yourself that the L
+doyle_adventures_2_d	31	0.9032258064516129	4960	12106	 see for yourselves that they a	 see for yourselves, that my ha
+doyle_adventures_2_d	30	0.9	5347	27685	 "Thank you," said Holmes. "Th	 "Thank you," said Holmes, "I 
+christie_styles_1_d	31	0.9032258064516129	9623	2244	 at the time of her father's di	 at the time of their father’s 
+austen_northangerabbey_16_g	31	1.0	5942	3472	hat is exactly what I want to a	hat is exactly what I want to a
+doyle_adventures_9_d	51	1.0	3134	42354	 from that day to this no word has ever been heard 	 from that day to this no word has ever been heard 
+doyle_adventures_9_d	31	0.9032258064516129	6937	41961	here can be no question as to t	here can be no question that it
+collins_hauntedhotel_25_u	30	0.9	3301	10321	 She put her hand to her throa	 She put her hand to her head.
+doyle_baskervilles_4_u	30	0.9	9247	5253	one of the most remarkable eve	one of the most remarkable thi
+radcliffe_udolpho_41_g	33	0.9393939393939394	9623	10683	 at the time of her father's disa	 at the time of her father's deat
+radcliffe_udolpho_54_g	30	0.9	7176	11191	 any resemblance between this 	 any resemblance between what 
+stoker_dracula_16_g	34	0.9117647058823529	7526	20316	 from one to the other of us, she 	 from one to the other of us. We g
+stoker_dracula_21_g	34	0.9705882352941176	7526	24688	 from one to the other of us, she 	 from one to the other of us she s
+doyle_baskervilles_15_u	31	0.9032258064516129	6937	13834	here can be no question as to t	here can be no question that St
+christie_styles_4_d	31	0.9354838709677419	8096	4390	t is of the first importance," 	t is of the first importance.” 

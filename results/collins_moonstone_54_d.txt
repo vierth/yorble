@@ -1,0 +1,82 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_12_u	30	0.9	4255	7969	 and changed the subject. As t	 and changed the subject. 'My 
+lewis_monk_11_g	30	0.9333333333333333	4509	54517	 inclined to think that the cu	 inclined to think that the Do
+collins_moonstone_57_d	33	0.9090909090909091	21361	7484	n Miss Verinder’s dress,” he said	n Miss Verinder’s keys,” she said
+austen_northangerabbey_23_g	34	0.9117647058823529	7833	9388	 has been dead these ten years.” “	 has been dead these nine years.” 
+collins_moonstone_75_d	30	0.9333333333333333	14580	9698	 the sudden appearance on the 	 the sudden appearance of her 
+collins_moonstone_46_d	52	1.0	23543	8086	 and took a turn at _Robinson Crusoe_. Before I had 	 and took a turn at _Robinson Crusoe_. Before I had 
+lewis_monk_12_g	30	0.9333333333333333	10184	35211	 addressed himself to the wron	 addressed himself to the Monk
+collins_moonstone_68_d	30	0.9	1231	15363	thing out of the common way ab	thing out of the common had ha
+stoker_dracula_14_g	31	0.9032258064516129	18765	14951	er what you have told me, that 	er what you have told me, and w
+lewis_monk_3_g	30	0.9	26092	45464	 for the arrival of the rain. 	 for the arrival of the Gang; 
+stoker_dracula_26_g	33	0.9393939393939394	13424	1332	 and I looked at each other; it w	 and I looked at each other with 
+collins_moonstone_64_d	33	0.9090909090909091	10122	6284	, nine times out of ten he pitche	, nine times out of ten, the othe
+collins_moonstone_64_d	30	0.9	11872	4517	to acknowledge that he had lat	to acknowledge that she had sp
+collins_moonstone_89_d	30	0.9333333333333333	1162	78609	, as a matter of course. But t	, as a matter of course, put t
+collins_moonstone_89_d	33	0.9393939393939394	5354	79910	and you will understand what I ha	and you will understand that I pa
+collins_moonstone_89_d	30	0.9	14802	80043	 of their own country. If he h	 of their own country. On the 
+collins_moonstone_89_d	30	0.9	15148	632	 had passed on either side, Mr	 had passed on either side. I 
+collins_moonstone_89_d	30	0.9	19568	82537	e at Lady Verinder’s house at 	e at Lady Verinder’s house. Th
+collins_moonstone_89_d	30	0.9	23375	9731	 what was to be done next. In 	 what was to be done next. “Co
+collins_moonstone_89_d	32	0.9375	23906	72047	 believe in _Robinson Crusoe_, a	 believe in _Robinson Crusoe_?” 
+collins_moonstone_89_d	30	0.9	25108	51776	 Mr. Candy, the doctor, who ha	 Mr. Candy, the doctor, on the
+shelley_frankenstein_52_g	33	0.9090909090909091	12494	1960	 now, for the first time, he knew	 now, for the first time, the wic
+collins_hauntedhotel_16_u	31	0.9032258064516129	5352	3080	, and you will understand what 	, and you will understand her. 
+doyle_scarlet_3_d	30	0.9333333333333333	17997	20285	 tell you something which may 	 tell you one thing which may 
+austen_northangerabbey_9_g	30	0.9333333333333333	1231	8164	thing out of the common way ab	thing out of the common way. M
+collins_moonstone_58_d	42	0.9285714285714286	24502	13940	 for the first time in our experience of h	 for the first time in my experience of hi
+radcliffe_udolpho_6_g	30	0.9	14786	5610	 in the language of their own 	 in the language of his own mi
+lewis_monk_9_g	30	0.9	5144	24644	 the most unfortunate manner a	 the most unfortunate Woman al
+lewis_monk_9_g	30	0.9	19249	60606	 backwards and forwards, here 	 backwards and forwards. The A
+collins_moonstone_77_d	30	0.9655172413793104	12174	10229	ion, one and the same thing. M	ion, one and the same thing.
+collins_moonstone_77_d	34	0.9117647058823529	21345	2124	 the Moonstone on Miss Verinder’s 	 the Moonstone to Miss Verinder. I
+collins_moonstone_70_d	30	0.9	19760	15016	 to congratulate you on that p	 to congratulate you on the ma
+collins_moonstone_70_d	30	0.9	20129	15016	 to congratulate you for the t	 to congratulate you on the ma
+stoker_dracula_18_g	31	0.9032258064516129	7151	23771	 between the hours of ten and f	 between the hours of noon and 
+stoker_dracula_18_g	31	1.0	10179	4392	or he addressed himself to the 	or he addressed himself to the 
+radcliffe_udolpho_16_g	32	0.9375	6275	9984	, he seized the opportunity of a	, he seized this opportunity of 
+radcliffe_udolpho_16_g	31	0.9032258064516129	26230	4503	 the rest of the company went h	 the rest of the company. The h
+collins_hauntedhotel_27_u	30	0.9	20149	4930	 for the third time! If you ev	 for the third time. If you or
+collins_moonstone_56_d	44	0.9090909090909091	18026	13970	 possibly put the clue into your hands. I sp	 possibly put the clue into our hands.” She 
+collins_moonstone_56_d	41	0.9512195121951219	26456	697	 that a doctor’s skin was waterproof. So 	 that a doctor’s skin was waterproof. In 
+christie_secretadversary_22_d	30	0.9	21290	6668	 brought us back to the matter	 brought us back to the telegr
+collins_moonstone_61_d	30	0.9	6136	9891	s ill-luck would have it, Mr. 	s ill-luck would have it, she 
+collins_moonstone_61_d	33	0.9696969696969697	13693	9888	, as ill-luck would have it, the 	, as ill-luck would have it, she 
+shelley_frankenstein_48_g	31	0.9032258064516129	25227	3591	 entered into conversation with	 entered into conversation, usi
+collins_moonstone_67_d	30	0.9666666666666667	8716	19469	 a pretty taste in champagne; 	 a pretty taste in champagne. 
+doyle_scarlet_5_d	33	0.9393939393939394	17074	2741	. There is a mystery about their 	. There is a mystery about this w
+doyle_baskervilles_7_u	30	0.9333333333333333	5357	23818	 you will understand what I ha	 you will understand that I ca
+stoker_dracula_12_g	30	0.9333333333333333	13424	2679	 and I looked at each other; i	 and I looked at each other, a
+stoker_dracula_12_g	31	0.9032258064516129	14450	8657	 just in the nick of time to se	 just in the nick of time. You 
+dickens_christmascarole_2_g	31	0.9032258064516129	13283	31633	 the master of the house), when	 the master of the house, havin
+lewis_monk_4_g	30	0.9333333333333333	6279	15336	 seized the opportunity of ass	 seized the opportunity of esc
+radcliffe_udolpho_50_g	30	0.9	10184	33247	 addressed himself to the wron	 addressed himself to the hunt
+radcliffe_udolpho_18_g	30	0.9333333333333333	16382	41799	 what you have just told me.” 	 what you have just told me to
+dickens_christmascarole_1_g	32	0.90625	7833	10474	 has been dead these ten years.”	 has been dead these seven years
+stoker_dracula_24_g	32	0.90625	13424	21250	 and I looked at each other; it 	 and I looked at each other for 
+collins_moonstone_84_d	40	0.925	24504	285	or the first time in our experience of h	or the first time in my experience of hi
+lewis_monk_7_g	30	0.9	14146	21453	our suspicions were right, the	our suspicions are right, thou
+collins_moonstone_53_d	39	0.9230769230769231	1530	5266	d, in season and out of season, of his 	d, in season and out of season, on the 
+collins_moonstone_53_d	35	1.0	14188	7674	, innocent of all knowledge of the 	, innocent of all knowledge of the 
+collins_moonstone_62_d	30	0.9	18222	12961	e at the Shivering Sand. Even 	e at the Shivering Sand. The f
+doyle_adventures_9_d	31	0.9032258064516129	18035	36282	 put the clue into your hands. 	 put the case into your hands a
+lewis_monk_1_g	30	0.9333333333333333	6279	24742	 seized the opportunity of ass	 seized the opportunity of spe
+collins_moonstone_50_d	31	0.9354838709677419	2030	7164	t the Diamond to Miss Rachel wa	t the Diamond to Miss Rachel?” 
+collins_moonstone_50_d	35	0.9714285714285714	17653	21648	 different sides of his character, 	 different sides to his character, 
+collins_moonstone_50_d	32	0.90625	23375	20768	 what was to be done next. In th	 what was to be done next. He ha
+collins_moonstone_66_d	31	0.9032258064516129	17663	1451	 sides of his character, broke 	 sides of his character, one on
+collins_moonstone_60_d	31	0.9032258064516129	20550	3361	, Mr. Betteredge?” says the tra	, Mr. Betteredge,” says the Ser
+doyle_scarlet_4_d	30	0.9	17074	2174	. There is a mystery about the	. There is no mystery about it
+radcliffe_udolpho_54_g	30	0.9	26230	4805	 the rest of the company went 	 the rest of the company, and 
+collins_moonstone_76_d	34	0.9117647058823529	2833	908	 traveller, Mr. Murthwaite, who, a	 traveller, Mr. Murthwaite, the da
+collins_moonstone_76_d	30	0.9333333333333333	11874	8591	 acknowledge that he had latte	 acknowledged that he had acte
+collins_moonstone_76_d	30	0.9	14629	908	 traveller, Mr. Murthwaite. Sk	 traveller, Mr. Murthwaite, th
+collins_moonstone_76_d	30	0.9333333333333333	18762	16844	after what you have told me, t	after what you have told me!” 
+collins_moonstone_49_d	33	0.9090909090909091	10122	15931	, nine times out of ten he pitche	, nine times out of ten the place
+collins_moonstone_49_d	30	0.9	19464	4449	,” says Mr. Franklin. “And ple	,” says Mr. Franklin. “And my 
+collins_moonstone_49_d	30	0.9	21306	2801	 to the matter in hand. “They 	 to the matter in hand. She wa
+collins_moonstone_49_d	30	0.9	22302	14358	 “In that case,” says Mr. Murt	 “In that case,” says Mr. Fran
+collins_moonstone_49_d	30	0.9830508474576272	23552	16457	 a turn at _Robinson Crusoe_. 	 a turn at _Robinson Crusoe_.
+collins_moonstone_65_d	30	0.9	5353	17327	 and you will understand what 	 and you will understand how u
+collins_moonstone_52_d	31	0.9354838709677419	4825	3687	 Nine times out of ten they cha	 Nine times out of ten they tak
+collins_moonstone_52_d	30	0.9	6279	20428	 seized the opportunity of ass	 seized the opportunity of the

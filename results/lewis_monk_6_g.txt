@@ -1,0 +1,21 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_21_g	30	0.9	42037	8002	 the remembrance of her charms	 the remembrance of her occasi
+lewis_monk_1_g	30	0.9	10828	37041	 the door leading to the subte	 the door leading to the Abbey
+lewis_monk_1_g	34	0.9117647058823529	12007	42815	 the Prioress of St. Clare in the 	 the Prioress of St. Clare, the be
+lewis_monk_1_g	30	0.9	25267	17783	 Superior of the Capuchins. Th	 Superior of the Capuchins fou
+lewis_monk_1_g	30	0.9	30968	43974	e Statue of St. Francis than t	e Statue of St. Francis, the P
+lewis_monk_1_g	33	0.9696969696969697	39893	18788	 the outside of the Abbey walls. 	 the outside of the Abbey walls: 
+lewis_monk_1_g	30	0.9	41876	32461	 other terms than marriage He 	 other terms than marriage; an
+lewis_monk_1_g	30	0.9333333333333333	45564	15105	he Marquis de las Cisternas an	he Marquis de las Cisternas.' 
+lewis_monk_1_g	30	0.9	45565	31893	e Marquis de las Cisternas and	e Marquis de las Cisternas; Bu
+lewis_monk_1_g	34	0.9411764705882353	52513	18774	 never been on the outside of its 	 never been on the outside of the 
+radcliffe_udolpho_27_g	35	0.9142857142857143	55292	9143	. Thus passed the time, till the Be	. Thus passed the time, till twelve
+radcliffe_udolpho_14_g	31	0.9032258064516129	19248	4239	 on the point of breaking. Let 	 on the point of breaking the s
+radcliffe_udolpho_14_g	31	0.9032258064516129	39311	6207	 brought to his recollection hi	 brought to her recollection th
+radcliffe_udolpho_41_g	34	1.0	12585	19764	 wish I could prevail upon you to 	 wish I could prevail upon you to 
+doyle_scarlet_12_d	30	0.9333333333333333	40026	1583	uring the whole of that day, B	uring the whole of that day th
+radcliffe_udolpho_47_g	30	0.9	54846	11623	 seated herself in silence at 	 seated herself in silence bes
+collins_moonstone_60_d	30	0.9	13772	18470	or which communicated with St.	or which communicated with Mis
+radcliffe_udolpho_54_g	31	0.9032258064516129	39311	3160	 brought to his recollection hi	 brought to her recollection th
+radcliffe_udolpho_54_g	30	0.9333333333333333	41268	8178	he was unwilling to quit her S	he was unwilling to quit the c
+radcliffe_udolpho_35_g	31	0.9032258064516129	35760	19819	e totally different from those 	e totally different from that s

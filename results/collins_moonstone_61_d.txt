@@ -1,0 +1,49 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_80_d	33	0.9393939393939394	702	5376	I have something to say to you, s	I have something to say to you.” 
+doyle_adventures_4_d	32	0.90625	1349	6688	. Under these circumstances, is 	. Under these circumstances the 
+collins_moonstone_67_d	30	0.9	2344	14896	ing to Mr. Franklin Blake. Thi	ing to Mr. Franklin Blake. I l
+collins_moonstone_67_d	30	0.9	7288	5593	 the Moonstone, and that was i	 the Moonstone, and that she h
+radcliffe_udolpho_34_g	31	0.9032258064516129	14460	10656	t was impossible for me to see 	t was impossible for her to fee
+christie_styles_5_d	30	0.9	1349	5791	. Under these circumstances, i	. Under the circumstances, we 
+christie_styles_5_d	30	0.9	9636	27778	There was something in the way	There was something in that ca
+lewis_monk_4_g	30	0.9	5531	9282	e the first opportunity of mak	e the first opportunity of dec
+lewis_monk_4_g	32	0.90625	14460	27077	t was impossible for me to see h	t was impossible for me to make 
+lewis_monk_4_g	30	0.9	14460	52422	t was impossible for me to see	t was impossible for me to joi
+austen_northangerabbey_28_g	33	0.9090909090909091	5532	1678	 the first opportunity of making 	 the first opportunity of being s
+shelley_frankenstein_42_g	30	0.9333333333333333	3134	3135	 speaking in a loud voice, so 	 speaking in a loud voice, pro
+collins_moonstone_74_d	34	0.9117647058823529	1348	1653	e. Under these circumstances, is i	e. Under these circumstances, Mr. 
+collins_moonstone_74_d	31	1.0	9636	12106	There was something in the way 	There was something in the way 
+dickens_christmascarole_1_g	32	0.90625	4432	6339	n the spur of the moment, I saw 	n the spur of the moment, said, 
+doyle_adventures_5_d	30	0.9	11999	11517	es. I could see no change in t	es. I could see a change in my
+doyle_adventures_5_d	30	0.9	13229	32135	s nothing more to be said. I s	s nothing more to be said or t
+radcliffe_udolpho_22_g	35	0.9428571428571428	12647	24998	 looked at me for a moment with a g	 looked at her for a moment with a 
+collins_hauntedhotel_19_u	33	0.9393939393939394	702	2369	I have something to say to you, s	I have something to say to you.' 
+doyle_scarlet_2_d	33	0.9393939393939394	1348	3116	e. Under these circumstances, is 	e. Under these circumstances, I e
+collins_moonstone_84_d	30	0.9	12647	2165	 looked at me for a moment wit	 looked at me for a moment, no
+christie_secretadversary_19_d	30	0.9333333333333333	9222	288	 to take any interest in her. 	 to take any interest in the c
+lewis_monk_7_g	30	0.9	14460	2338	t was impossible for me to see	t was impossible for her to re
+doyle_adventures_2_d	30	0.9	14464	2406	s impossible for me to see her	s impossible for me to say whe
+collins_moonstone_53_d	31	0.967741935483871	703	7223	 have something to say to you, 	 have something to say to you t
+collins_moonstone_53_d	32	1.0	6545	805	. After breakfast, Mr. Franklin 	. After breakfast, Mr. Franklin 
+collins_moonstone_53_d	46	0.9347826086956522	9774	9668	 what had passed between Mr. Franklin and Rosa	 what had passed between Mr. Franklin and me a
+doyle_signoffour_5_d	34	0.9117647058823529	6673	13132	 I was the only person who saw him	 I was the last person who saw him
+collins_moonstone_62_d	30	0.9	737	2433	,” answered the Sergeant, “on 	,” answered the Sergeant. “If 
+collins_moonstone_62_d	31	0.9032258064516129	737	6934	,” answered the Sergeant, “on t	,” answered the Sergeant, “befo
+collins_moonstone_50_d	31	0.9032258064516129	1787	14552	,” answered Mr. Franklin; “and 	,” answered Mr. Franklin, “say 
+collins_hauntedhotel_10_u	30	0.9666666666666667	12160	5064	 I hardly knew what to say to 	 I hardly know what to say to 
+collins_moonstone_66_d	30	0.9333333333333333	737	9502	,” answered the Sergeant, “on 	,” answered the Sergeant. “Go 
+collins_moonstone_66_d	30	0.9666666666666667	7274	624	 the matter of the Moonstone, 	 the matter of the Moonstone. 
+collins_moonstone_66_d	32	0.96875	13178	559	, Mr. Betteredge.” There was no 	, Mr. Betteredge?” There was no 
+collins_moonstone_60_d	30	0.9	737	9853	,” answered the Sergeant, “on 	,” answered the Sergeant. “It 
+collins_moonstone_60_d	30	0.9	737	19128	,” answered the Sergeant, “on 	,” answered the Sergeant, “bec
+collins_moonstone_60_d	32	0.9375	1349	13459	. Under these circumstances, is 	. Under those circumstances, it 
+collins_moonstone_60_d	30	0.9	2463	4394	 Rosanna Spearman in her own p	 Rosanna Spearman into her con
+collins_moonstone_60_d	34	0.9117647058823529	5735	14601	 invite the girl’s confidence, wit	 invite the girl’s confidence. At 
+christie_secretadversary_4_d	33	0.9393939393939394	9633	4192	y. There was something in the way	y. There was something in the qua
+collins_moonstone_76_d	30	0.9	4432	17403	n the spur of the moment, I sa	n the spur of the moment, to t
+christie_secretadversary_15_d	30	0.9333333333333333	1762	6418	” “I don’t understand you,” an	” “I don’t understand you,” re
+collins_moonstone_49_d	33	0.9393939393939394	702	272	I have something to say to you, s	I have something to say to you.” 
+collins_moonstone_65_d	30	0.9	737	18573	,” answered the Sergeant, “on 	,” answered the Sergeant, “req
+collins_moonstone_65_d	33	0.9090909090909091	1349	8107	. Under these circumstances, is i	. Under these circumstances, and 
+collins_moonstone_65_d	33	0.9090909090909091	7410	4817	,” she said, meaning the Sergeant	,” she said, facing the Sergeant 
+collins_moonstone_52_d	32	0.96875	4793	21620	 was in love with Mr. Franklin; 	 was in love with Mr. Franklin (

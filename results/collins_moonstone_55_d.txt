@@ -1,0 +1,198 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_5_u	30	0.9	208	14307	 followed by the two gentlemen	 followed the two gentlemen do
+collins_moonstone_54_d	30	0.9	3682	19460	ight,” says Mr. Franklin. “We’	ight,” says Mr. Franklin. “And
+collins_moonstone_54_d	30	0.9	8735	26167	ith the exception of the front	ith the exception of the docto
+collins_moonstone_54_d	35	0.9142857142857143	9963	21805	here is no help for it?” she said, 	here is no help for it,” he said. “
+radcliffe_udolpho_30_g	39	0.9230769230769231	6176	32019	 the sighing of the wind among the tree	 the sighings of the wind among the bat
+christie_styles_7_d	30	0.9	8734	16075	with the exception of the fron	with the exception of the serv
+christie_styles_7_d	30	0.9333333333333333	26589	3673	 I could only conclude that sh	 I could only conclude that Po
+doyle_scarlet_6_d	30	0.9	9403	12747	 closed the door behind her. T	 closed the door behind them a
+stoker_dracula_13_g	30	0.9	4411	14444	 in the drawing-room), and the	 in the drawing-room, and told
+collins_moonstone_63_d	30	0.9	3297	8560	Betteredge,” he said, “I’m hal	Betteredge,” he said, “I have 
+collins_moonstone_63_d	32	0.9375	41325	695	 Betteredge, till I come back, a	 Betteredge, till I come back.” 
+doyle_adventures_10_d	30	0.9	38286	21677	 that she had been suddenly ta	 that she had become suddenly 
+collins_moonstone_57_d	32	0.9375	13138	778	 a woman of a high courage, she 	 a woman of a high courage, as I
+collins_moonstone_57_d	30	0.9	15848	8111	. Superintendent Seegrave, of 	. Superintendent Seegrave,” ad
+collins_moonstone_57_d	30	0.9333333333333333	20138	8112	 Superintendent Seegrave, and,	 Superintendent Seegrave,” add
+collins_moonstone_57_d	30	0.9	20138	8351	 Superintendent Seegrave, and,	 Superintendent Seegrave’s man
+collins_moonstone_57_d	30	0.9	22985	8111	. Superintendent Seegrave is a	. Superintendent Seegrave,” ad
+collins_moonstone_57_d	32	0.90625	22986	8351	 Superintendent Seegrave is an a	 Superintendent Seegrave’s many 
+collins_moonstone_57_d	30	0.9666666666666667	29238	9617	he matron at the Reformatory h	he matron at the Reformatory. 
+collins_moonstone_57_d	30	0.9	35002	8351	 Superintendent Seegrave’s to 	 Superintendent Seegrave’s man
+doyle_adventures_6_d	33	0.9090909090909091	19763	16425	 the staircase which led to the s	 the stairs which led to the firs
+doyle_adventures_6_d	30	0.9	22568	21913	w any light on the matter. Nei	w any light upon the matter. O
+doyle_adventures_6_d	34	0.9117647058823529	24088	46211	 I looked out of window, and saw t	 I looked out of my window and saw
+doyle_adventures_6_d	30	0.9666666666666667	42177	8147	 to have a little talk with Ro	 to have a little talk with yo
+collins_hauntedhotel_4_u	35	0.9428571428571428	36985	5478	, of all the people in the world, w	, of all the people in the world?' 
+collins_moonstone_75_d	30	0.9	37462	5989	 at the first opportunity. My 	 at the first opportunity she 
+collins_moonstone_46_d	34	0.9117647058823529	39500	424	. And that, let me tell you, was b	. And that, let me tell you, when 
+collins_hauntedhotel_17_u	31	0.9354838709677419	7622	14588	ring what had happened. The new	ring what had happened. The man
+collins_moonstone_68_d	30	0.9	33831	17635	 later period of the day. I st	 later period of the day. Afte
+collins_hauntedhotel_24_u	30	0.9	31371	5449	 step in the investigation bro	 step in the investigation wit
+stoker_dracula_19_g	30	0.9	25946	12874	, and locked the door in our f	, and locked the door in ortho
+stoker_dracula_14_g	30	0.9	14561	234	 the responsibility of him as 	 the responsibility of his new
+stoker_dracula_14_g	30	0.9333333333333333	39503	21596	nd that, let me tell you, was 	nd that, let me tell you, is m
+lewis_monk_3_g	31	0.9354838709677419	26246	451	 for the honour of the family, 	 for the honour of his family, 
+radcliffe_udolpho_24_g	30	0.9	2431	6448	 at the other end of the hall,	 at the other end of the castl
+radcliffe_udolpho_24_g	34	1.0	33615	3131	 the door, it was suddenly opened 	 the door, it was suddenly opened 
+collins_moonstone_64_d	31	0.9032258064516129	3686	4848	,” says Mr. Franklin. “We’ll se	,” says Mr. Franklin. “I’ll exp
+collins_moonstone_64_d	33	0.9696969696969697	9489	166	. My mistress came out among us, 	. My mistress came out among us (
+collins_moonstone_89_d	33	0.9393939393939394	10410	73263	 that the Indians have certainly 	 that the Indians had certainly b
+collins_moonstone_89_d	33	0.9696969696969697	16407	57740	 in the matter of the Moonstone, 	 in the matter of the Moonstone. 
+collins_moonstone_89_d	30	0.9	17038	74282	 proved that they had walked s	 proved that they had sailed, 
+collins_moonstone_89_d	30	0.9	19458	41402	 committed by some person in t	 committed by some person, or 
+collins_moonstone_89_d	32	0.90625	25514	31762	en the door of the sitting-room 	en the door of a sitting-room, a
+collins_moonstone_89_d	32	0.90625	31123	61079	 you will say. She might have wa	 you will say, he might have sav
+collins_moonstone_89_d	35	0.9428571428571428	38948	48814	 the right reading of the riddle, i	 the right reading of this riddle, 
+collins_moonstone_89_d	31	0.9032258064516129	39088	53808	d only said three words, still 	d only said three words, this t
+collins_moonstone_89_d	30	0.9	41704	49070	 of twenty thousand pounds, si	 of twenty thousand pounds—as 
+shelley_frankenstein_37_g	41	0.9512195121951219	4041	5420	ing towards us from the other end of the 	ing towards me from the other end of the 
+austen_northangerabbey_15_g	38	0.9210526315789473	11394	391	 took the opportunity of asking him ho	 took the opportunity of asking the ot
+collins_hauntedhotel_16_u	31	0.9354838709677419	27138	4829	 answer to those questions was 	 answer to those questions at V
+collins_hauntedhotel_20_u	31	0.9354838709677419	34299	11548	 at a loss to account for. The 	 at a loss to account for the m
+christie_styles_9_d	30	0.9	36669	1267	What on earth does it mean?” I	What on earth does he mean?” L
+stoker_dracula_23_g	34	0.9117647058823529	9399	7172	 and closed the door behind her. T	 and closed the door behind them, 
+austen_northangerabbey_9_g	30	0.9666666666666667	2874	8159	 something out of the common, 	 something out of the common w
+collins_moonstone_58_d	33	0.9090909090909091	35205	1683	 to solve the mystery of the Diam	 to solve the mystery of the smea
+collins_moonstone_58_d	35	0.9142857142857143	35214	1771	 the mystery of the Diamond. Talkin	 the mystery of the Diamond also—in
+collins_moonstone_58_d	31	0.9032258064516129	42674	13792	 in such low spirits about her 	 in such low spirits about my y
+christie_styles_13_d	33	0.9090909090909091	36669	22385	What on earth does it mean?” I co	What on earth does this mean?” I 
+collins_moonstone_77_d	30	0.9	43785	7976	 of the three Indians, who kne	 of the three Indians, who had
+collins_moonstone_70_d	31	0.9032258064516129	40258	10853	 the prison at Frizinghall. Hea	 the prison at Frizinghall? The
+collins_moonstone_85_d	30	0.9	9403	80	 closed the door behind her. T	 closed the door behind me. We
+collins_moonstone_85_d	31	0.9032258064516129	29662	25369	, there was but one thing left 	, there was but one thing more 
+doyle_scarlet_13_d	31	0.9032258064516129	11399	10285	 the opportunity of asking him 	 the opportunity of making the 
+doyle_scarlet_13_d	32	0.90625	16631	2019	 before the magistrate, and the 	 before the magistrates in the c
+doyle_scarlet_13_d	30	0.9333333333333333	16631	23050	 before the magistrate, and th	 before the magistrates, and y
+doyle_scarlet_13_d	30	0.9666666666666667	36697	13287	 I could not bring myself to t	 I could not bring myself to d
+doyle_scarlet_13_d	30	1.0	42718	13286	t I could not bring myself to 	t I could not bring myself to 
+radcliffe_udolpho_16_g	35	0.9714285714285714	42848	21667	 persisted in believing that she wa	 persisted in believing, that she a
+collins_moonstone_56_d	30	0.9	162	13535	 and Miss Rachel came out of t	 and Miss Rachel came out amon
+collins_moonstone_56_d	30	0.9	15848	2241	. Superintendent Seegrave, of 	. Superintendent Seegrave, ret
+collins_moonstone_56_d	30	0.9	15849	10372	 Superintendent Seegrave, of y	 Superintendent Seegrave upon 
+collins_moonstone_56_d	30	0.9333333333333333	15849	16128	 Superintendent Seegrave, of y	 Superintendent Seegrave, on t
+collins_moonstone_56_d	30	0.9	18463	18558	 Superintendent Seegrave arriv	 Superintendent Seegrave laid 
+collins_moonstone_56_d	32	0.90625	20137	18557	n Superintendent Seegrave, and, 	n Superintendent Seegrave laid h
+collins_moonstone_56_d	30	0.9	20475	10097	!” says Mr. Superintendent, su	!” says Mr. Superintendent in 
+collins_moonstone_56_d	30	0.9	20476	23005	” says Mr. Superintendent, sud	” says Mr. Superintendent, wit
+collins_moonstone_56_d	31	0.9032258064516129	22986	3959	 Superintendent Seegrave is an 	 Superintendent Seegrave than S
+collins_moonstone_56_d	32	0.90625	22986	8938	 Superintendent Seegrave is an a	 Superintendent Seegrave in that
+collins_moonstone_56_d	30	0.9	22986	9649	 Superintendent Seegrave is an	 Superintendent Seegrave had a
+collins_moonstone_56_d	30	0.9	22986	18558	 Superintendent Seegrave is an	 Superintendent Seegrave laid 
+collins_moonstone_56_d	30	0.9	22986	21703	 Superintendent Seegrave is an	 Superintendent Seegrave was s
+collins_moonstone_56_d	35	0.9142857142857143	24669	13618	 without appearing to notice Mr. Go	 without appearing to notice (or to
+collins_moonstone_56_d	30	0.9	24780	1070	 Mr. Franklin appeared to be s	 Mr. Franklin appeared to regr
+collins_moonstone_56_d	31	0.9032258064516129	27197	11874	 in the house. Mr. Franklin app	 in the house?” Mr. Franklin wa
+collins_moonstone_56_d	30	0.9	30298	3959	 Superintendent Seegrave. It s	 Superintendent Seegrave than 
+collins_moonstone_56_d	31	0.9032258064516129	30298	12635	 Superintendent Seegrave. It se	 Superintendent Seegrave. “Let 
+collins_moonstone_56_d	30	0.9	30298	21703	 Superintendent Seegrave. It s	 Superintendent Seegrave was s
+collins_moonstone_56_d	30	0.9	32396	3959	 Superintendent Seegrave at th	 Superintendent Seegrave than 
+collins_moonstone_56_d	30	0.9333333333333333	32396	8938	 Superintendent Seegrave at th	 Superintendent Seegrave in th
+collins_moonstone_56_d	30	0.9	32396	9649	 Superintendent Seegrave at th	 Superintendent Seegrave had a
+collins_moonstone_56_d	33	0.9090909090909091	32396	16128	 Superintendent Seegrave at the d	 Superintendent Seegrave, on the 
+collins_moonstone_56_d	31	0.9032258064516129	32396	18558	 Superintendent Seegrave at the	 Superintendent Seegrave laid h
+collins_moonstone_56_d	31	0.9032258064516129	32396	21703	 Superintendent Seegrave at the	 Superintendent Seegrave was st
+collins_moonstone_56_d	31	0.9032258064516129	32675	10372	 Superintendent Seegrave down! 	 Superintendent Seegrave upon t
+collins_moonstone_56_d	31	0.9032258064516129	32675	16128	 Superintendent Seegrave down! 	 Superintendent Seegrave, on th
+collins_moonstone_56_d	31	0.9354838709677419	33170	2242	 Superintendent Seegrave retire	 Superintendent Seegrave, retur
+collins_moonstone_56_d	30	0.9	33170	12635	 Superintendent Seegrave retir	 Superintendent Seegrave. “Let
+collins_moonstone_56_d	30	0.9	33170	22738	 Superintendent Seegrave retir	 Superintendent Seegrave’s res
+collins_moonstone_56_d	30	0.9	35002	3959	 Superintendent Seegrave’s to 	 Superintendent Seegrave than 
+collins_moonstone_56_d	30	0.9	35002	10372	 Superintendent Seegrave’s to 	 Superintendent Seegrave upon 
+collins_moonstone_56_d	32	0.90625	35002	16128	 Superintendent Seegrave’s to he	 Superintendent Seegrave, on the
+collins_moonstone_56_d	30	0.9	35002	22738	 Superintendent Seegrave’s to 	 Superintendent Seegrave’s res
+collins_moonstone_56_d	30	0.9	39684	3959	 Superintendent Seegrave also 	 Superintendent Seegrave than 
+collins_moonstone_56_d	30	0.9	39684	8271	 Superintendent Seegrave also 	 Superintendent Seegrave shoul
+collins_moonstone_56_d	30	0.9	39684	9649	 Superintendent Seegrave also 	 Superintendent Seegrave had a
+collins_moonstone_56_d	30	0.9	39684	10372	 Superintendent Seegrave also 	 Superintendent Seegrave upon 
+collins_moonstone_56_d	30	0.9	39684	16128	 Superintendent Seegrave also 	 Superintendent Seegrave, on t
+collins_moonstone_56_d	30	0.9	39684	18558	 Superintendent Seegrave also 	 Superintendent Seegrave laid 
+collins_moonstone_56_d	30	0.9333333333333333	39684	21703	 Superintendent Seegrave also 	 Superintendent Seegrave was s
+collins_moonstone_56_d	31	0.9354838709677419	43491	9648	h Superintendent Seegrave that 	h Superintendent Seegrave had a
+collins_moonstone_56_d	31	0.9032258064516129	43492	18558	 Superintendent Seegrave that h	 Superintendent Seegrave laid h
+collins_moonstone_56_d	30	0.9	43492	21703	 Superintendent Seegrave that 	 Superintendent Seegrave was s
+doyle_baskervilles_11_u	30	0.9333333333333333	41643	14583	 more important matter than yo	 more important matter than th
+stoker_dracula_20_g	31	0.9032258064516129	11394	16884	 took the opportunity of asking	 took the opportunity of bringi
+collins_moonstone_61_d	34	0.9117647058823529	2144	703	 have something to say to you.” Wi	 have something to say to you, sir
+collins_moonstone_61_d	34	0.9117647058823529	16410	7274	 the matter of the Moonstone, our 	 the matter of the Moonstone, and 
+collins_moonstone_61_d	30	0.9	24770	3110	he said to Mr. Franklin appear	he said to Mr. Franklin, speak
+collins_moonstone_61_d	35	0.9428571428571428	41856	7648	. “I am very uneasy about her.” He 	. “I am very uneasy about her.” I s
+collins_moonstone_80_d	35	0.9428571428571428	2144	5377	 have something to say to you.” Wit	 have something to say to you.” Bet
+collins_moonstone_80_d	32	0.96875	9529	2676	 sorely puzzled and distressed. 	 sorely puzzled and distressed a
+collins_hauntedhotel_5_u	36	0.9166666666666666	25518	14924	he door of the sitting-room was open	he door of the sitting-room was thro
+collins_moonstone_67_d	36	0.9166666666666666	11121	1032	 worth twenty thousand pounds, I bel	 worth twenty thousand pounds has be
+collins_moonstone_67_d	36	0.9166666666666666	12019	24027	 the only rational explanation. But 	 the only rational explanation you c
+collins_moonstone_67_d	32	0.90625	16414	23447	 matter of the Moonstone, our yo	 matter of the Moonstone, from o
+collins_moonstone_67_d	30	0.9333333333333333	19495	14920	e. I leave you to imagine the 	e. I leave you to imagine how 
+dickens_christmascarole_2_g	31	0.9354838709677419	32602	29446	hat would I not have given, at 	hat would I not have given to b
+lewis_monk_4_g	38	0.9210526315789473	11394	93905	 took the opportunity of asking him ho	 took the opportunity of thanking him 
+lewis_monk_4_g	33	0.9090909090909091	11399	94415	 the opportunity of asking him ho	 the opportunity of making his So
+collins_moonstone_74_d	33	0.9090909090909091	11394	20728	 took the opportunity of asking h	 took the opportunity of calling 
+radcliffe_udolpho_18_g	30	0.9	2431	23129	 at the other end of the hall,	 at the other end of the castl
+stoker_dracula_2_g	30	0.9333333333333333	8252	12803	 had had a good night’s rest a	 had had a good night's rest. 
+shelley_frankenstein_54_g	30	0.9666666666666667	36697	2105	 I could not bring myself to t	 I could not bring myself to d
+shelley_frankenstein_54_g	30	0.9666666666666667	42719	2105	 I could not bring myself to m	 I could not bring myself to d
+collins_hauntedhotel_19_u	32	0.96875	2144	2370	 have something to say to you.” 	 have something to say to you.' 
+collins_moonstone_73_d	34	0.9411764705882353	33220	3356	 to consider with himself what he 	 to consider with himself whether 
+doyle_scarlet_2_d	31	0.9032258064516129	11403	9855	 opportunity of asking him how 	 opportunity of asking him a po
+collins_moonstone_84_d	30	0.9	25916	18325	” With those words she went in	” With those words, he went ou
+collins_moonstone_84_d	35	0.9428571428571428	36985	14411	, of all the people in the world, w	, of all the people in the world!” 
+doyle_adventures_2_d	33	0.9393939393939394	9399	318	 and closed the door behind her. 	 and closed the door behind me. "
+collins_moonstone_53_d	48	0.9166666666666666	2133	7212	d. “I shall have something to say to you.” With 	d. “I shall have something to say to you then.” 
+collins_moonstone_53_d	30	0.9	23108	9231	 Betteredge, I have the greate	 Betteredge, I have the truest
+collins_moonstone_53_d	30	0.9333333333333333	25916	7258	” With those words she went in	” With those words, she went o
+collins_moonstone_53_d	30	0.9333333333333333	37462	10086	 at the first opportunity. My 	 at the first opportunity. On 
+doyle_signoffour_5_d	30	0.9	30387	13138	 the last person who saw the D	 the last person who saw him! 
+austen_northangerabbey_19_g	30	0.9	29207	5601	t as long as I had known her. 	t as long as he has known her.
+collins_moonstone_62_d	31	0.9032258064516129	30298	3885	 Superintendent Seegrave. It se	 Superintendent Seegrave at Ser
+collins_moonstone_62_d	31	0.9354838709677419	32396	3885	 Superintendent Seegrave at the	 Superintendent Seegrave at Ser
+collins_moonstone_62_d	30	0.9	32566	8405	 with the tears in her eyes. L	 with the tears in his eyes. “
+collins_moonstone_62_d	30	0.9	35002	3885	 Superintendent Seegrave’s to 	 Superintendent Seegrave at Se
+collins_moonstone_62_d	30	0.9333333333333333	38141	14411	 to order the pony-chaise, I l	 to order the pony-chaise. In 
+collins_moonstone_62_d	30	0.9	39684	3885	 Superintendent Seegrave also 	 Superintendent Seegrave at Se
+collins_moonstone_62_d	30	0.9	43446	3308	me back from Frizinghall, havi	me back from Frizinghall provi
+collins_moonstone_62_d	32	0.90625	43492	3885	 Superintendent Seegrave that he	 Superintendent Seegrave at Serg
+doyle_baskervilles_4_u	30	0.9	11399	18881	 the opportunity of asking him	 the opportunity of playing hi
+collins_moonstone_50_d	30	0.9	3294	15124	. “Betteredge,” he said, “I’m 	. “Betteredge,” he said, “we m
+collins_moonstone_50_d	30	0.9	3687	3343	” says Mr. Franklin. “We’ll se	” says Mr. Franklin. “I’ll tel
+collins_moonstone_50_d	30	0.9	10365	11577	,” Mr. Franklin went on. “I ca	,” Mr. Franklin went on. “The 
+collins_moonstone_50_d	30	0.9	11643	4889	,” says Mr. Franklin. “The fel	,” says Mr. Franklin. “There i
+collins_moonstone_50_d	33	0.9090909090909091	16071	4889	,” says Mr. Franklin. “They are a	,” says Mr. Franklin. “There is a
+collins_moonstone_50_d	37	0.9459459459459459	27211	20632	 Mr. Franklin appeared to think it a 	 Mr. Franklin appeared to think that 
+collins_moonstone_50_d	35	0.9142857142857143	34916	10438	,” says Mr. Franklin. “I have convi	,” says Mr. Franklin. “I have inqui
+collins_moonstone_50_d	31	0.9354838709677419	35891	11577	,” Mr. Franklin went on. “When 	,” Mr. Franklin went on. “The i
+collins_moonstone_50_d	30	0.9	37199	11577	,” Mr. Franklin went on. “And 	,” Mr. Franklin went on. “The 
+radcliffe_udolpho_41_g	30	0.9333333333333333	13617	7000	ho would have thought that hor	ho would have thought that he!
+christie_styles_3_d	34	0.9117647058823529	10017	9487	 I have no alternative but to send	 I have no alternative but to agre
+collins_hauntedhotel_10_u	31	0.9354838709677419	43126	1209	 the performance of acts of pie	 the performance of acts of the
+collins_moonstone_66_d	31	0.967741935483871	16409	623	n the matter of the Moonstone, 	n the matter of the Moonstone. 
+collins_moonstone_66_d	31	0.9354838709677419	43443	7294	 came back from Frizinghall, ha	 came back from Frizinghall. Th
+collins_moonstone_60_d	39	0.9230769230769231	2090	581	 the first thing tomorrow morning,” she	 the first thing tomorrow morning.” Ser
+collins_moonstone_60_d	31	0.967741935483871	10537	7384	 the magistrates at Frizinghall	 the magistrate at Frizinghall 
+collins_moonstone_60_d	34	0.9705882352941176	16102	9732	 as innocent as the babe unborn. M	 as innocent as the babe unborn.” 
+collins_moonstone_60_d	30	0.9	20139	9691	Superintendent Seegrave, and, 	Superintendent Seegrave found 
+collins_moonstone_60_d	30	0.9	22986	9930	 Superintendent Seegrave is an	 Superintendent Seegrave was w
+collins_moonstone_60_d	30	0.9	32396	9930	 Superintendent Seegrave at th	 Superintendent Seegrave was w
+collins_moonstone_60_d	30	0.9	32676	9691	Superintendent Seegrave down! 	Superintendent Seegrave found 
+collins_moonstone_60_d	30	0.9	33170	9150	 Superintendent Seegrave retir	 Superintendent Seegrave’s rep
+collins_moonstone_60_d	31	0.9032258064516129	35002	9150	 Superintendent Seegrave’s to h	 Superintendent Seegrave’s repo
+collins_moonstone_60_d	36	0.9166666666666666	36985	12911	, of all the people in the world, wo	, of all the people in the world—not
+collins_moonstone_60_d	31	0.9354838709677419	39684	9930	 Superintendent Seegrave also w	 Superintendent Seegrave was wr
+collins_moonstone_60_d	30	0.9	43492	9930	 Superintendent Seegrave that 	 Superintendent Seegrave was w
+christie_secretadversary_24_d	30	0.9	26970	527	 whose business it was to reco	 whose business it was to know
+collins_moonstone_49_d	39	0.9230769230769231	2144	273	 have something to say to you.” With th	 have something to say to you.” While h
+collins_moonstone_49_d	30	0.9	3297	12626	Betteredge,” he said, “I’m hal	Betteredge,” he said. “I shall
+collins_moonstone_49_d	31	0.9032258064516129	16252	4090	,” says Mr. Franklin, dwelling 	,” says Mr. Franklin, pulling a
+collins_moonstone_49_d	31	0.9032258064516129	34916	2927	,” says Mr. Franklin. “I have c	,” says Mr. Franklin. “I never 
+collins_moonstone_65_d	30	0.9	7657	7330	 the loss of the Diamond seeme	 the loss of the Diamond, were
+collins_moonstone_65_d	32	0.90625	16631	12633	 before the magistrate, and the 	 before the magistrate, and all 
+collins_moonstone_65_d	31	0.9032258064516129	20138	7852	 Superintendent Seegrave, and, 	 Superintendent Seegrave. And s
+collins_moonstone_65_d	39	0.9230769230769231	24938	20844	 beyond all power of expression. While 	 beyond all power of expression. She an
+collins_moonstone_65_d	30	0.9333333333333333	26250	12942	 the honour of the family, it 	 the honour of the family at h
+collins_moonstone_65_d	30	0.9333333333333333	29398	16299	er reason for suspecting her f	er reason for suspecting the d
+collins_moonstone_65_d	30	0.9	30298	6634	 Superintendent Seegrave. It s	 Superintendent Seegrave. He p
+collins_moonstone_65_d	31	0.9032258064516129	30298	7852	 Superintendent Seegrave. It se	 Superintendent Seegrave. And s
+collins_moonstone_65_d	32	0.90625	33377	7437	 the Moonstone had been taken, o	 the Moonstone had been stolen, 
+collins_moonstone_52_d	30	0.9	4473	17778	 Miss Rachel’s good graces, se	 Miss Rachel’s good graces. Th
+collins_moonstone_52_d	31	0.9354838709677419	32566	23192	 with the tears in her eyes. Lo	 with the tears in her eyes, to
+collins_moonstone_52_d	32	0.90625	39641	20142	 not only Mr. Franklin, but Mr. 	 not only Mr. Franklin, but my l

@@ -1,0 +1,33 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_48_g	30	0.9	37970	14393	 that she had passed some time	 that she had passed some of t
+reeve_oldenglishbaron	32	0.90625	15739	353	 I shall take no notice of such 	 I shall take no notice of what 
+doyle_scarlet_2_d	30	0.9	35563	10263	 Sherlock Holmes had not come 	 Sherlock Holmes had not yet f
+stoker_dracula_3_g	30	0.9	21299	21745	here is but one thing to do. I	here is but one thing to hope 
+lewis_monk_10_g	36	0.9166666666666666	22038	30502	s to clear up the mystery and to pun	s to clear up this mystery, and to p
+austen_northangerabbey_31_g	34	0.9117647058823529	6970	1685	 a very considerable fortune in th	 a very considerable fortune, his 
+doyle_adventures_2_d	30	0.9333333333333333	14994	7013	hat on earth does this mean, J	hat on earth does this mean?" 
+doyle_adventures_2_d	30	0.9	29481	10251	ave you never heard of the Ku 	ave you never heard of the Lea
+doyle_adventures_2_d	30	0.9	38033	649	 I have no doubt that she is n	 I have no doubt that he will 
+doyle_signoffour_5_d	30	0.9333333333333333	8547	7641	 peeped through the keyhole, b	 peeped through the key-hole. 
+lewis_monk_5_g	30	0.9	28310	35341	 the difference between the ma	 the difference between such a
+lewis_monk_5_g	30	0.9333333333333333	34848	3159	 sprang from his chair and pac	 sprang from his chair, and cl
+stoker_dracula_1_g	31	0.9032258064516129	16321	29328	, for it seemed to me that he w	, for it seemed to me that our 
+doyle_adventures_9_d	33	0.9090909090909091	11203	17868	t impression upon me, and I ponde	t impression upon me, and I could
+doyle_adventures_9_d	31	0.9032258064516129	23398	4078	 leaning back in his chair he w	 leaning back in his chair and 
+doyle_adventures_9_d	32	0.90625	23866	41960	There can be no question as to t	There can be no question that it
+doyle_adventures_9_d	31	0.9032258064516129	27410	39814	here can be no doubt that the p	here can be no doubt as to the 
+doyle_adventures_9_d	33	0.9090909090909091	34241	39812	 there can be no doubt that the d	 there can be no doubt as to the 
+doyle_adventures_9_d	31	0.9032258064516129	34456	36358	 sat in silence for some minute	 sat in silence for some little
+doyle_adventures_9_d	39	0.9230769230769231	35546	7541	 to Baker Street. Sherlock Holmes had n	 to Baker Street. Sherlock Holmes was, 
+doyle_baskervilles_4_u	34	0.9117647058823529	13142	5252	 one of the most remarkable to whi	 one of the most remarkable things
+doyle_baskervilles_4_u	32	0.90625	27453	6200	the strong probability--is that 	the strong probability was that 
+stoker_dracula_9_g	32	0.96875	13507	20917	 careful examination of the atti	 careful examination of the pati
+christie_secretadversary_15_d	31	0.9032258064516129	32129	3169	here is nothing more to be said	here is nothing more to be done
+reeve_oldenglishbaron	32	0.90625	15739	353	 I shall take no notice of such 	 I shall take no notice of what 
+doyle_baskervilles_15_u	34	0.9117647058823529	20307	12596	 I am inclined to think that it ma	 I am inclined to think that Stapl
+doyle_baskervilles_15_u	32	0.90625	23866	13833	There can be no question as to t	There can be no question that St
+doyle_baskervilles_15_u	34	0.9117647058823529	27407	18437	. There can be no doubt that the p	. There can be no doubt that Stapl
+doyle_baskervilles_15_u	30	0.9	34243	18440	here can be no doubt that the 	here can be no doubt that Stap
+radcliffe_udolpho_35_g	32	0.90625	16605	441	 in the neighbourhood, and was l	 in the neighbourhood, and that 
+christie_styles_4_d	31	0.9354838709677419	13507	12524	 careful examination of the att	 careful examination of the dra
+christie_styles_4_d	33	0.9090909090909091	32128	15020	There is nothing more to be said 	There is nothing more to be done 

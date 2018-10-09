@@ -1,0 +1,45 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_8_d	31	0.9032258064516129	7075	11201	 the roof of the building in fr	 the roof of the building, and 
+doyle_signoffour_8_d	31	0.9354838709677419	41049	11201	 the roof of the building, in a	 the roof of the building, and 
+radcliffe_udolpho_23_g	34	1.0	27261	20708	, and, having secured the door of 	, and, having secured the door of 
+radcliffe_udolpho_23_g	30	0.9	30845	20940	 one of the casements, and thr	 one of the casements, and, as
+poe_marieroget_1_d	30	0.9666666666666667	359	72006	 the shades of the evening dre	 the shades of the evening des
+poe_marieroget_1_d	31	0.9032258064516129	1453	109684	 in the contemplation of the Ho	 in the contemplation of whose 
+poe_marieroget_1_d	34	0.9117647058823529	5150	62184	here can be no doubt that the cons	here can be _no doubt_ that the sp
+poe_marieroget_1_d	31	0.9032258064516129	18143	109684	 in the contemplation of the ce	 in the contemplation of whose 
+poe_marieroget_1_d	32	0.90625	22101	75424	, under certain conditions, upon	, under certain conditions, is n
+poe_marieroget_1_d	33	0.9393939393939394	36415	91686	 sufficient presence of mind to a	 sufficient presence of mind (it 
+radcliffe_udolpho_29_g	31	0.9032258064516129	17512	2412	 the more thrillingly, because 	 the more willingly, because he
+doyle_signoffour_4_d	30	0.9	14665	12686	 which I can never forget, “wo	 which I can never forget, 'Ke
+christie_styles_9_d	35	0.9142857142857143	25203	14243	 on the day of my arrival at the ho	 on the day of my arrival, and the 
+radcliffe_udolpho_16_g	30	0.9	4405	38137	d character of the people, and	d characters of the people aro
+radcliffe_udolpho_33_g	31	0.9032258064516129	2692	27636	 in a distant part of the count	 in a distant part of the castl
+doyle_baskervilles_12_u	32	0.90625	5149	6353	There can be no doubt that the c	There can be no doubt about the 
+dickens_christmascarole_4_g	31	0.967741935483871	8328	8038	me into the presence of his mas	me into the presence of this ma
+christie_styles_6_d	32	0.9375	22102	4018	 under certain conditions, upon 	 under certain conditions, none 
+shelley_frankenstein_48_g	30	0.9	18666	8409	 the surface of the earth. No 	 the surface of the earth was 
+radcliffe_udolpho_36_g	30	0.9	2692	14245	 in a distant part of the coun	 in a distant part of the wood
+shelley_frankenstein_32_g	30	0.9	37480	5932	 the breaking up of the enchan	 the breaking up of the ice ha
+stoker_dracula_12_g	32	0.90625	15293	33676	ed his face in his hands, and I 	ed his face with his hands, and 
+dickens_christmascarole_2_g	30	0.9	24323	6300	 could not help thinking of th	 could not help thinking that 
+christie_styles_5_d	30	0.9	36280	18146	 extraordinary coincidence, by	 extraordinary coincidence.” “
+austen_northangerabbey_28_g	30	0.9	29534	14306	e darkness of the chamber, har	e darkness of her chamber, the
+radcliffe_udolpho_18_g	30	0.9	18146	18390	 the contemplation of the cert	 the contemplation of this sce
+doyle_adventures_5_d	36	0.9444444444444444	5147	27407	. There can be no doubt that the con	. There can be no doubt that the pro
+doyle_adventures_5_d	33	0.9393939393939394	5150	34243	here can be no doubt that the con	here can be no doubt that the dec
+doyle_adventures_5_d	31	0.9032258064516129	28659	16126	 day after the placing of the l	 day after the coming of the le
+lewis_monk_7_g	32	0.90625	13131	21651	 I shudder at the thought of any	 I shuddered at the thoughts of 
+lewis_monk_7_g	32	1.0	36415	12377	 sufficient presence of mind to 	 sufficient presence of mind to 
+doyle_adventures_2_d	32	0.90625	157	77	 day in the autumn of the year, 	 day in the autumn of last year 
+christie_styles_1_d	30	0.9	2615	16331	 had elapsed since our last me	 had elapsed since we last met
+radcliffe_udolpho_10_g	30	0.9	1456	30542	 the contemplation of the Hous	 the contemplation of those un
+lewis_monk_8_g	30	0.9666666666666667	36805	34849	 the door of the chamber; and 	 the door of the chamber, and 
+doyle_adventures_9_d	31	0.9032258064516129	5150	39814	here can be no doubt that the c	here can be no doubt as to the 
+radcliffe_udolpho_12_g	31	0.9032258064516129	29983	31573	 into which I had fallen, by pa	 into which she had fallen, by 
+radcliffe_udolpho_47_g	30	0.9333333333333333	30697	5663	 for some moments in silence--	 for some moments, in silence,
+radcliffe_udolpho_54_g	30	0.9333333333333333	30697	9888	 for some moments in silence--	 for some moments in silence; 
+stoker_dracula_16_g	31	0.9032258064516129	15294	10630	d his face in his hands, and I 	d his face in his hands, as he 
+collins_moonstone_76_d	30	0.9	36079	5685	the exact counterpart of what 	the exact counterpart of the f
+collins_moonstone_76_d	32	0.90625	38535	14714	 unconscious of my presence. Ben	 unconscious of my presence, unc
+doyle_baskervilles_15_u	31	0.967741935483871	5147	18437	. There can be no doubt that th	. There can be no doubt that St
+austen_northangerabbey_17_g	31	0.9354838709677419	5170	7232	 that the consciousness of the 	 that the consciousness of it s

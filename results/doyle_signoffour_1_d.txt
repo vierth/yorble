@@ -1,0 +1,28 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_3_d	30	0.9	6078	2136	 is the letter which I had thi	 is the letter which I read to
+christie_styles_9_d	31	1.0	4340	13517	, which produces much the same 	, which produces much the same 
+doyle_signoffour_3_d	33	0.9393939393939394	8867	3804	 I confess that I don't see how y	 I confess that I do not see how 
+stoker_dracula_23_g	30	0.9	5805	1580	 the higher developments of hi	 the highest development of th
+doyle_baskervilles_1_u	31	0.967741935483871	8355	11634	 have had the opportunity of ob	 have had the opportunity of do
+doyle_adventures_12_d	31	0.9032258064516129	2721	5853	 his finger-tips together and l	 his finger-tips together, to l
+doyle_adventures_12_d	30	0.9	11666	977	," he observed, staring up at 	," he observed, taking up a gl
+doyle_signoffour_11_d	37	0.9459459459459459	8304	9282	 of the greatest interest to me, espe	 of the greatest interest to me," she
+collins_hauntedhotel_5_u	30	0.9333333333333333	6187	15568	 sheet of foreign notepaper. I	 sheet of foreign note-paper, 
+doyle_baskervilles_9_u	33	0.9696969696969697	10243	10263	t would prevent me from taking a 	t would prevent me from making a 
+lewis_monk_4_g	31	0.9032258064516129	8368	110573	 opportunity of observing your 	 opportunity of securing your l
+doyle_adventures_5_d	44	0.9318181818181818	2755	24053	ed his elbows on the arms of his chair, like	ed his elbows upon the arms of his chair, wi
+doyle_scarlet_2_d	34	0.9705882352941176	3225	13990	 I am the only one in the world." 	 I am the only one in the world. I
+doyle_scarlet_2_d	32	0.9375	9159	13700	 observation and of deduction. O	 observation and for deduction. 
+christie_secretadversary_5_d	30	0.9	8557	4327	, leaning back luxuriously in 	, leaning back luxuriously. “I
+doyle_adventures_2_d	30	0.9	2721	939	 his finger-tips together and 	 his fingertips together, as w
+doyle_adventures_2_d	30	0.9	6497	34753	," said Sherlock Holmes, light	," said Sherlock Holmes, "that
+doyle_adventures_2_d	34	0.9705882352941176	8304	1359	 of the greatest interest to me, e	 of the greatest interest to me," 
+doyle_signoffour_5_d	42	0.9285714285714286	10207	12609	" "On the contrary," he answered, "it woul	" "On the contrary," he answered, "it clea
+doyle_adventures_9_d	32	0.96875	61	7850	 the corner of the mantel-piece 	 the corner of the mantelpiece. 
+doyle_baskervilles_4_u	34	0.9117647058823529	3810	1096	t you have yourself had some exper	t you have yourself had some remar
+doyle_baskervilles_4_u	30	0.9333333333333333	7492	5657	here is as much difference bet	here is as much difference to 
+doyle_baskervilles_4_u	30	0.9666666666666667	8355	18872	 have had the opportunity of o	 have had the opportunity of p
+doyle_scarlet_4_d	31	0.967741935483871	8450	2274	 of observation and deduction. 	 of observation and deduction w
+doyle_scarlet_4_d	34	0.9117647058823529	9154	2272	ts of observation and of deduction	ts of observation and deduction wh
+doyle_baskervilles_2_u	37	0.9459459459459459	2717	16062	 put his finger-tips together and lea	 put his finger-tips together, and as
+doyle_baskervilles_2_u	36	0.9166666666666666	5891	15696	 some features of interest. I was ab	 some features of interest. I had ob

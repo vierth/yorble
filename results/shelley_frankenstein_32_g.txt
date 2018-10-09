@@ -1,0 +1,13 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+lewis_monk_4_g	30	0.9	11109	71917	 have the power of elevating h	 have the power of releasing y
+walpole_castleofotranto_1_g	30	0.9666666666666667	2849	25094	 on the brink of destruction a	 on the brink of destruction. 
+radcliffe_udolpho_4_g	30	0.9	12021	28885	 clearness and precision; add 	 clearness, and precision, at 
+lewis_monk_10_g	34	0.9117647058823529	11106	47191	 to have the power of elevating hi	 to have the power of relieving th
+radcliffe_udolpho_10_g	31	0.967741935483871	6025	33852	 with any degree of certainty, 	 with any degree of certainty w
+shelley_frankenstein_51_g	30	0.9	992	3212	 towards the north, at the dis	 towards the north at the expi
+lewis_monk_6_g	45	0.9111111111111111	2962	36204	e would not have exchanged for the most preci	e would not have exchanged it for the most li
+lewis_monk_6_g	30	0.9	13222	27175	 those unacquainted with the e	 those unacquainted with his o
+radcliffe_udolpho_12_g	30	0.9	3281	46776	r surprise would have been bou	r surprise would have been les
+lewis_monk_1_g	32	0.96875	3500	47687	 as soon as he had quitted the f	 as soon as She had quitted the 
+radcliffe_udolpho_47_g	30	0.9	4268	15261	but there are moments when, if	but there are moments, when he
+collins_moonstone_76_d	30	0.9	5391	15059	 a multitude of questions conc	 a multitude of questions, and

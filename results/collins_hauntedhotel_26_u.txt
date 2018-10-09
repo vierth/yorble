@@ -1,0 +1,25 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_53_g	34	0.9117647058823529	8316	11371	 months has elapsed since the date	 months have elapsed since the dep
+collins_hauntedhotel_23_u	32	0.96875	22155	12147	 in the old days of the palace. 	 in the old days of the palace: 
+collins_hauntedhotel_27_u	36	0.9166666666666666	18159	4612	 leaves the room. 'The Countess make	 leaves the room. 'The Countess, ret
+doyle_baskervilles_11_u	30	0.9666666666666667	14002	5713	Is there no such thing as a se	Is there no such thing as a ge
+collins_moonstone_61_d	31	0.9354838709677419	21855	11303	ed and spoke like a man in a st	ed and spoke like a woman in a 
+doyle_baskervilles_9_u	31	0.9354838709677419	8538	4922	s which have happened since the	s which have happened since I h
+lewis_monk_4_g	30	0.9	13486	45756	 backwards and forwards in gre	 backwards and forwards in dif
+lewis_monk_4_g	30	0.9	18345	107573	s obliged to support himself b	s obliged to support herself. 
+austen_northangerabbey_28_g	39	0.9230769230769231	15260	17226	 have the satisfaction of knowing how d	 have the satisfaction of knowing that 
+collins_moonstone_74_d	31	0.9032258064516129	16513	2278	 the calamity of her brother's 	 the calamity of her mother’s d
+radcliffe_udolpho_13_g	30	0.9	8239	40140	 proceeded as follows:-- 'The 	 proceeded as follows: 'This M
+walpole_castleofotranto_1_g	32	0.90625	13486	17512	 backwards and forwards in great	 backwards and forwards in a tem
+doyle_adventures_5_d	30	0.9333333333333333	8316	17739	 months has elapsed since the 	 months have elapsed since the
+collins_hauntedhotel_19_u	31	0.9032258064516129	7845	1874	 the first Lord Montbarry. Was 	 the first Lord Montbarry. He f
+radcliffe_udolpho_4_g	30	0.9	9897	18960	 the higher regions of the hou	 the higher regions of the air
+collins_moonstone_84_d	35	1.0	8176	6070	 devoted himself to the reading of 	 devoted himself to the reading of 
+radcliffe_udolpho_12_g	33	0.9090909090909091	5374	18323	either the one or the other. Bein	either the one, or the other. The
+radcliffe_udolpho_12_g	35	0.9428571428571428	10836	49674	e time before she can sufficiently 	e time before she was sufficiently 
+collins_hauntedhotel_25_u	32	0.90625	21073	10117	ing under the influence of her o	ing under the influence of some 
+collins_moonstone_50_d	30	0.9	2794	6651	 of experimental chemistry, ve	 of experimental chemistry at 
+collins_moonstone_50_d	30	0.9333333333333333	2794	9369	 of experimental chemistry, ve	 of experimental chemistry, wh
+collins_moonstone_60_d	30	0.9	9906	18055	er regions of the house. The o	er regions of the house. I loo
+doyle_baskervilles_15_u	33	0.9090909090909091	17267	19772	 for the first time that the man 	 for the first time that she had 
+radcliffe_udolpho_35_g	30	0.9	23456	19926	 could just distinguish the wo	 could just distinguish this a

@@ -1,0 +1,26 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_56_g	33	0.9393939393939394	13296	10791	ever before experienced, either f	ever before experienced. Neither 
+shelley_frankenstein_56_g	32	0.90625	12746	6463	 benevolent countenance of the a	 benevolent countenance of my fa
+radcliffe_udolpho_52_g	31	0.9032258064516129	3361	2712	 had disappeared from the night	 had disappeared from the north
+lewis_monk_3_g	36	0.9722222222222222	9329	30075	 from the inclemency of the season, 	 from the inclemency of the season. 
+shelley_frankenstein_37_g	30	0.9	2721	11408	 the trees that shaded me with	 the trees that shaded my wind
+radcliffe_udolpho_23_g	31	0.9032258064516129	13279	7226	, such as I had never before ex	, such as she had never before 
+doyle_scarlet_7_d	32	0.9375	11921	4528	t one of the windows of the cott	t one of the windows of the seco
+doyle_signoffour_4_d	30	0.9333333333333333	7338	1171	ed by the appearance of the hu	ed by the appearance of the ap
+radcliffe_udolpho_55_g	34	0.9117647058823529	1601	22860	 but these were insufficient to se	 but these were not sufficient to 
+stoker_dracula_6_g	30	0.9	15325	24914	 which I did not understand; a	 which I do not understand; ev
+christie_styles_13_d	30	0.9	6480	18731	 the night before, and the fie	 the night before, and he dete
+doyle_baskervilles_11_u	36	0.9166666666666666	3578	20949	y eyes became accustomed to the ligh	y eyes became accustomed to the chec
+shelley_frankenstein_48_g	30	0.9	15331	3652	 I did not understand; and the	 I did not understand what the
+doyle_baskervilles_9_u	30	0.9	10053	31879	 I saw the figure of a man at 	 I saw the figure of a man upo
+stoker_dracula_12_g	34	0.9117647058823529	11	25413	 considerable difficulty that I re	 considerable difficulty that they
+lewis_monk_4_g	30	0.9	15158	85112	 did not put an end to the ple	 did not put an end to the noc
+radcliffe_udolpho_50_g	31	0.9032258064516129	3361	57285	 had disappeared from the night	 had disappeared from the north
+radcliffe_udolpho_50_g	30	0.9333333333333333	7338	31459	ed by the appearance of the hu	ed by the appearance of the ma
+christie_styles_12_d	30	0.9333333333333333	6480	15234	 the night before, and the fie	 the night before, and the tre
+doyle_adventures_2_d	30	0.9	13294	40510	 never before experienced, eit	 never before experienced. The
+lewis_monk_6_g	34	0.9117647058823529	15102	50442	s, and was delighted to find that 	s, and was delighted to find it eq
+radcliffe_udolpho_12_g	32	0.90625	6176	52038	e serious consideration of this 	e serious consideration to the f
+collins_moonstone_50_d	30	0.9	10073	13697	 a man at a distance, and I re	 a man at a distance, and for 
+radcliffe_udolpho_41_g	30	0.9333333333333333	13370	22160	 withdrew from the window, una	 withdrew from the window, and
+christie_secretadversary_10_d	35	0.9428571428571428	11322	10981	n about a quarter of an hour she re	n about a quarter of an hour the be

@@ -1,0 +1,65 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_2_d	30	0.9333333333333333	4911	9626	 the time of her father's deat	 the time of her father's disa
+radcliffe_udolpho_43_g	33	0.9090909090909091	6350	3569	ed to a very painful degree. As t	ed to a very painful degree. She 
+collins_hauntedhotel_7_u	30	0.9	2411	930	 what he considered to be the 	 what he considered to be a va
+stoker_dracula_27_g	30	0.9333333333333333	3416	28724	he evening was now drawing to 	he evening was now drawing clo
+radcliffe_udolpho_20_g	30	0.9	813	3183	 the evening, preceding her de	 the evening, preceding the in
+radcliffe_udolpho_19_g	32	0.90625	5294	29629	ent, before she returned to the 	ent, before she retired to her o
+radcliffe_udolpho_32_g	30	1.0	4330	680	eneath the dark and spreading 	eneath the dark and spreading 
+radcliffe_udolpho_30_g	30	0.9333333333333333	2411	7818	 what he considered to be the 	 what he considered to be his 
+radcliffe_udolpho_44_g	34	0.9117647058823529	3163	26373	y reached the borders of the woods	y reached the borders of the fores
+radcliffe_udolpho_44_g	35	0.9714285714285714	4327	26556	, beneath the dark and spreading fo	, beneath the dark and spreading bo
+radcliffe_udolpho_44_g	36	0.9444444444444444	6963	20267	 at a short distance from the chatea	 at a short distance from the castle
+radcliffe_udolpho_56_g	32	0.90625	1563	13799	 the Countess, Henri, and M. Du 	 the Countess, Henri, and Mons. 
+radcliffe_udolpho_38_g	30	0.9333333333333333	2769	30597	 Mademoiselle St. Aubert, that	 Mademoiselle St. Aubert, whet
+radcliffe_udolpho_38_g	30	0.9	2769	35110	 Mademoiselle St. Aubert, that	 Mademoiselle St. Aubert was t
+radcliffe_udolpho_51_g	32	0.90625	1907	23176	 evening after her arrival, the 	 evening after her arrival at Th
+radcliffe_udolpho_51_g	30	0.9	3084	23063	 melancholy recollections, whi	 melancholy recollections he h
+radcliffe_udolpho_17_g	30	0.9	1403	7529	. On the following day, Count 	. On the following day, Monton
+radcliffe_udolpho_17_g	30	0.9	2644	20144	 the deep dejection of her cou	 the deep dejection of her spi
+radcliffe_udolpho_52_g	31	0.9032258064516129	1798	21679	ared, that his affection had su	ared, that his affection was as
+radcliffe_udolpho_52_g	30	0.9	6221	6315	 she had herself witnessed of 	 she had herself witnessed the
+lewis_monk_3_g	31	0.9354838709677419	5408	42885	 minutes had elapsed, before a 	 minutes had elapsed before I p
+radcliffe_udolpho_7_g	32	0.90625	603	3554	 very anxious to reach home, and	 very anxious to be at home, and
+shelley_frankenstein_55_g	32	0.90625	6966	4983	 a short distance from the chate	 a short distance from the house
+radcliffe_udolpho_55_g	30	0.9	1359	4648	 with extreme reluctance, she 	 with extreme reluctance, for 
+radcliffe_udolpho_55_g	30	0.9666666666666667	3212	12927	 the monastery of St. Clair, w	 the monastery of St. Claire, 
+radcliffe_udolpho_46_g	37	0.918918918918919	5309	5085	 returned to the chateau, where, howe	 returned to the chateau, where he in
+radcliffe_udolpho_1_g	31	0.9032258064516129	772	23711	house, during her absence, to T	house, during her absence, her 
+radcliffe_udolpho_1_g	30	0.9333333333333333	2660	12391	ion of her countenance, he con	ion of her countenance, as con
+radcliffe_udolpho_1_g	31	0.9354838709677419	3187	14973	 the woods, that screened the m	 the woods, that screened this 
+radcliffe_udolpho_1_g	31	0.9032258064516129	3821	14973	 the woods, that crowned this e	 the woods, that screened this 
+radcliffe_udolpho_6_g	31	0.9032258064516129	162	11902	 On the following day, the arri	 On the following day, therefor
+christie_styles_10_d	35	0.9142857142857143	812	15795	n the evening, preceding her depart	n the evening preceding her death. 
+shelley_frankenstein_46_g	30	0.9	1739	5802	 encouraged the hopes of his f	 encouraged the hopes of the y
+collins_hauntedhotel_26_u	31	0.9032258064516129	2499	23053	 to remonstrate with her, on th	 to remonstrate with her, the m
+radcliffe_udolpho_16_g	30	0.9666666666666667	1403	38547	. On the following day, Count 	. On the following day Count M
+radcliffe_udolpho_16_g	31	0.9032258064516129	3693	71704	, she was struck with the pictu	, she was struck with the singu
+shelley_frankenstein_53_g	30	0.9	1082	6643	 her countenance expressed mor	 her countenance expressed all
+shelley_frankenstein_53_g	35	0.9142857142857143	6963	2203	 at a short distance from the chate	 at a short distance from the shore
+radcliffe_udolpho_57_g	36	0.9166666666666666	242	5132	 La Vallee became once more the scen	 La Vallee became, once more, the re
+radcliffe_udolpho_36_g	30	0.9666666666666667	1659	28226	 much joy and congratulation. 	 much joy and congratulation p
+radcliffe_udolpho_36_g	30	0.9333333333333333	3212	17106	 the monastery of St. Clair, w	 the monastery of St. Claire a
+radcliffe_udolpho_36_g	31	0.967741935483871	3212	27975	 the monastery of St. Clair, wh	 the monastery of St. Claire, w
+radcliffe_udolpho_36_g	30	0.9333333333333333	5307	7179	he returned to the chateau, wh	he returned to the chateau, in
+shelley_frankenstein_32_g	31	0.9032258064516129	1069	10766	he said this, her countenance e	he said this his countenance be
+lewis_monk_4_g	30	0.9	1084	78747	er countenance expressed more 	er countenance expressed rever
+radcliffe_udolpho_13_g	33	0.9090909090909091	2072	36917	, with which she listened to his 	, with which she listened to a pr
+radcliffe_udolpho_13_g	32	0.90625	6974	29310	 distance from the chateau, and 	 distance from the chateau now i
+radcliffe_udolpho_13_g	33	0.9090909090909091	6974	29792	 distance from the chateau, and l	 distance from the chateau again 
+radcliffe_udolpho_48_g	30	0.9	1964	26311	er from the Lady Blanche, with	er from the Lady Blanche now i
+radcliffe_udolpho_22_g	30	0.9	3977	27253	ed by the scene before them, n	ed by the scene before her, th
+radcliffe_udolpho_10_g	30	0.9	3693	6809	, she was struck with the pict	, she was struck with the chan
+radcliffe_udolpho_12_g	30	0.9333333333333333	1081	22231	, her countenance expressed mo	, her countenance expressed il
+radcliffe_udolpho_12_g	30	0.9666666666666667	5305	11497	 she returned to the chateau, 	 she returned to the chateau. 
+radcliffe_udolpho_12_g	37	0.918918918918919	5305	22203	 she returned to the chateau, where, 	 she returned to the chateau, her cou
+radcliffe_udolpho_49_g	30	0.9	7096	2374	 the following address: TO THE	 the following address TO AUTU
+radcliffe_udolpho_41_g	33	1.0	4911	10686	 the time of her father's death, 	 the time of her father's death, 
+doyle_scarlet_12_d	30	0.9	6381	4374	 the evening was already far a	 the evening was already drawi
+radcliffe_udolpho_47_g	30	0.9	1611	4016	 was surprised to find there, 	 was surprised to find them ac
+radcliffe_udolpho_47_g	32	0.90625	2768	9294	r Mademoiselle St. Aubert, that 	r Mademoiselle St. Aubert, his i
+radcliffe_udolpho_47_g	35	0.9142857142857143	3212	11244	 the monastery of St. Clair, when, 	 the monastery of St. Claire. When 
+radcliffe_udolpho_54_g	30	0.9	5055	694	 the great hall, where an unus	 the great hall, where a nun, 
+radcliffe_udolpho_54_g	30	0.9	5316	20000	ed to the chateau, where, howe	ed to the chateau, where the C
+radcliffe_udolpho_54_g	30	0.9333333333333333	6188	4497	 the expressions of horror, wh	 the expression of horror, tha
+radcliffe_udolpho_35_g	30	0.9333333333333333	3212	316	 the monastery of St. Clair, w	 the monastery of St. Claire. 

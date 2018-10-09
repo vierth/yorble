@@ -1,0 +1,18 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+radcliffe_udolpho_13_g	30	0.9	7924	42936	 I must not trust myself with 	 I must not trust myself to sp
+walpole_castleofotranto_1_g	32	0.90625	5447	21897	e thought she heard her step in 	e thought she heard the step of 
+austen_northangerabbey_1_g	30	0.9333333333333333	2124	7835	 Mr. and Mrs. Morland were awa	 Mr. and Mrs. Morland were all
+radcliffe_udolpho_48_g	31	0.9354838709677419	5147	3441	, she thought she could behave 	, she thought she could have en
+radcliffe_udolpho_48_g	33	0.9090909090909091	5148	8269	 she thought she could behave to 	 she thought she could bear to vi
+radcliffe_udolpho_48_g	31	0.9032258064516129	7368	16503	, endeavouring to collect herse	, endeavouring to recollect the
+shelley_frankenstein_54_g	30	0.9333333333333333	17528	4101	 to receive a letter from me, 	 to receive a letter from my u
+reeve_oldenglishbaron	31	0.967741935483871	7925	23904	I must not trust myself with wo	I must not trust myself with yo
+doyle_adventures_2_d	32	0.9375	13830	46327	, was out of the question. That 	, was out of the question. The m
+lewis_monk_8_g	30	0.9	4755	2720	 the persuasion of his being b	 the persuasion of her being s
+lewis_monk_5_g	30	0.9333333333333333	7095	39616	 Her voice faltered, and her e	 Her voice faltered, and She c
+radcliffe_udolpho_12_g	37	0.918918918918919	9082	22827	t is of very little consequence. The 	t is of very little consequence what 
+radcliffe_udolpho_12_g	34	0.9411764705882353	11366	22827	t is of very little consequence.” 	t is of very little consequence wh
+shelley_frankenstein_47_g	32	0.90625	10013	13068	m the protection of real friends	m the protection of some friends
+collins_moonstone_60_d	35	0.9142857142857143	2096	16745	 could not but think that if Mr. an	 could not but think that Mr. Frank
+christie_secretadversary_24_d	33	0.9090909090909091	1941	13102	 for the pleasure of her company 	 for the pleasure of your company
+reeve_oldenglishbaron	31	0.967741935483871	7925	23904	I must not trust myself with wo	I must not trust myself with yo

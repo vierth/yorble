@@ -1,0 +1,29 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+shelley_frankenstein_29_g	30	0.9	29906	3551	, for the first time, of the o	, for the first time, those po
+radcliffe_udolpho_30_g	30	0.9	29016	29190	 beyond the reach of the scimi	 beyond the reach of the music
+lewis_monk_11_g	31	0.9032258064516129	15136	43759	 terrible circumstances which e	 terrible circumstances weighed
+doyle_adventures_6_d	30	0.9	29184	19573	 upon the stone floor of the p	 upon the second floor of the 
+lewis_monk_3_g	30	0.9	9425	29476	 means of ascertaining the dim	 means of ascertaining the tru
+lewis_monk_3_g	30	0.9	12518	29476	 means of ascertaining at the 	 means of ascertaining the tru
+collins_moonstone_89_d	35	0.9142857142857143	25089	55132	. It now occurred to me that the ba	. It now occurred to him, that the 
+shelley_frankenstein_37_g	32	0.96875	25026	6068	or the first time during many ho	or the first time during many mo
+poe_usher_1_g	30	0.9	12062	30146	 arrested my attention. It was	 arrested my attention. I pres
+poe_usher_1_g	31	1.0	13126	33207	 congratulated myself upon the 	 congratulated myself upon the 
+poe_usher_1_g	32	0.9375	18448	30212	. In an instant afterward the fa	. In an instant afterward he rap
+poe_usher_1_g	42	0.9285714285714286	26099	19594	 to which I have previously alluded, and o	 to which I have previously alluded as obs
+radcliffe_udolpho_23_g	35	0.9142857142857143	13090	3510	 which had been prepared for me, an	 which had been prepared for her in
+poe_marieroget_1_d	30	0.9	7436	10351	 sacrifice, which would not ta	 sacrifice which he would not 
+doyle_scarlet_3_d	30	0.9	31271	13239	 There could be no doubt of th	 There could be no doubt that 
+radcliffe_udolpho_6_g	30	0.9333333333333333	18250	17732	 in the appearance of this mac	 in the appearance of this ave
+lewis_monk_9_g	30	0.9	9425	57693	 means of ascertaining the dim	 means of ascertaining that li
+doyle_adventures_12_d	30	0.9	17005	41201	 was the only one in the dunge	 was the only one in the house
+doyle_baskervilles_12_u	30	0.9	31271	16649	 There could be no doubt of th	 There could be no doubt about
+austen_northangerabbey_22_g	33	0.9393939393939394	5470	340	e consciousness of existence, wit	e consciousness of existence, ret
+stoker_dracula_12_g	40	0.925	12864	31083	. At the same moment there came a sound 	. At the same moment there came a sort o
+radcliffe_udolpho_13_g	30	0.9	13090	4817	 which had been prepared for m	 which had been prepared to gr
+radcliffe_udolpho_13_g	31	0.9354838709677419	15312	22526	 the error I had committed in m	 the error he had committed in 
+shelley_frankenstein_54_g	34	0.9117647058823529	11238	6163	 I could not help supposing it to 	 I could not help supposing that y
+radcliffe_udolpho_10_g	32	0.90625	15768	6991	d prevented me from observing th	d prevented her from observing. 
+lewis_monk_8_g	31	1.0	7793	23645	e relapsed into insensibility. 	e relapsed into insensibility. 
+austen_northangerabbey_16_g	41	0.9024390243902439	18219	7979	. There was something, however, in the ap	. There was a something, however, in his 
+radcliffe_udolpho_27_g	35	0.9142857142857143	12511	13060	 had no means of ascertaining at th	 had no means of ascertaining; and 

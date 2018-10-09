@@ -1,0 +1,41 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_moonstone_75_d	47	0.9361702127659575	15044	4807	 looked at the clock on the mantel-piece. Not t	 looked at the clock on the mantelpiece. “How t
+shelley_frankenstein_56_g	33	0.9090909090909091	8975	523	 which had belonged to her mother	 which had belonged to my mother,
+stoker_dracula_5_g	32	0.90625	3128	4063	other since we were children,' s	other since we were _children_; 
+doyle_signoffour_6_d	30	0.9	8501	14882	 to the head of the stairs: sh	 to the head of the stair. "Th
+lewis_monk_2_g	44	0.9090909090909091	10083	80771	' She put her handkerchief to her eyes, and 	' She put her handkerchief to her eyes. Her 
+collins_moonstone_70_d	30	0.9333333333333333	6103	15052	 manner in which you have been	 manner in which you have open
+collins_moonstone_70_d	30	0.9	12765	16348	 There was something in the wo	 There was nothing in these wo
+collins_moonstone_70_d	33	0.9090909090909091	15056	5402	he clock on the mantel-piece. Not	he clock on the mantel-piece info
+collins_moonstone_85_d	31	0.9032258064516129	3877	27217	 the chair to which she had poi	 the chair on which she had dro
+collins_moonstone_85_d	36	0.9444444444444444	5911	21244	 hand impatiently, and stopped her. 	 hand impatiently, and stopped me. I
+collins_moonstone_85_d	33	0.9393939393939394	8358	21217	ed to speak. He lifted her hand t	ed to speak. She lifted her hand 
+doyle_adventures_12_d	31	0.9354838709677419	4558	24286	that they have been married to-	that they have been married abo
+austen_northangerabbey_22_g	31	0.9032258064516129	12347	16266	 it is impossible for me to com	 it is impossible for me not to
+stoker_dracula_10_g	30	0.9	1534	22268	 faint tinge of colour stole o	 faint tinge of colour steal b
+collins_moonstone_56_d	30	0.9333333333333333	3540	19887	 because it was the last, but 	 because it was the last bit d
+collins_moonstone_61_d	33	0.9393939393939394	12764	9634	. There was something in the woma	. There was something in the way 
+collins_hauntedhotel_5_u	31	0.967741935483871	4443	891	 the man who had deserted her. 	 the man who had deserted her, 
+collins_hauntedhotel_5_u	30	0.9666666666666667	4443	13878	 the man who had deserted her.	 the man who had deserted her!
+doyle_baskervilles_9_u	31	0.9032258064516129	7693	33741	t it is best that I should go n	t it is best that I should let 
+radcliffe_udolpho_36_g	30	0.9333333333333333	12767	7478	here was something in the woma	here was something in the form
+collins_moonstone_67_d	31	0.9032258064516129	988	4371	e was one of those women who fe	e was one of those men whom the
+collins_moonstone_67_d	31	0.9032258064516129	12349	2581	t is impossible for me to commu	t is impossible for me to excus
+walpole_castleofotranto_4_g	30	1.0	12342	16270	 that it is impossible for me 	 that it is impossible for me 
+collins_hauntedhotel_6_u	32	0.90625	54	12035	 the little drawing-room of her 	 the little drawing-room. There 
+collins_hauntedhotel_6_u	35	0.9714285714285714	10088	2077	 put her handkerchief to her eyes, 	 put her handkerchief to her eyes. 
+collins_hauntedhotel_6_u	30	0.9	14252	8539	 to Miss Agnes Lockwood, who f	 to Miss Agnes Lockwood which 
+austen_northangerabbey_28_g	30	0.9	8504	4046	 the head of the stairs: she h	 the head of the stairs when i
+collins_moonstone_74_d	31	0.9354838709677419	12766	12106	There was something in the woma	There was something in the way 
+radcliffe_udolpho_22_g	30	0.9	10096	27338	 handkerchief to her eyes, and	 handkerchief to her face, and
+collins_moonstone_84_d	35	0.9428571428571428	5478	14411	, of all the people in the world?' 	, of all the people in the world!” 
+doyle_adventures_2_d	30	0.9333333333333333	12347	2401	 it is impossible for me to co	 it is impossible for me to sa
+christie_styles_1_d	30	0.9666666666666667	7031	7550	 inclined to agree with you.' 	 inclined to agree with you.” 
+collins_hauntedhotel_25_u	30	0.9	4293	4396	 told her plainly that he was 	 told her plainly that the hea
+collins_hauntedhotel_25_u	30	0.9	5032	8347	, without saying a word. He un	, without saying a word. She l
+christie_styles_3_d	37	0.918918918918919	15052	4787	at the clock on the mantel-piece. Not	at the clock on the mantelpiece point
+collins_moonstone_60_d	32	1.0	5478	12911	, of all the people in the world	, of all the people in the world
+collins_moonstone_60_d	30	1.0	8306	15907	 as well as he knew it himself	 as well as he knew it himself
+christie_secretadversary_4_d	33	0.9090909090909091	12764	4193	. There was something in the woma	. There was something in the qual
+collins_moonstone_76_d	31	0.9032258064516129	12341	18487	e that it is impossible for me 	e that it was impossible for he
+radcliffe_udolpho_35_g	30	0.9	10519	16819	 'I am sorry to hear it, Emily	 'I am sorry to hear it, my lo

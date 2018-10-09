@@ -1,0 +1,155 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+collins_hauntedhotel_18_u	30	0.9333333333333333	3038	5737	 his handkerchief over his bro	 his handkerchief over his nos
+stoker_dracula_17_g	42	0.9285714285714286	26263	7801	 her eyes were flushed with crying. As she	 her eyes were flushed with crying. This s
+doyle_adventures_8_d	30	0.9	32659	36558	I think that I have seen now a	I think that I have seen enoug
+doyle_adventures_8_d	34	0.9117647058823529	35641	13586	, and a few minutes later I heard 	, and a few moments later I heard 
+doyle_adventures_8_d	31	0.9032258064516129	35641	39466	, and a few minutes later I hea	, and a few minutes later we sa
+doyle_adventures_8_d	39	0.9230769230769231	50252	5427	t you shall not find me ungrateful for 	t you shall not find me ungrateful." Ho
+collins_moonstone_87_d	31	0.9032258064516129	5777	31439	 with the air of a man who wish	 with the air of a man whose mi
+collins_moonstone_87_d	33	0.9090909090909091	19542	10518	 position in which I was placed, 	 position in which I had placed m
+austen_northangerabbey_10_g	31	0.9032258064516129	18077	516	I shall not say another word ab	I shall not speak another word 
+austen_northangerabbey_13_g	31	0.9032258064516129	41405	8960	 must have been one. She had ha	 must have been wrong. She had 
+austen_northangerabbey_13_g	35	0.9142857142857143	45199	12986	 without seeing anything more than 	 without seeing anything more of th
+stoker_dracula_4_g	32	0.90625	9057	9621	. There could be no doubt that, 	. There could be no doubt as to 
+stoker_dracula_4_g	31	0.9032258064516129	29262	1478	 the door was fastened for the 	 the door is fastened from the 
+stoker_dracula_4_g	30	0.9	45055	22457	me that this might be the maid	me that this might be the mome
+collins_moonstone_78_d	30	0.9	39573	2760	 had an interview with him, an	 had an interview with me, in 
+collins_hauntedhotel_3_u	33	0.9090909090909091	5879	7398	, 'I have been informed that you 	, 'I have been informed that the 
+poe_pitandpendulum_1_g	30	0.9	9058	31271	 There could be no doubt that,	 There could be no doubt of th
+collins_moonstone_55_d	34	0.9117647058823529	16671	19466	ed by some sound in the house. It 	ed by some person in the house. I 
+collins_moonstone_55_d	30	0.9	28746	4411	 in the drawing-room, and who 	 in the drawing-room), and the
+doyle_signoffour_12_d	32	0.90625	11186	2194	s it would have been better for 	s it would have been easier for 
+doyle_signoffour_12_d	34	0.9117647058823529	39017	52743	," said Sherlock Holmes rather ste	," said Sherlock Holmes, "there st
+austen_northangerabbey_8_g	30	0.9	15847	5119	r. I have no doubt that she ha	r. I have no doubt that he wil
+austen_northangerabbey_8_g	30	0.9	41269	5120	. I have no doubt that she lov	. I have no doubt that he will
+doyle_baskervilles_5_u	30	0.9	25973	13358	 the door opened and a young l	 the door opened and a rough-l
+doyle_baskervilles_5_u	39	0.9487179487179487	36376	13197	I should not be surprised if that were 	I should not be surprised if this were 
+collins_moonstone_54_d	31	0.9032258064516129	836	8071	 from the direction of the Metr	 from the direction of the grav
+collins_moonstone_54_d	33	0.9090909090909091	45551	18767	 what you had told me that the la	 what you have told me, that the 
+lewis_monk_11_g	32	0.90625	9631	19701	 determined, therefore, that for	 determined therefore, that Anto
+radcliffe_udolpho_44_g	30	0.9	42288	2137	ed down the stairs, and he, th	ed down the stairs, and the Co
+doyle_scarlet_6_d	31	0.967741935483871	15848	6987	. I have no doubt that she has 	. I have no doubt that he has c
+stoker_dracula_13_g	31	0.9032258064516129	28746	14444	 in the drawing-room, and who m	 in the drawing-room, and told 
+shelley_frankenstein_45_g	32	0.9375	41440	7958	 listened to his instructions wh	 listened to the instructions wh
+doyle_adventures_10_d	33	0.9090909090909091	8927	26437	 upon the table in front of me, I	 upon the table in front of him. 
+doyle_adventures_10_d	31	0.9032258064516129	14587	31616	 with his eyes cast down, 'can 	 with his eyes cast down and hi
+doyle_adventures_10_d	30	0.9333333333333333	26607	30326	 and passed her hand over his 	 and passed his hand over his 
+doyle_adventures_10_d	30	0.9	32303	495	 in clearing the matter up. Wi	 in clearing the matter up, I 
+doyle_adventures_10_d	30	0.9	33217	13318	. I understand that you give m	. I understand that you have a
+doyle_adventures_10_d	36	0.9166666666666666	35263	11800	 I would not have missed it for a go	 I would not have missed it for worl
+walpole_castleofotranto_2_g	30	0.9	5882	26381	I have been informed that you 	I have been informed that she 
+doyle_adventures_6_d	31	0.9032258064516129	282	24611	 his hands in the pockets of hi	 his hands into the pockets to 
+doyle_adventures_6_d	30	0.9333333333333333	5777	12610	 with the air of a man who wis	 with the air of a man who has
+doyle_adventures_6_d	45	0.9111111111111111	30196	21824	 made a very careful examination of the sill 	 made a very careful examination of the premi
+doyle_adventures_6_d	30	0.9	35641	47275	, and a few minutes later I he	, and a few minutes after I fo
+doyle_adventures_6_d	30	0.9	36233	9375	, Watson," said he, "but you r	, Watson," said he, "that you 
+doyle_signoffour_9_d	30	0.9	35701	6571	 which told me that he was off	 which told me that he was sti
+collins_hauntedhotel_17_u	31	0.9354838709677419	41785	11312	n the middle of the night he he	n the middle of the night. The 
+radcliffe_udolpho_17_g	30	0.9666666666666667	5777	207	 with the air of a man who wis	 with the air of a man, who is
+collins_moonstone_68_d	30	0.9333333333333333	9393	4515	 I felt that it would be an im	 I felt that it would be an ac
+stoker_dracula_5_g	31	0.9354838709677419	36879	14810	t know what I have done to be s	t know what I have done to dese
+doyle_adventures_3_d	32	0.90625	277	31110	 with his hands in the pockets o	 with his hands in his pockets, 
+doyle_adventures_3_d	30	0.9	9393	25370	 I felt that it would be an im	 I felt that it would be a str
+doyle_adventures_3_d	37	0.918918918918919	21231	18868	. Sherlock Holmes sat silent for some	. Sherlock Holmes sat silent for a fe
+doyle_adventures_3_d	30	0.9333333333333333	34536	27398	t upon the sideboard, sandwich	t upon the sideboard, and with
+radcliffe_udolpho_52_g	31	0.9032258064516129	328	7069	, looking over my shoulder. It 	, looking over his shoulder. I 
+stoker_dracula_14_g	30	0.9333333333333333	31863	25920	I do not know what to think. I	I do not know what to think, a
+doyle_scarlet_14_d	30	0.9	23267	3460	t appeared to you to be a simp	t appeared to you to be a mere
+doyle_scarlet_14_d	30	0.9333333333333333	30208	6481	 careful examination of the si	 careful examination of the ro
+collins_moonstone_89_d	30	0.9333333333333333	11074	66681	. I could not bear to see the 	. I could not bear to see it; 
+collins_moonstone_89_d	40	0.925	33129	12909	morrow morning between nine and ten I sh	morrow morning, between nine and ten.” I
+doyle_signoffour_8_d	30	0.9666666666666667	12392	14041	 everywhere, seen everything, 	 everywhere, see everything, o
+shelley_frankenstein_52_g	34	0.9411764705882353	35646	3878	 a few minutes later I heard the s	 a few minutes after, I heard the 
+collins_moonstone_79_d	32	0.90625	9585	10010	 the position in which I should 	 the position in which I stood, 
+poe_marieroget_1_d	30	0.9333333333333333	40287	54973	 the true character of this ma	 the true character of this go
+doyle_signoffour_4_d	30	0.9	13425	16361	 it would have been she, and t	 it would have been such bad t
+doyle_signoffour_6_d	38	0.9473684210526315	1704	50	," said Holmes, rubbing his hands. "He	," said Holmes, rubbing his hands, "we
+doyle_signoffour_6_d	37	0.972972972972973	47255	3582	ed the impossible, whatever remains, 	ed the impossible whatever remains, H
+shelley_frankenstein_55_g	31	0.9032258064516129	18787	2959	 senseless on the ground. I sen	 senseless on the ground. When 
+doyle_scarlet_3_d	36	0.9166666666666666	9057	13238	. There could be no doubt that, as i	. There could be no doubt that that 
+doyle_scarlet_3_d	32	0.9375	30208	15603	 careful examination of the sill	 careful examination of the wall
+christie_secretadversary_6_d	32	0.90625	6011	2290	It is absolutely essential to me	It is absolutely essential that 
+christie_secretadversary_6_d	38	0.9210526315789473	7910	4328	 absolutely certain that I should be a	 absolutely certain that it would be a
+radcliffe_udolpho_46_g	31	0.9032258064516129	20942	4269	 I have already offered a rewar	 I have already offered large r
+stoker_dracula_23_g	35	0.9142857142857143	20389	1371	 not only of his person but of his 	 not only of his power, but of his 
+stoker_dracula_23_g	34	0.9117647058823529	45034	21143	. I thought at the time that this 	. I thought at the time that it wa
+stoker_dracula_6_g	31	0.9032258064516129	11786	18369	 me and implore me to give him 	 me and implored me to let him 
+doyle_scarlet_11_d	31	0.9032258064516129	277	866	 with his hands in the pockets 	 with his hands in his pocket, 
+collins_moonstone_58_d	30	0.9	28225	1989	 ask you a question or two?" "	 ask you a question or two. Yo
+stoker_dracula_18_g	30	0.9333333333333333	40471	12779	without heart or conscience. Y	without heart or conscience, p
+collins_hauntedhotel_26_u	36	0.9166666666666666	10065	13256	 thoroughly understand the situation	 thoroughly understand the position 
+doyle_adventures_12_d	33	0.9090909090909091	13158	22368	 I do not know what I could do wi	 I do not know what I should do. 
+doyle_adventures_12_d	30	0.9333333333333333	25968	48941	 when the door opened and a yo	 when the door opened, and a t
+doyle_adventures_12_d	54	0.9074074074074074	36041	18363	 when I came down to breakfast in the morning there he	 when I came down to breakfast in the morning. He open
+doyle_signoffour_7_d	32	0.90625	277	6490	 with his hands in the pockets o	 with his hands in his pockets, 
+doyle_signoffour_7_d	31	0.9354838709677419	33491	19597	t is just possible that I may h	t is just possible that we may 
+doyle_signoffour_7_d	31	0.9032258064516129	38162	22045	re nearing the end of your trou	re nearing the end of our journ
+doyle_scarlet_13_d	31	0.967741935483871	19199	7153	ty. I was determined that the l	ty. I was determined that they 
+doyle_baskervilles_12_u	32	0.90625	9057	16648	. There could be no doubt that, 	. There could be no doubt about 
+dickens_christmascarole_4_g	32	0.90625	1590	3091	 the matter with him?" I asked. 	 the matter with him?" asked a t
+austen_northangerabbey_22_g	30	0.9333333333333333	24596	17357	 was dissatisfied with the acc	 was dissatisfied with the pai
+christie_styles_6_d	32	0.90625	22157	312	 that he might have been trying 	 that he might have been making 
+christie_styles_6_d	30	0.9	33499	6808	t possible that I may have to 	t possible that she may have t
+christie_styles_6_d	30	0.9	35793	505	ut there was no sign of his re	ut there was no sign of him, a
+austen_northangerabbey_14_g	30	0.9	2856	14892	I shall be most happy to look 	I shall be most happy to make 
+collins_moonstone_56_d	32	0.90625	277	23592	 with his hands in the pockets o	 with his hands in his pockets, 
+doyle_signoffour_11_d	33	0.9090909090909091	41388	7853	 I think that she must have been 	 I think that I must have been ra
+christie_secretadversary_22_d	30	0.9333333333333333	19803	6031	 what he had done with the thr	 what he had done with the pho
+stoker_dracula_20_g	30	0.9	1642	8902	 the numbers of the houses." "	 the number of the house?" "No
+doyle_adventures_4_d	30	0.9333333333333333	10752	44993	t will not take me long to des	t will not take me long to tel
+doyle_adventures_4_d	33	0.9393939393939394	33489	9439	 it is just possible that I may h	 it is just possible that it may 
+doyle_baskervilles_9_u	31	0.9032258064516129	39571	2297	 I had an interview with him, a	 I had an interview with the ba
+doyle_baskervilles_9_u	30	0.9	45199	5753	 without seeing anything more 	 without seeing anything of Si
+walpole_castleofotranto_4_g	34	0.9117647058823529	40614	26215	 flattered herself that she alone 	 flattered herself that she meant 
+doyle_baskervilles_7_u	30	0.9333333333333333	8575	25479	 it would be impossible to rep	 it would be impossible to get
+doyle_baskervilles_7_u	30	0.9	22510	15563	 singular points about the cas	 singular points about the moo
+doyle_baskervilles_7_u	52	0.9230769230769231	24536	24777	 felt that there must be some grounds for hope as lo	 felt that there must be some grounds for the fears 
+doyle_baskervilles_7_u	30	0.9	36376	14529	I should not be surprised if t	I should not be surprised to l
+christie_styles_11_d	30	0.9333333333333333	5777	27057	 with the air of a man who wis	 with the air of a man who has
+christie_styles_11_d	30	0.9333333333333333	23901	30359	 with a gesture of despair. "I	 with a gesture of despair. “H
+stoker_dracula_12_g	30	0.9333333333333333	25870	33349	to the dining-room and waited 	to the dining-room and waked h
+collins_hauntedhotel_6_u	30	0.9	42739	12598	 of the woman whom he loved. B	 of the woman whom he loved--t
+lewis_monk_4_g	32	0.90625	41785	19174	n the middle of the night he hea	n the middle of the night. Perha
+radcliffe_udolpho_50_g	30	0.9333333333333333	8575	46434	 it would be impossible to rep	 it would be impossible to des
+radcliffe_udolpho_13_g	32	0.90625	23787	39495	 danger of being discovered. I a	 danger of being discovered, and
+radcliffe_udolpho_13_g	30	0.9	45736	42398	 it was obvious that he had pa	 it was obvious that he was al
+christie_secretadversary_14_d	32	0.9375	23901	894	 with a gesture of despair. "If 	 with a gesture of despair. “I g
+stoker_dracula_2_g	30	0.9666666666666667	25860	27466	 I went into the dining-room a	 I went into the dining-room, 
+stoker_dracula_2_g	30	0.9	35791	26115	 but there was no sign of his 	 but there was no sign of a ma
+collins_moonstone_72_d	30	0.9	12280	10966	 the fascination of his manner	 the fascination of his evange
+doyle_baskervilles_8_u	37	0.918918918918919	17004	13693	 and peeped round the corner of my dr	 and peeped round the corner of the d
+walpole_castleofotranto_1_g	30	0.9333333333333333	40612	43723	he flattered herself that she 	he flattered himself that she 
+doyle_adventures_5_d	32	0.9375	8927	8761	 upon the table in front of me, 	 upon the table in front of the 
+doyle_adventures_5_d	31	0.9354838709677419	15849	38033	 I have no doubt that she has o	 I have no doubt that she is no
+doyle_adventures_5_d	32	0.90625	30208	13507	 careful examination of the sill	 careful examination of the atti
+doyle_adventures_5_d	41	0.9024390243902439	35852	8808	. It was no uncommon thing for him to be 	. It was not a common thing for him to re
+dickens_christmascarole_3_g	30	0.9666666666666667	1518	32457	 his face into the most extrao	 his face into the most extrav
+christie_secretadversary_17_d	30	0.9333333333333333	46241	14128	ed that it was he who had been	ed that it was he who had ente
+stoker_dracula_3_g	30	0.9666666666666667	45034	24112	. I thought at the time that t	. I thought at the time that I
+collins_moonstone_84_d	30	0.9	6282	6946	 can readily understand that i	 can readily understand. It is
+collins_moonstone_84_d	30	0.9	22814	9448	 the disappearance of these ge	 the disappearance of the jewe
+lewis_monk_7_g	30	0.9666666666666667	23786	42272	t danger of being discovered. 	t danger of being discovered; 
+christie_secretadversary_5_d	31	0.9032258064516129	5362	9435	 when a card was brought in to 	 when a card was brought to Her
+doyle_adventures_2_d	30	0.9	18440	12918	 I should not have thought was	 I should not have thought the
+doyle_adventures_2_d	30	0.9333333333333333	21101	42588	 a hand on either side of his 	 a hand on either side of the 
+doyle_adventures_2_d	30	0.9	25664	33167	 standing at the door and walk	 standing at the door, and as 
+christie_styles_1_d	31	0.9354838709677419	35641	15777	, and a few minutes later I hea	, and a few minutes later I saw
+walpole_castleofotranto_5_g	35	0.9142857142857143	36376	10630	I should not be surprised if that w	I should not be surprised if it was
+stoker_dracula_1_g	31	0.9354838709677419	9082	1007	 that, as it was a national pos	 that, as it was a national dis
+doyle_adventures_9_d	44	0.9318181818181818	26150	10241	. I do not think that I have ever seen such 	. I do not think that I have ever seen so th
+doyle_adventures_9_d	38	0.9210526315789473	41383	5187	, and I think that she must have been 	, and I think that I must have been se
+radcliffe_udolpho_12_g	31	0.9032258064516129	18440	43020	 I should not have thought was 	 I should not have thought him 
+lewis_monk_1_g	30	0.9	8575	961	 it would be impossible to rep	 it would be impossible to fin
+stoker_dracula_9_g	44	0.9318181818181818	30196	20905	 made a very careful examination of the sill	 made a very careful examination of the pati
+radcliffe_udolpho_41_g	31	0.9032258064516129	23684	19927	, and then returned with the ot	, and then returned to the noti
+doyle_scarlet_12_d	30	0.9	35790	8379	, but there was no sign of his	, but there was no sign of one
+christie_styles_3_d	30	0.9333333333333333	41786	284	 the middle of the night he he	 the middle of the night when 
+collins_hauntedhotel_10_u	30	0.9333333333333333	23901	5994	 with a gesture of despair. "I	 with a gesture of despair. 'O
+doyle_scarlet_4_d	30	0.9	2856	7080	I shall be most happy to look 	I shall be most happy to tell 
+doyle_scarlet_4_d	32	0.90625	35790	9185	, but there was no sign of his r	, but there wasn’t no sign of hi
+radcliffe_udolpho_54_g	30	0.9	22156	22663	, that he might have been tryi	, that he might have been the 
+christie_secretadversary_15_d	37	0.918918918918919	27250	3142	 take my word for it that he is innoc	 take my word for it that there is no
+stoker_dracula_21_g	30	0.9666666666666667	50286	30784	 for what you have done. Your 	 for what you have done. You h
+doyle_baskervilles_15_u	31	0.9032258064516129	48580	3533	ck up an acquaintance with his 	ck up an acquaintance with a co
+radcliffe_udolpho_35_g	30	0.9	34956	23193	 to the other side of the West	 to the other side of the chat
+christie_styles_4_d	40	1.0	30196	12512	 made a very careful examination of the 	 made a very careful examination of the 

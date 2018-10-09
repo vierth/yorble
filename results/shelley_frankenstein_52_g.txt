@@ -1,0 +1,35 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+austen_northangerabbey_21_g	32	0.9375	3980	14877	 trembled from head to foot; I f	 trembled from head to foot. In 
+radcliffe_udolpho_55_g	30	0.9333333333333333	7506	5046	 suffered him to depart, and h	 suffered him to depart; and, 
+radcliffe_udolpho_46_g	30	0.9333333333333333	18185	636	 an account of the death of a 	 an account of the death of Mo
+christie_styles_13_d	31	0.9032258064516129	3070	9753	 the room, and locking the door	 the room, unlocking the door b
+radcliffe_udolpho_16_g	35	0.9428571428571428	808	26752	 to quit the neighbourhood of man a	 to quit the neighbourhood of a pla
+radcliffe_udolpho_16_g	33	1.0	3569	75822	 the water, and now and then the 	 the water, and now and then the 
+radcliffe_udolpho_16_g	35	0.9142857142857143	4301	10658	. Presently I heard the sound of fo	. Presently she heard the sound of 
+radcliffe_udolpho_33_g	33	0.9090909090909091	14918	39729	s on the point of closing before 	s on the point of doing, before s
+radcliffe_udolpho_33_g	30	0.9333333333333333	18177	28804	 to give an account of the dea	 to give an account of the sie
+collins_hauntedhotel_23_u	30	0.9333333333333333	3980	11870	 trembled from head to foot; I	 trembled from head to foot. H
+radcliffe_udolpho_2_g	34	0.9117647058823529	17626	16437	 a mixture of curiosity and anger,	 a mixture of curiosity and tender
+collins_moonstone_56_d	30	0.9	12367	22378	 and three in the morning the 	 and three in the morning. If 
+radcliffe_udolpho_34_g	30	0.9	4324	49973	 sound of footsteps along the 	 sound of footsteps and the to
+shelley_frankenstein_42_g	35	0.9142857142857143	816	11828	 the neighbourhood of man and hide 	 the neighbourhood of man and lead 
+shelley_frankenstein_42_g	31	0.9032258064516129	10596	10793	 which I shuddered to reflect; 	 which I shudder to reflect, th
+radcliffe_udolpho_50_g	30	0.9	3778	28374	 suddenly arrested by the padd	 suddenly arrested by the loud
+radcliffe_udolpho_3_g	30	0.9333333333333333	17626	15508	 a mixture of curiosity and an	 a mixture of curiosity and ti
+radcliffe_udolpho_22_g	30	0.9	9136	33836	 of the preceding night, my ne	 of the preceding night, a dre
+shelley_frankenstein_54_g	48	0.9583333333333334	6789	12796	I shall be with you on your wedding-night.” I st	I shall be with you on your wedding-night_,” I s
+shelley_frankenstein_54_g	53	0.9056603773584906	7708	7739	—“_I will be with you on your wedding-night._” That, 	—“_I will be with you on your wedding-night!_” Such w
+shelley_frankenstein_54_g	44	0.9090909090909091	7715	12801	ll be with you on your wedding-night._” That	ll be with you on your wedding-night_,” I sh
+shelley_frankenstein_49_g	42	0.9047619047619048	811	5071	 quit the neighbourhood of man and hide hi	 quit the neighbourhood of man and dwell, 
+shelley_frankenstein_49_g	30	0.9333333333333333	816	7403	 the neighbourhood of man and 	 the neighbourhood of man, as 
+shelley_frankenstein_49_g	35	1.0	4971	836	ll I create another like yourself, 	ll I create another like yourself, 
+shelley_frankenstein_51_g	30	0.9	8537	1108	 between me and my fellow crea	 between me and my fellow men;
+shelley_frankenstein_51_g	33	0.9696969696969697	10638	3490	 up my chemical instruments, and 	 up my chemical instruments and t
+shelley_frankenstein_51_g	30	0.9	14689	9011	 of Elizabeth, of my father, a	 of Elizabeth or my father, I 
+lewis_monk_8_g	30	0.9	7550	24051	 his course towards the mainla	 his course towards the Palace
+doyle_adventures_9_d	30	0.9	2029	30760	 I shuddered to think that fut	 I shuddered to think of that 
+radcliffe_udolpho_12_g	31	0.9032258064516129	9136	4413	 of the preceding night, my ner	 of the preceding night, concer
+shelley_frankenstein_47_g	30	0.9333333333333333	4768	14374	 many months in the heaths of 	 many months in the habits of 
+christie_secretadversary_4_d	30	0.9333333333333333	16815	4410	 you be so kind as to tell me 	 you be so kind as to tell us 
+doyle_scarlet_1_d	32	0.96875	17893	3134	 tapped me on the shoulder and s	 tapped me on the shoulder, and 
+doyle_baskervilles_15_u	30	0.9	2177	9587	 of the existence of the whole	 of the existence of the hound
